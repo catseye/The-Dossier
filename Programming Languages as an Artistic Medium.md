@@ -8,7 +8,7 @@ Programming Languages as an Artistic Medium
 In light of [recent developments](https://github.com/cwales/cwales.github.com/issues/1),
 it will perhaps not come as a surprise that here at Cat's Eye Technologies
 we consider programming language design an artistic activity, programming
-language an artistic medium, and [[Esolang|esolang]] a movement within that
+language an artistic medium, and [esolang][] a movement within that
 medium.  In this article I expand on those points a bit.
 
 ### Proglang-as-art
@@ -22,8 +22,8 @@ to an "art form"; post-modernism ensured the death of such standards, it's just
 taking a while for all the snowmen to melt.  (I'm sorry, I know how much you were
 hoping for an excuse to act insufferably pretentious.  ☃☃☃)
 
-Esolang has strong connections to [Dada][] (think [[INTERCAL]]) and
-[Minimalism][] (think [[brainfuck]]).  These are almost certainly due to it
+Esolang has strong connections to [Dada][] (think [INTERCAL][]) and
+[Minimalism][] (think [brainfuck][]).  These are almost certainly due to it
 being a reaction
 against the deep-seated "modernism" of the medium — programming languages are
 regarded as tools for serious work, and for some people, it is difficult to
@@ -62,18 +62,18 @@ to other media; practice versus production, production versus communication,
 and so forth — but that's the basic idea.
 
 Personally, I'm presently interested in
-[[Online Installation|making these works more accessible]] —
+[making these works more accessible][] —
 even though it may take an skilled programmer to appreciate the experience of
 programming in an esolang to the maximum extent, that doesn't mean that said
 experience needs to be restricted to skilled programmers.  Or even to only
-programmers; the non-programmer may look at a piece of [[Java]] code and say to
+programmers; the non-programmer may look at a piece of [Java][] code and say to
 themselves, "it's all Greek to me" — well then, behold these specimens of
 magnificently perverse über-Greek!
 
-I see [[HTML5]] as a way to, finally, get computation into the hands and eyes
+I see [HTML5][] as a way to, finally, get computation into the hands and eyes
 of the masses (the Internet-capable masses, at any rate).  It's never been kind
 to ask a random person to install and use some command-line tool just to
-observe these obscure processes; it was hard to take [[Javascript]]
+observe these obscure processes; it was hard to take [Javascript][]
 seriously before HTML5, and it's always been difficult to take Java applets
 and Flash seriously.  I also see HTML5 as an artistic medium in its own
 right, and I'm interested in exploring its potential and limitations, and
@@ -81,7 +81,15 @@ how these may (or may not) be combined with esolangs and computation in
 general.
 
 (If you enjoyed this article, you may wish to continue reading the second
-article in this series, [[The Aesthetics of Esolangs]].)
+article in this series, [The Aesthetics of Esolangs][].)
 
+[esolang]: esolang
 [Dada]: http://en.wikipedia.org/wiki/Dada
 [Minimalism]: http://en.wikipedia.org/wiki/Minimalism
+[INTERCAL]: Intercal
+[brainfuck]: brainfuck
+[making these works more accessible]: Online installation
+[Java]: Java
+[HTML5]: HTML5
+[Javascript]: Javascript
+[The Aesthetics of Esolangs]: The Aesthetics of Esolangs.md
