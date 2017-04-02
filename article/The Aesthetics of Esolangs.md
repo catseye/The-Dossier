@@ -9,7 +9,7 @@ An analysis of the aesthetics of esolangs — if esolangs are art.
 
 I've been researching art, or whatever it is that people generally call
 "art", for the purpose of seeing how it relates, or doesn't, to
-[[Esolang|esoteric programming languages]].  In this article, I'll try to
+[esoteric programming languages][].  In this article, I'll try to
 examine the aesthetics of esolangs a bit more in-depth than I did in the
 previous article (and it will probably make more sense if you've already
 read [[Programming Languages as an Artistic Medium|the previous article]].)
@@ -107,7 +107,7 @@ computers.  The most blatant examples are probably
 Are there other aesthetic strains?  Yes, but I think we start skiing down
 the long tail when we look for them, as there are fewer and fewer examples
 of each, the more we look.  [[zzo38]]'s languages (particularly
-[[Please Porige Hot]]) honestly remind me a lot of outsider art: looking at
+[Please Porige Hot][]) honestly remind me a lot of outsider art: looking at
 them, you get a borderline-incoherent glimpse of an entire world that
 presumably exists inside his head that you will never fully appreciate —
 although, clearly, it includes many programming languages.
@@ -115,7 +115,7 @@ although, clearly, it includes many programming languages.
 could perhaps be considered
 ["Slice of Life"](http://en.wikipedia.org/wiki/Slice_of_life),
 and there are of course elements of tragedy and pathos in several esolangs,
-for example in [[Larabee]] and [[Half-Broken Car in Heavy Traffic]].
+for example in [Larabee][] and [Half-Broken Car in Heavy Traffic][].
 
 I'll try to conclude this with a few related, but perhaps more general,
 questions of aesthetic classification.
@@ -123,8 +123,7 @@ questions of aesthetic classification.
 Are esolangs [conceptual art](http://en.wikipedia.org/wiki/Conceptual_art)?
 Yes — but that's a very reservedly qualified "yes".
 Certainly, the central building blocks of programming language
-design — that is to say,
-[[Language Construct|programming language constructs]] —
+design — that is to say, [programming language constructs][] —
 are almost purely conceptual in nature.  "Loop" is a concept, "assignment"
 is a concept, and so forth.  So in this sense, they are definitely
 conceptual art if they are art at all.  On the other hand, conceptual
@@ -165,3 +164,9 @@ though their creators have quite possibly never even heard of esolang.
 (And I would be remiss in neglecting to also mention that there is at least
 one work of visual art which was *directly* inspired by an esolang, namely
 [G E M O O Y](http://misen23.minus.com/mP2icZG7L) by misen23.)
+
+[esoteric programming languages]: Esolang
+[programming language constructs]: Language Construct
+[Half-Broken Car in Heavy Traffic]: Half-Broken Car in Heavy Traffic
+[Larabee]: http://catseye.tc/node/Larabee
+[Please Porige Hot]: Please Porige Hot
