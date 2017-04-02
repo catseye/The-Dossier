@@ -15,7 +15,7 @@ Articles
 ### Programming Languages
 
 *   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md)
-*   [Programming Languages as an Artistic Medium](article/Programming%20Languages as an Artistic Medium.md)
+*   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md)
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
 
 ### Games

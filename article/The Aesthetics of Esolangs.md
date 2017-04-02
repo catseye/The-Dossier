@@ -12,7 +12,7 @@ I've been researching art, or whatever it is that people generally call
 [esoteric programming languages][].  In this article, I'll try to
 examine the aesthetics of esolangs a bit more in-depth than I did in the
 previous article (and it will probably make more sense if you've already
-read [[Programming Languages as an Artistic Medium|the previous article]].)
+read that article: [Programming Languages as an Artistic Medium][].)
 
 ### The Aesthetics of Esolangs
 
@@ -47,10 +47,10 @@ I don't think these are necessarily exclusive.
 Dada (and surrealism) and parody (and satire and lampooning) all fall under
 the rather broad umbrella of "absurdism", and while you can certainly have
 Dada that isn't a parody, and a parody that isn't Dada, there's nothing
-saying you can't have something that is both, too.  While [[INTERCAL]] may
+saying you can't have something that is both, too.  While [INTERCAL][] may
 be primarily a parody of the programming languages of its time,
 [this accompanying diagram](http://en.wikipedia.org/wiki/File:INTERCAL_Circuitous_Diagram.svg),
-as just one example, would seem to go well beyond that.  Likewise, [[ILLGOL]]
+as just one example, would seem to go well beyond that.  Likewise, [ILLGOL][]
 may have started purely as a send-up of compiler-based languages, but it
 soon turned into
 [a bizarre experiment in mixed media](https://github.com/catseye/Illgol-Grand-Mal/blob/master/3.%20Illberon/doc/irl-may.jpg)
@@ -68,7 +68,7 @@ simple and/or succinct and/or short and/or regular as possible, exists
 presumably because it leads to solutions that are elegant and/or
 eminently tractable (cf.
 [Proofs from THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK).)  But, as pointed out
-by [[Marvin Minsky]] in [[Computation: Finite and Infinite Machines]], this
+by Marvin Minsky in [Computation: Finite and Infinite Machines][], this
 doesn't really work the same way when applied to models of computation:
 making your computer as simple as possible will only make your programs
 more horribly complicated.  (INTERCAL understood this too.)
@@ -167,6 +167,10 @@ one work of visual art which was *directly* inspired by an esolang, namely
 
 [esoteric programming languages]: Esolang
 [programming language constructs]: Language Construct
-[Half-Broken Car in Heavy Traffic]: Half-Broken Car in Heavy Traffic
+[Programming Languages as an Artistic Medium]: Programming%20Languages%20as%20an%20Artistic%20Medium.md
+[Half-Broken Car in Heavy Traffic]: http://catseye.tc/node/Half-Broken_Car_in_Heavy_Traffic
 [Larabee]: http://catseye.tc/node/Larabee
-[Please Porige Hot]: Please Porige Hot
+[Please Porige Hot]: http://catseye.tc/node/Please_Porige_Hot
+[INTERCAL]: http://catseye.tc/node/INTERCAL
+[ILLGOL]: http://catseye.tc/node/ILLGOL
+[Computation: Finite and Infinite Machines]: http://catseye.tc/node/Computation:_Finite_and_Infinite_Machines
