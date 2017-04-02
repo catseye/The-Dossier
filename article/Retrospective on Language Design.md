@@ -69,16 +69,16 @@ say [Emmental][] and
 [Mascarpone][], and
 [Arboretuum][] and
 [Treacle][]. And when you get into language
-families, well, arguably [[Funge-98]] only has 3
+families, well, arguably [Funge-98][] only has 3
 viable members, but there is really no limit to the number of
-[[Didigm|Didigms]] there are.
+[Didigm][] there are.
 
 Yet I do consider my cellular automata to be languages. Partly because
 some of them have roots in systems that were more clearly processor-, if
-not language-, like: [[REDGREEN]] is an
+not language-, like: [REDGREEN][] is an
 adaptation of [RUBE][] to CA, just as
-[[Braktif]] is an adaptation of Brainfuck, or
-[[Circute]] is an adaptation of circuitry.
+[Braktif][] is an adaptation of Brainfuck, or
+[Circute][] is an adaptation of circuitry.
 Partly because they are Turing-equivalent systems in which problems can
 be expressed and solved, just as they can in run-of-the-mill programming
 languages.
@@ -105,19 +105,19 @@ distinction of having several of my languages inspire designs and
 implementations and such by others, a fact by which I am flattered. For
 instance, [Befunge-93][] has been implemented
 dozens (maybe hundred) of times, and has influenced
-[[Blank]]
+[Blank][],
 [Befreak](http://esolangs.org/wiki/Befreak),
-[[PATH]], and
+[PATH][], and
 [Aheui](http://esolangs.org/wiki/Aheui), among others;
 [RUBE][] found its way into [RUBE II][],
 [RubE On Conveyor Belts](http://esolangs.org/wiki/RubE_On_Conveyor_Belts),
 and [Rubicon](http://kevan.org/rubicon/);
 [SMETANA][] inspired a FSM-completeness proof in
-the form of [[Smallfuck]]; and
+the form of [Smallfuck][]; and
 [SMITH][] begat
 [SMITH\#](http://esolangs.org/wiki/SMITH_sharp) and
 [SMITHb](http://esolangs.org/wiki/SMITHb). Even
-[[Xigxag]] seems to have attracted some attention
+[Xigxag][] seems to have attracted some attention
 (and shorter proofs than my own).
 
 ### A Matter of Taste
@@ -133,15 +133,15 @@ Languages I design tend to fall into a couple of groups. One is the
 straight-up parody language, making fun of the absurdity of computer
 programming or some other ridiculous activity.
 [ILLGOL][] is probably the canonical example, but
-[HUNTER][], [['N-DCNC]],
+[HUNTER][], ['N-DCNC][],
 [Jaccia][] and maybe
-[[Sbeezg]] count, too.
+[Sbeezg][] count, too.
 
 Another group are the "merely interesting" languages which don't really
 count as esolangs because they're just too normal, perhaps even
 attempting to solve a practical problem; this would include at least
-[[ETHEL]], [[Bhuna]], [[Iphigeneia]], [Arboretuum][], [Treacle][],
-[[Dieter]], and anything I design any time I
+[ETHEL][], [Bhuna][], [Iphigeneia][], [Arboretuum][], [Treacle][],
+[Dieter][], and anything I design any time I
 start getting fed up with the state of modern mainstream languages and
 think I can do better. (I don't usually try to publish those.)
 
@@ -156,10 +156,10 @@ like an Escher staircase or a de Chirico piazza, and in implementing it,
 tease out a labrythine connection which allows it to exist. Whether that
 be a machine language with no branch instructions — none at all — like
 [SMITH][], or a non-deterministic imperative
-language like [Strelnokoff][], or a [[Conlang|conlang]]
-without word order like [[Opus-2]], or a language
+language like [Strelnokoff][], or a conlang
+without word order like [Opus-2][], or a language
 with only infix operators but no precedence table like
-[[Hev]], or a Turing-equivalent language with only
+[Hev][], or a Turing-equivalent language with only
 `foreach` like [Quylthulg][], or a language
 with memory-mapped loops like [ZOWIE][], or a
 language where the only means of control flow is throwing and catching
@@ -217,14 +217,28 @@ are simply difficult to fully conceive or implement —
 
 [Arboretuum]: Arboretuum
 
+[Blank]: Blank
+[PATH]: PATH
+[Smallfuck]: Smallfuck
+[Xigxag]: Xigxag
+[ETHEL]: ETHEL
+[Bhuna]: Bhuna
+[Iphigeneia]: Iphigeneia
+[Dieter]: Dieter
+[Sbeezg]: Sbeezg
+[Hev]: Hev
+
 [Befunge]: http://catseye.tc/node/Befunge-93
 [Befunge-93]: http://catseye.tc/node/Befunge-93
 [Befunge-98]: http://catseye.tc/node/Befunge-98
 [beta-Juliet and Portia]: http://catseye.tc/node/beta-Juliet
-
 [brainfuck]: http://catseye.tc/node/brainfuck
+[Braktif]: Braktif
 [Burro]: http://catseye.tc/node/Burro
+[Circute]: Circute
+[Didigms]: Didigm
 [Emmental]: http://catseye.tc/node/Emmental
+[Funge-98]: Funge-98
 [HUNTER]: http://catseye.tc/node/HUNTER
 [ILLGOL]: http://catseye.tc/node/ILLGOL
 [Illgola-2]: http://catseye.tc/node/Illgola-2
@@ -237,9 +251,12 @@ are simply difficult to fully conceive or implement —
 [Larabee]: Larabee
 [Mascarpone]: http://catseye.tc/node/Mascarpone
 [Muriel]: http://catseye.tc/node/Muriel
+['N-DCNC]: http://catseye.tc/node/'N-DCNC
 [Okapi]: http://catseye.tc/node/Okapi
+[Opus-2]: Opus-2
 [Pophery]: http://catseye.tc/node/Pophery
 [Quylthulg]: Quylthulg
+[REDGREEN]: REDGREEN
 [RUBE]: RUBE
 [RUBE II]: RUBE II
 [Sally]: Sally
