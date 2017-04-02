@@ -214,55 +214,50 @@ are simply difficult to fully conceive or implement —
 [the list of languages I've designed]: http://catseye.tc/node/Chris_Pressey's_Lingography
 [never reaches that stage]: http://catseye.tc/node/LoUIE
 [esolangs]: http://catseye.tc/node/Esolang
-
 [Arboretuum]: Arboretuum
-
-[Blank]: Blank
-[PATH]: PATH
-[Smallfuck]: Smallfuck
-[Xigxag]: Xigxag
-[ETHEL]: ETHEL
-[Bhuna]: Bhuna
-[Iphigeneia]: Iphigeneia
-[Dieter]: Dieter
-[Sbeezg]: Sbeezg
-[Hev]: Hev
-
 [Befunge]: http://catseye.tc/node/Befunge-93
 [Befunge-93]: http://catseye.tc/node/Befunge-93
 [Befunge-98]: http://catseye.tc/node/Befunge-98
 [beta-Juliet and Portia]: http://catseye.tc/node/beta-Juliet
+[Bhuna]: http://catseye.tc/node/Bhuna
+[Blank]: http://catseye.tc/node/Blank
 [brainfuck]: http://catseye.tc/node/brainfuck
-[Braktif]: Braktif
+[Braktif]: http://catseye.tc/node/Braktif
 [Burro]: http://catseye.tc/node/Burro
-[Circute]: Circute
-[Didigms]: Didigm
+[Circute]: http://catseye.tc/node/Circute
+[Didigms]: http://catseye.tc/node/Didigm
+[Dieter]: http://catseye.tc/node/Dieter
 [Emmental]: http://catseye.tc/node/Emmental
-[Funge-98]: Funge-98
+[ETHEL]: http://catseye.tc/node/ETHEL
+[Funge-98]: http://catseye.tc/node/Funge-98
+[Hev]: http://catseye.tc/node/Hev
 [HUNTER]: http://catseye.tc/node/HUNTER
 [ILLGOL]: http://catseye.tc/node/ILLGOL
 [Illgola-2]: http://catseye.tc/node/Illgola-2
 [Illberon]: http://catseye.tc/node/Illberon
-
+[Iphigeneia]: http://catseye.tc/node/Iphigeneia
 [Jaccia]: http://catseye.tc/node/Jaccia
 [Jacciata]: http://catseye.tc/node/Jacciata
-
 [Open Sores Illgol##]: http://catseye.tc/node/Open_Sores_Illgol##
-[Larabee]: Larabee
+[Larabee]: http://catseye.tc/node/Larabee
 [Mascarpone]: http://catseye.tc/node/Mascarpone
 [Muriel]: http://catseye.tc/node/Muriel
 ['N-DCNC]: http://catseye.tc/node/'N-DCNC
 [Okapi]: http://catseye.tc/node/Okapi
-[Opus-2]: Opus-2
+[Opus-2]: http://catseye.tc/node/Opus-2
+[PATH]: http://catseye.tc/node/PATH
 [Pophery]: http://catseye.tc/node/Pophery
-[Quylthulg]: Quylthulg
-[REDGREEN]: REDGREEN
-[RUBE]: RUBE
-[RUBE II]: RUBE II
-[Sally]: Sally
-[SMETANA]: SMETANA
-[SMITH]: SMITH
-[Strelnokoff]: Strelnokoff
-[Treacle]: Treacle
-[Unlikely]: Unlikely
+[Quylthulg]: http://catseye.tc/node/Quylthulg
+[REDGREEN]: http://catseye.tc/node/REDGREEN
+[RUBE]: http://catseye.tc/node/RUBE
+[RUBE II]: http://catseye.tc/node/RUBE_II
+[Sally]: http://catseye.tc/node/Sally
+[Sbeezg]: http://catseye.tc/node/Sbeezg
+[Smallfuck]: http://catseye.tc/node/Smallfuck
+[SMETANA]: http://catseye.tc/node/SMETANA
+[SMITH]: http://catseye.tc/node/SMITH
+[Strelnokoff]: http://catseye.tc/node/Strelnokoff
+[Treacle]: http://catseye.tc/node/Treacle
+[Unlikely]: http://catseye.tc/node/Unlikely
+[Xigxag]: http://catseye.tc/node/Xigxag
 [ZOWIE]: http://catseye.tc/node/ZOWIE
