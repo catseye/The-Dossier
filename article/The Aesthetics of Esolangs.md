@@ -55,7 +55,7 @@ may have started purely as a send-up of compiler-based languages, but it
 soon turned into
 [a bizarre experiment in mixed media](https://github.com/catseye/Illgol-Grand-Mal/blob/master/3.%20Illberon/doc/irl-may.jpg)
 which defies easy classification.  And I can't look at any of
-[[Gerson Kurz]]' languages without feeling very strongly that satire is *not*
+[Gerson Kurz][]' languages without feeling very strongly that satire is *not*
 the only thing going on there.  It's not just piss-taking, it's actually
 bladder-mauling, or rather... well, Dada is somewhat difficult to
 decribe without outright descending *into* Dada; for a fuller explanation,
@@ -76,7 +76,7 @@ more horribly complicated.  (INTERCAL understood this too.)
 But I actually think that this was, in some sense, recognized generally
 in art-about-machines well *before* it was recognized specifically in
 programming-languages-as-art.  More specifically, it was recognized by
-[[Rube Goldberg]] in the USA, [[W. Heath Robinson]] in the UK, and as
+Rube Goldberg in the USA, W. Heath Robinson in the UK, and as
 [Chindōgu](https://en.wikipedia.org/wiki/Chind%C5%8Dgu) in Japan.
 Machines are supposed to make life easier, when really they up and
 make it more complicated at the same time.
@@ -106,7 +106,7 @@ computers.  The most blatant examples are probably
 
 Are there other aesthetic strains?  Yes, but I think we start skiing down
 the long tail when we look for them, as there are fewer and fewer examples
-of each, the more we look.  [[zzo38]]'s languages (particularly
+of each, the more we look.  [zzo38][]'s languages (particularly
 [Please Porige Hot][]) honestly remind me a lot of outsider art: looking at
 them, you get a borderline-incoherent glimpse of an entire world that
 presumably exists inside his head that you will never fully appreciate —
@@ -174,3 +174,5 @@ one work of visual art which was *directly* inspired by an esolang, namely
 [INTERCAL]: http://catseye.tc/node/INTERCAL
 [ILLGOL]: http://catseye.tc/node/ILLGOL
 [Computation: Finite and Infinite Machines]: http://catseye.tc/node/Computation:_Finite_and_Infinite_Machines
+[Gerson Kurz]: http://catseye.tc/node/Gerson_Kurz
+[zzo38]: http://catseye.tc/node/zzo38
