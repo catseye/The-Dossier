@@ -1,17 +1,18 @@
-Retrospective: Chris Pressey on Language Design
-===============================================
+Retrospective on Language Design
+================================
 
 *   publication-date: 15 Jul 2010
+*   original-title: Retrospective: Chris Pressey on Language Design
 
 ### Abstract
 
-In contrast to [[Chris Pressey's Lingography|the list of languages I've designed]],
+In contrast to [the list of languages I've designed][],
 in this article, I talk about what it's *like* to design languages
 and what my thoughts on certain languages and the design process are.
 
 ### Esolangs
 
-Mostly I design [[Esolang|esolangs]], which, in a nutshell,
+Mostly I design [esolangs][], which, in a nutshell,
 are programming languages that were never meant to be. On the surface,
 they appear to serve no purpose. You wouldn't use one for writing a
 "serious" program like an operating system or a text editor or a web
@@ -25,9 +26,9 @@ programming *per se*, as a kind of intellectual challenge, then there's
 a chance you'll become good at it, and the possibilities presented by
 mainstream languages will begin to bore you. Solution? Try coding
 something in [INTERCAL](http://esolangs.org/wiki/INTERCAL),
-[[brainfuck]], or [[Befunge-93|Befunge]]; and if those aren't weird
+[brainfuck][], or [Befunge][]; and if those aren't weird
 enough for you, try [Homespring](http://esolangs.org/wiki/Homespring),
-or [[Muriel]], or [Please Porige
+or [Muriel][], or [Please Porige
 Hot](http://esolangs.org/wiki/Please_Porige_Hot). Guaranteed to not be
 boring. And when you're really ready to test your mettle,
 [Malbolge](http://esolangs.org/wiki/Malbolge) will be waiting for you.
@@ -62,10 +63,10 @@ whether they should live in the same distribution or not. I don't consider
 [[Jaccia]]; and I'm not sure whether
 [[beta-Juliet|beta-Juliet and Portia]] should count as two.
 On the other hand, I do see
-[[Befunge-93]] and
-[[Befunge-98]] as being quite different, as are
-say [[Emmental]] and
-[[Mascarpone]], and
+[Befunge-93][] and
+[Befunge-98][] as being quite different, as are
+say [Emmental][] and
+[Mascarpone][], and
 [[Arboretuum]] and
 [[Treacle]]. And when you get into language
 families, well, arguably [[Funge-98]] only has 3
@@ -160,10 +161,10 @@ without word order like [[Opus-2]], or a language
 with only infix operators but no precedence table like
 [[Hev]], or a Turing-equivalent language with only
 `foreach` like [[Quylthulg]], or a language
-with memory-mapped loops like [[ZOWIE]], or a
+with memory-mapped loops like [ZOWIE][], or a
 language where the only means of control flow is throwing and catching
-lexical exceptions like [[Okapi]], or an
-imperative string-rewriting language like [[Pophery]] (under
+lexical exceptions like [Okapi][], or an
+imperative string-rewriting language like [Pophery][] (under
 construction)... the results are usually highly entertaining.
 
 What are my favourite esolangs, you ask? Well, the three I listed
@@ -171,7 +172,7 @@ earlier (Homespring, Muriel, and Please Porige Hot) hold special places
 in my heart. The favourite esolangs of my *own* is a much harder
 question to answer. I will say that, in terms of striking a balance
 between "challenge to code in" and "beauty", I think
-[[Mascarpone]] is one of my best. That
+[Mascarpone][] is one of my best. That
 doesn't necessarily mean it's my favourite, though.
 
 ### The Design Process
@@ -190,7 +191,7 @@ wrote down, either, but usually you can.
 After the idea has proven promising enough to make it into the notebook,
 there comes a period of time known as development. The idea is almost
 never a full-formed language, so it must grow into one, although
-sometimes it [[LoUIE|never reaches that stage]]. This is actually
+sometimes it [never reaches that stage][]. This is actually
 why I try to implement my designs whenever I can; implementation fleshes
 out the grey areas and lays bare any places where the design falls
 apart. It usually leads to a more solid theme or paradigm inside the
@@ -208,4 +209,22 @@ have done on something still interests me a year later, I have a better
 feeling that it is worth finishing. Also, many designs accumulate small
 changes over time as I look at them from different angles, while others
 are simply difficult to fully conceive or implement —
-[[Burro]] and [[Okapi]] come immediately to mind.
+[Burro][] and [Okapi][] come immediately to mind.
+
+[the list of languages I've designed]: http://catseye.tc/node/Chris_Pressey's_Lingography
+[never reaches that stage]: http://catseye.tc/node/LoUIE
+[esolangs]: http://catseye.tc/node/Esolang
+
+[Befunge]: http://catseye.tc/node/Befunge-93
+[Befunge-93]: http://catseye.tc/node/Befunge-93
+[Befunge-98]: http://catseye.tc/node/Befunge-98
+
+[brainfuck]: http://catseye.tc/node/brainfuck
+[Burro]: http://catseye.tc/node/Burro
+[Emmental]: http://catseye.tc/node/Emmental
+
+[Mascarpone]: http://catseye.tc/node/Mascarpone
+[Muriel]: http://catseye.tc/node/Muriel
+[Okapi]: http://catseye.tc/node/Okapi
+[Pophery]: http://catseye.tc/node/Pophery
+[ZOWIE]: http://catseye.tc/node/ZOWIE
