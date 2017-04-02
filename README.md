@@ -14,13 +14,13 @@ Articles
 
 ### Programming Languages
 
-*   [Retrospective on Language Design](article/Retrospective on Language Design.md)
-*   [Programming Languages as an Artistic Medium](article/Programming Languages as an Artistic Medium.md)
-*   [The Aesthetics of Esolangs](article/The Aesthetics of Esolangs.md)
+*   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md)
+*   [Programming Languages as an Artistic Medium](article/Programming%20Languages as an Artistic Medium.md)
+*   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
 
 ### Games
 
 *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
-*   [Text Adventures of Note](https://github.com/catseye/The-Dossier/blob/master/article/Text%20Adventures%20of%20Note.md)
-*   [Commodore 64 Games of Note](article/Commodore 64 Games of Note.md)
-*   [Computer Games of Note](article/Computer Games of Note.md)
+*   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
+*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
+*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
