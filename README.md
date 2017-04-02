@@ -9,8 +9,10 @@ May pertain to Cat's Eye Technologies, or may not.  Subject to editing.
 Will eventually be hosted somewhere like `github.io` or `catseye.tc` with some
 pretty styling, but for now should be readable directly on `github.com`.
 
-Articles
---------
+Articles Contained Herein
+-------------------------
+
+TODO: check links in all of these
 
 ### Programming Languages
 
@@ -24,3 +26,12 @@ Articles
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
+
+External Articles
+-----------------
+
+TODO: actually link these
+
+*   Blog posts during Retrochallenge 7/2015
+*   Article written for MARYSUE
+*   Interview with Daniel Temkin

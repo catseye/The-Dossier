@@ -83,13 +83,13 @@ general.
 (If you enjoyed this article, you may wish to continue reading the second
 article in this series, [The Aesthetics of Esolangs][].)
 
-[esolang]: esolang
+[esolang]: http://catseye.tc/node/Esolang
 [Dada]: http://en.wikipedia.org/wiki/Dada
 [Minimalism]: http://en.wikipedia.org/wiki/Minimalism
-[INTERCAL]: Intercal
-[brainfuck]: brainfuck
-[making these works more accessible]: Online installation
-[Java]: Java
-[HTML5]: HTML5
-[Javascript]: Javascript
-[The Aesthetics of Esolangs]: The Aesthetics of Esolangs.md
+[INTERCAL]: http://catseye.tc/node/INTERCAL
+[brainfuck]: http://catseye.tc/node/brainfuck
+[making these works more accessible]: http://catseye.tc/node/Online_installation
+[Java]: http://catseye.tc/node/Java
+[HTML5]: http://catseye.tc/node/HTML5
+[Javascript]: http://catseye.tc/node/Javascript
+[The Aesthetics of Esolangs]: The%20Aesthetics%20of%20Esolangs.md

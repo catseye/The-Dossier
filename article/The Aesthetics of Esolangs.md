@@ -165,8 +165,8 @@ though their creators have quite possibly never even heard of esolang.
 one work of visual art which was *directly* inspired by an esolang, namely
 [G E M O O Y](http://misen23.minus.com/mP2icZG7L) by misen23.)
 
-[esoteric programming languages]: Esolang
-[programming language constructs]: Language Construct
+[esoteric programming languages]: http://catseye.tc/node/Esolang
+[programming language constructs]: http://catseye.tc/node/Language_Construct
 [Programming Languages as an Artistic Medium]: Programming%20Languages%20as%20an%20Artistic%20Medium.md
 [Half-Broken Car in Heavy Traffic]: http://catseye.tc/node/Half-Broken_Car_in_Heavy_Traffic
 [Larabee]: http://catseye.tc/node/Larabee
