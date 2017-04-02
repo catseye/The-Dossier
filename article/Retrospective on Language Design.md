@@ -55,20 +55,20 @@ own esolangs.
 ### Quantity...
 
 I have, at this point, designed over 50 languages. Exactly how many
-depends on how you count. I don't consider [[Illgola-2]], [[Illberon]], or
-[[Open Sores Illgol##]] to really be different languages from
-[[ILLGOL]] — I've even gone back and forth on
+depends on how you count. I don't consider [Illgola-2][], [Illberon][], or
+[Open Sores Illgol##][] to really be different languages from
+[ILLGOL][] — I've even gone back and forth on
 whether they should live in the same distribution or not. I don't consider
-[[Jacciata]] to be significantly different from
-[[Jaccia]]; and I'm not sure whether
+[Jacciata][] to be significantly different from
+[Jaccia][]; and I'm not sure whether
 [[beta-Juliet|beta-Juliet and Portia]] should count as two.
 On the other hand, I do see
 [Befunge-93][] and
 [Befunge-98][] as being quite different, as are
 say [Emmental][] and
 [Mascarpone][], and
-[[Arboretuum]] and
-[[Treacle]]. And when you get into language
+[Arboretuum][] and
+[Treacle][]. And when you get into language
 families, well, arguably [[Funge-98]] only has 3
 viable members, but there is really no limit to the number of
 [[Didigm|Didigms]] there are.
@@ -91,7 +91,7 @@ there. In fact, for sheer numbers, I seem to be in third place, behind
 "zzo38" Black](http://zzo38computer.cjb.net/). But sheer numbers aren't
 everything. Unlike zzo38, the majority of my designs have been
 implemented, and unlike Wouter, the majority of my designs and
-implementations are publicly available from [[catseye.tc|my website]].
+implementations are publicly available from [my website](http://catseye.tc/).
 
 So I might be led to consider other ways to measure my success as a
 language designer. What about popularity? Alas, it seems that I am third
@@ -103,18 +103,18 @@ here, with dozens and dozens of descendants and variants both major and
 minor, (and yes, I have done a couple of these myself), I have the
 distinction of having several of my languages inspire designs and
 implementations and such by others, a fact by which I am flattered. For
-instance, [[Befunge-93]] has been implemented
+instance, [Befunge-93][] has been implemented
 dozens (maybe hundred) of times, and has influenced
 [[Blank]]
 [Befreak](http://esolangs.org/wiki/Befreak),
 [[PATH]], and
 [Aheui](http://esolangs.org/wiki/Aheui), among others;
-[[RUBE]] found its way into [[RUBE II]], [RubE On Conveyor
-Belts](http://esolangs.org/wiki/RubE_On_Conveyor_Belts), and
-[Rubicon](http://kevan.org/rubicon/);
-[[SMETANA]] inspired a FSM-completeness proof in
+[[RUBE]] found its way into [[RUBE II]],
+[RubE On Conveyor Belts](http://esolangs.org/wiki/RubE_On_Conveyor_Belts),
+and [Rubicon](http://kevan.org/rubicon/);
+[SMETANA][] inspired a FSM-completeness proof in
 the form of [[Smallfuck]]; and
-[[SMITH]] begat
+[SMITH][] begat
 [SMITH\#](http://esolangs.org/wiki/SMITH_sharp) and
 [SMITHb](http://esolangs.org/wiki/SMITHb). Even
 [[Xigxag]] seems to have attracted some attention
@@ -132,35 +132,35 @@ is what makes a good language outstanding, esolang or otherwise.
 Languages I design tend to fall into a couple of groups. One is the
 straight-up parody language, making fun of the absurdity of computer
 programming or some other ridiculous activity.
-[[ILLGOL]] is probably the canonical example, but
-[[HUNTER]], [['N-DCNC]],
-[[Jaccia]] and maybe
+[ILLGOL][] is probably the canonical example, but
+[HUNTER][], [['N-DCNC]],
+[Jaccia][] and maybe
 [[Sbeezg]] count, too.
 
 Another group are the "merely interesting" languages which don't really
 count as esolangs because they're just too normal, perhaps even
 attempting to solve a practical problem; this would include at least
-[[ETHEL]], [[Bhuna]], [[Iphigeneia]], [[Arboretuum]], [[Treacle]],
+[[ETHEL]], [[Bhuna]], [[Iphigeneia]], [Arboretuum][], [Treacle][],
 [[Dieter]], and anything I design any time I
 start getting fed up with the state of modern mainstream languages and
 think I can do better. (I don't usually try to publish those.)
 
 A third group is made up of "strange exercises"; languages which are
 designed around some principle which turns out to have unusal effects.
-This could include [[Sally]], [[Larabee]], [[Mascarpone]],and
-[[Unlikely]].
+This could include [[Sally]], [[Larabee]], [Mascarpone][], and
+[Unlikely][].
 
 But probably my favourite design category is the "impossible language".
 Pick a combination of features which appears absurd and contradictory,
 like an Escher staircase or a de Chirico piazza, and in implementing it,
 tease out a labrythine connection which allows it to exist. Whether that
 be a machine language with no branch instructions — none at all — like
-[[SMITH]], or a non-deterministic imperative
+[SMITH][], or a non-deterministic imperative
 language like [[Strelnokoff]], or a [[Conlang|conlang]]
 without word order like [[Opus-2]], or a language
 with only infix operators but no precedence table like
 [[Hev]], or a Turing-equivalent language with only
-`foreach` like [[Quylthulg]], or a language
+`foreach` like [Quylthulg][], or a language
 with memory-mapped loops like [ZOWIE][], or a
 language where the only means of control flow is throwing and catching
 lexical exceptions like [Okapi][], or an
@@ -215,6 +215,8 @@ are simply difficult to fully conceive or implement —
 [never reaches that stage]: http://catseye.tc/node/LoUIE
 [esolangs]: http://catseye.tc/node/Esolang
 
+[Arboretuum]: Arboretuum
+
 [Befunge]: http://catseye.tc/node/Befunge-93
 [Befunge-93]: http://catseye.tc/node/Befunge-93
 [Befunge-98]: http://catseye.tc/node/Befunge-98
@@ -222,9 +224,23 @@ are simply difficult to fully conceive or implement —
 [brainfuck]: http://catseye.tc/node/brainfuck
 [Burro]: http://catseye.tc/node/Burro
 [Emmental]: http://catseye.tc/node/Emmental
+[HUNTER]: http://catseye.tc/node/HUNTER
+[ILLGOL]: http://catseye.tc/node/ILLGOL
+[Illgola-2]: http://catseye.tc/node/Illgola-2
+[Illberon]: http://catseye.tc/node/Illberon
+
+[Jaccia]: http://catseye.tc/node/Jaccia
+[Jacciata]: http://catseye.tc/node/Jacciata
+
+[Open Sores Illgol##]: http://catseye.tc/node/Open_Sores_Illgol##
 
 [Mascarpone]: http://catseye.tc/node/Mascarpone
 [Muriel]: http://catseye.tc/node/Muriel
 [Okapi]: http://catseye.tc/node/Okapi
 [Pophery]: http://catseye.tc/node/Pophery
+[Quylthulg]: Quylthulg
+[SMETANA]: SMETANA
+[SMITH]: SMITH
+[Treacle]: Treacle
+[Unlikely]: Unlikely
 [ZOWIE]: http://catseye.tc/node/ZOWIE
