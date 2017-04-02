@@ -20,7 +20,7 @@ Articles
 
 ### Games
 
-*   [Video Games of Note](article/Video Games of Note.md)
-*   [Text Adventures of Note](article/Text Adventures of Note.md)
+*   [Video Games of Note](article/Video%20Games%20of%20Note.md)
+*   [Text Adventures of Note](https://github.com/catseye/The-Dossier/blob/master/article/Text%20Adventures%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore 64 Games of Note.md)
 *   [Computer Games of Note](article/Computer Games of Note.md)
