@@ -61,7 +61,7 @@ depends on how you count. I don't consider [Illgola-2][], [Illberon][], or
 whether they should live in the same distribution or not. I don't consider
 [Jacciata][] to be significantly different from
 [Jaccia][]; and I'm not sure whether
-[[beta-Juliet|beta-Juliet and Portia]] should count as two.
+[beta-Juliet and Portia][] should count as two.
 On the other hand, I do see
 [Befunge-93][] and
 [Befunge-98][] as being quite different, as are
@@ -76,7 +76,7 @@ viable members, but there is really no limit to the number of
 Yet I do consider my cellular automata to be languages. Partly because
 some of them have roots in systems that were more clearly processor-, if
 not language-, like: [[REDGREEN]] is an
-adaptation of [[RUBE]] to CA, just as
+adaptation of [RUBE][] to CA, just as
 [[Braktif]] is an adaptation of Brainfuck, or
 [[Circute]] is an adaptation of circuitry.
 Partly because they are Turing-equivalent systems in which problems can
@@ -109,7 +109,7 @@ dozens (maybe hundred) of times, and has influenced
 [Befreak](http://esolangs.org/wiki/Befreak),
 [[PATH]], and
 [Aheui](http://esolangs.org/wiki/Aheui), among others;
-[[RUBE]] found its way into [[RUBE II]],
+[RUBE][] found its way into [RUBE II][],
 [RubE On Conveyor Belts](http://esolangs.org/wiki/RubE_On_Conveyor_Belts),
 and [Rubicon](http://kevan.org/rubicon/);
 [SMETANA][] inspired a FSM-completeness proof in
@@ -147,7 +147,7 @@ think I can do better. (I don't usually try to publish those.)
 
 A third group is made up of "strange exercises"; languages which are
 designed around some principle which turns out to have unusal effects.
-This could include [[Sally]], [[Larabee]], [Mascarpone][], and
+This could include [Sally][], [Larabee][], [Mascarpone][], and
 [Unlikely][].
 
 But probably my favourite design category is the "impossible language".
@@ -156,7 +156,7 @@ like an Escher staircase or a de Chirico piazza, and in implementing it,
 tease out a labrythine connection which allows it to exist. Whether that
 be a machine language with no branch instructions — none at all — like
 [SMITH][], or a non-deterministic imperative
-language like [[Strelnokoff]], or a [[Conlang|conlang]]
+language like [Strelnokoff][], or a [[Conlang|conlang]]
 without word order like [[Opus-2]], or a language
 with only infix operators but no precedence table like
 [[Hev]], or a Turing-equivalent language with only
@@ -220,6 +220,7 @@ are simply difficult to fully conceive or implement —
 [Befunge]: http://catseye.tc/node/Befunge-93
 [Befunge-93]: http://catseye.tc/node/Befunge-93
 [Befunge-98]: http://catseye.tc/node/Befunge-98
+[beta-Juliet and Portia]: http://catseye.tc/node/beta-Juliet
 
 [brainfuck]: http://catseye.tc/node/brainfuck
 [Burro]: http://catseye.tc/node/Burro
@@ -233,14 +234,18 @@ are simply difficult to fully conceive or implement —
 [Jacciata]: http://catseye.tc/node/Jacciata
 
 [Open Sores Illgol##]: http://catseye.tc/node/Open_Sores_Illgol##
-
+[Larabee]: Larabee
 [Mascarpone]: http://catseye.tc/node/Mascarpone
 [Muriel]: http://catseye.tc/node/Muriel
 [Okapi]: http://catseye.tc/node/Okapi
 [Pophery]: http://catseye.tc/node/Pophery
 [Quylthulg]: Quylthulg
+[RUBE]: RUBE
+[RUBE II]: RUBE II
+[Sally]: Sally
 [SMETANA]: SMETANA
 [SMITH]: SMITH
+[Strelnokoff]: Strelnokoff
 [Treacle]: Treacle
 [Unlikely]: Unlikely
 [ZOWIE]: http://catseye.tc/node/ZOWIE
