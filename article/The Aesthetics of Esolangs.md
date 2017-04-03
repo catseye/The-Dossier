@@ -158,12 +158,12 @@ handful of pieces of *visual* art that feel very "esolang-y" to me even
 though their creators have quite possibly never even heard of esolang.
 
 *   [The Railway Crossing](http://en.wikipedia.org/wiki/File:Leger_railway_crossing.jpg) by Fernand Léger
-*   [Untitled (Street Fighter tableau)](http://min.us/lbmS7uAFLGOZ0n) by an unknown artist
-*   [Untitled (Large Graffiti Slogan)](http://min.us/lbohvPpSWwWuzd) by Banksy
+*   (BROKEN) [Untitled (Street Fighter tableau)](http://min.us/lbmS7uAFLGOZ0n) by an unknown artist
+*   (BROKEN) [Untitled (Large Graffiti Slogan)](http://min.us/lbohvPpSWwWuzd) by Banksy
 
 (And I would be remiss in neglecting to also mention that there is at least
 one work of visual art which was *directly* inspired by an esolang, namely
-[G E M O O Y](http://misen23.minus.com/mP2icZG7L) by misen23.)
+(BROKEN) [G E M O O Y](http://misen23.minus.com/mP2icZG7L) by misen23.)
 
 [esoteric programming languages]: http://catseye.tc/node/Esolang
 [programming language constructs]: http://catseye.tc/node/Language_Construct
@@ -174,5 +174,5 @@ one work of visual art which was *directly* inspired by an esolang, namely
 [INTERCAL]: http://catseye.tc/node/INTERCAL
 [ILLGOL]: http://catseye.tc/node/ILLGOL
 [Computation: Finite and Infinite Machines]: http://catseye.tc/node/Computation:_Finite_and_Infinite_Machines
-[Gerson Kurz]: http://catseye.tc/node/Gerson_Kurz
-[zzo38]: http://catseye.tc/node/zzo38
+[Gerson Kurz]: http://esolangs.org/wiki/Gerson%20Kurz
+[zzo38]: http://esolangs.org/wiki/User:Zzo38

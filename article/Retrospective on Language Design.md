@@ -71,7 +71,7 @@ say [Emmental][] and
 [Treacle][]. And when you get into language
 families, well, arguably [Funge-98][] only has 3
 viable members, but there is really no limit to the number of
-[Didigm][] there are.
+[Didigm][]s there are.
 
 Yet I do consider my cellular automata to be languages. Partly because
 some of them have roots in systems that were more clearly processor-, if
@@ -87,8 +87,8 @@ languages.
 
 However, I am not by any means the most prolific language designer out
 there. In fact, for sheer numbers, I seem to be in third place, behind
-[Wouter "Aardappel" van Oortmerssen](http://strlen.com/) and [Aaron
-"zzo38" Black](http://zzo38computer.cjb.net/). But sheer numbers aren't
+[Wouter "Aardappel" van Oortmerssen](http://strlen.com/) and
+[zzo38](http://esolangs.org/wiki/User:Zzo38). But sheer numbers aren't
 everything. Unlike zzo38, the majority of my designs have been
 implemented, and unlike Wouter, the majority of my designs and
 implementations are publicly available from [my website](http://catseye.tc/).
@@ -214,7 +214,7 @@ are simply difficult to fully conceive or implement —
 [the list of languages I've designed]: http://catseye.tc/node/Chris_Pressey's_Lingography
 [never reaches that stage]: http://catseye.tc/node/LoUIE
 [esolangs]: http://catseye.tc/node/Esolang
-[Arboretuum]: Arboretuum
+[Arboretuum]: http://catseye.tc/node/Arboretuum
 [Befunge]: http://catseye.tc/node/Befunge-93
 [Befunge-93]: http://catseye.tc/node/Befunge-93
 [Befunge-98]: http://catseye.tc/node/Befunge-98
@@ -225,7 +225,7 @@ are simply difficult to fully conceive or implement —
 [Braktif]: http://catseye.tc/node/Braktif
 [Burro]: http://catseye.tc/node/Burro
 [Circute]: http://catseye.tc/node/Circute
-[Didigms]: http://catseye.tc/node/Didigm
+[Didigm]: http://catseye.tc/node/Didigm
 [Dieter]: http://catseye.tc/node/Dieter
 [Emmental]: http://catseye.tc/node/Emmental
 [ETHEL]: http://catseye.tc/node/ETHEL
@@ -238,7 +238,7 @@ are simply difficult to fully conceive or implement —
 [Iphigeneia]: http://catseye.tc/node/Iphigeneia
 [Jaccia]: http://catseye.tc/node/Jaccia
 [Jacciata]: http://catseye.tc/node/Jacciata
-[Open Sores Illgol##]: http://catseye.tc/node/Open_Sores_Illgol##
+[Open Sores Illgol##]: http://catseye.tc/node/Open_Sores_Illgol__
 [Larabee]: http://catseye.tc/node/Larabee
 [Mascarpone]: http://catseye.tc/node/Mascarpone
 [Muriel]: http://catseye.tc/node/Muriel

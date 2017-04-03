@@ -12,8 +12,6 @@ pretty styling, but for now should be readable directly on `github.com`.
 Articles Contained Herein
 -------------------------
 
-TODO: check links in all of these
-
 ### Programming Languages
 
 *   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md)
@@ -21,6 +19,8 @@ TODO: check links in all of these
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
 
 ### Games
+
+TODO: check links in all of these
 
 *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)

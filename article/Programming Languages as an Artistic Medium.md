@@ -88,7 +88,7 @@ article in this series, [The Aesthetics of Esolangs][].)
 [Minimalism]: http://en.wikipedia.org/wiki/Minimalism
 [INTERCAL]: http://catseye.tc/node/INTERCAL
 [brainfuck]: http://catseye.tc/node/brainfuck
-[making these works more accessible]: http://catseye.tc/node/Online_installation
+[making these works more accessible]: http://catseye.tc/node/Esolang
 [Java]: http://catseye.tc/node/Java
 [HTML5]: http://catseye.tc/node/HTML5
 [Javascript]: http://catseye.tc/node/Javascript
