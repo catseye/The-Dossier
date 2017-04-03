@@ -30,8 +30,6 @@ TODO: check links in all of these
 External Articles
 -----------------
 
-TODO: actually link these
-
-*   Blog posts during Retrochallenge 7/2015
-*   Article written for MARYSUE
-*   Interview with Daniel Temkin
+*   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) May 2015
+*   [Bootstrap Zero](https://github.com/catseye/SITU-SOL/tree/master/doc/bootstrap-zero) (RetroChallenge 2015/07)
+*   [Overview of a Story Compiler](https://gist.github.com/cpressey/6324fff6ef0dfdf69b96) (NaNoGenMo 2015)
