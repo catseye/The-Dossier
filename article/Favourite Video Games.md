@@ -1,20 +1,16 @@
-Video Games of Note
-===================
-
-These are my recollections of a number of video games.
-
-I figured that if Wouter could have such a page, so could I.
-
-I've also been told that I have good taste in video games.
-
 Favourite Video Games
----------------------
+=====================
 
-These are sorted by amount I've enjoyed them
+I originally compiled this list because I figured that if
+[Wouter could have such a page](http://strlen.com/rants/fav_games.html),
+then I could too.  I've also been told that I have good taste in video games.
 
-Gameplay impresses me far more than the graphics or sound effects or
-"realism" of the game.  Music does has some influence on me though,
-in that an exceptional soundtrack will count for some extra points.
+Gameplay impresses me far more than the graphics or sound
+effects or "realism" of the game.   Music does has some influence
+on me though, in that an exceptional soundtrack will count for some
+extra points.
+
+These are ordered from most favourite to least favourite.
 
 ### Typhoon Thompson
 
@@ -26,7 +22,7 @@ in that an exceptional soundtrack will count for some extra points.
 Quite possibly the cutest game ever.
 
 Not actually a shoot-'em-up, as the author pointed out in his interview for
-[Halcyon Days]():
+[Halcyon Days](http://www.dadgum.com/halcyon/BOOK/GORLIN.HTM):
 
 > I like it because it's unique, the gameplay is simple but infinitely
 > variable, and for me the characters really come to life. Some people
@@ -117,7 +113,11 @@ Llamatron was written for the Amiga 500, but I only ever played a version
 for the IBM PC compatible, and apparently this an erstaz version, although
 I do not recall where I read that.
 
-### Fall Down (Platformer, Atari 2600 VCS, joystick)
+### Fall Down
+
+*   genre: Platformer
+*   available for: Atari 2600 VCS
+*   controls: joystick
 
 A retrogame I recently discovered where two players, starting at the top of
 some multi-floored structure, race to fall down to each next lowest level;

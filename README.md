@@ -18,11 +18,16 @@ Articles Contained Herein
 *   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md)
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
 
-### Games
-
 TODO: check links in all of these
 
-*   [Video Games of Note](article/Video%20Games%20of%20Note.md)
+### Games
+
+*   [Favourite Video Games](article/Favourite%20Video%20Games.md)
+
+### Artefacts of Note
+
+TODO: explain what "of Note" means in this context
+
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
