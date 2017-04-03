@@ -23,6 +23,7 @@ TODO: check links in all of these
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
+*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md)
 
 ### Artefacts of Note
 
