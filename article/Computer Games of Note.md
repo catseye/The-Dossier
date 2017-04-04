@@ -4,11 +4,7 @@ Computer Games of Note
 *Very draft*
 
 These are my recollections of a number of computer games.
-
 "Computer" meaning "not video games nor text adventures".
-
-Please forgive the awkward title. This is a list of computer games, that are
-neither video games nor text adventure games, that I've played and enjoyed.
 
 Computer Games I've Played
 ------------------
@@ -39,7 +35,7 @@ A classic. I like how it manages to unify, to an extent, using the
 playing a level essentially means to complete its construction satisfactorily.)
 I also like how it naturally accomodates multiple solutions.
 
-People sometimes tell me how RUBE reminds them of this game.
+People sometimes tell me how [RUBE][] reminds them of this game.
 
 Every so often, in a television commercial or similar, I hear the exact same
 squeaking sound that the trapdoor made in this game, and I have a flashback to
@@ -60,12 +56,20 @@ associated with them (such as summon monster, raise health, display a message,
 etc.,) and they can be stacked in a single square; the square can be told to
 trigger all the objects when the player walks over it, or bumps into it.
 
-### Zelazny Angband (Roguelike, POSIX, keyboard)
+### Zelazny Angband
+
+*   genre: Roguelike
+*   available for: POSIX
+*   controls: keyboard
 
 I'm not at all a fan of Roger Zelazny's stuff, but this is one of the
 best-hacked Angband's out there, and has a really good gameplay balance.
 
-### Alphaman (Roguelike, MS-DOS, keyboard)
+### Alphaman
+
+*   genre: Roguelike
+*   available for: MS-DOS
+*   controls: keyboard
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
@@ -112,3 +116,5 @@ after the hardware that it made so many demands on was obsolete, and could only
 be emulated awkwardly — either by Exult, which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
+
+[RUBE]: http://catseye.tc/node/RUBE

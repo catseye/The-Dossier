@@ -16,6 +16,8 @@ on (or were a conversion from) other systems.
 
 ### Necromancer
 
+*   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
+
 ### Castles of Dr. Creep
 
 ### Hovver Bovver
@@ -37,6 +39,19 @@ they go by whistling at them.
 ### Zig Zag
 
 ### Rock Star Ate My Hamster
+
+### Street Surfer
+
+Notable for the fact that the theme music changed tempo to match your
+speed.
+
+And for the fact that the object of the game was based on recycling.
+
+And for the fact that you could, on a skateboard, outpace cars on a
+highway.
+
+Modern Retrogames
+-----------------
 
 ### Racked Off
 
