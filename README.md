@@ -18,20 +18,25 @@ Articles Contained Herein
 *   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md)
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
 
-TODO: check links in all of these
-
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
-*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md)
 
-### Artefacts of Note
+### Items of Note
 
-TODO: explain what "of Note" means in this context
+These are not necesarily "favourite" or "best" or "recommended" things —
+in fact, sometimes quite the opposite.  It's that they've stuck in my mind
+for one reason or another, and I would hate for them to go unmentioned.
 
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
+
+### Classics
+
+Is it even worth curating classics?  I don't know.  This section may change.
+
+*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md)
 
 External Articles
 -----------------

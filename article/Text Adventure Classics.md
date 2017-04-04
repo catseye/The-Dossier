@@ -6,6 +6,12 @@ Text Adventure Classics
 Text adventures which I've played, but which are too much classics
 to be included in an "of Note" list.  I will explain this someday.
 
+But generally: if it was published by Infocom, it's probably not bad and you
+should probably try playing it if you have the opportunity.  The same goes
+for if it was written by Andrew Plotkin or Graham Nelson.  It's kind of like
+the bar is higher for these; I'll only list those ones here if they're really
+stellar.
+
 These are presented in roughly the order I encountered them in.
 
 ### Zork I

@@ -21,25 +21,6 @@ somewhat dreamlike effect that a narrative-lacking, unmotivated, and slightly
 incoherent world can have.  I could probably write about this at length,
 and I might someday, but for the present article, it is outside of scope.
 
-The criterion for appearing in this list is *oh-now-there's-a-ness*,
-illustrated by the following conversation:
-
-    YOU: I was playing this text adventure t'other day.
-    ME: Oh yeah, which one?
-    YOU: It was called Cranston Manor.
-    ME: Cranston Manor, oh now *there's* a text adventure.
-
-Of course, having oh-now-there's-a-ness is not always a positive thing.  Thus
-I don't specifically *recommend* any of these, because I don't know what
-your exact tastes are.  But I will try to note reasons for why I think each of
-them is worth playing or not.
-
-But generally: if it was published by Infocom, it's probably not bad and you
-should probably try playing it if you have the opportunity.  The same goes
-for if it was written by Andrew Plotkin or Graham Nelson.  It's kind of like
-the bar is higher for these; I'll only list those ones here if they're really
-stellar.
-
 You'll note I'm not particularly adept at actually *solving* these things.
 In fact, with only one exception, when I have solved a game, it was with hints
 from friends, or an clues booklet, or a walkthrough.  I don't feel bad about
