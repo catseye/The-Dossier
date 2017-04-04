@@ -26,10 +26,11 @@ Articles Contained Herein
 
 These are not necesarily "favourite" or "best" or "recommended" things —
 in fact, sometimes quite the opposite.  It's that they've stuck in my mind
-for one reason or another, and I would hate for them to go unmentioned.
+for one reason or another, and I would hate for them to be forgotten.
 
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
+*   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
 
 ### Classics
