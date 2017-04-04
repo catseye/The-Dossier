@@ -41,10 +41,10 @@ This does not contain any classics.  I've put them in another list.
 *   date released: 1980
 *   written using: BASIC
 *   treasure-oriented: yes
-*   (lemon64): [African Adventure](http://www.lemon64.com/?game_id=4076)
-*   (gamebase64): [African Adventure](http://www.gb64.com/game.php?id=20259)
-*   walkthrough @ abandonia: [African Adventure](http://www.abandonia.com/en/games/842/African+Adventure.html)
-*   play online @ archive.org: [African Adventure](https://archive.org/details/AfricanAdventureOrInSearchOfDr.Livingston1997TonyBaechlerAdventureInteractiveFiction)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=4076)
+*   entry @ [gamebase64](http://www.gb64.com/game.php?id=20259)
+*   walkthrough @ [abandonia](http://www.abandonia.com/en/games/842/African+Adventure.html)
+*   play online @ [archive.org](https://archive.org/details/AfricanAdventureOrInSearchOfDr.Livingston1997TonyBaechlerAdventureInteractiveFiction)
 
 I found this on a Commodore 64 "Club Disk", but the program was corrupted
 and would always crash at certain spots.  Later in life, I found an archived
@@ -70,7 +70,7 @@ It's reminiscent of Scott Adams' adventures a bit.
 *   published by: Usborne Books
 *   date released: 1983
 *   personally finished: yes
-*   source code: [Write Your Own Adventure Programs for Your Microcomputer](https://drive.google.com/file/d/0Bxv0SsvibDMTYkFJbUswOHFQclE/view)
+*   source code @ [Write Your Own Adventure Programs for Your Microcomputer](https://drive.google.com/file/d/0Bxv0SsvibDMTYkFJbUswOHFQclE/view)
 
 Note that this is not the same text adventure as the program with the same name
 for the TRS-80, nor the game of the same name for the Atari VCS.
@@ -95,7 +95,7 @@ should read the book in which it appeared!
 *   with graphics: yes
 *   treasure-oriented: yes
 *   wikipedia: [Cranston Manor](https://en.wikipedia.org/wiki/Cranston_Manor)
-*   play online @ archive.org: [Cranston Manor](https://archive.org/details/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag)
+*   play online @ [archive.org](https://archive.org/details/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag)
 
 Not the best adventure game, certainly, but memorable for some reason.
 Never solved it, but pretty sure I could without too much help, if I ever
@@ -110,8 +110,8 @@ That's all.  Once you've seen that, you can stop.
 *   available on: Apple II
 *   with graphics: yes
 *   treasure-oriented: yes
-*   (gue): [Creature Venture](http://gue.cgwmuseum.org/galleries/index.php?pub=5&item=25&id=2&key=0)
-*   play online @ archive.org: [Creature Venture](https://archive.org/details/a2_Creature_Venture_1981_Highland_Computer_Services)
+*   entry @ [gue](http://gue.cgwmuseum.org/galleries/index.php?pub=5&item=25&id=2&key=0)
+*   play online @ [archive.org](https://archive.org/details/a2_Creature_Venture_1981_Highland_Computer_Services)
 
 Whatever other merits this game may or may not have, the main feature
 is the Oozlybub, a creature which has popped up in a few other places
@@ -125,7 +125,7 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 *   published by: Level 9, Mandarin
 *   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
-*   play online @ archive.org: [Time and Magik](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
+*   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
 
 I first encountered this on the Amiga 500.
 
@@ -165,10 +165,10 @@ your sanity (at least according to a stat.)
 *   written using: Graphic Adventure Creator
 *   with graphics: yes
 *   personally finished: yes
-*   (mobygames): [Winter Wonderland](http://www.mobygames.com/game/winter-wonderland)
-*   (gamebase64): [Winter Wonderland](http://www.gb64.com/game.php?id=8624&d=18)
-*   (lemon64): [Winter Wonderland](http://www.lemon64.com/?game_id=4076)
-*   play online @ archive.org: [Winter Wonderland](https://archive.org/details/zx_Winter_Wonderland_1986_Incentive_Software_a)
+*   entry @ [mobygames](http://www.mobygames.com/game/winter-wonderland)
+*   entry @ [gamebase64](http://www.gb64.com/game.php?id=8624&d=18)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=4076)
+*   play online @ [archive.org](https://archive.org/details/zx_Winter_Wonderland_1986_Incentive_Software_a)
 
 This was apparently a demo for The Graphic Adventure Creator,
 but it stands on its own as a game, although perhaps not the best one.
@@ -191,11 +191,11 @@ there's a WOMPA! in it.  Yes, with exclamation point.
 *   date released: 1985
 *   available on: Commodore 64, ZX Spectrum
 *   written using: The Quill Adventure System
-*   ifdb: [The Secret of St. Bride's](http://ifdb.tads.org/viewgame?id=0vn91xdqo9yeso8u)
-*   world of spectrum: [The Secret of St. Bride's](http://www.worldofspectrum.org/infoseekid.cgi?id=0006951)
-*   (gamebase64): [The Secret of St. Bride's](http://www.gb64.com/game.php?id=9845&d=18)
-*   hints: [The Tipshop](http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0006951)
-*   play online @ archive.org: [The Secret of St. Bride's](https://archive.org/details/zx_Secret_of_St._Brides_The_1985_St._Brides_School_a)
+*   entry @ [ifdb](http://ifdb.tads.org/viewgame?id=0vn91xdqo9yeso8u)
+*   entry @ [world of spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0006951)
+*   entry @ [gamebase64](http://www.gb64.com/game.php?id=9845&d=18)
+*   walkthrough @ [the tipshop](http://www.the-tipshop.co.uk/cgi-bin/info.pl?wosid=0006951)
+*   play online @ [archive.org](https://archive.org/details/zx_Secret_of_St._Brides_The_1985_St._Brides_School_a)
 
 Unlike most of the others on this list, I only came across this game in the
 21st century, and have never gotten very far in it.  I will probably end up
