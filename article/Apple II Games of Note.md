@@ -50,3 +50,15 @@ instead of being the game, let you select from a menu the way in
 which Sammy should meet his demise (laser, being squished by something,
 etc.)
 
+Lost Games
+----------
+
+Just noting these for now before I forget them.
+
+### Darts
+
+1979
+
+### Canadian Politics Simulator
+
+wat
