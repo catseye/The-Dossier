@@ -21,6 +21,7 @@ Articles Contained Herein
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
+*   [Lost Games](article/Lost%20Games.md)
 
 ### Items of Note
 

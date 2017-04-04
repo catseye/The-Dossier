@@ -218,3 +218,14 @@ and possibly only, Aristasian (or proto-Aristasian) text adventure?
 I mean it's not a *terrible* game (although the parser is pretty bad and
 some of the puzzles involve guessing at the parser) but the main draw
 would seem to be historical.
+
+Text Adventures I Haven't Played
+--------------------------------
+
+### Macbeth
+
+*   entry @ [mobygames](http://www.mobygames.com/game/c64/macbeth)
+*   entry @ [myabandonware](http://www.myabandonware.com/game/macbeth-61w)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/list.php%3Ftitle%3DM)
+
+I read a review in a magazine about it.
