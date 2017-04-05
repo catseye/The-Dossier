@@ -1,12 +1,12 @@
 Text Adventures of Note
 =======================
 
-*This is still a draft*
-
 These are my recollections of a number of text adventures.
 
-This does not contain any classics.  I've put them in another list.
-I'll explain this distinction better at some point.
+I've omitted text adventures that I consider "classics", and have put
+them in another list, here: [Text Adventure Classics](Text%20Adventure%20Classics.md).
+That's to retain this list being "items of note" — classics, being
+classics, are unlikely to be forgotten if I neglect to curate them.
 
 I use the term "text adventure" because that's what they were called
 before they were called "interactive fiction".  It doesn't carry the same
@@ -31,8 +31,6 @@ Text Adventures I've Played
 ---------------------------
 
 These are presented in roughly the order I encountered them in.
-
-This does not contain any classics.  I've put them in another list.
 
 ### African Adventure: In Search of Dr. Livingston
 
@@ -218,14 +216,3 @@ and possibly only, Aristasian (or proto-Aristasian) text adventure?
 I mean it's not a *terrible* game (although the parser is pretty bad and
 some of the puzzles involve guessing at the parser) but the main draw
 would seem to be historical.
-
-Text Adventures I Haven't Played
---------------------------------
-
-### Macbeth
-
-*   entry @ [mobygames](http://www.mobygames.com/game/c64/macbeth)
-*   entry @ [myabandonware](http://www.myabandonware.com/game/macbeth-61w)
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/list.php%3Ftitle%3DM)
-
-I read a review in a magazine about it.

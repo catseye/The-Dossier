@@ -11,7 +11,7 @@ on me though, in that an exceptional soundtrack will count for some
 extra points.
 
 These are ordered from most favourite to least favourite.  Note, however,
-that the order and contents of this list is subject to change.
+that the order and contents of this list are subject to change.
 
 ### Typhoon Thompson
 
