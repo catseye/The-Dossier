@@ -55,12 +55,3 @@ highway.
 Notable for the fact that it was a flight simulator with no graphics.
 Well, only the control panel.  Given that you were supposed to be
 flying at night over a lightless plain, that's almost reasonable.
-
-Modern Retrogames
------------------
-
-### Racked Off
-
-### Joe Gunn
-
-### Fairy Well

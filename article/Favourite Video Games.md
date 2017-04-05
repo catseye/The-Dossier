@@ -158,23 +158,9 @@ Llamatron was written for the Amiga 500, but I only ever played a version
 for the IBM PC compatible, and apparently this an erstaz version, although
 I do not recall where I read that.
 
-### Fall Down
+### Cloak & Dagger
 
-*   genre: Platformer
-*   available for: Atari 2600 VCS
-*   controls: joystick
-
-A retrogame I recently discovered where two players, starting at the top of
-some multi-floored structure, race to fall down to each next lowest level;
-the first to fall through a floor captures it, and the player who captures
-the most floors wins. Strangely addictive in spite of (or possibly because
-of) its simplicity; there is a large element of luck, since you don't know
-where the holes are going to be in upcoming floors, but also an element of
-strategy, since the floors are low-friction and you carry momentum, and a
-lot of just frantic fun running-around action.
-
-### Cloak and Dagger
-
+*   wikipedia: https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game)
 *   genre: Shoot-'em-Up
 *   available for: Arcade
 *   controls: dual joystick

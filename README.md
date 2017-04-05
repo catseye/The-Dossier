@@ -2,12 +2,9 @@ The Dossier
 ===========
 
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
-May pertain to Cat's Eye Technologies, or may not.  Subject to editing.
-
-Will eventually be hosted somewhere like `github.io` or `catseye.tc` with some
-pretty styling, but for now should be readable directly on `github.com`.
-
-Articles marked *(U)* are under construction.
+May pertain to Cat's Eye Technologies, or may not.  Articles marked *(U)* are
+under construction.  Articles with a published-date are "frozen".  All other
+articles are subject to change.
 
 Articles Contained Herein
 -------------------------
@@ -20,7 +17,8 @@ Articles Contained Herein
 
 ### Games
 
-*   [Favourite Video Games](article/Favourite%20Video%20Games.md) *(U)*
+*   [Favourite Video Games](article/Favourite%20Video%20Games.md)
+*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
 *   [Lost Games](article/Lost%20Games.md) *(U)*
 
 ### Items of Note
@@ -46,3 +44,11 @@ External Articles
 *   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) May 2015
 *   [Bootstrap Zero](https://github.com/catseye/SITU-SOL/tree/master/doc/bootstrap-zero) (RetroChallenge 2015/07)
 *   [Overview of a Story Compiler](https://gist.github.com/cpressey/6324fff6ef0dfdf69b96) (NaNoGenMo 2015)
+
+Implementation Notes
+--------------------
+
+Will eventually be hosted somewhere like `github.io` or `catseye.tc` with some
+pretty styling, but for now should be readable directly on `github.com`.
+
+Will eventually have an index to be used when linking to entries.
