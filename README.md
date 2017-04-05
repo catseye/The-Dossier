@@ -18,7 +18,8 @@ Articles Contained Herein
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
-*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
+*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) *(U)*
+*   [Memories of Miscellaneous Games](article/Memories%20of%20Miscellaneous%20Games) *(U)*
 *   [Lost Games](article/Lost%20Games.md) *(U)*
 
 ### Items of Note

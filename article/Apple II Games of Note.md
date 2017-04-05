@@ -17,21 +17,6 @@ I have no words.  It seemed very high-concept, at the time.
 
 *   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
 
-### Penny Arcade
-
-*   written by: Bill Budge
-*   published by: Apple Computer, Inc.
-*   release date: 1979
-*   video @ [youtube](https://www.youtube.com/watch?v=4h67eM0RAdM)
-
-OK, so mainly this is notable because it was written as a machine-language
-routine "attached" to a BASIC program.  So you loaded and ran it like a BASIC
-program, but all the BASIC part was doing was calling the machine-language
-part.  And when you LISTed the BASIC program, all that was visible was 
-the BASIC part.
-
-To a kid like me at the time, that made it seem like an effing *mystery*.
-
 ### Swashbuckler
 
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))

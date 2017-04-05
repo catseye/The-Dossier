@@ -93,6 +93,7 @@ shape of the kiwi.)
 *   genre: Shoot-'em'-Up
 *   available for: Arcade
 *   controls: dual joystick
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8456)
 
 Gnarly game, but very hard. I especially liked the 3D effect on the
 intermediate levels with the staircases. (Even though it's awkward to control
@@ -107,7 +108,7 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 
 ### The New Zealand Story
 
-*   wikipedia: https://en.wikipedia.org/wiki/The_New_Zealand_Story
+*   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
@@ -117,9 +118,9 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
 pistols, magical fireball-belching staffs, and the like.
 
-### CoolBoarders 2
+### Cool Boarders 2
 
-*   wikipedia: https://en.wikipedia.org/wiki/Cool_Boarders_2
+*   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
 *   genre: Sports
 *   available for: Sony PlayStation
 *   controls: D-pad and 6 buttons
@@ -131,41 +132,18 @@ jump. The longer you keep holding X and right, the more rotational velocity
 you'll have when you catch air. Whee! And it has another soundtrack that
 can't be beat, too.
 
-### Super Monkey Ball 2
-
-*   genre: Maze-Runner
-*   available for: Nintendo GameCube
-*   controls: analog joystick
-
-I didn't think I'd like this one, since I really don't like those wooden
-mazes that you tilt with the two dials — which is essentially what this
-game is. But somehow it manages to be fun. Especially when you start
-barrelling down a spiral, completely out of control. The party games I could
-mostly do without, with the exception of racing, which is at least as fun
-as the main game.
-
 ### Llamatron
 
+*   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter
 *   genre: Shoot-'em'-Up
-*   available for: Amiga 500, MS-DOS
+*   available for: Atari ST, Amiga, MS-DOS
 *   controls: joystick and 1 button
 
 Fast-paced, psychedaelic, mindless fun, like most Jeff Minter games.
 Basically a clone of the arcade game Robotron, but with shaggy, smelly
 quadrupeds. And cans of Coke. And Mandelbrot sets...
 
-Llamatron was written for the Amiga 500, but I only ever played a version
-for the IBM PC compatible, and apparently this an erstaz version, although
-I do not recall where I read that.
-
-### Cloak & Dagger
-
-*   wikipedia: https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game)
-*   genre: Shoot-'em-Up
-*   available for: Arcade
-*   controls: dual joystick
-
-There's something that's always attracted me about being able to shoot out
-bits of wall. The boxes and conveyor belts hold a similar draw. Not sure if
-I can put my finger on exactly what it is, though.
+Llamatron was written for the Atari ST, but I only ever played a version
+for MS-DOS, and apparently this an erstaz version, although I do not recall
+where I read that.
