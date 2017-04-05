@@ -10,11 +10,12 @@ effects or "realism" of the game.   Music does has some influence
 on me though, in that an exceptional soundtrack will count for some
 extra points.
 
-These are ordered from most favourite to least favourite.
+These are ordered from most favourite to least favourite.  Note, however,
+that the order and contents of this list is subject to change.
 
 ### Typhoon Thompson
 
-*   wikipedia: https://en.wikipedia.org/wiki/Typhoon_Thompson
+*   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 *   written by: Dan Gorlin
 *   published by: Brøderbund
 *   genre: Shoot-'em'-Up (nominally)
@@ -36,7 +37,7 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 
 ### Pepper II
 
-*   wikipedia: https://en.wikipedia.org/wiki/Pepper_II
+*   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
 *   published by: Exidy
 *   genre: Maze-Runner
 *   available for: Arcade
@@ -50,7 +51,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 ### City Connection
 
-*   wikipedia: https://en.wikipedia.org/wiki/City_Connection
+*   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
 *   published by: Jaleco
 *   genre: Platformer (nominally)
 *   available for: Arcade
@@ -64,7 +65,7 @@ Not sure if it's truly a platformer, though.
 
 ### Katamari Damacy
 
-*   wikipedia: https://en.wikipedia.org/wiki/Katamari_Damacy
+*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
 *   published by: Namco
 *   genre: Maze-Runner (nominally)
 *   available for: Sony PlayStation
@@ -76,7 +77,7 @@ and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 
 ### Liquid Kids
 
-*   wikipedia: https://en.wikipedia.org/wiki/Liquid_Kids
+*   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
