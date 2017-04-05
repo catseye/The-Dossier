@@ -4,7 +4,7 @@ Lost Games
 Some games I seen then I never seen again since, and I might never see them
 again, ain't it a pity?
 
-### Darts
+### Darts game
 
 *   seen-on: Apple II
 *   released: 1979
@@ -16,7 +16,7 @@ Basically it was a darts game.  Your player stood on the left, the
 dartboard was on the right, and you threw the dart in an arc and hoped
 to hit the dartboard.
 
-### Canadian Politics Simulator
+### Canadian politics simulator
 
 *   seen-on: Apple II
 
@@ -41,3 +41,38 @@ There was one that was a crow that had been killed.  With an arrow
 through it?  It was paired with some idiom like "killing the crow".
 It may have been "eating crow"; that seems more likely as an idiom,
 but I don't remember the graphic involving eating in any way.
+
+### Mountain survival game
+
+*   seen-on: Apple II
+
+Played in school.  You picked what to take from the crashed plane.
+There were some colour hi-res graphics.
+
+### Very simple civiliation-type game
+
+*   seen-on: Apple II
+
+Played in school.  You had to find fertile soil.  ISTR there were
+some very simple black-and-white hi-res graphics.
+
+### Maze escape with people
+
+*   seen-on: Apple II
+
+Lo-res graphics.  You had to find the exit to a maze, displayed
+in 1st-person perspective.  Sometimes you would meet other people
+in the maze.  They wore hats.  Sometimes they would answer questions
+and sometimes they would have maps.  You could ask them if they
+told the truth and they would say useless things like "I always
+tell the truth" or "Sometimes I tell the truth".
+
+Might have been written in Integer BASIC.
+
+### Galactic conquest
+
+*   seen-on: Apple II
+
+I might be able to find that one, because I'm pretty sure that
+was its name.  Or something similar.  Text mode, with inverse
+characters for some things.

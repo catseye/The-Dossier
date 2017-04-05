@@ -1,13 +1,13 @@
 The Dossier
 ===========
 
-*Under construction*
-
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
 May pertain to Cat's Eye Technologies, or may not.  Subject to editing.
 
 Will eventually be hosted somewhere like `github.io` or `catseye.tc` with some
 pretty styling, but for now should be readable directly on `github.com`.
+
+Articles marked *(U)* are under construction.
 
 Articles Contained Herein
 -------------------------
@@ -20,8 +20,8 @@ Articles Contained Herein
 
 ### Games
 
-*   [Favourite Video Games](article/Favourite%20Video%20Games.md)
-*   [Lost Games](article/Lost%20Games.md)
+*   [Favourite Video Games](article/Favourite%20Video%20Games.md) *(U)*
+*   [Lost Games](article/Lost%20Games.md) *(U)*
 
 ### Items of Note
 
@@ -30,15 +30,15 @@ in fact, sometimes quite the opposite.  It's that they've stuck in my mind
 for one reason or another, and I would hate for them to be forgotten.
 
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
-*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
-*   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
-*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md)
+*   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) *(U)*
+*   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) *(U)*
+*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) *(U)*
 
 ### Classics
 
 Is it even worth curating classics?  I don't know.  This section may change.
 
-*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md)
+*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md) *(U)*
 
 External Articles
 -----------------

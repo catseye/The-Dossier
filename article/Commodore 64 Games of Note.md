@@ -50,6 +50,12 @@ And for the fact that the object of the game was based on recycling.
 And for the fact that you could, on a skateboard, outpace cars on a
 highway.
 
+### Night Flight Simulator(?)
+
+Notable for the fact that it was a flight simulator with no graphics.
+Well, only the control panel.  Given that you were supposed to be
+flying at night over a lightless plain, that's almost reasonable.
+
 Modern Retrogames
 -----------------
 
