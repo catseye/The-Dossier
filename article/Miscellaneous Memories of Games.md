@@ -1,9 +1,10 @@
-Memories of Miscellaneous Games
+Miscellaneous Memories of Games
 ===============================
 
-Really, just ones I remember for whatever reason, that maybe aren't really
-*that* special.  They're neither exceptionally good nor exceptionally bad.
-They're here because I remember something about them.
+These are games that I remember something about for whatever reason,
+that don't fit into any of the other lists: they're not favourites (but they
+might be OK), they're not classics (but they might've been popular), and
+they're not items of note (but they might be somewhat interesting.)
 
 ### Penny Arcade
 
