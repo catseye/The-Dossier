@@ -18,7 +18,6 @@ Articles Contained Herein
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
-*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) *(U)*
 *   [Miscellaneous Memories of Games](article/Miscellaneous%20Memories%20of%20Games.md) *(U)*
 *   [Lost Games](article/Lost%20Games.md) *(U)*
 
@@ -29,9 +28,10 @@ in fact, sometimes quite the opposite.  It's that they've stuck in my mind
 for one reason or another, and I would hate for them to be forgotten.
 
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
+*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) *(U)*
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) *(U)*
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) *(U)*
-*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) *(U)*
+*   [Modern Retrogames of NOte](article/Modern%20Retrogames%20of%20Note.md) *(U)*
 
 ### Classics
 

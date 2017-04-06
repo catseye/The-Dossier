@@ -3,12 +3,12 @@ Classic Text Adventures
 
 This is a list of text adventures which I've played, and which I have something
 to say about, but which were popular enough that I don't think I'll worry much
-about them being forgotten, thus they don't qualify for being included in the
-[Text Adventures of Note](Text Adventures of Note.md) list.  (Which you should
+about them being forgotten, thus they don't qualify for being included in
+[Text Adventures of Note](Text%20Adventures%20of%20Note.md).  (Which you should
 also read, anyway.)
 
-Do I recommend playing these, if you have the opportunity?  Generally yes.
-At any rate, I do recommend knowing about them.
+Do I recommend playing these, if you have the opportunity?  Almost always yes,
+because they are classics.  At any rate, I do recommend knowing about them.
 
 Also, if a text adventure was published by Infocom, it's probably not bad and
 you should probably try it.  The same goes for if it was written by
