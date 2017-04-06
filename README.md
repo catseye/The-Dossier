@@ -35,9 +35,11 @@ for one reason or another, and I would hate for them to be forgotten.
 
 ### Classics
 
-Is it even worth curating classics?  I don't know.  This section may change.
+I have much less worry about classics being forgotten, obviously, but I still
+have things to say about them sometimes, or notable memories of them in some
+way or another.
 
-*   [Text Adventure Classics](article/Text%20Adventure%20Classics.md) *(U)*
+*   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) *(U)*
 
 External Articles
 -----------------
