@@ -37,6 +37,23 @@ flying at night over a lightless plain, that's essentially reasonable.
 
 *   wikipedia: https://en.wikipedia.org/wiki/Below_the_Root_(video_game)
 *   published by: Windham Classics
+*   available for: Commodore 64, Apple II, MS-DOS
+
+### Big Mac
+
+the maintenance man
+
+### Slinky
+
+holy cow
+
+### Crossroads
+
+type-in
+
+### Lava Flow
+
+type-in
 
 ### Everyone's a Wally
 
