@@ -32,7 +32,6 @@ for one reason or another, and I would hate for them to be forgotten.
 *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) *(U)*
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) *(U)*
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) *(U)*
-*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) *(U)*
 
 ### Classics
 
@@ -41,6 +40,7 @@ have things to say about them sometimes, or notable memories of them in some
 way or another.
 
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
+*   [Classic Computer Games](article/Classic%20Computer%20Games.md)
 
 External Articles
 -----------------

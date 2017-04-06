@@ -1,15 +1,15 @@
-Computer Games of Note
+Classic Computer Games
 ======================
 
-*Very draft*
-
-These are my recollections of a number of computer games.
-"Computer" meaning "not video games nor text adventures nor CRPGs".  Geez.
+These are my recollections of a number of computer games, where "computer"
+means roughly "strategy or puzzle", whether real-time or turn-based.
 
 Computer Games I've Played
-------------------
+--------------------------
 
-### Civilization II (Conquest, Windows, mouse and keyboard)
+### Civilization II
+
+*   wikipedia: https://en.wikipedia.org/wiki/Civilization_II
 
 I like that it's not just a war game; you feel like you're a steward of the
 civilization you've fostered. It's a bit like a sim game in that respect.
@@ -19,7 +19,9 @@ sure, but something is better than nothing. I mean, did I ever really think
 about how sewer systems and refrigeration changed life as we know it before
 playing this game? Probably not.
 
-### The Incredible Machine 2 (Puzzle, MS-DOS, mouse)
+### The Incredible Machine 2
+
+*   wikipedia: https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)
 
 A classic. I like how it manages to unify, to an extent, using the
 "construction set" to build your own levels, and playing the level (since
@@ -32,12 +34,16 @@ Every so often, in a television commercial or similar, I hear the exact same
 squeaking sound that the trapdoor made in this game, and I have a flashback to
 it. (That sound sample must be in the public domain or something.)
 
-### Dungeon Keeper II (Conquest, Windows, mouse and keyboard)
+### Dungeon Keeper II
+
+*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Keeper_2
 
 It deserves mention if for no other reason than you get to carve your own
 dungeon out of the rock as part of the game.
 
-### King's Quest V (Puzzle, MS-DOS, mouse)
+### King's Quest V
+
+*   wikipedia: https://en.wikipedia.org/wiki/King%27s_Quest_V
 
 Alexander takes a mint.
 
