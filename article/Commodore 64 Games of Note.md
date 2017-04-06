@@ -33,7 +33,10 @@ flying at night over a lightless plain, that's essentially reasonable.
 
 ### Rock Star Ate My Hamster
 
-### Pharaoh's Curse
+### Below the Root
+
+*   wikipedia: https://en.wikipedia.org/wiki/Below_the_Root_(video_game)
+*   published by: Windham Classics
 
 ### Everyone's a Wally
 
@@ -41,50 +44,11 @@ flying at night over a lightless plain, that's essentially reasonable.
 
 Notable because they made a video game based on The Young Ones.
 
+### Pharaoh's Curse
+
 ### Ultimate Wizard
 
 *   published by: Electronic Arts
 
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
 kit, really.
-
-### Sword of Fargoal
-
-Should maybe be in roguelikes of note.
-
-Games that are Maybe Minor Classics
------------------------------------
-
-### Starquake
-
-### Paradroid
-
-### Necromancer
-
-*   ![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
-*   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
-*   available for: Commodore 64, Atari 800
-
-### Castles of Dr. Creep
-
-### Hovver Bovver
-
-*   written by: Jeff Minter
-
-Didn't realize "bovver" was "bother" until I was older.
-
-### Whistler's Brother
-
-Notable for gameplay mechanic: the player controls one character directly
-with a joystick, but a second character indirectly by influencing where
-they go by whistling at them.
-
-### Spindizzy
-
-### Zig Zag
-
-### Below the Root
-
-### Zeppelin
-
-Notable because you can shoot out bits of wall.

@@ -41,6 +41,7 @@ way or another.
 
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
 *   [Classic Computer Games](article/Classic%20Computer%20Games.md)
+*   [Classic Commodore 64 Games](article/Classic%20Commodore%2064%20Games.md)
 
 External Articles
 -----------------
