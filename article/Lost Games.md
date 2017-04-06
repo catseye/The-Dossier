@@ -1,8 +1,10 @@
 Lost Games
 ==========
 
-Some games I seen then I never seen again since, and I might never see them
-again, ain't it a pity?
+These are games that I've encountered in the past, and which I haven't been
+able to find any information about on the Internet, in part because I may
+not remember their exact names.  (City Connection was in this category for
+a long time until somehow I remembered its (non-obvious) name.)
 
 ### Darts game
 
@@ -53,7 +55,8 @@ There were some colour hi-res graphics.
 
 *   seen-on: Apple II
 
-Played in school.  You had to find fertile soil.  ISTR there were
+Played in school.  You had to find fertile soil, and then you settled
+there and had your artisans build a monument there.  ISTR there were
 some very simple black-and-white hi-res graphics.
 
 ### Maze escape with people
@@ -73,6 +76,21 @@ Might have been written in Integer BASIC.
 
 *   seen-on: Apple II
 
-I might be able to find that one, because I'm pretty sure that
-was its name.  Or something similar.  Text mode, with inverse
-characters for some things.
+That's not its name, and it's not Galactic Empire or Galactic Attack.
+
+Text mode, with inverse characters for some things.
+
+There was a grid of numbers indicating planets and their populations(?)
+but I don't remember there being any spatial relationship between them.
+
+### Would you two like you join me on a fantasia?
+
+*   seen-on: Arcade
+
+Side-scrolling platformer.  You collected coins, among other
+things, and there was a shop at the end of each level where
+you could buy powerups.
+
+The protagonists were a boy and a girl and at the beginning
+of the game a cloaked figure came up to them and asked them
+WOULD YOU TWO LIKE TO JOIN ME ON A FANTASIA? or similar.
