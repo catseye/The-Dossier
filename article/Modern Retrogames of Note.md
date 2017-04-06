@@ -1,25 +1,37 @@
-Some Modern Retrogames
-======================
+Modern Retrogames of Note
+=========================
+
+Some games written for computers and consoles of old, far past the time
+those computers and consoles were current.
 
 ### Racked Off
 
-*   available-on: Commodore 64
+*   written by: Richard Bayliss
+*   available for: Commodore 64
+*   download @ [tnd](http://tnd64.unikat.sk/r.html)
+
+A very fun game, and notable that there is (as far as I can tell) no
+random element — the baddies' movements are completely determined by your own.
 
 ### Joe Gunn
 
-*   available-on: Commodore 64
+*   available for: Commodore 64
+*   order @ [psytronik](http://www.psytronik.net/newsite/index.php/c64/27-joe-gunn)
+*   entry @ [csdb](http://csdb.dk/release/?id=52121)
+*   walkthrough @ [c64-wiki](https://www.c64-wiki.com/wiki/Joe_Gunn_-_Gold_Edition)
 
 ### Fairy Well
 
-*   available-on: Commodore 64
+*   available for: Commodore 64
 
 ### Fall Down
 
 *   genre: Platformer
 *   available for: Atari 2600 VCS
 *   controls: joystick
+*   entry @ [atariage](https://atariage.com/store/index.php?l=product_detail&p=308)
 
-A retrogame I recently discovered where two players, starting at the top of
+A retrogame I discovered in the aughts where two players, starting at the top of
 some multi-floored structure, race to fall down to each next lowest level;
 the first to fall through a floor captures it, and the player who captures
 the most floors wins. Strangely addictive in spite of (or possibly because
