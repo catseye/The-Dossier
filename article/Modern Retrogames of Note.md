@@ -20,9 +20,16 @@ random element — the baddies' movements are completely determined by your own.
 *   entry @ [csdb](http://csdb.dk/release/?id=52121)
 *   walkthrough @ [c64-wiki](https://www.c64-wiki.com/wiki/Joe_Gunn_-_Gold_Edition)
 
+A good game which I remember liking, but not having a chance to play much.
+
 ### Fairy Well
 
 *   available for: Commodore 64
+*   controls: joystick
+*   review @ [rgcd](http://www.rgcd.co.uk/2012/05/fairy-well-c64.html)
+*   entry @ [csdb](http://csdb.dk/release/?id=103151)
+
+A good game which I remember liking enough to play through to the end.
 
 ### Fall Down
 

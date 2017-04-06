@@ -31,7 +31,7 @@ for one reason or another, and I would hate for them to be forgotten.
 *   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) *(U)*
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) *(U)*
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) *(U)*
-*   [Modern Retrogames of NOte](article/Modern%20Retrogames%20of%20Note.md) *(U)*
+*   [Modern Retrogames of NOte](article/Modern%20Retrogames%20of%20Note.md)
 
 ### Classics
 
