@@ -39,7 +39,7 @@ I have much less worry about classics being forgotten, obviously, but I still
 have things to say about them sometimes, or notable memories of them in some
 way or another.
 
-*   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) *(U)*
+*   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
 
 External Articles
 -----------------

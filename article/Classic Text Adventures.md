@@ -1,16 +1,18 @@
-Text Adventure Classics
+Classic Text Adventures
 =======================
 
-*This is still a draft*
+This is a list of text adventures which I've played, and which I have something
+to say about, but which were popular enough that I don't think I'll worry much
+about them being forgotten, thus they don't qualify for being included in the
+[Text Adventures of Note](Text Adventures of Note.md) list.  (Which you should
+also read, anyway.)
 
-Text adventures which I've played, but which are too much classics
-to be included in an "of Note" list.  I will explain this someday.
+Do I recommend playing these, if you have the opportunity?  Generally yes.
+At any rate, I do recommend knowing about them.
 
-But generally: if it was published by Infocom, it's probably not bad and you
-should probably try playing it if you have the opportunity.  The same goes
-for if it was written by Andrew Plotkin or Graham Nelson.  It's kind of like
-the bar is higher for these; I'll only list those ones here if they're really
-stellar.
+Also, if a text adventure was published by Infocom, it's probably not bad and
+you should probably try it.  The same goes for if it was written by
+Andrew Plotkin or Graham Nelson.
 
 These are presented in roughly the order I encountered them in.
 
@@ -39,7 +41,7 @@ For the whole story, see [Dungeon](#Dungeon), below.
 Like Zork I, I first encountered this on a Commodore 64, but only finished
 it (with help from the Invisiclues booklet) many years later.
 
-**Why you should play it**: It's well-written.  In fact, if you play the
+The writing is remarkable.  If you play the
 entire trilogy (Enchanter, Sorcerer, Spellbreaker), you can really feel
 the difference — Sorcerer was written by Steve Meretzky, and it comes
 off very differently from the other two.
@@ -60,7 +62,7 @@ unsolvable state, or I just didn't notice that it worked, I don't know.
 When I picked it up again years later, I finished it, but I did get a fair
 number of hints from other people who had played it, in between.
 
-**Why you should play it**: It's a genuinely good piece of interactive fiction.
+Why is it a classic?  It's a genuinely good piece of interactive fiction.
 It was written by Douglas Adams.  HHGttG was realised for radio, as books,
 as television, and as a movie, so it is fitting that it was realised as a
 text adventure as well.
@@ -92,10 +94,27 @@ we could start the endgame.  (Although she might've later on playing it alone,
 as I seem to recall talking about it.)
 
 I have never gotten to that point since then either, but I have worked through
-the various Zorks.
+the various Zorks.  Zork II is probably my least favourite of those.
 
-**Why you should play it**: It's a classic.  It's not just that it introduced
+Why is it a classic?  It's not just that it introduced
 a parser which was miles ahead of every other parser at the time, the
 descriptions are also extremely well-written.  There's a certain economy of
 prose that I think is due to Lebling's writing — you can see it in Enchanter and
 Spellbreaker too.
+
+### Colossal Cave
+
+*   written by: Crowther & Woods
+*   treasure-oriented: yes
+*   wikipedia: [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
+
+I don't think I played Colossal Cave until sometime after I tried playing
+Dungeon, but I don't remember exactly.
+
+I never found it very engaging, tbh.  But it's a classic, obviously, because
+it was long considered the first text adventure (but that is apparently not
+strictly true anymore).
+
+The description of one of the locations is "Hall of the Mountain King" and
+I always thought that the magic word GRIEG should do something there, but it
+doesn't.
