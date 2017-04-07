@@ -5,13 +5,17 @@ I originally compiled this list (as a list of my favourite games) because
 I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
 then I could too.  I've also been told that I have good taste in video games.
 
-Gameplay impresses me far more than the graphics or sound
-effects or "realism" of the game.   Music does has some influence
-on me though, in that an exceptional soundtrack will count for some
-extra points.
+Gameplay generally counts more than the quality of the graphics or sound
+effects or music, but the latter elements sometimes have their part to play
+in making a really notable game.  "Realism" of the game is generally not
+a factor.
 
-These are ordered from most favourite to least favourite.  Note, however,
+These are ordered from most impressive to me to least impressive.  Note, however,
 that the order and contents of this list are subject to change.
+
+This list is mostly arcade games and games for home systems which are
+16-bit or more; this is intentional.  For a list of games of note for
+8-bit home systems, see [8-bit Games of Note](8-bit%20Games%20of%20Note.md).
 
 ### Typhoon Thompson
 
@@ -120,6 +124,20 @@ jump. The longer you keep holding X and right, the more rotational velocity
 you'll have when you catch air. Whee! And it has another soundtrack that
 can't be beat, too.
 
+### Looping
+
+*   entry @ [mobygames](http://www.mobygames.com/game/looping)
+*   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
+*   available for: Arcade, Colecovision
+*   controls: joystick
+*   genre: Maze-runner
+
+In this game, your goal is to pilot an airplane over some terrain
+and then through a field of obstacles — inside a maze, essentially.
+This is made more complicated by the fact that you can only change
+direction in an arc.  You can also shoot out some bits of the world
+when they get in your way, and in fact you have to in some places.
+
 ### Llamatron
 
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
@@ -135,12 +153,3 @@ quadrupeds. And cans of Coke. And Mandelbrot sets...
 Llamatron was written for the Atari ST, but I only ever played a version
 for MS-DOS, and apparently this an erstaz version, although I do not recall
 where I read that.
-
-### Looping
-
-*   entry @ [mobygames](http://www.mobygames.com/game/looping)
-*   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
-*   available for: Arcade, Colecovision
-*   controls: joystick
-
-A very interesting flying game.

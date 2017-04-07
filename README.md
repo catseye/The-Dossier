@@ -23,7 +23,7 @@ Articles Contained Herein
     in fact, sometimes quite the opposite.  It's that they've stuck in my mind
     for one reason or another, and I would hate for them to be forgotten.
     
-    *   [Video Games of Note](article/Video%20Games%20of%20Note.md) *(U)*
+    *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
     *   [8-bit Games of Note](article/8-bit%20Games%20of%20Note.md) *(U)*
     *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) *(U)*
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
