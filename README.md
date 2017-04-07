@@ -25,22 +25,22 @@ Articles Contained Herein
     
     *   [Video Games of Note](article/Video%20Games%20of%20Note.md) *(U)*
     *   [8-bit Games of Note](article/8-bit%20Games%20of%20Note.md) *(U)*
-    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
+    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) *(U)*
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
+
+*   **Classics**
+    
+    I have much less worry about classics being forgotten, obviously, but I still
+    have things to say about them sometimes, or notable memories of them in some
+    way or another.
+    
+    *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
+    *   [Classic Computer Games](article/Classic%20Computer%20Games.md)
+    *   [Classic Commodore 64 Games](article/Classic%20Commodore%2064%20Games.md) *(U)*
     
 *   [Lost Games](article/Lost%20Games.md)
 *   [Memorable Games](article/Memorable%20Games.md) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
-
-### Classics
-
-I have much less worry about classics being forgotten, obviously, but I still
-have things to say about them sometimes, or notable memories of them in some
-way or another.
-
-*   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
-*   [Classic Computer Games](article/Classic%20Computer%20Games.md)
-*   [Classic Commodore 64 Games](article/Classic%20Commodore%2064%20Games.md) *(U)*
 
 External Articles
 -----------------
