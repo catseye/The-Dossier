@@ -28,9 +28,9 @@ Articles Contained Herein
     *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
     
-*   [Lost Games](article/Lost%20Games.md) *(U)*
+*   [Lost Games](article/Lost%20Games.md)
 *   [Memorable Games](article/Memorable%20Games.md) *(U)*
-*   [Some Modern Retrogames](article/Modern%20Retrogames%20of%20Note.md)
+*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
 
 ### Classics
 

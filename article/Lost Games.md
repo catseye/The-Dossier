@@ -44,21 +44,6 @@ through it?  It was paired with some idiom like "killing the crow".
 It may have been "eating crow"; that seems more likely as an idiom,
 but I don't remember the graphic involving eating in any way.
 
-### Mountain survival game
-
-*   seen-on: Apple II
-
-Played in school.  You picked what to take from the crashed plane.
-There were some colour hi-res graphics.
-
-### Very simple civiliation-type game
-
-*   seen-on: Apple II
-
-Played in school.  You had to find fertile soil, and then you settled
-there and had your artisans build a monument there.  ISTR there were
-some very simple black-and-white hi-res graphics.
-
 ### Maze escape with people
 
 *   seen-on: Apple II
