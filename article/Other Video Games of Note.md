@@ -54,8 +54,3 @@ as the main game.
 Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
-
-### Pooyan
-
-Memorable for: the name, the pigs, and the fact that I recognized the
-theme music - it was "Humoresque" by Dvorak.

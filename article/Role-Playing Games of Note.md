@@ -4,14 +4,15 @@ Role-Playing Games of Note
 This includes roguelikes.  It might also include pen-and-paper RPGs at
 some point.
 
-CRPGs I've Played
------------------
+Role-Playing Games I've Played
+------------------------------
 
 ### Alphaman
 
 *   genre: Roguelike
 *   available for: MS-DOS
 *   controls: keyboard
+*   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
@@ -36,8 +37,9 @@ Greek alphabet soup anyway isn't it.
 ### Dungeon Master
 
 *   genre: Role-playing
-*   available-for: Amiga 500
+*   available-for: Atari ST, Amiga
 *   controls: mouse and keyboard
+*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)
 
 A surprisingly intricate dungeon exploration game from the era of personal
 computers that didn't need internal fans. In first-person perspective, and in
@@ -51,6 +53,7 @@ them as their last torch is consumed.
 *   genre: Role-playing
 *   available-for: Commodore 64, others
 *   controls: joystick and one button
+*   wikipedia: https://en.wikipedia.org/wiki/Adventure_Construction_Set
 
 I'm a sucker for "construction sets" (games that come with a level editor), and
 a sucker for adventure games, so this would seem a natural fit. It's actually a
@@ -66,26 +69,19 @@ trigger all the objects when the player walks over it, or bumps into it.
 *   genre: Roguelike
 *   available for: Commodore 64
 *   controls: joystick and keyboard
+*   wikipedia: https://en.wikipedia.org/wiki/Sword_of_Fargoal
 
 An early roguelike for the C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 
-### Zelazny Angband
-
-*   genre: Roguelike
-*   available for: POSIX
-*   controls: keyboard
-
-I'm not at all a fan of Roger Zelazny's stuff, but this is one of the
-best-hacked Angband's out there, and has a really good gameplay balance.
-
-### Ultima VII Part 2
+### Ultima VII Part 2: The Serpent Isle
 
 *   genre: Role-playing
 *   available for: MS-DOS
 *   controls: mouse
+*   wikipedia: https://en.wikipedia.org/wiki/Ultima_VII_Part_Two:_Serpent_Isle
 
-Classic.
+Classic, and would be on a list of classic RPGs, but I don't have one yet.
 
 I wasn't fortunate enough to play this until 2003. This was, of course, long
 after the hardware that it made so many demands on was obsolete, and could only

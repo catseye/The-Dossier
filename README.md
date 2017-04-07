@@ -18,7 +18,6 @@ Articles Contained Herein
 ### Games
 
 *   [Favourite Video Games](article/Favourite%20Video%20Games.md)
-*   [Miscellaneous Memories of Games](article/Miscellaneous%20Memories%20of%20Games.md) *(U)*
 *   [Lost Games](article/Lost%20Games.md) *(U)*
 
 ### Items of Note
@@ -29,9 +28,10 @@ for one reason or another, and I would hate for them to be forgotten.
 
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 *   [Modern Retrogames of Note](article/Modern%20Retrogames%20of%20Note.md)
-*   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) *(U)*
+*   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) *(U)*
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
+*   [Other Video Games of Note](article/Other%20Video%20Games%20of%20Note.md) *(U)*
 
 ### Classics
 
