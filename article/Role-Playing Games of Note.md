@@ -34,19 +34,13 @@ Metamorphosis Alpha, and, while "Omega" refers to "last", "Alpha" and "Gamma"
 likely refer to the role of radiation, and well I mean it's all a bit of a
 Greek alphabet soup anyway isn't it.
 
-### Dungeon Master
+### Rock Star Ate My Hamster
 
-*   genre: Role-playing
-*   available-for: Atari ST, Amiga
-*   controls: mouse and keyboard
-*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)
+### Below the Root
 
-A surprisingly intricate dungeon exploration game from the era of personal
-computers that didn't need internal fans. In first-person perspective, and in
-real time, a party of four adventurers hack and slash their way past various
-nasties, eating their remains, throwing switches, throwing pieces of clothing,
-triggering traps, casting spells, and watching the world fade to black around
-them as their last torch is consumed.
+*   wikipedia: https://en.wikipedia.org/wiki/Below_the_Root_(video_game)
+*   published by: Windham Classics
+*   available for: Commodore 64, Apple II, MS-DOS
 
 ### Adventure Construction Set
 
@@ -73,3 +67,17 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 An early roguelike for the C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
+
+### Dungeon Master
+
+*   genre: Role-playing
+*   available-for: Atari ST, Amiga
+*   controls: mouse and keyboard
+*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)
+
+A surprisingly intricate dungeon exploration game from the era of personal
+computers that didn't need internal fans. In first-person perspective, and in
+real time, a party of four adventurers hack and slash their way past various
+nasties, eating their remains, throwing switches, throwing pieces of clothing,
+triggering traps, casting spells, and watching the world fade to black around
+them as their last torch is consumed.

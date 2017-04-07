@@ -1,5 +1,5 @@
-Modern Retrogames of Note
-=========================
+Some Modern Retrogames
+======================
 
 Some games written for computers and consoles of old, far past the time
 those computers and consoles were current.

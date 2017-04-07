@@ -23,15 +23,14 @@ Articles Contained Herein
     in fact, sometimes quite the opposite.  It's that they've stuck in my mind
     for one reason or another, and I would hate for them to be forgotten.
     
-    *   [Other Video Games of Note](article/Other%20Video%20Games%20of%20Note.md) *(U)*
+    *   [Video Games of Note](article/Video%20Games%20of%20Note.md) *(U)*
     *   [8-bit Games of Note](article/8-bit%20Games%20of%20Note.md) *(U)*
     *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
     
-*   [Favourite Video Games](article/Favourite%20Video%20Games.md)
 *   [Lost Games](article/Lost%20Games.md) *(U)*
 *   [Memorable Games](article/Memorable%20Games.md) *(U)*
-*   [Modern Retrogames of Note](article/Modern%20Retrogames%20of%20Note.md)
+*   [Some Modern Retrogames](article/Modern%20Retrogames%20of%20Note.md)
 
 ### Classics
 

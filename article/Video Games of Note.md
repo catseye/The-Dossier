@@ -1,8 +1,8 @@
-Favourite Video Games
-=====================
+Video Games of Note
+===================
 
-I originally compiled this list because I figured that if
-[Wouter could have such a page](http://strlen.com/rants/fav_games.html),
+I originally compiled this list (as a list of my favourite games) because
+I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
 then I could too.  I've also been told that I have good taste in video games.
 
 Gameplay impresses me far more than the graphics or sound
@@ -62,18 +62,6 @@ devil-cat-thing with a checkered flag. And a balloon that warps you to
 other cities. How can you not love it?
 
 Not sure if it's truly a platformer, though.
-
-### Katamari Damacy
-
-*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
-*   published by: Namco
-*   genre: Maze-Runner (nominally)
-*   available for: Sony PlayStation
-*   controls: dual analog joystick
-
-An extremely original game — sort of a four-dimensional maze game where the
-fourth dimension is scale. Rolling things up is also surprisingly satisfying
-and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 
 ### Liquid Kids
 
@@ -147,3 +135,12 @@ quadrupeds. And cans of Coke. And Mandelbrot sets...
 Llamatron was written for the Atari ST, but I only ever played a version
 for MS-DOS, and apparently this an erstaz version, although I do not recall
 where I read that.
+
+### Looping
+
+*   entry @ [mobygames](http://www.mobygames.com/game/looping)
+*   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
+*   available for: Arcade, Colecovision
+*   controls: joystick
+
+A very interesting flying game.
