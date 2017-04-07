@@ -48,12 +48,3 @@ flying at night over a lightless plain, that's essentially reasonable.
 
 *   available for: Commodore 64, VIC 20
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
-
-### Racked Off
-
-*   written by: Richard Bayliss
-*   available for: Commodore 64
-*   download @ [tnd](http://tnd64.unikat.sk/r.html)
-
-A very fun game, and notable that there is (as far as I can tell) no
-random element — the baddies' movements are completely determined by your own.

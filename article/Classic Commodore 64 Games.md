@@ -12,7 +12,12 @@ on (or were a conversion from) other systems.
 
 ### Starquake
 
+*   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
+*   published by: Bubble Bus Software
+
 ### Paradroid
+
+*   wikipedia: https://en.wikipedia.org/wiki/Paradroid
 
 ### Necromancer
 
@@ -21,15 +26,22 @@ on (or were a conversion from) other systems.
 *   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
 *   available for: Commodore 64, Atari 800
 
-### Castles of Dr. Creep
+### The Castles of Dr. Creep
+
+*   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
 
 ### Hovver Bovver
 
 *   written by: Jeff Minter
+*   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
 
 Didn't realize "bovver" was "bother" until I was older.
 
 ### Whistler's Brother
+
+*   wikipedia: N/A
+*   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2846)
 
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but a second character indirectly by influencing where
@@ -37,8 +49,16 @@ they go by whistling at them.
 
 ### Spindizzy
 
+*   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
+
 ### Zig Zag
 
+No, it wasn't called that?  Research this!
+
 ### Zeppelin
+
+*   wikipedia: N/A
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 
 Notable because you can shoot out bits of wall.
