@@ -73,18 +73,3 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 An early roguelike for the C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
-
-### Ultima VII Part 2: The Serpent Isle
-
-*   genre: Role-playing
-*   available for: MS-DOS
-*   controls: mouse
-*   wikipedia: https://en.wikipedia.org/wiki/Ultima_VII_Part_Two:_Serpent_Isle
-
-Classic, and would be on a list of classic RPGs, but I don't have one yet.
-
-I wasn't fortunate enough to play this until 2003. This was, of course, long
-after the hardware that it made so many demands on was obsolete, and could only
-be emulated awkwardly — either by Exult, which (when I tried it) was kind of
-hard to set up, or by switching between real mode and protected mode thousands
-of times a second, which is just about as happy as it sounds.

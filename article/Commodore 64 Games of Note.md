@@ -39,6 +39,10 @@ flying at night over a lightless plain, that's essentially reasonable.
 *   published by: Windham Classics
 *   available for: Commodore 64, Apple II, MS-DOS
 
+### Pharaoh's Curse
+
+*   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
+
 ### Big Mac
 
 the maintenance man
@@ -60,8 +64,6 @@ type-in
 ### The Young Ones
 
 Notable because they made a video game based on The Young Ones.
-
-### Pharaoh's Curse
 
 ### Ultimate Wizard
 

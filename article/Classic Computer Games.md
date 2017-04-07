@@ -56,4 +56,19 @@ has moments of morbidity that may make it worthwhile: Graham's scream as he
 falls off the icy cliffs, and the narrator's jesting about "dying for a drink."
 But don't even try playing the endgame without a walkthrough.
 
+### Ultima VII Part 2: The Serpent Isle
+
+*   genre: Role-playing
+*   available for: MS-DOS
+*   controls: mouse
+*   wikipedia: https://en.wikipedia.org/wiki/Ultima_VII_Part_Two:_Serpent_Isle
+
+Classic, and would be on a list of classic RPGs, but I don't have one yet.
+
+I wasn't fortunate enough to play this until 2003. This was, of course, long
+after the hardware that it made so many demands on was obsolete, and could only
+be emulated awkwardly — either by Exult, which (when I tried it) was kind of
+hard to set up, or by switching between real mode and protected mode thousands
+of times a second, which is just about as happy as it sounds.
+
 [RUBE]: http://catseye.tc/node/RUBE
