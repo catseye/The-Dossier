@@ -1,28 +1,19 @@
-Miscellaneous Memories of Games
-===============================
+Other Video Games of Note
+=========================
 
 These are games that I remember something about for whatever reason,
 that don't fit into any of the other lists: they're not favourites (but they
 might be OK), they're not classics (but they might've been popular), and
 they're not items of note (but they might be somewhat interesting.)
 
-### Penny Arcade
+### Looping
 
-*   written by: Bill Budge
-*   genre: Sports
-*   available for: Apple II
-*   published by: Apple Computer, Inc.
-*   release date: 1979
-*   controls: paddles
-*   video @ [youtube](https://www.youtube.com/watch?v=4h67eM0RAdM)
+*   entry @ [mobygames](http://www.mobygames.com/game/looping)
+*   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
+*   available for: Arcade, Colecovision
+*   controls: joystick
 
-OK, so mainly this is notable because it was written as a machine-language
-routine "attached" to a BASIC program.  So you loaded and ran it like a BASIC
-program, but all the BASIC part was doing was calling the machine-language
-part.  And when you LISTed the BASIC program, all that was visible was 
-the BASIC part.
-
-To a kid like me at the time, that made it seem like an effing *mystery*.
+A very interesting flying game.
 
 ### Cloak & Dagger
 
