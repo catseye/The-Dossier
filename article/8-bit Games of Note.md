@@ -6,7 +6,9 @@ computers and consoles of the 80's: Commodore 64, Apple II, Atari.
 
 ### Russki Duck
 
-*   avaiable for: Apple II
+![screenshotp](http://www.platypuscomix.net/applepalooza/russki2.gif)
+
+*   available for: Apple II
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
 *   online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
@@ -14,15 +16,27 @@ computers and consoles of the 80's: Commodore 64, Apple II, Atari.
 
 I have no words.  It seemed very high-concept, at the time.
 
+If it seems disappointing that you can only carry one object at a time,
+consider that you're a duck, so isn't it a bit miraculous that you can carry
+*any* objects at all?
+
 ### Dynamite Dan
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/d/dynamite_dan_01.gif)
+
 *   available for: Commodore 64
+*   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D802)
 
 Beautiful hi-res graphics.
 
 ### Street Surfer
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/street_surfer_03.gif)
+
 *   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2505)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
 
 Notable for the fact that the theme music changed tempo to match your
 speed.
@@ -32,8 +46,9 @@ And for the fact that the object of the game was based on recycling.
 And for the fact that you could, on a skateboard, outpace cars on a
 highway.
 
-### Night Flight
+### Night Flight, an I.F.R. Simulator
 
+*   written by: Tim Gerchmez
 *   available for: Commodore 64
 
 Notable for the fact that it was a flight simulator with no graphics.

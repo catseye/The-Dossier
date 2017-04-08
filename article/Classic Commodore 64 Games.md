@@ -53,7 +53,10 @@ they go by whistling at them.
 
 ### Zig Zag
 
-No, it wasn't called that?  Research this!
+*   wikipedia: N/A
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2943)
+
+Not to be confused with a different game called Zig Zag, also for the C64.
 
 ### Zeppelin
 
