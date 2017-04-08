@@ -39,7 +39,7 @@ Articles Contained Herein
     *   [Classic Commodore 64 Games](article/Classic%20Commodore%2064%20Games.md) *(U)*
     
 *   [Lost Games](article/Lost%20Games.md)
-*   [Memorable Games](article/Memorable%20Games.md) *(U)*
+*   [Recollected Games](article/Recollected%20Games.md) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
 
 External Articles

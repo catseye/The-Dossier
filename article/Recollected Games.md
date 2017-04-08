@@ -1,26 +1,34 @@
-Memorable Games
-===============
+Recollected Games
+=================
 
-These are games which are not classics and not "of note" (they may in fact
-be quite plain) but I do have memories of them, for whatever reason.
+These are games which are possibly not remarkable enough nor classic enough
+to be put in one of the other lists, but which I have memories of playing
+(or at least seeing) regardless, and I'd like to note those memories somewhere.
 
-OK, some may in fact be classics.  This is very much a grab bag right now.
-
-Should probably be called 'Recollected Games'.
+This list is kind of a grab bag and will possibly never be as well organized
+as the other lists.
 
 ### Bomb Jack
+
+*   available for: Arcade
 
 I remember seeing it in Portugal.
 
 ### Springer
 
+*   available for: Arcade
+
 I remember seeing it in an airport in Mexico.
 
 ### Kickman
 
+*   available for: Arcade
+
 I remember it from a café in a small farming community in Manitoba.
 
 ### Crazy Climber
+
+*   available for: Arcade
 
 I remember it from a café in a small farming community in Manitoba.
 
@@ -69,24 +77,36 @@ IMAX style.  It was vertigo-inducing.
 
 ### Big Mac
 
-the maintenance man
+*   available for: Commodore 64
+
+Full title is "Big Mac The Maintenance Man", I think.
 
 ### Slinky
 
-holy cow
+*   available for: Commodore 64
+
+This one might be of note.
 
 ### Crossroads
 
-type-in
+*   available for: Commodore 64
+
+One of the best type-in games.
 
 ### Lava Flow
 
-type-in
+*   available for: Commodore 64
+
+An interesting type-in game.  The lava works like a cellular automaton,
+a bit.
 
 ### Everyone's a Wally
 
+*   available for: Commodore 64
+
 ### Ultimate Wizard
 
+*   available for: Commodore 64
 *   published by: Electronic Arts
 
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
@@ -94,6 +114,7 @@ kit, really.
 
 ### Swashbuckler
 
+*   available for: Apple II
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
 *   online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 
@@ -103,6 +124,7 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ### Sammy Lightfoot
 
+*   available for: Apple II, others
 *   wikipedia: [Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot)
 *   online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
 
@@ -134,6 +156,7 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 
 ### Lemonade Stand
 
+*   available for: Apple II
 *   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
 *   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
 
@@ -146,12 +169,18 @@ Licensed Characters
 
 ### The Young Ones
 
+*   available for: Commodore 64
+
 Notable because they made a video game based on The Young Ones.
 
 ### Danger Mouse
 
-C64
+*   available for: Commodore 64
+
+This one might be of note, but not because it was a good game.
 
 ### Trap Door
 
-C64
+*   available for: Commodore 64
+
+This one might be of note too.
