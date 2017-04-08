@@ -1,10 +1,28 @@
 Memorable Games
 ===============
 
-These are games which are not classics and not even "of note" but I do
-have memories of them, for whatever reason.
+These are games which are not classics and not "of note" (they may in fact
+be quite plain) but I do have memories of them, for whatever reason.
 
 OK, some may in fact be classics.  This is very much a grab bag right now.
+
+Should probably be called 'Recollected Games'.
+
+### Bomb Jack
+
+I remember seeing it in Portugal.
+
+### Springer
+
+I remember seeing it in an airport in Mexico.
+
+### Kickman
+
+I remember it from a café in a small farming community in Manitoba.
+
+### Crazy Climber
+
+I remember it from a café in a small farming community in Manitoba.
 
 ### Katamari Damacy
 
@@ -67,10 +85,6 @@ type-in
 
 ### Everyone's a Wally
 
-### The Young Ones
-
-Notable because they made a video game based on The Young Ones.
-
 ### Ultimate Wizard
 
 *   published by: Electronic Arts
@@ -126,3 +140,18 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 This is probably a classic.
 
 Summer is endless, unlike in the Commodore 64 version.
+
+Licensed Characters
+-------------------
+
+### The Young Ones
+
+Notable because they made a video game based on The Young Ones.
+
+### Danger Mouse
+
+C64
+
+### Trap Door
+
+C64

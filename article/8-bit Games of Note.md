@@ -62,10 +62,17 @@ the Commodore 64, but this one is for the C64 only and is freeware.
 
 ### Fire Ant
 
+![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
+
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
 
 ### Pharaoh's Curse
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/p/pharaohs_curse_05.gif)
+
 *   available for: Commodore 64, VIC 20
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D1923)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
