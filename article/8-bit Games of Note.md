@@ -14,11 +14,10 @@ computers and consoles of the 80's: Commodore 64, Apple II, Atari.
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
 
-I have no words.  It seemed very high-concept, at the time.
+I have no words.  It seemed very high-concept, at the time.  Possibly because
+the enemy agents did things quite independently of what you were doing.
 
-If it seems disappointing that you can only carry one object at a time,
-consider that you're a duck, so isn't it a bit miraculous that you can carry
-*any* objects at all?
+I liked how the signs on the streets helpfully told you that they were ONE WAY.
 
 ### Dynamite Dan
 
@@ -28,7 +27,10 @@ consider that you're a duck, so isn't it a bit miraculous that you can carry
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D802)
 
-Beautiful hi-res graphics.
+Beautiful graphics.  Since the antagonists were implemented with "soft sprites"
+(groups of programmable characters), all(?) 8 hardware sprites were free to
+be used for the protagonist in a composite fashion that was both hi-res and
+multicolour.  The music was also good.  The game itself was quite hard.
 
 ### Street Surfer
 
@@ -55,9 +57,13 @@ Notable for the fact that it was a flight simulator with no graphics.
 Well, only the control panel.  Given that you were supposed to be
 flying at night over a lightless plain, that's essentially reasonable.
 
+In fact IFR simulators were "a thing" and there are more than one for
+the Commodore 64, but this one is for the C64 only and is freeware.
+
 ### Fire Ant
 
 *   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 
 ### Pharaoh's Curse
 
