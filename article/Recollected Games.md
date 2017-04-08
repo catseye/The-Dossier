@@ -8,6 +8,20 @@ to be put in one of the other lists, but which I have memories of playing
 This list is kind of a grab bag and will possibly never be as well organized
 as the other lists.
 
+### Night Flight, an I.F.R. Simulator
+
+*   written by: Tim Gerchmez
+*   available for: Commodore 64
+
+Notable for the fact that it was a flight simulator with no graphics.
+Well, only the control panel.  Given that you were supposed to be
+flying at night over a lightless plain, that's essentially reasonable.
+
+In fact IFR simulators were "a thing" and there are more than one for
+the Commodore 64, but this one is for the C64 only and is freeware.
+
+TODO: I should write about IFR simulators here a bit.
+
 ### Bomb Jack
 
 *   available for: Arcade

@@ -19,13 +19,6 @@ on (or were a conversion from) other systems.
 
 *   wikipedia: https://en.wikipedia.org/wiki/Paradroid
 
-### Necromancer
-
-![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
-
-*   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
-*   available for: Commodore 64, Atari 800
-
 ### The Castles of Dr. Creep
 
 *   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep

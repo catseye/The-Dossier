@@ -1,12 +1,13 @@
 8-bit Games of Note
 ===================
 
-An extension of "Video Games of Note" which applies to the 8-bit home
-computers and consoles of the 80's: Commodore 64, Apple II, Atari.
+This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
+which is dedicated to games for 8-bit home systems, namely Atari, Apple, and
+Commodore.
 
 ### Russki Duck
 
-![screenshotp](http://www.platypuscomix.net/applepalooza/russki2.gif)
+![screenshot](http://www.platypuscomix.net/applepalooza/russki2.gif)
 
 *   available for: Apple II
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
@@ -16,8 +17,13 @@ computers and consoles of the 80's: Commodore 64, Apple II, Atari.
 
 I have no words.  It seemed very high-concept, at the time.  Possibly because
 the enemy agents did things quite independently of what you were doing.
+Possibly because you have a crude inventory.  Possibly because the different
+locations were shown at different scale.
 
-I liked how the signs on the streets helpfully told you that they were ONE WAY.
+The epithet "Russki" seems pretty dated, not to say obsolete, now, but there
+was a Cold War on at the time, you know!
+
+I like how the signs on the streets helpfully tell you that they are ONE WAY.
 
 ### Dynamite Dan
 
@@ -30,7 +36,7 @@ I liked how the signs on the streets helpfully told you that they were ONE WAY.
 Beautiful graphics.  Since the antagonists were implemented with "soft sprites"
 (groups of programmable characters), all(?) 8 hardware sprites were free to
 be used for the protagonist in a composite fashion that was both hi-res and
-multicolour.  The music was also good.  The game itself was quite hard.
+multicolour.  The music is also good.  The game itself is quite hard.
 
 ### Street Surfer
 
@@ -40,33 +46,19 @@ multicolour.  The music was also good.  The game itself was quite hard.
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2505)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
 
-Notable for the fact that the theme music changed tempo to match your
-speed.
+In the mid-80's, when skateboarding became popular, a rash of such games
+appeared: Skate or Die, Skate Rock, and so forth.  But this one made all
+of those look quite banal.
 
-And for the fact that the object of the game was based on recycling.
+For one thing, Street Surfer was probably one of the first games based on
+recycling.  The object is to collect and recycle as many glass bottles as
+possible.
 
-And for the fact that you could, on a skateboard, outpace cars on a
+Also notable for the fact that you could, on a skateboard, outpace cars on a
 highway.
 
-### Night Flight, an I.F.R. Simulator
-
-*   written by: Tim Gerchmez
-*   available for: Commodore 64
-
-Notable for the fact that it was a flight simulator with no graphics.
-Well, only the control panel.  Given that you were supposed to be
-flying at night over a lightless plain, that's essentially reasonable.
-
-In fact IFR simulators were "a thing" and there are more than one for
-the Commodore 64, but this one is for the C64 only and is freeware.
-
-### Fire Ant
-
-![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
-
-*   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
-*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
+Also notable for the fact that the theme music changes tempo to match your
+speed.
 
 ### Pharaoh's Curse
 
@@ -76,3 +68,20 @@ the Commodore 64, but this one is for the C64 only and is freeware.
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
+
+You can shoot the mummy, but the mummy can shoot back.  Need I say any more?
+
+### Fire Ant
+
+![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
+
+*   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
+
+### Necromancer
+
+![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
+
+*   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
+*   available for: Commodore 64, Atari 800

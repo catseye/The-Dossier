@@ -13,9 +13,9 @@ a factor.
 These are ordered from most impressive to me to least impressive.  Note, however,
 that the order and contents of this list are subject to change.
 
-This list is mostly arcade games and games for home systems which are
-16-bit or more; this is intentional.  For a list of games of note for
-8-bit home systems, see [8-bit Games of Note](8-bit%20Games%20of%20Note.md).
+This list is mostly arcade games.  Games for 8-bit home systems (Atari,
+Commodore, etc) have intentionally been offloaded to a dedicated article:
+[8-bit Games of Note](8-bit%20Games%20of%20Note.md).
 
 ### Typhoon Thompson
 
