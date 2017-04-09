@@ -27,11 +27,16 @@ just making up some numbers for convenience in this paragraph).  Therefore each
 frame must be generated quite quickly — say, 1/30 of a second — and therefore
 each scan line must be generated even more quickly — 1/6000 of a second if
 there are 200 scan lines.  And if each scan line contains 200 pixels, then the
-beam must change in intensity 1.2 million times a second.  This is pretty
-frequent, and while it's not too difficult to pack this into an analog TV
-signal, if you want a computer to generate this, it could really use some
-dedicated hardware — you're going to use a lot of cycles if you ask the
-CPU to control every pixel individually.
+beam must change in intensity 1.2 million times a second.
+
+Video display circuitry
+-----------------------
+
+1.2 million times per second is a lot of times per second to do anything,
+and while it's not too difficult to pack this many changes into an analog TV
+signal, if you wanted a computer to generate this signal, it would really
+help matters if it had some dedicated hardware for it.  You'd use up a lot of
+cycles if you were to task the CPU with controlling every pixel individually.
 
 In fact, to appreciate how video-oriented the early computers were,
 consider that the Commodore 64's clock speed in North America was
@@ -58,11 +63,14 @@ either and the picture looks still.  And a program (running on the CPU)
 only has to write a different value to one of the bytes of RAM, and that
 part of the screen will look different on the next frame.
 
+Vertical blanking interval
+--------------------------
+
 I say "next frame" but of course, since the CPU doesn't have direct
 control over when the video circuitry will turn any given part of video
 RAM into a video signal, there is no guarantee that the current frame
-won't be based partly on the updated video image.  When that happens,
-the view sees just that - partial images.  A particularly egregious
+won't be based partly on the newly updated video image.  When that happens,
+the viewer sees just that — partial images.  A particularly egregious
 instance of this effect is "CGA snow".  How do we prevent this?
 
 There's one thing I've omitted, and it comes from the fact that in an
@@ -79,21 +87,19 @@ top scan line starts being displayed, you will get a smoothly animated
 display.
 
 To enable this, the computer architecture is usually wired up such that
-an _interrupt_ is issued when the vertical blanking period begins.
-
-So the game program can, when it begins, install a handler for this
-interrupt — a bit of code which runs when the interrupt happens.
-
+an _interrupt_ is issued when the vertical blanking interval begins.
+So the game program can, when it starts up, install a handler for this
+interrupt — a bit of code which runs immediately when the interrupt happens,
+regardless of what the CPU is doing.
 There are different ways to set it up, but perhaps all this interrupt does
-is set a global variable, and perhaps all the main loop does is wait
+is set a global variable, and perhaps all the main code does is wait
 for this variable in a busy loop.
 
-At any rate, when the vertical blanking period begins, that is the time
+At any rate, when the vertical blanking interval begins, that is the time
 that the program should, as quickly as possible, update the display by
-writing new values to the video RAM.
-
-Once the vertical blanking period ends, the program should avoid changing
-video RAM, to avoid flicker and snow.
+writing new values to the video RAM.  And as soon as the vertical blanking
+interval ends, the program should avoid changing video RAM, to avoid flicker
+and snow.
 
 But there is this entire screen that is being updated at this point!
 Does the CPU just sit there, waiting for the next vertical blanking
