@@ -69,7 +69,14 @@ speed.
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 
-You can shoot the mummy, but the mummy can shoot back.  Need I say any more?
+It's difficult to say what contributes to this game's overall charm.
+
+You can shoot the mummy, but the mummy can shoot back.
+
+The triggers trigger traps on a delay which is perfectly predictable, so it
+adds an element of timing to the game.
+
+Also: the bird.
 
 ### Fire Ant
 
@@ -78,6 +85,12 @@ You can shoot the mummy, but the mummy can shoot back.  Need I say any more?
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
+*   controls: joystick
+
+Once I got used to the "tight handling" of the protagonist with the joystick,
+I liked this game a lot.  The premise is cute.  Each level introduces new
+things which you don't know what they do, and is not just a combination of
+known mechanisms.
 
 ### Necromancer
 
@@ -85,3 +98,7 @@ You can shoot the mummy, but the mummy can shoot back.  Need I say any more?
 
 *   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
 *   available for: Commodore 64, Atari 800
+
+It's a good example of a game which combines fast-pacing with variety
+while maintaining coherence across the variety.  The Wikipedia article
+explains it better than I can.
