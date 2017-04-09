@@ -114,9 +114,10 @@ never actually played.  I've only played the arcade coin-op version.
 
 ### Liquid Kids
 
-(screenshot tk)
+![screenshot](https://www.arcade-museum.com/images/118/1181242126249.png)
 
 *   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8433)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
@@ -129,9 +130,10 @@ shape of the kiwi.)
 
 ### The New Zealand Story
 
-(screenshot tk)
+![screenshot](https://www.arcade-museum.com/images/118/118124214176.png)
 
 *   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8859)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
@@ -143,7 +145,7 @@ pistols, magical fireball-belching staffs, and the like.
 
 ### Cool Boarders 2
 
-(screenshot tk)
+![screenshot](http://www.vizzed.com/videogames/psx/screenshot/Cool%20Boarders%202-2.jpg)
 
 *   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
 *   genre: Sports
@@ -159,7 +161,7 @@ beat.
 
 ### Llamatron
 
-(screenshot tk)
+![screenshot](http://img.squakenet.com/snapshot/4146/107149-Llamatron.jpg)
 
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter
