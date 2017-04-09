@@ -19,6 +19,8 @@ Commodore, etc) have intentionally been offloaded to a dedicated article:
 
 ### Typhoon Thompson
 
+![screenshot](https://pbs.twimg.com/media/C40WJmJWIAA-QBK.jpg)
+
 *   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 *   written by: Dan Gorlin
 *   published by: Brøderbund
@@ -41,6 +43,8 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 
 ### Pepper II
 
+![screenshot](http://www.vizzed.com/videogames/mame/screenshot/Pepper%20II-2.png)
+
 *   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
 *   published by: Exidy
 *   genre: Maze-Runner
@@ -55,6 +59,8 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 ### City Connection
 
+![screenshot](http://www.vizzed.com/videogames/mame/screenshot/City%20Connection%20(set%201)-2.png)
+
 *   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
 *   published by: Jaleco
 *   genre: Platformer (nominally)
@@ -67,20 +73,9 @@ other cities. How can you not love it?
 
 Not sure if it's truly a platformer, though.
 
-### Liquid Kids
-
-*   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
-*   published by: Taito
-*   genre: Platformer
-*   available for: Arcade
-*   controls: joystick and 2 buttons
-
-Very cute. Quite possibly a sequel or pseudo-sequel to The New Zealand Story,
-since you play what appears to be a platypus, and there are oblique references
-to TNZS (in one of the secret chambers, the platforms are arranged in the
-shape of the kiwi.)
-
 ### Lost Tomb
+
+![screenshot](https://www.arcade-museum.com/images/118/118124212725.png)
 
 *   genre: Shoot-'em'-Up
 *   available for: Arcade
@@ -98,33 +93,9 @@ rather than simply produced.
 
 Well, maybe I'm overstating it a bit, but you get the idea.
 
-### The New Zealand Story
-
-*   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
-*   published by: Taito
-*   genre: Platformer
-*   available for: Arcade
-*   controls: joystick and 2 buttons
-
-"This game is dedicated to all maze fans." However, that should not deter
-fans of: kiwis, archery, flying machines shaped like bears' heads, laser
-pistols, magical fireball-belching staffs, and the like.
-
-### Cool Boarders 2
-
-*   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
-*   genre: Sports
-*   available for: Sony PlayStation
-*   controls: D-pad and 6 buttons
-
-The only sports game on my list, but that's probably because it doesn't
-really feel anything like sport. It's only barely realistic — for example,
-there is clearly no limit to the amount of spin you can impart to your
-jump. The longer you keep holding X and right, the more rotational velocity
-you'll have when you catch air. Whee! And it has another soundtrack that
-can't be beat, too.
-
 ### Looping
+
+![screenshot](http://www.consoleclassix.com/info_img/Looping_COL_ScreenShot3.gif)
 
 *   entry @ [mobygames](http://www.mobygames.com/game/looping)
 *   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
@@ -138,7 +109,57 @@ This is made more complicated by the fact that you can only change
 direction in an arc.  You can also shoot out some bits of the world
 when they get in your way, and in fact you have to in some places.
 
+Note, the screenshot above is from the Colecovision version, which I have
+never actually played.  I've only played the arcade coin-op version.
+
+### Liquid Kids
+
+(screenshot tk)
+
+*   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
+*   published by: Taito
+*   genre: Platformer
+*   available for: Arcade
+*   controls: joystick and 2 buttons
+
+Very cute. Quite possibly a sequel or pseudo-sequel to The New Zealand Story,
+since you play what appears to be a platypus, and there are oblique references
+to TNZS (in one of the secret chambers, the platforms are arranged in the
+shape of the kiwi.)
+
+### The New Zealand Story
+
+(screenshot tk)
+
+*   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
+*   published by: Taito
+*   genre: Platformer
+*   available for: Arcade
+*   controls: joystick and 2 buttons
+
+"This game is dedicated to all maze fans." However, that should not deter
+fans of: kiwis, archery, flying machines shaped like bears' heads, laser
+pistols, magical fireball-belching staffs, and the like.
+
+### Cool Boarders 2
+
+(screenshot tk)
+
+*   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
+*   genre: Sports
+*   available for: Sony PlayStation
+*   controls: D-pad and 6 buttons
+
+The only sports game on my list, but that's probably because it doesn't
+really feel anything like sport. It's only barely realistic — for example,
+there is clearly no limit to the amount of spin you can impart to your
+jump. The longer you keep holding X and right, the more rotational velocity
+you'll have when you catch air. Whee! And it has a soundtrack that can't be
+beat.
+
 ### Llamatron
+
+(screenshot tk)
 
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter
