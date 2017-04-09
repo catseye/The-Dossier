@@ -161,7 +161,7 @@ beat.
 
 ### Llamatron
 
-![screenshot](http://img.squakenet.com/snapshot/4146/107149-Llamatron.jpg)
+![screenshot](http://www.wayoftherodent.com/wilbur/clip_image018_0006.jpg)
 
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter

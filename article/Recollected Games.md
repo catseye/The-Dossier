@@ -6,7 +6,63 @@ to be put in one of the other lists, but which I have memories of playing
 (or at least seeing) regardless, and I'd like to note those memories somewhere.
 
 This list is kind of a grab bag and will possibly never be as well organized
-as the other lists.
+as the other lists.  There is a good chance any particular entry here will
+move to some other list.
+
+Commodore 64
+------------
+
+Some of these aren't totally Commodore 64-specific, and had conversions
+on (or were a conversion from) other systems.
+
+### Starquake
+
+*   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
+*   published by: Bubble Bus Software
+
+### Paradroid
+
+*   wikipedia: https://en.wikipedia.org/wiki/Paradroid
+
+### The Castles of Dr. Creep
+
+*   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
+
+### Hovver Bovver
+
+*   written by: Jeff Minter
+*   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
+
+Didn't realize "bovver" was "bother" until I was older.
+
+### Whistler's Brother
+
+*   wikipedia: N/A
+*   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2846)
+
+Notable for gameplay mechanic: the player controls one character directly
+with a joystick, but a second character indirectly by influencing where
+they go by whistling at them.
+
+### Spindizzy
+
+*   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
+
+### Zig Zag
+
+*   wikipedia: N/A
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2943)
+
+Not to be confused with a different game called Zig Zag, also for the C64.
+
+### Zeppelin
+
+*   wikipedia: N/A
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
+
+Notable because you can shoot out bits of wall.
 
 ### Night Flight, an I.F.R. Simulator
 
@@ -21,6 +77,9 @@ In fact IFR simulators were "a thing" and there are more than one for
 the Commodore 64, but this one is for the C64 only and is freeware.
 
 TODO: I should write about IFR simulators here a bit.
+
+Arcade
+------
 
 ### Bomb Jack
 
