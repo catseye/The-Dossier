@@ -50,7 +50,7 @@ run at independent rates.)
 Either way, we have this dedicated video display circuitry which can generate
 a video signal without taking up any of the CPU's time.  How does it generate
 the display?  There were many possible tricks it could use, but the basic
-idea is that there is a chunk of RAM dedicated to holding a bit-map
+idea is that there is a chunk of RAM dedicated to holding a
 representation of the display — the "video RAM" — and this circuitry reads it
 and derives the signal that will modulate the beam which will make the various
 points on the screen either bright or dark (or colour, but we'll just ignore
@@ -113,6 +113,15 @@ new game state we computed.
 
 So in some sense, the history of video games has been "how much processing
 can you get done in 1/n'th of a second?"
+
+To recap:
+
+*   Wait for the VBI to begin.
+*   Update the video RAM based on the current game state.
+*   Before the VBI has ended, begin updating the game state based
+    on the current game state plus any input devices, etc.
+*   Wait for the next VBI to begin.
+*   Repeat ad infinitum.
 
 State
 -----
