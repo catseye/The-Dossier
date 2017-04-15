@@ -141,6 +141,7 @@ VGA provides various modes, both text and graphic.
 The "standard" text mode is probably 80-column-by-25-row 16-colour
 text.  16 colours doesn't always mean 16 colours; sometimes the
 "brightness" bit is interpreted to mean "blinking" instead.
+There's a Wikipedia article about it: [VGA-compatible text mode][].
 
 This is the mode that the computer generally already is in,
 but to switch to it (from e.g. a graphics mode),
@@ -174,3 +175,5 @@ Screen memory starts at `A0000h` (the uppermost-leftmost pixel)
 and extends 320 * 200 = 64000 bytes beyond that.  It's probably
 easiest to set the extended segment pointer `es` to `A000h` and
 address individual bytes with `si` or `di`.
+
+[VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
