@@ -177,4 +177,13 @@ and extends 320 * 200 = 64000 bytes beyond that.  It's probably
 easiest to set the extended segment pointer `es` to `A000h` and
 address individual bytes with `es:si` or `es:di`.
 
+There is also the fact that if you want smooth animation, you should
+wait for the vertical retrace period before making changes to screen
+memory, as discussed in [Basic Theory of Video Games][].
+
+I don't actually remember how to do this on an IBM PC, if I ever knew,
+but I do remember that [Allegro][] has some call for it, called
+something like `vsync()`.
+
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
+[Basic Theory of Video Games]: Basic%20Theory%20of%20Video%20Games.md
