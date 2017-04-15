@@ -1,7 +1,7 @@
 Vague Memories of MS-DOS Programming
 ====================================
 
-*draft, still*
+*draft.  title also subject to change.*
 
 So you want to program something in MS-DOS for some reason.  I
 totally support this sort of endeavour!  It is a totally worthwhile
@@ -15,7 +15,7 @@ Development Tools
 -----------------
 
 Borland tools are highly recommended; Borland C++, Turbo Pascal,
-and Turbo Assembler especially.  [DGJPP][] and [nasm][] (or [yasm][])
+and Turbo Assembler especially.  [DJGPP][] and [nasm][] (or [yasm][])
 are also highly recommended, and more modern.
 
 You don't need to know x86 machine code, but because DOS isn't
@@ -115,7 +115,7 @@ you should look into getting out of "real mode".
 The best alternative to "real mode" is "protected mode", which
 gives you simply 32-bit addressing, at the price of having to
 start a DPMI (DOS Protected Mode Interface) driver first.
-DGJPP targets this mode and comes with a DPMI driver.
+DJGPP targets this mode and comes with a DPMI driver.
 
 But the best alternative isn't necessarily the most entertaining.
 There is also something called "unreal mode" that I've wanted
