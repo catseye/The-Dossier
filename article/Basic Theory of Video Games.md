@@ -131,4 +131,39 @@ translating the game state into video updates, and updating the game state
 in a timely manner, we should probably talk about how the game state can be
 structured.
 
-This section is TBW.
+Saying "the next game state is based on the current game state plus the
+state of input devices" is very nice from a sort of mathematical point of
+view, but it's far too abstract to do much with.  Computer science provides
+us with the concept of the _state machine_ which can help us break it down.
+
+However, note that the state machine concept is used primarily as a *concept*,
+and not as programming abstraction.  That is, you don't tend to see anything
+like `class StateMachine { ... }` in a video game's code, at least not until
+the 1990's, because the overhead for such a thing would be prohibitive on
+(e.g.) an 8-bit processor.
+
+Instead, the state machine is implemented directly in the code, generally
+in terms of global variables and execution location.  It's probably obvious
+how the former works, but the latter is somewhat more subtle; it basically
+comes down to, if we are inside such-and-such part of the code, we know we
+must be in such-and-such state, so act accordingly.  It's like the state
+has been "compiled into" the code.
+
+There are two other things to note about the states of a video game:
+
+*   They extend outside of the game itself.  Arcade games would have
+    an "attract mode", but even simple home games generally have a
+    title screen or something before a new game begins, and that title
+    screen is a state too.
+    
+*   They are composed of smaller states, sometimes sub-state machines.
+    For instance, in an "attract mode" state, the machine might
+    switch between showing a title screen, the list of high scores,
+    and a summary of the rules, each showing for 5 seconds — these
+    are sub-states of the "attract mode" state.  Or, during the game
+    itself, there might be 12 spaceships on the screen, each with
+    its own state (position and velocity).  You could also call those
+    sub-states, but this time they compose differently — the state of
+    the "game screen" is a product of those 12 states.
+
+(a few more things TBW)
