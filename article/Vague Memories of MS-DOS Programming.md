@@ -1,6 +1,8 @@
 Vague Memories of MS-DOS Programming
 ====================================
 
+*draft, still*
+
 So you want to program something in MS-DOS for some reason.  I
 totally support this sort of endeavour!  It is a totally worthwhile
 thing to try.  However, there are parts of it that can be a real
@@ -13,12 +15,16 @@ Development Tools
 -----------------
 
 Borland tools are highly recommended; Borland C++, Turbo Pascal,
-and Turbo Assembler especially.  DGJPP, which is more modern, is
-also highly recommended.
+and Turbo Assembler especially.  [DGJPP][] and [nasm][] (or [yasm][])
+are also highly recommended, and more modern.
 
 You don't need to know x86 machine code, but because DOS isn't
 much of an operating system, it helps to be comfortable with
 thinking about low-level behaviour of the machine.
+
+[DJGPP]: http://www.delorie.com/djgpp/
+[nasm]: http://www.nasm.us/
+[yasm]: http://yasm.tortall.net/
 
 Interrupts
 ----------
@@ -27,68 +33,65 @@ OK, so when you write a program in DOS, you actually have a choice:
 you can use DOS for what you want to do, or you can totally bypass
 DOS and use the underlying BIOS instead.
 
-If you go straight to the BIOS, you might leave DOS a little confused
-about the state of things.  And you lose the advantages that DOS
-gives you, like being able to redirect output to a file, talking to
-hardware in a more abstract way via a driver, etc.
+If you go straight to the BIOS, DOS won't try to stop you; at
+worst, you might leave DOS a little confused about the state of
+things.  You will lose the advantages that DOS gives you, like being
+able to redirect output to a file, talking to hardware in a more
+abstract way via a driver, etc.  But those advantages aren't
+terribly great, especially for games, and especially in the modern
+era, where your code will almost certainly be running on [DOSBox][],
+or [FreeDOS][] under [QEMU][], or [v86][], instead of on a real
+machine where you need to worry about what kind of soundcard the
+user has.
 
-But those advantages aren't great, especially if what you want to
-write is a game, and especially if it's in the modern era, where it
-will more likely be run on DOSBox or QEMU, where you have control
-over the (simulated) hardware.
+And if you only use the BIOS and never DOS itself, your program
+can run without DOS.  That's right, you can just put your program
+on a boot disk and boot right into it and not worry about DOS at all.
 
-And if you only use the BIOS and never DOS itself, you can run
-without DOS.  Seriously, you could just put your program on a boot
-disk and boot right into it and not worry about DOS at all.
-Maybe this document should even be called "Programming the IBM PC".
+But if you want to do things like load and save files, then using
+DOS will be much easier than e.g. writing your own filesystem routines.
+And if you're using a language other than assembler, your compiler
+might insert code which uses DOS anyway and would be a bother to work
+around.
 
-But either way, everything you do with the system will be done, under
-the hood, by invoking an interrupt.
-
-This is, if you ask me, backwards.  A program should *respond* to
-interrupts, not *cause* them.  But this is how they built this
-architecture, so who am I to complain.  I think of them as system
-calls.
+In either case, under the hood, everything you do with the system
+will be done by invoking an interrupt.  This is, if you ask me,
+backwards.  A program should *respond* to interrupts, not *cause* them.
+But this is how they built this architecture, so who am I to complain.
+I think of them as system calls.
 
 `int 21h` is a "system call" to DOS.  The "system calls"
-to the BIOS have a certain other numbers.
+to the BIOS include `int 10h`, but there are also other numbers.
+(The trailing `h` is convention for "hexadecimal", although you may
+be more used to a preceding `0x`.)
 
-If you want to get serious about this, look up a document called
-Ralf Brown's Interrupt List.
+If you want to get serious about this, consult a document called
+[Ralf Brown's Interrupt List][].  It lists probably every interrupt
+you will ever care about, and describes each of them briefly
+(although not always in much detail).
 
-Text Mode
----------
+Again, this is something that, if you are programming in assembler,
+you will need to know, buf if you're using some other programming
+language, chances are there will be standard or 3rd-party libraries
+that will wrap calling these interrupts.
 
-The "standard" text mode is probably 80-column black-and-white,
-but colour is also common (but sometimes "bright" is interpreted
-as "flashing"), and other widths are possible (40 columns and
-132 (I believe) columns.)
+One such 3rd party library is [Allegro][], which, until version 4.2,
+supported DOS.
 
-If you want to output via DOS, you get ASCII, but if you're OK
-skipping DOS and writing directly to the screen memory, you
-get the entire IBM OEM font, including the happy faces and
-whatnot.
+[DOSBox]: https://www.dosbox.com/
+[FreeDOS]: http://www.freedos.org/
+[QEMU]: http://www.qemu-project.org/
+[v86]: https://github.com/copy/v86
+[Ralf Brown's Interrupt List]: http://www.cs.cmu.edu/~ralf/files.html
+[Allegro]: http://liballeg.org/
 
-Screen memory starts at XXXX and extends to YYYY.  TODO:
-look up these numbers.
-
-Video
------
-
-VGA provides various video modes.  The simplest by far is 320x200x256
-because the video RAM is just a 2D array of bytes and every pixel is
-one byte.
-
-TODO: provide example to go into this mode and list where the
-screen is mapped to.
-
-Addressing
-----------
+Addressing Memory
+-----------------
 
 The 286 and earlier models support what's called "real mode", which
 is this terrible thing where 32 bits are used to address a byte in
 memory, but it's actually a pair of 16-bit numbers, and the middle
-N bits overlap, so it's really only M bits of address space.
+4 bits overlap, so it's really only 20 bits of address space.
 
 There is a reason for this, and I bet it dates back to CP/M days,
 and I bet it's that this allows you to relocate a program in
@@ -120,11 +123,54 @@ to try for a long time, which is basically a "glitch" mode in
 between "real" and "protected" modes.
 
 There are also EMS and XMS memory, but those are possibly best
-left unmentioned.
+left to the imagination.
 
-TSR
----
+By the way, 20 bits of address space is 1024K, which is enough
+to address 640K of main memory plus 384K of graphics memory,
+and as we all know, 640K ought to be enough for anybody...
 
-While I don't recommend you actually write a TSR (Terminate and
-Stay Resident) program, they deserve a mention.  TODO write
-a little about them.
+Text and Graphics
+-----------------
+
+At this point in history you can safely assume the machine has
+VGA — i.e. that the emulator knows how to support it.  You don't
+have to fiddle with CGA and EGA unless you really, *really* want to.
+
+VGA provides various modes, both text and graphic.
+
+The "standard" text mode is probably 80-column-by-25-row 16-colour
+text.  16 colours doesn't always mean 16 colours; sometimes the
+"brightness" bit is interpreted to mean "blinking" instead.
+
+This is the mode that the computer generally already is in,
+but to switch to it (from e.g. a graphics mode),
+set `AH=0h` and `AL=03h` and call `int 10h`.
+
+If you want to output text via DOS, the controls codes will
+cause things to happen, but if you write directly to the screen
+memory, you get the entire IBM OEM font, including the happy faces
+and whatnot.
+
+The screen memory for this mode starts at `B8000h` (the uppermost-
+leftmost character) and extends 80 * 25 = 2000 bytes beyond that.
+It's probably easiest to set the extended segment pointer `es` to
+`B800h` and address individual bytes with `si` or `di`.
+
+There are two bytes for every character; the high byte is the attribute
+byte, which contains the foreground and background colours, and
+the low byte is the character code, which matches ASCII but of
+course goes beyond just ASCII.
+
+There are other text configurations, like black-and-white,
+40 (or 132?) columns, 50 rows... but these are left as exercises
+for the interested reader.
+
+The simplest graphic mode by far is 320x200x256 because the video
+RAM is just a 2D array of bytes and every pixel is one byte.
+
+To switch into this mode, set `AH=0h` and `AL=13h` and call `int 10h`.
+
+Screen memory starts at `A0000h` (the uppermost-leftmost pixel)
+and extends 320 * 200 = 64000 bytes beyond that.  It's probably
+easiest to set the extended segment pointer `es` to `A000h` and
+address individual bytes with `si` or `di`.
