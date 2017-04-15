@@ -90,8 +90,9 @@ Addressing Memory
 
 The 286 and earlier models support what's called "real mode", which
 is this terrible thing where 32 bits are used to address a byte in
-memory, but it's actually a pair of 16-bit numbers, and the middle
-4 bits overlap, so it's really only 20 bits of address space.
+memory, but it's actually a pair of 16-bit numbers, but all but
+the topmost 4 bits of the high byte overlap bits in the low byte,
+so it's really only 20 bits of address space.
 
 There is a reason for this, and I bet it dates back to CP/M days,
 and I bet it's that this allows you to relocate a program in
@@ -155,7 +156,7 @@ and whatnot.
 The screen memory for this mode starts at `B8000h` (the uppermost-
 leftmost character) and extends 80 * 25 = 2000 bytes beyond that.
 It's probably easiest to set the extended segment pointer `es` to
-`B800h` and address individual bytes with `si` or `di`.
+`B800h` and address individual bytes with `es:si` or `es:di`.
 
 There are two bytes for every character; the high byte is the attribute
 byte, which contains the foreground and background colours, and
@@ -174,6 +175,6 @@ To switch into this mode, set `AH=0h` and `AL=13h` and call `int 10h`.
 Screen memory starts at `A0000h` (the uppermost-leftmost pixel)
 and extends 320 * 200 = 64000 bytes beyond that.  It's probably
 easiest to set the extended segment pointer `es` to `A000h` and
-address individual bytes with `si` or `di`.
+address individual bytes with `es:si` or `es:di`.
 
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
