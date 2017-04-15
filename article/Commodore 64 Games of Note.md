@@ -1,29 +1,8 @@
-8-bit Games of Note
-===================
+Commodore 64 Games of Note
+==========================
 
 This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
-which is dedicated to games for 8-bit home systems, namely Atari, Apple, and
-Commodore.
-
-### Russki Duck
-
-![screenshot](http://www.platypuscomix.net/applepalooza/russki2.gif)
-
-*   available for: Apple II
-*   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
-*   online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
-*   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
-*   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
-
-I have no words.  It seemed very high-concept, at the time.  Possibly because
-the enemy agents did things quite independently of what you were doing.
-Possibly because you have a crude inventory.  Possibly because the different
-locations were shown at different scale.
-
-The epithet "Russki" seems pretty dated, not to say obsolete, now, but there
-was a Cold War on at the time, you know!
-
-I like how the signs on the streets helpfully tell you that they are ONE WAY.
+which is dedicated to games for that 6502-based home system, the Commodore 64.
 
 ### Dynamite Dan
 
@@ -102,3 +81,15 @@ known mechanisms.
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
 explains it better than I can.
+
+### Whistler's Brother
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/w/whistlers_brother_02.gif)
+
+*   wikipedia: N/A
+*   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2846)
+
+Notable for gameplay mechanic: the player controls one character directly
+with a joystick, but also a second character indirectly, by influencing
+where they go, by whistling for them.

@@ -35,16 +35,6 @@ on (or were a conversion from) other systems.
 
 Didn't realize "bovver" was "bother" until I was older.
 
-### Whistler's Brother
-
-*   wikipedia: N/A
-*   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2846)
-
-Notable for gameplay mechanic: the player controls one character directly
-with a joystick, but a second character indirectly by influencing where
-they go by whistling at them.
-
 ### Spindizzy
 
 *   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
@@ -77,6 +67,44 @@ In fact IFR simulators were "a thing" and there are more than one for
 the Commodore 64, but this one is for the C64 only and is freeware.
 
 TODO: I should write about IFR simulators here a bit.
+
+
+### Big Mac
+
+*   available for: Commodore 64
+
+Full title is "Big Mac The Maintenance Man", I think.
+
+### Slinky
+
+*   available for: Commodore 64
+
+This one might be of note.
+
+### Crossroads
+
+*   available for: Commodore 64
+
+One of the best type-in games.
+
+### Lava Flow
+
+*   available for: Commodore 64
+
+An interesting type-in game.  The lava works like a cellular automaton,
+a bit.
+
+### Everyone's a Wally
+
+*   available for: Commodore 64
+
+### Ultimate Wizard
+
+*   available for: Commodore 64
+*   published by: Electronic Arts
+
+Obviously influenced by Jumpman.  Jumpman with spells and a construction
+kit, really.
 
 Arcade
 ------
@@ -151,58 +179,8 @@ Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
 
-Commodore 64
-------------
-
-### Big Mac
-
-*   available for: Commodore 64
-
-Full title is "Big Mac The Maintenance Man", I think.
-
-### Slinky
-
-*   available for: Commodore 64
-
-This one might be of note.
-
-### Crossroads
-
-*   available for: Commodore 64
-
-One of the best type-in games.
-
-### Lava Flow
-
-*   available for: Commodore 64
-
-An interesting type-in game.  The lava works like a cellular automaton,
-a bit.
-
-### Everyone's a Wally
-
-*   available for: Commodore 64
-
-### Ultimate Wizard
-
-*   available for: Commodore 64
-*   published by: Electronic Arts
-
-Obviously influenced by Jumpman.  Jumpman with spells and a construction
-kit, really.
-
 Apple II
 --------
-
-### Swashbuckler
-
-*   available for: Apple II
-*   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
-*   online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
-
-The weird contrast between the coloured background vs. the black-and-white
-(or green, as the case may have been, on the monochrome monitor on which I
-saw it) figures of the characters makes it stand out in my mind.
 
 ### Sammy Lightfoot
 

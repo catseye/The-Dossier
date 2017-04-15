@@ -13,9 +13,11 @@ a factor.
 These are ordered from most impressive to me to least impressive.  Note, however,
 that the order and contents of this list are subject to change.
 
-This list is mostly arcade games.  Games for 8-bit home systems (Atari,
-Commodore, etc) have intentionally been offloaded to a dedicated article:
-[8-bit Games of Note](8-bit%20Games%20of%20Note.md).
+This list is mostly arcade games.  Games for home systems have intentionally
+been offloaded to articles dedicated to the particular system:
+
+*   [Commodore 64 Games of Note](Commodore%2064%20Games%20of%20Note.md)
+*   [Apple II Games of Note](Apple%20II%20Games%20of%20Note.md)
 
 ### Typhoon Thompson
 
