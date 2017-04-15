@@ -68,6 +68,27 @@ Text mode, with inverse characters for some things.
 There was a grid of numbers indicating planets and their populations(?)
 but I don't remember there being any spatial relationship between them.
 
+### Castle game on PET
+
+*   seen-on: Commodore PET
+
+I remember attending some kind of programming course on Commodore PET
+computers in the University of Winnipeg's computer lab, and seeing
+other students playing games on their computers.  I'm probably
+forgetting most of these, but one stands out.  It used the graphic
+characters to display something that looked like a castle, from
+above, with paths around the edge (as if walking along battlements?),
+and (I believe) using the spade card suite symbol to denote a guard.
+And you went along these battlements and fought the guards?  Probably,
+but I don't remember that much of it.  I only saw it that one time,
+so for all I know, it was written by the person who was playing it,
+and is completely unknown in the rest of the world, but that seems
+unlikely.
+
+There might have also been spellcasting in this, with the protagonist
+being some kind of wizard, but I might be conflating it with other
+games I saw at that time.
+
 ### Would you two like you join me on a fantasia?
 
 *   seen-on: Arcade

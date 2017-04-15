@@ -105,18 +105,6 @@ I remember it from a café in a small farming community in Manitoba.
 
 I remember it from a café in a small farming community in Manitoba.
 
-### Katamari Damacy
-
-*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
-*   published by: Namco
-*   genre: Maze-Runner (nominally)
-*   available for: Sony PlayStation
-*   controls: dual analog joystick
-
-An extremely original game — sort of a four-dimensional maze game where the
-fourth dimension is scale. Rolling things up is also surprisingly satisfying
-and disturbingly addictive. To top it all off, the soundtrack can't be beat.
-
 ### Cloak & Dagger
 
 *   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
@@ -129,6 +117,21 @@ bits of wall. The boxes and conveyor belts hold a similar draw. Not sure if
 I can put my finger on exactly what it is, though.
 
 I remember seeing this at a 7-11 near where my sister was living at the time.
+
+Console
+-------
+
+### Katamari Damacy
+
+*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
+*   published by: Namco
+*   genre: Maze-Runner (nominally)
+*   available for: Sony PlayStation
+*   controls: dual analog joystick
+
+An extremely original game — sort of a four-dimensional maze game where the
+fourth dimension is scale. Rolling things up is also surprisingly satisfying
+and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 
 ### Super Monkey Ball 2
 
@@ -147,6 +150,9 @@ as the main game.
 Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
+
+Commodore 64
+------------
 
 ### Big Mac
 
@@ -184,6 +190,9 @@ a bit.
 
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
 kit, really.
+
+Apple II
+--------
 
 ### Swashbuckler
 
@@ -240,11 +249,16 @@ Summer is endless, unlike in the Commodore 64 version.
 Licensed Characters
 -------------------
 
+These are notable because they are generally terrible.  But occasionally
+they have some redeeming characteristics.
+
 ### The Young Ones
 
 *   available for: Commodore 64
 
 Notable because they made a video game based on The Young Ones.
+
+Has some redeeming characteristics.
 
 ### Danger Mouse
 
@@ -257,3 +271,13 @@ This one might be of note, but not because it was a good game.
 *   available for: Commodore 64
 
 This one might be of note too.
+
+Has some redeeming characteristics.
+
+### Other Licensed Character Games
+
+for NES: Spot (7-Up) (also Fido??); the Noid (Domino's Pizza).
+
+Garfield.
+
+BC's Quest for Tires.
