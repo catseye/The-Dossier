@@ -9,10 +9,13 @@ Role-Playing Games I've Played
 
 ### Alphaman
 
+![screenshot](http://www.myabandonware.com/media/screenshots/a/alphaman-315/alphaman_1.gif)
+
 *   genre: Roguelike
 *   available for: MS-DOS
 *   controls: keyboard
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
+*   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
@@ -51,16 +54,27 @@ Anyway, this is great game.
 
 ### Below the Root
 
+![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
+
 *   wikipedia: https://en.wikipedia.org/wiki/Below_the_Root_(video_game)
 *   published by: Windham Classics
 *   available for: Commodore 64, Apple II, MS-DOS
+*   entry @ [myabandonware](http://www.myabandonware.com/game/below-the-root-3e)
 
 ### Adventure Construction Set
+
+![screenshot](http://www.gamebase64.com/oldsite/gameofweek/adventures/adventureconstrset/Land_of_Aventuria.gif)
 
 *   genre: Role-playing
 *   available-for: Commodore 64, others
 *   controls: joystick and one button
 *   wikipedia: https://en.wikipedia.org/wiki/Adventure_Construction_Set
+*   review @ [gamebase64](http://www.gamebase64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm)
+
+(OK, this is not entirely correctly categorized, since ACS is a construction
+set *for* games rather than a game *itself*.  Although it did come with a game,
+and it was pretty good.  Anyway, let's just handwave over this for the moment,
+shall we?)
 
 I'm a sucker for "construction sets" (games that come with a level editor), and
 a sucker for adventure games, so this would seem a natural fit. It's actually a
@@ -73,6 +87,8 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 ### Sword of Fargoal
 
+[screenshot TK]
+
 *   genre: Roguelike
 *   available for: Commodore 64
 *   controls: joystick and keyboard
@@ -82,6 +98,8 @@ An early roguelike for the C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 
 ### Dungeon Master
+
+[screenshot TK]
 
 *   genre: Role-playing
 *   available-for: Atari ST, Amiga
