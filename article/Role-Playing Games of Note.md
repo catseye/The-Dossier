@@ -87,24 +87,26 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 ### Sword of Fargoal
 
-[screenshot TK]
+![screenshot](http://www.myabandonware.com/media/screenshots/s/sword-of-fargoal-65p/thumbs/sword-of-fargoal_2.png)
 
 *   genre: Roguelike
 *   available for: Commodore 64
 *   controls: joystick and keyboard
 *   wikipedia: https://en.wikipedia.org/wiki/Sword_of_Fargoal
+*   entry @ [myabandonware](http://www.myabandonware.com/game/sword-of-fargoal-5df)
 
 An early roguelike for the C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 
 ### Dungeon Master
 
-[screenshot TK]
+![screenshot](http://img2.game-oldies.com/sites/default/files/styles/large/public/snaps/commodore-amiga/dungeonmaster-v1-1-0833.png)
 
 *   genre: Role-playing
 *   available-for: Atari ST, Amiga
 *   controls: mouse and keyboard
 *   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)
+*   entry @ [game-oldies](http://game-oldies.com/play-online/dungeon-master-commodore-amiga)
 
 A surprisingly intricate dungeon exploration game from the era of personal
 computers that didn't need internal fans. In first-person perspective, and in
