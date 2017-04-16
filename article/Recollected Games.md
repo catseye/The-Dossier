@@ -119,11 +119,28 @@ a bit.
 Arcade
 ------
 
+### Bosconian
+
+![screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Bosconian_1.jpg/200px-Bosconian_1.jpg)
+
+*   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
+*   published by: Namco
+*   release date: 1981
+*   available for: Arcade
+*   controls: joystick and 1 button
+
+You got to shoot out the spherical pods on those hexagonal space stations.
+
+The first arcade game to offer a "continue?" option, apparently.
+
 ### Bomb Jack
 
+*   wikipedia: [Bomb Jack](https://en.wikipedia.org/wiki/Bomb_Jack)
 *   available for: Arcade
 
 I remember seeing it in Portugal.
+
+You can jump really, really high!
 
 ### Springer
 

@@ -100,3 +100,29 @@ you could buy powerups.
 The protagonists were a boy and a girl and at the beginning
 of the game a cloaked figure came up to them and asked them
 WOULD YOU TWO LIKE TO JOIN ME ON A FANTASIA? or similar.
+
+### Point-and-click minimal-graphics Windows dungeon crawler
+
+*   seen-on: Windows
+
+I don't even know if it was written for Windows 3.1 or
+Windows 95.  But I think I was running Windows 95 at the
+time.  It would have been around 1995, anyway.
+
+The main thing that I do remember is that I had a character,
+who was a Thief, named "Moneybags".  After playing the game
+for some time, I changed their class to Healer.  I remember
+this because I noted to a friend that I would have liked to
+change their name too, because now it seemed incongruous.
+But he pointed out that it still fit, because doctors do
+make a lot of money...
+
+What this means is, it was a role-playing game where
+characters could change class, and there were Thief and
+Healer classes, although I imagine there were probably
+Fighter and Wizard type classes too.  The party consisted
+of several characters.  There was a lot of mouse-based
+UI.  It seemed to be a bit low on visuals.  I don't
+remember there being graphics of rooms or characters or
+monsters — possibly there was a map, but possibly not
+even that.  But I do remember lots of clicking.
