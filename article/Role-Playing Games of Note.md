@@ -56,10 +56,22 @@ Anyway, this is great game.
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Below_the_Root_(video_game)
+*   wikipedia: [Below the Root](https://en.wikipedia.org/wiki/Below_the_Root_(video_game))
 *   published by: Windham Classics
 *   available for: Commodore 64, Apple II, MS-DOS
 *   entry @ [myabandonware](http://www.myabandonware.com/game/below-the-root-3e)
+
+I never played this much myself, but I knew two people who did; one on a Commodore 128
+(running in Commodore 64 mode, of course) and one on an IBM PC.  The Commodore 64
+version seemed to have better graphics and a nicer user interface, but I may be
+misremembering, or indeed biased.
+
+The game world is immense and mostly in the treetops.  So this game naturally
+reminds me a little bit of that Ewoks cartoon (they made a cartoon about Ewok life
+after that third Star Wars movie was released, yes) and that arcade game whose
+name starts with a K where you are a ninja and you can jump very high into the
+treetops.  Whenever I think of it.  Even though these two other things are otherwise
+unrelated.
 
 ### Adventure Construction Set
 

@@ -26,7 +26,7 @@ Articles Contained Herein
     *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
     *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
     *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
-    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) *(U)*
+    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 
 *   **Classics**
