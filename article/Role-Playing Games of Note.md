@@ -13,6 +13,7 @@ Role-Playing Games I've Played
 
 *   genre: Roguelike
 *   available for: MS-DOS
+*   date released: 1995
 *   controls: keyboard
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
@@ -41,7 +42,9 @@ Greek alphabet soup anyway isn't it.
 
 ![screenshot](http://tacgr.emuunlim.com/downloads/gamescr/r/rockstaratemyhamster2.png)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster
+*   published by: Codemasters
+*   date released: 1988
+*   wikipedia: [Rock Star Ate My Hamster](https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster)
 *   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
 *   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
 *   play online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
@@ -58,6 +61,7 @@ Anyway, this is great game.
 
 *   wikipedia: [Below the Root](https://en.wikipedia.org/wiki/Below_the_Root_(video_game))
 *   published by: Windham Classics
+*   date released: 1984
 *   available for: Commodore 64, Apple II, MS-DOS
 *   entry @ [myabandonware](http://www.myabandonware.com/game/below-the-root-3e)
 
@@ -78,9 +82,10 @@ unrelated.
 ![screenshot](http://www.gamebase64.com/oldsite/gameofweek/adventures/adventureconstrset/Land_of_Aventuria.gif)
 
 *   genre: Role-playing
-*   available-for: Commodore 64, others
+*   date released: 1984
+*   available for: Commodore 64, others
 *   controls: joystick and one button
-*   wikipedia: https://en.wikipedia.org/wiki/Adventure_Construction_Set
+*   wikipedia: [Adventure Construction Set](https://en.wikipedia.org/wiki/Adventure_Construction_Set)
 *   review @ [gamebase64](http://www.gamebase64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm)
 
 (OK, this is not entirely correctly categorized, since ACS is a construction
@@ -103,8 +108,10 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 *   genre: Roguelike
 *   available for: Commodore 64
+*   published by: Epyx
+*   date released: 1982
 *   controls: joystick and keyboard
-*   wikipedia: https://en.wikipedia.org/wiki/Sword_of_Fargoal
+*   wikipedia: [Sword of Fargoal](https://en.wikipedia.org/wiki/Sword_of_Fargoal)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/sword-of-fargoal-5df)
 
 An early roguelike for the C64 which I keep confusing with the Temple of
@@ -115,9 +122,11 @@ Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 ![screenshot](http://img2.game-oldies.com/sites/default/files/styles/large/public/snaps/commodore-amiga/dungeonmaster-v1-1-0833.png)
 
 *   genre: Role-playing
-*   available-for: Atari ST, Amiga
+*   available for: Atari ST, Amiga
+*   published by: FTL Games
+*   date released: 1987
 *   controls: mouse and keyboard
-*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Master_(video_game)
+*   wikipedia: [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game))
 *   entry @ [game-oldies](http://game-oldies.com/play-online/dungeon-master-commodore-amiga)
 
 A surprisingly intricate dungeon exploration game from the era of personal

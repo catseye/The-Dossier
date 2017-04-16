@@ -10,6 +10,7 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 
 *   available for: Apple II
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
+*   date released: 1982
 *   online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
@@ -29,7 +30,8 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 ![screenshot](http://www.mobygames.com/images/shots/s/819976-beer-run-apple-ii-screenshot-elevator-appears.jpg)
 
 *   available for: Apple II
-*   published by: Sirius Software Inc
+*   published by: Sirius Software, Inc
+*   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
 
@@ -50,6 +52,8 @@ A videogame instantiation of college humour, maybe?
 ![screenshot](http://www.myabandonware.com/media/screenshots/s/swashbuckler-bkh/thumbs/swashbuckler_2.png)
 
 *   available for: Apple II
+*   published by: Datamost
+*   date released: 1982
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
 *   online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/swashbuckler-7n4)
