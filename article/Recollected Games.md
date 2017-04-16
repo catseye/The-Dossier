@@ -41,12 +41,16 @@ Didn't realize "bovver" was "bother" until I was older.
 
 ### Zig Zag
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/z/zig_zag_04.gif)
+
 *   wikipedia: N/A
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2943)
 
 Not to be confused with a different game called Zig Zag, also for the C64.
 
 ### Zeppelin
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
 
 *   wikipedia: N/A
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
@@ -68,7 +72,6 @@ the Commodore 64, but this one is for the C64 only and is freeware.
 
 TODO: I should write about IFR simulators here a bit.
 
-
 ### Big Mac
 
 *   available for: Commodore 64
@@ -80,6 +83,25 @@ Full title is "Big Mac The Maintenance Man", I think.
 *   available for: Commodore 64
 
 This one might be of note.
+
+### Everyone's a Wally
+
+*   available for: Commodore 64
+
+### Ultimate Wizard
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/u/ultimate_wizard_04.gif)
+
+*   available for: Commodore 64
+*   published by: Electronic Arts
+*   date released: 1986
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
+
+Obviously influenced by Jumpman.  Jumpman with spells and a construction
+kit, really.
+
+Commodore 64 type-ins
+---------------------
 
 ### Crossroads
 
@@ -93,18 +115,6 @@ One of the best type-in games.
 
 An interesting type-in game.  The lava works like a cellular automaton,
 a bit.
-
-### Everyone's a Wally
-
-*   available for: Commodore 64
-
-### Ultimate Wizard
-
-*   available for: Commodore 64
-*   published by: Electronic Arts
-
-Obviously influenced by Jumpman.  Jumpman with spells and a construction
-kit, really.
 
 Arcade
 ------
