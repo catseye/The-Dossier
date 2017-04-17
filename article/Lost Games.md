@@ -126,3 +126,32 @@ UI.  It seemed to be a bit low on visuals.  I don't
 remember there being graphics of rooms or characters or
 monsters — possibly there was a map, but possibly not
 even that.  But I do remember lots of clicking.
+
+### First-person espionage maze runner jumper
+
+*   seen-on: MS-DOS
+
+I probably downloaded a demo of this from a site like
+Happy Puppy.  (which was a site that had free downloads
+of demos of DOS games.  Other games I remember downloading
+from there include Skunny Kart and Pinball Fantasies.)
+
+This wasn't a *particularly* good game, but it was a bit
+strange, whatever it was.  You played a spy.  You went
+through maze-like levels displayed first-person perspective.
+
+I say "maze-like" because I don't remember any wide-open
+areas and I don't remember travelling in anything but the
+cardinal directions.  It wasn't an open FPS like Doom.
+
+I don't remember if there was any shooting at all in it,
+actually.
+
+I do remember being able to jump up onto higher levels
+of the maze.  Catwalks?  Or something similar.
+
+And I do remember there were power-ups.  They were displayed
+as an icon inside a small glass container, like an hourglass.
+And one of them was a hallucinogenic mushroom which, when
+you grabbed it, caused your view of the maze to wobble and
+swim.

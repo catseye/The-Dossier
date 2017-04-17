@@ -36,16 +36,23 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
 
 I didn't know quite what to make of this game at the time, and I still don't.
+Knowing now that it was a tie-in with Olympia beer (which was apparently a
+real beer company) and that the Artesians were licensed characters makes it
+make a tiny bit more sense, I guess — but not a lot.
 
 I mean, I guess the action takes place on the outside of a building?  On ledges?
-Because the protagonist sidles left and right, always facing away from
-the player.
+Or just in a really really narrow building?  Because the protagonist *sidles*
+left and right, always facing away from the player.
 
-And catches beers that fall from the sky.  Launched, if I recall, out of a blimp
-(but this is only revealed once the protagonist makes it far enough up the
-building to see the blimp.)
+And catches beers that fall from the sky inexplicably.  Were they launched out
+of the blimp that flies above the buildings that is revealed once the protagonist
+makes it to the top of the building?
 
-A videogame instantiation of college humour, maybe?
+Was this an attempt to package a bit of college humour in a video game?
+
+Perhaps if I were to research Olympia beer and find out what their advertising
+with Artesians was like, I'd be able to answer that better.  But to be honest,
+I'm not really motivated to.
 
 ### Swashbuckler
 

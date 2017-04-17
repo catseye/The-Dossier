@@ -135,6 +135,8 @@ The first arcade game to offer a "continue?" option, apparently.
 
 ### Bomb Jack
 
+![screenshot](https://upload.wikimedia.org/wikipedia/en/1/1a/Bombjackarc.png)
+
 *   wikipedia: [Bomb Jack](https://en.wikipedia.org/wiki/Bomb_Jack)
 *   available for: Arcade
 
