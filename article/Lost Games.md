@@ -89,6 +89,17 @@ There might have also been spellcasting in this, with the protagonist
 being some kind of wizard, but I might be conflating it with other
 games I saw at that time.
 
+### Ninja game
+
+*   available for: TRS-80
+
+Side-scroller.  You play a ninja, with a sai.  You travel rightward
+(you cannot stop.)  Hazards include ninjas travelling leftward,
+rocks on ground, rocks falling from sky(?).  You can dispatch all(?)
+of these hazards with your sai.  I cannot remember if you can jump.
+Istr mountains in the background.  Or a sort of temple that you
+eventually reach?  I may be confabulating that.
+
 ### Would you two like you join me on a fantasia?
 
 *   seen-on: Arcade

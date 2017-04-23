@@ -175,6 +175,10 @@ I can put my finger on exactly what it is, though.
 
 I remember seeing this at a 7-11 near where my sister was living at the time.
 
+Notable for the fact that there was a tie-in with the movie of the same name,
+which featured a home console (Atari 5200) version of this game... which was
+never finished, despite the fact that the movie was a commercial success.
+
 Console
 -------
 
@@ -288,3 +292,43 @@ for NES: Spot (7-Up) (also Fido??); the Noid (Domino's Pizza).
 Garfield.
 
 BC's Quest for Tires.
+
+Games I'd Like to Play
+----------------------
+
+Because I've heard good things about them, possibly in articles
+in magazines, but which I probably never will, because time.
+
+### Macbeth
+
+*   available for: Commodore 64
+*   genre: Text Adventure
+
+### Oo-Topos
+
+*   genre: Text Adventure
+
+### Amnesia
+
+*   genre: Text Adventure
+
+### Tass Times in Tone Town
+
+*   genre: Text Adventure
+
+### Mask of the Sun
+
+*   genre: Text Adventure
+
+### A Mind Forever Voyaging
+
+*   genre: Text Adventure
+
+### Galactic Gladiators
+
+*   available for: Apple II, IBM PC
+*   genre: Tactical Simulation
+
+Written in BASIC, I believe.  And I believe the manual detailed
+all of the calculations, so you could, if you wanted to, play it
+with pen and paper.  (Not certain about that though.)
