@@ -20,9 +20,15 @@ on (or were a conversion from) other systems.
 *   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
 *   published by: Bubble Bus Software
 
+Perhaps a C64 classic, but perhaps not well-known enough to be a true classic.
+
+The graphics are really good.
+
 ### Paradroid
 
 *   wikipedia: https://en.wikipedia.org/wiki/Paradroid
+
+Very likely a C64 classic.
 
 ### The Castles of Dr. Creep
 
@@ -37,7 +43,10 @@ Didn't realize "bovver" was "bother" until I was older.
 
 ### Spindizzy
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
+
 *   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2943)
 
 ### Zig Zag
 
@@ -69,6 +78,8 @@ flying at night over a lightless plain, that's essentially reasonable.
 
 In fact IFR simulators were "a thing" and there are more than one for
 the Commodore 64, but this one is for the C64 only and is freeware.
+
+Here is an article about a different IFR simulator: [IFR (Flight Simiulator)](http://www.wanttaja.com/ifr.html).
 
 TODO: I should write about IFR simulators here a bit.
 
@@ -115,6 +126,10 @@ One of the best type-in games.
 
 An interesting type-in game.  The lava works like a cellular automaton,
 a bit.
+
+### Sam & Ed Basketball
+
+*   available for: Commodore 64
 
 Arcade
 ------
@@ -178,6 +193,13 @@ I remember seeing this at a 7-11 near where my sister was living at the time.
 Notable for the fact that there was a tie-in with the movie of the same name,
 which featured a home console (Atari 5200) version of this game... which was
 never finished, despite the fact that the movie was a commercial success.
+
+### Mr. Do
+
+*   available for: Arcade
+*   controls: joystick and one button
+
+This is probably a classic.
 
 Console
 -------
@@ -257,6 +279,35 @@ This is probably a classic.
 
 Summer is endless, unlike in the Commodore 64 version.
 
+Role-Playing Games Question Mark
+--------------------------------
+
+These might go in the list of role-playing games.
+
+### Wonder Boy in Monster Land
+
+*   available for: Arcade
+*   controls: joystick and 2 buttons
+
+Sequel to Wonder Boy.  It's an arcade game, nominally an action game, but it
+plays far more like an RPG.  The game it's most like that most readers will
+most likely be familiar with is Zelda 2.
+
+### Mazes and Monsters
+
+*   online @ [youtube](https://www.youtube.com/watch?v=awTKqydci_c>)
+*   online @ [archive.org](https://archive.org/details/mazes_and_monsters)
+
+A fictional role-playing game that appears in the made-for-TV movie of the
+same name.
+
+### The Spawn of Fashan
+
+*   review @ [rpg.net](https://www.rpg.net/reviews/archive/classic/rev_6157.phtml)
+
+Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
+review linked above is well worth the read.
+
 Licensed Characters
 -------------------
 
@@ -293,6 +344,12 @@ Garfield.
 
 BC's Quest for Tires.
 
+Road Runner (arcade game).
+
+Asterix im Morgenland / Asterix and the Magic Carpet (C64/PC/etc?).
+
+Doctor Who and the Mines of Terror -- https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror
+
 Games I'd Like to Play
 ----------------------
 
@@ -323,6 +380,23 @@ in magazines, but which I probably never will, because time.
 ### A Mind Forever Voyaging
 
 *   genre: Text Adventure
+*   published by: Infocom
+
+### The Lurking Horror
+
+*   genre: Text Adventure
+*   published by: Infocom
+
+### Moonmist
+
+*   genre: Text Adventure
+*   published by: Infocom
+
+### Anchorhead
+
+*   genre: Text Adventure
+*   wikipedia: https://en.wikipedia.org/wiki/Anchorhead
+*   online @ [pr-if.org](http://pr-if.org/play/anchorhead/)
 
 ### Galactic Gladiators
 
