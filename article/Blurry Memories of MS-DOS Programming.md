@@ -1,7 +1,7 @@
 Vague Memories of MS-DOS Programming
 ====================================
 
-*draft.  title also subject to change.*
+*   status: draft
 
 So you want to program something in MS-DOS for some reason.  I
 totally support this sort of endeavour!  It is a totally worthwhile
@@ -179,11 +179,11 @@ address individual bytes with `es:si` or `es:di`.
 
 There is also the fact that if you want smooth animation, you should
 wait for the vertical retrace period before making changes to screen
-memory, as discussed in [Basic Theory of Video Games][].
+memory, as discussed in [A Basic Theory of Video Games][].
 
 I don't actually remember how to do this on an IBM PC, if I ever knew,
 but I do remember that [Allegro][] has some call for it, called
 something like `vsync()`.
 
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
-[Basic Theory of Video Games]: Basic%20Theory%20of%20Video%20Games.md
+[A Basic Theory of Video Games]: A%20Basic%20Theory%20of%20Video%20Games.md

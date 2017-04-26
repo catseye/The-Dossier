@@ -11,9 +11,9 @@ Articles Contained Herein
 
 ### Programming Languages
 
-*   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md)
-*   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md)
-*   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
+*   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (July 2010)
+*   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (April 2013)
+*   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (June 2013)
 
 ### Games
 
@@ -41,11 +41,16 @@ Articles Contained Herein
 *   [Lost Games](article/Lost%20Games.md)
 *   [Recollected Games](article/Recollected%20Games.md) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
+*   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) *(U)*
+
+### Retrocomputing
+
+*   [Blurry Memories of MS-DOS Programming](Blurry%20Memories%20of%20MS-DOS%20Programming.md) *(U)*
 
 External Articles
 -----------------
 
-*   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) May 2015
+*   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) (May 2015)
 *   [Bootstrap Zero](https://github.com/catseye/SITU-SOL/tree/master/doc/bootstrap-zero) (RetroChallenge 2015/07)
 *   [Overview of a Story Compiler](https://gist.github.com/cpressey/6324fff6ef0dfdf69b96) (NaNoGenMo 2015)
 

@@ -1,7 +1,7 @@
-Basic Theory of Video Games
-===========================
+A Basic Theory of Video Games
+=============================
 
-*draft*
+*   status: draft
 
 Modern computers are obscenely powerful, but they weren't always so.  Yet
 we had video games back then.  How did they work?

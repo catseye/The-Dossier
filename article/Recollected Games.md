@@ -201,38 +201,13 @@ never finished, despite the fact that the movie was a commercial success.
 
 This is probably a classic.
 
-Console
--------
+### Gorf
 
-### Katamari Damacy
+This is probably a classic.
 
-*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
-*   published by: Namco
-*   genre: Maze-Runner (nominally)
-*   available for: Sony PlayStation
-*   controls: dual analog joystick
+### Wizard of Wor
 
-An extremely original game — sort of a four-dimensional maze game where the
-fourth dimension is scale. Rolling things up is also surprisingly satisfying
-and disturbingly addictive. To top it all off, the soundtrack can't be beat.
-
-### Super Monkey Ball 2
-
-*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
-*   genre: Maze-Runner
-*   available for: Nintendo GameCube
-*   controls: analog joystick
-
-I didn't think I'd like this one, since I really don't like those wooden
-mazes that you tilt with the two dials — which is essentially what this
-game is. But somehow it manages to be fun. Especially when you start
-barrelling down a spiral, completely out of control. The party games I could
-mostly do without, with the exception of racing, which is at least as fun
-as the main game.
-
-Some students had borrowed a video projector from the lab, and hooked it
-up to their GameCube.  I played this on it, projected on the wall.
-IMAX style.  It was vertigo-inducing.
+This is probably a classic.
 
 Apple II
 --------
@@ -278,6 +253,57 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 This is probably a classic.
 
 Summer is endless, unlike in the Commodore 64 version.
+
+MS-DOS
+------
+
+### Cyberbykes
+
+![screenshot](https://static.giantbomb.com/uploads/original/0/5318/614639-cyberb6.jpg)
+
+*   wikipedia: https://en.wikipedia.org/wiki/Cyberbykes
+
+I remember discovering a secret area you could jump to on one level (I think it
+was "Warwickshire"?), but I don't remember if I ever successfully jumped to it...
+
+### Stunts
+
+### Magic Carpet
+
+*   published by: Bullfrog
+
+Console
+-------
+
+### Katamari Damacy
+
+*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
+*   published by: Namco
+*   genre: Maze-Runner (nominally)
+*   available for: Sony PlayStation
+*   controls: dual analog joystick
+
+An extremely original game — sort of a four-dimensional maze game where the
+fourth dimension is scale. Rolling things up is also surprisingly satisfying
+and disturbingly addictive. To top it all off, the soundtrack can't be beat.
+
+### Super Monkey Ball 2
+
+*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
+*   genre: Maze-Runner
+*   available for: Nintendo GameCube
+*   controls: analog joystick
+
+I didn't think I'd like this one, since I really don't like those wooden
+mazes that you tilt with the two dials — which is essentially what this
+game is. But somehow it manages to be fun. Especially when you start
+barrelling down a spiral, completely out of control. The party games I could
+mostly do without, with the exception of racing, which is at least as fun
+as the main game.
+
+Some students had borrowed a video projector from the lab, and hooked it
+up to their GameCube.  I played this on it, projected on the wall.
+IMAX style.  It was vertigo-inducing.
 
 Role-Playing Games Question Mark
 --------------------------------
@@ -346,51 +372,70 @@ BC's Quest for Tires.
 
 Road Runner (arcade game).
 
-Asterix im Morgenland / Asterix and the Magic Carpet (C64/PC/etc?).
+Asterix and the Magic Carpet -- https://en.wikipedia.org/wiki/Asterix_and_the_Magic_Carpet_(Coktel_Vision_video_game)
 
 Doctor Who and the Mines of Terror -- https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror
 
 Games I'd Like to Play
 ----------------------
 
-Because I've heard good things about them, possibly in articles
-in magazines, but which I probably never will, because time.
+...but which I probably never will, because time.
+
+Some of these are because they come highly recommended, and some
+of them are just because I read a review in a magazine and they
+sound intguining.
 
 ### Macbeth
 
 *   available for: Commodore 64
 *   genre: Text Adventure
 
+The review made it sound intruiging.
+
 ### Oo-Topos
 
 *   genre: Text Adventure
+
+The review made it sound intruiging.
 
 ### Amnesia
 
 *   genre: Text Adventure
 
+There was a review, but I'm not sure how intruiged I am.
+
 ### Tass Times in Tone Town
 
 *   genre: Text Adventure
 
+The review made it sound intruiging.
+
 ### Mask of the Sun
 
 *   genre: Text Adventure
+
+The review made it sound intruiging.
 
 ### A Mind Forever Voyaging
 
 *   genre: Text Adventure
 *   published by: Infocom
 
+Comes highly recommended.
+
 ### The Lurking Horror
 
 *   genre: Text Adventure
 *   published by: Infocom
 
+Assorted hearsay has made it sound intruiging.
+
 ### Moonmist
 
 *   genre: Text Adventure
 *   published by: Infocom
+
+Assorted hearsay has made it sound intruiging.
 
 ### Anchorhead
 
@@ -398,10 +443,14 @@ in magazines, but which I probably never will, because time.
 *   wikipedia: https://en.wikipedia.org/wiki/Anchorhead
 *   online @ [pr-if.org](http://pr-if.org/play/anchorhead/)
 
+Comes highly recommended.
+
 ### Galactic Gladiators
 
 *   available for: Apple II, IBM PC
 *   genre: Tactical Simulation
+
+The review made it sound intruiging.
 
 Written in BASIC, I believe.  And I believe the manual detailed
 all of the calculations, so you could, if you wanted to, play it
