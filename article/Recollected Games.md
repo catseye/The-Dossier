@@ -134,6 +134,22 @@ a bit.
 Arcade
 ------
 
+### Congo Bongo
+
+*   wikipedia: https://en.wikipedia.org/wiki/Congo_Bongo
+
+Here is what is notable about Congo Bongo: the arcade game uses
+[isometric projection][], but the C64 conversion and other
+conversions use [oblique projection][], while the SuperMax
+conversion uses [orthographic projection][], i.e. "side view",
+i.e. it's just plain two-dimensional.
+
+Which raises the aesthetic question: at what point does the game stop being Congo Bongo?
+
+[isometric projection]: https://en.wikipedia.org/wiki/Isometric_projection
+[oblique projection]: https://en.wikipedia.org/wiki/Oblique_projection
+[orthographic projection]: https://en.wikipedia.org/wiki/Ortographic_projection
+
 ### Bosconian
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Bosconian_1.jpg/200px-Bosconian_1.jpg)
