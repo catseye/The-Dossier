@@ -111,6 +111,10 @@ This one might be of note.
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
 kit, really.
 
+### Cauldron II
+
+The graphics are really good.
+
 Commodore 64 type-ins
 ---------------------
 

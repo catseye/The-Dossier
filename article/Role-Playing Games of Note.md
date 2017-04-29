@@ -71,11 +71,14 @@ version seemed to have better graphics and a nicer user interface, but I may be
 misremembering, or indeed biased.
 
 The game world is immense and mostly in the treetops.  So this game naturally
-reminds me a little bit of that Ewoks cartoon (they made a cartoon about Ewok life
-after that third Star Wars movie was released, yes) and that arcade game whose
-name starts with a K where you are a ninja and you can jump very high into the
-treetops.  Whenever I think of it.  Even though these two other things are otherwise
+reminds me a little bit of the Ewoks cartoon (they made a cartoon about Ewok life
+after that third Star Wars movie was released, yes) and the arcade game
+[The Legend of Kage][], in which you play a ninja who can jump very high into the
+treetops (and which I am delighted to say I rediscovered the name of by doing a web
+search for "arcade game jump high ninja trees".)  Even though those are otherwise
 unrelated.
+
+[The Legend of Kage]: https://en.wikipedia.org/wiki/The_Legend_of_Kage
 
 ### Adventure Construction Set
 
