@@ -23,7 +23,7 @@ can bend the beam before it hits the screen and thus determine where on the
 screen the spot appears.
 
 But, there can only be one spot that is being hit like this at any one time,
-so to create the illusion that the whole screen is glowing, the trick it to
+so to create the illusion that the whole screen is glowing, the trick is to
 move the spot around very, very quickly.
 
 So what we need is a good method for covering the entire screen in an
@@ -33,8 +33,8 @@ slightly lower down on the screen.  Then when we get to the bottom-right of
 the screen, the beam goes back up to the top-left for the next frame.
 [(Footnote 1)](#footnote-1)
 
-While there are certainly some differences, modern displays work very similary.
-[(Footnote 2)](#footnote-2)
+While there are certainly some differences, modern displays work quite
+similarly. [(Footnote 2)](#footnote-2)
 
 That glowing spot is fairly small, so to get a nice, solid-looking frame, we
 should space the scan lines closely together.  Say that there are 200
@@ -45,10 +45,10 @@ representative numbers in this section; they don't necessarily correspond to
 the specs of any real video equipment.)
 
 As I said, the frame must be drawn quickly to make it look solid, and further,
-if we want the impression of smooth movement in the video, the frames must
-done in quick succession as well.  Say we want to draw 30 frames per second.
+if we want the impression of smooth movement in the video, the frames must be
+done in quick succession as well — say, 30 frames per second.
 
-Therefore, each frame must be drawn in 1/30 of a second, and each scan
+So, each frame must be drawn in 1/30 of a second, and thus each scan
 line must be drawn in 1/6000 of a second.  That's a really short time —
 one-sixth of a millisecond.  And since each scan line contains 200 pixels, the
 beam must be able to change in intensity 1.2 million times a second.
@@ -65,7 +65,7 @@ individually.
 
 So early computers, or at least the kind inside video arcade games and home
 units that were meant to be hooked up to TVs, often had a significant amount
-of their electronics dedicated to the problem of generating the video display.
+of their electronics dedicated to the problem of generating the video signal.
 
 In fact, to appreciate how video-oriented the early computers were,
 consider that the Commodore 64's clock speed in North America was
@@ -78,7 +78,7 @@ run at independent rates.)
 
 Either way, we have this dedicated video display circuitry which can generate
 a video signal without taking up any of the CPU's time.  How does it generate
-the display?  There were many possible tricks it could use [(Footnote 3)](#footnote-3),
+the display?  There are many possible tricks it can use [(Footnote 3)](#footnote-3),
 but the basic idea is that there is a chunk of RAM dedicated to holding a
 representation of the display — the "video RAM" — and this circuitry reads it
 and derives the signal that will modulate the beam which will make the various
@@ -119,31 +119,31 @@ _horizontal blanking interval_ (HBI) and the _vertical blanking interval_
 (VBI), respectively.  The latter, especially, is very important for video games.
 
 The key idea is that *if you wait for the vertical blanking interval before
-making changes to video RAM and get all those changes done before the
-top scan line of the next frame starts being displayed, you will get a
+making changes to video RAM, and also get all those changes done before the
+first scan line of the next frame starts being displayed, you will get a
 smoothly-drawn and smoothly-animated display*.
 
 To enable this, the computer architecture is usually wired up such that
 the CPU is able to detect when a VBI has begun.  Often this is done with an
 _interrupt_, which is a way to alert the CPU of an external event regardless
-of what it is doing at the time.
+of what the CPU is doing at the time.
 
 But regardless of how it's implemented exactly, the idea is that the CPU
 waits for the VBI to start, and then gets to work writing new values to the
 video RAM that reflect what the screen should look like next.  It is also
 important that it should finish this work before the VBI is over, because
 as soon as the next frame begins being drawn, any updates to video RAM
-could cause flickering.  The CPU shouldn't touch the video RAM again until
-the next VBI begins.
+could cause flickering.  And the CPU shouldn't touch the video RAM again
+until the next VBI begins.
 
 But there is this entire screen that is being drawn by the video hardware
-at this point.  Does the CPU just sit there, waiting idly for the next
-VBI to start?  No, that would be wasteful.  Instead, it can use this time
-productively by computing the next state of the game.  For example, what
-will be the player's new position based on their velocity?  Did they collect
-a treasure and should we increase their score?  That sort of thing.
-Then, when the next VBI does come, it will update the video RAM from that
-new game state that was computed.
+during this time between VBIs.  Does the CPU just sit there, waiting idly
+for the next VBI to start?  No, that would be wasteful.  Instead, it can
+use this time productively by computing the next state of the game.  For
+example, what will be the player's new position based on their velocity?
+Did they collect a treasure and should we increase their score?  That sort
+of thing.  Then, when the next VBI does come, it will update the video RAM
+from that new game state that was computed.
 
 So in some sense, the history of video games has been "how much processing
 can you get done in 1/*n*'th of a second?"
@@ -163,9 +163,9 @@ State
 
 Now that we've made it clear, hopefully, how dependent a video game is on
 translating the game state into video updates which can occur in a timely
-manner, and updating the game state in a timely manner while the screen
-is actually being drawn, we should probably talk about how the game state
-can be structured to accomplish this.
+manner, and updating the game state in a timely manner as well during the
+period that the screen is actually being drawn, we should probably talk
+about how the game state can be structured to accomplish this.
 
 Saying "the next game state is based on the current game state plus the
 state of input devices" is very nice from a sort of mathematical point of
@@ -188,27 +188,29 @@ about current state has been "compiled into" the code.
 
 There are two other things to note about the states of a video game:
 
-*   They extend outside of the game itself.  Arcade games would have
+*   They extend outside of the game itself.  Coin-op arcade games have
     an "attract mode", which might include a pre-recorded demonstration
     of the game being played, but even simple home games generally have a
     title screen or something before a new game begins, and that title
     screen is a state too.
     
 *   They are composed of smaller states, sometimes sub-state machines.
-    For instance, in an "attract mode" state, the machine might
+    For instance, in the "attract mode" state, the machine might
     switch between showing a title screen, the list of high scores,
-    and a summary of the rules, each showing for 5 seconds — these
+    and a summary of the rules, each displayed for 5 seconds — these
     are sub-states of the "attract mode" state.  Or, during the game
     itself, there might be 12 spaceships on the screen, each with
     its own state (position and velocity).  You could also call those
-    sub-states, but here they compose differently — the state of
-    the "game screen" is a kind of product of those 12 states.
+    sub-states, but here they compose differently — you could say the
+    state of the "game screen" is the "Cartesian product" of those 12
+    states.
 
-There are virtually an endless number of ways these states can be combined,
-and even listing the most common patterns would probably be outside the
-scope of this article.  But to try to give a single, illustrative example,
-here are how the state logic for a very simple video game might appear
-inside the video-updating loop given in the previous section:
+There are virtually an endless number of ways these configurations of
+states can be combined and implemented, and even listing the most common 
+patterns would probably be outside the scope of this article.  But to
+try to give a single, illustrative example, here are how the state logic
+for a very simple video game might appear inside the video-updating loop
+given in the previous section:
 
 *   Wait for the VBI to begin.
 *   Update the video RAM based on the current game state:
@@ -217,12 +219,11 @@ inside the video-updating loop given in the previous section:
         of it, where _n_ comes from a counter which is incremented each
         time a VBI starts.)
     *   If we are in game-over mode, draw the text "GAME OVER"
-        (or again, perhaps a single animation frame thereof)
         on the screen.
     *   If we are in game-play mode, draw the ships on the screen
         based on their position.
 *   Update the game state:
-    *   If we are in attract mode, check if "Start Game" button is
+    *   If we are in attract mode, check if the "Start Game" button is
         being pressed, and if so change to game-play mode.
     *   If we are in game-over mode, check if a certain amount of
         time has elapsed, and if so change to attract mode.
@@ -269,11 +270,10 @@ Footnotes
 
 ##### Footnote 1
 
-The similarity between this and how words are written on a page should
-not go unnoticed.
-
-Indeed, one wonders if, had television been invented in some other part of
-the world, scan lines would instead go right-to-left or up-to-down...
+The similarity between this and how words are written on a page of text
+should not go unnoticed.  Indeed, one wonders if, had television been
+invented in some other part of the world, scan lines would instead go
+right-to-left or top-to-bottom...
 
 ##### Footnote 2
 
