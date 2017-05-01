@@ -96,7 +96,7 @@ you will ever care about, and describes each of them briefly
 (although not always in much detail).
 
 Again, this is something that, if you are programming in assembler,
-you will need to know, buf if you're using some other programming
+you will need to know, but if you're using some higher-level programming
 language, chances are there will be standard or 3rd-party libraries
 that will wrap calling these interrupts.
 
@@ -134,26 +134,30 @@ the same and they never change and your program is a `.COM` file
 and you have the extra fun of trying to fit everything you need
 into 64K.  If you must have more, you can upgrade to the "small"
 model where the segments still don't change, but now they are
-disjoint.  But that's as far as it should go.  Once you get into
+disjoint, so you have 64K for your code and 64K for your data.
+
+But that's as far as it should go.  Once you get into
 the "large" and "huge" models, you will lose hope, and instead
 you should look into getting out of "real mode".
 
-The best alternative to "real mode" is "protected mode", which
-gives you simply 32-bit addressing, at the price of having to
-start a DPMI (DOS Protected Mode Interface) driver first.
-DJGPP targets this mode and comes with a DPMI driver.
+The sanest alternative to "real mode" is "protected mode", which
+gives you a nice and simple flat 32-bit address space, at the
+small, small price of having to start a DPMI (DOS Protected Mode
+Interface) driver first.  DJGPP targets this mode and comes with
+a DPMI driver.
 
-But the best alternative isn't necessarily the most entertaining.
+But the sanest alternative isn't necessarily the most entertaining.
 There is also something called "unreal mode" that I've wanted
 to try for a long time, which is basically a "glitch" mode in
-between "real" and "protected" modes.
+between "real" and "protected" modes.  TODO: link to an article
+about it here.
 
 There are also EMS and XMS memory, but those are possibly best
 left to the imagination.
 
-By the way, 20 bits of address space is 1024K, which is enough
-to address 640K of main memory plus 384K of graphics memory,
-and as we all know, 640K ought to be enough for anybody...
+By the way, 20 bits of address space is 1024K, which splits into
+640K of main memory plus 384K of graphics memory, and that's
+the same 640K as in "640K ought to be enough for anybody."
 
 Text and Graphics
 -----------------
@@ -203,12 +207,14 @@ easiest to set the extended segment pointer `es` to `A000h` and
 address individual bytes with `es:si` or `es:di`.
 
 There is also the fact that if you want smooth animation, you should
-wait for the vertical retrace period before making changes to screen
-memory, as discussed in [A Basic Theory of Video Games][].
+wait for the vertical retrace period (a.k.a. the vertical blanking
+interval) before making changes to screen memory, as discussed in
+[A Basic Theory of Video Games][].
 
 I don't actually remember how to do this on an IBM PC, if I ever knew,
-but I do remember that [Allegro][] has some call for it, called
-something like `vsync()`.
+but I do remember that [Allegro][] has a function for it called
+`vsync()`.  If this function was all you wanted from Allegro, you
+would still be justified in using it, IMO.
 
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
 [A Basic Theory of Video Games]: A%20Basic%20Theory%20of%20Video%20Games.md
