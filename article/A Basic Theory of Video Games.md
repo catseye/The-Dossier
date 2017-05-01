@@ -46,12 +46,12 @@ the specs of any real video equipment.)
 
 As I said, the frame must be drawn quickly to make it look solid, and further,
 if we want the impression of smooth movement in the video, the frames must
-some in quick succession as well.  Say we want to draw 30 frames per second.
+done in quick succession as well.  Say we want to draw 30 frames per second.
 
 Therefore, each frame must be drawn in 1/30 of a second, and each scan
 line must be drawn in 1/6000 of a second.  That's a really short time —
 one-sixth of a millisecond.  And since each scan line contains 200 pixels, the
-beam must change in intensity 1.2 million times a second.
+beam must be able to change in intensity 1.2 million times a second.
 
 Video display circuitry
 -----------------------
@@ -87,7 +87,7 @@ ignore that complication for our purposes).
 
 The contents of the video RAM are relatively persistent — the video circuitry
 just reads it over and over and generate the frames from it over and over
-and if nothing changes the contents of the video RAM, the frames don't change
+and, if nothing changes the contents of the video RAM, the frames don't change
 either and the picture looks still.  And a program (running on the CPU)
 only has to write a different value to one of the bytes of RAM, and the
 part(s) of the screen that correspond to that byte will look different when
@@ -101,9 +101,9 @@ control over when the video circuitry will turn any given part of video
 RAM into a video signal, there is no guarantee that the video RAM won't
 be updated right when the frame is being drawn.  When that happens, the
 frame is based partly on the previous state of the video RAM, and
-partly on the new state of the video RAM, and the view sees just that —
-partial images.  A particularly egregious instance of this effect is
-"CGA snow".  How do we prevent this?
+partly on the new state of the video RAM, and the viewer sees just that —
+a flickering between partial images.  (A particularly egregious instance
+of this effect is "CGA snow".)  How do we prevent this?
 
 There's one thing I've omitted, and it comes from the fact that in an
 analog TV, the beam can't travel around the screen instantaneously.  It
@@ -115,37 +115,34 @@ So what happens is, each time the beam gets to the right side of the screen,
 it "blanks" (becomes intensity zero = no glow) as it travels back to the left
 for the next scan line.  Ditto each time it gets to the bottom, it "blanks"
 while travelling back to the top.  These short periods of time are called the
-_horizontal blanking interval_ (HBI) and the _vertical blanking interval_ (VBI).
-The latter, especially, is very important for video games.
+_horizontal blanking interval_ (HBI) and the _vertical blanking interval_
+(VBI), respectively.  The latter, especially, is very important for video games.
 
-The key idea is that if you wait for the vertical blanking interval before
-making changes to video RAM, and get all those changes done before the
-top scan line of the next scan line starts being displayed, you will get a
-smoothly-drawn and smoothly-animated display.
+The key idea is that *if you wait for the vertical blanking interval before
+making changes to video RAM and get all those changes done before the
+top scan line of the next frame starts being displayed, you will get a
+smoothly-drawn and smoothly-animated display*.
 
 To enable this, the computer architecture is usually wired up such that
-the CPU is able to tell when the VBI begins.  Often this is done with an
-_interrupt_, which is a way to alert the CPU of an external event, regardless
-of what the CPU is doing at the time.
+the CPU is able to detect when a VBI has begun.  Often this is done with an
+_interrupt_, which is a way to alert the CPU of an external event regardless
+of what it is doing at the time.
 
 But regardless of how it's implemented exactly, the idea is that the CPU
 waits for the VBI to start, and then gets to work writing new values to the
-video RAM that reflect what the screen should look like next.  It should
-avoid making any changes to video RAM after the VBI has finished (as the
-screen will be being drawn at this point and this will cause flickering),
-so it is important that the updates to video RAM are made as quickly
-as possible, to ensure they finish before the VBI is over.
-
-And when the VBI is over, it shouldn't touch the video RAM until the next
-VBI begins.
+video RAM that reflect what the screen should look like next.  It is also
+important that it should finish this work before the VBI is over, because
+as soon as the next frame begins being drawn, any updates to video RAM
+could cause flickering.  The CPU shouldn't touch the video RAM again until
+the next VBI begins.
 
 But there is this entire screen that is being drawn by the video hardware
 at this point.  Does the CPU just sit there, waiting idly for the next
-VBI?  No, that would be wasteful.  Instead, it can use this time
-productively by computing the next state of the game.  i.e. what will
-be the player's new position based on their velocity, did they collect
-a treasure and should we increase their score... that sort of thing.
-Then when the next VBI does come, it will update the video RAM from that
+VBI to start?  No, that would be wasteful.  Instead, it can use this time
+productively by computing the next state of the game.  For example, what
+will be the player's new position based on their velocity?  Did they collect
+a treasure and should we increase their score?  That sort of thing.
+Then, when the next VBI does come, it will update the video RAM from that
 new game state that was computed.
 
 So in some sense, the history of video games has been "how much processing
@@ -165,9 +162,10 @@ State
 -----
 
 Now that we've made it clear, hopefully, how dependent a video game is on
-translating the game state into video updates, and updating the game state
-in a timely manner, we should probably talk about how the game state can be
-structured.
+translating the game state into video updates which can occur in a timely
+manner, and updating the game state in a timely manner while the screen
+is actually being drawn, we should probably talk about how the game state
+can be structured to accomplish this.
 
 Saying "the next game state is based on the current game state plus the
 state of input devices" is very nice from a sort of mathematical point of
@@ -184,14 +182,15 @@ Instead, the state machine is implemented directly in the code, usually
 "hand-written" in terms of global variables and execution location.  It's
 probably obvious how the former works, but the latter is somewhat more
 subtle; it basically comes down to, if we are inside such-and-such part
-of the code, we know we must be in such-and-such state, so act accordingly.
-It's like the information about current state has been "compiled into" the
-code.
+of the code, we know we must be in such-and-such state (because otherwise,
+how did we get here?), so act accordingly.  It's like the information
+about current state has been "compiled into" the code.
 
 There are two other things to note about the states of a video game:
 
 *   They extend outside of the game itself.  Arcade games would have
-    an "attract mode", but even simple home games generally have a
+    an "attract mode", which might include a pre-recorded demonstration
+    of the game being played, but even simple home games generally have a
     title screen or something before a new game begins, and that title
     screen is a state too.
     
@@ -205,38 +204,44 @@ There are two other things to note about the states of a video game:
     sub-states, but here they compose differently — the state of
     the "game screen" is a kind of product of those 12 states.
 
-There are really an endless number of ways these states can be combined,
+There are virtually an endless number of ways these states can be combined,
 and even listing the most common patterns would probably be outside the
-scope of this article.  But to try to give a simple example, here are
-how some state updates might appear inside the video-updating loop
-given in the previous section:
+scope of this article.  But to try to give a single, illustrative example,
+here are how the state logic for a very simple video game might appear
+inside the video-updating loop given in the previous section:
 
 *   Wait for the VBI to begin.
 *   Update the video RAM based on the current game state:
     *   If we are in attract mode, draw the game's logo.
         (Perhaps the logo is animated, in which case, draw frame _n_
-        of it, where _n_ comes from a counter which is updated each VBI.)
+        of it, where _n_ comes from a counter which is incremented each
+        time a VBI starts.)
     *   If we are in game-over mode, draw the text "GAME OVER"
         (or again, perhaps a single animation frame thereof)
         on the screen.
     *   If we are in game-play mode, draw the ships on the screen
         based on their position.
-*   Start putting together the next game state:
+*   Update the game state:
     *   If we are in attract mode, check if "Start Game" button is
         being pressed, and if so change to game-play mode.
     *   If we are in game-over mode, check if a certain amount of
         time has elapsed, and if so change to attract mode.
     *   If we are in game-play mode:
         *   compute the new position of each ship based on its current
-            position and velocty
+            position and velocity;
         *   compute the new velocity of the player's ship based on
-            the position of the joystick
+            the position of the joystick;
         *   compute the new velocity of the enemy ships based on
-            the position of the player's ship and their "AI"
+            the position of the player's ship and their "AI"; and
         *   if the player's ship overlaps with one of the enemy ships,
             change from game-play mode to game-over mode.
 *   Wait for the next VBI to begin.
 *   Repeat ad infinitum.
+
+...and when the machine is powered on (or when this game is loaded from
+a cassette tape, or whatever,) there is some startup code that sets
+up the initial state (current mode = attract mode, etc.) and jumps
+to this loop.
 
 And there's really not much to add after this point.
 
