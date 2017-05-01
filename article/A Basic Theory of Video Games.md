@@ -70,20 +70,20 @@ of their electronics dedicated to the problem of generating the video display.
 In fact, to appreciate how video-oriented the early computers were,
 consider that the Commodore 64's clock speed in North America was
 1.023 MHz.  Why such a weird number, especially when the CPU was capable
-of 2 MHz?  Because the clock was being used to generate the video signal,
+of 2 MHz?  Because the clock was also being used to generate the video signal,
 which had to match the NTSC standard, and 1.023 MHz, when divided in the
-right way, does that.  (Following generations of computers used dedicated
+right way, does that.  (Later generations of computers used dedicated
 video clocks in their video circuitry to allow the CPU and the video to
 run at independent rates.)
 
 Either way, we have this dedicated video display circuitry which can generate
 a video signal without taking up any of the CPU's time.  How does it generate
-the display?  There were many possible tricks it could use, but the basic
-idea is that there is a chunk of RAM dedicated to holding a representation of
-the display — the "video RAM" — and this circuitry reads it and derives the
-signal that will modulate the beam which will make the various points on the
-screen either bright or dark (or different colours, but we can ignore that
-complication for our purposes).  [(Footnote 3)](#footnote-3)
+the display?  There were many possible tricks it could use [(Footnote 3)](#footnote-3),
+but the basic idea is that there is a chunk of RAM dedicated to holding a
+representation of the display — the "video RAM" — and this circuitry reads it
+and derives the signal that will modulate the beam which will make the various
+points on the screen either bright or dark (or different colours, but we can
+ignore that complication for our purposes).
 
 The contents of the video RAM are relatively persistent — the video circuitry
 just reads it over and over and generate the frames from it over and over
@@ -98,58 +98,66 @@ Vertical blanking interval
 
 I say "next frame" but of course, since the CPU doesn't have direct
 control over when the video circuitry will turn any given part of video
-RAM into a video signal, there is no guarantee that the current frame
-won't be based partly on the newly updated video image.  When that happens,
-the viewer sees just that — partial images.  A particularly egregious
-instance of this effect is "CGA snow".  How do we prevent this?
+RAM into a video signal, there is no guarantee that the video RAM won't
+be updated right when the frame is being drawn.  When that happens, the
+frame is based partly on the previous state of the video RAM, and
+partly on the new state of the video RAM, and the view sees just that —
+partial images.  A particularly egregious instance of this effect is
+"CGA snow".  How do we prevent this?
 
 There's one thing I've omitted, and it comes from the fact that in an
-analog TV, the beam can't travel instantaneously.  Each time it gets to
-the right side of the screen, it "blanks" as it travels back to the left
+analog TV, the beam can't travel around the screen instantaneously.  It
+takes a bit of time, however small it might be, to change the power to
+the magnets, and that glowing spot always must make a continuous path
+from one point to another.
+
+So what happens is, each time the beam gets to the right side of the screen,
+it "blanks" (becomes intensity zero = no glow) as it travels back to the left
 for the next scan line.  Ditto each time it gets to the bottom, it "blanks"
-while travelling back to the top.  These are called the
-_horizontal blanking interval_ and the _vertical blanking interval_, and
-the latter is very important for video games.
+while travelling back to the top.  These short periods of time are called the
+_horizontal blanking interval_ (HBI) and the _vertical blanking interval_ (VBI).
+The latter, especially, is very important for video games.
 
 The key idea is that if you wait for the vertical blanking interval before
 making changes to video RAM, and get all those changes done before the
-top scan line starts being displayed, you will get a smoothly animated
-display.
+top scan line of the next scan line starts being displayed, you will get a
+smoothly-drawn and smoothly-animated display.
 
 To enable this, the computer architecture is usually wired up such that
-an _interrupt_ is issued when the vertical blanking interval begins.
-So the game program can, when it starts up, install a handler for this
-interrupt — a bit of code which runs immediately when the interrupt happens,
-regardless of what the CPU is doing.
-There are different ways to set it up, but perhaps all this interrupt does
-is set a global variable, and perhaps all the main code does is wait
-for this variable in a busy loop.
+the CPU is able to tell when the VBI begins.  Often this is done with an
+_interrupt_, which is a way to alert the CPU of an external event, regardless
+of what the CPU is doing at the time.
 
-At any rate, when the vertical blanking interval begins, that is the time
-that the program should, as quickly as possible, update the display by
-writing new values to the video RAM.  And as soon as the vertical blanking
-interval ends, the program should avoid changing video RAM, to avoid flicker
-and snow.
+But regardless of how it's implemented exactly, the idea is that the CPU
+waits for the VBI to start, and then gets to work writing new values to the
+video RAM that reflect what the screen should look like next.  It should
+avoid making any changes to video RAM after the VBI has finished (as the
+screen will be being drawn at this point and this will cause flickering),
+so it is important that the updates to video RAM are made as quickly
+as possible, to ensure they finish before the VBI is over.
 
-But there is this entire screen that is being updated at this point!
-Does the CPU just sit there, waiting for the next vertical blanking
-interrupt?  No, that would be wasteful.  It should use this time
+And when the VBI is over, it shouldn't touch the video RAM until the next
+VBI begins.
+
+But there is this entire screen that is being drawn by the video hardware
+at this point.  Does the CPU just sit there, waiting idly for the next
+VBI?  No, that would be wasteful.  Instead, it can use this time
 productively by computing the next state of the game.  i.e. what will
 be the player's new position based on their velocity, did they collect
 a treasure and should we increase their score... that sort of thing.
-
-Then when the next VBI does come, we will update the display from that
-new game state we computed.
+Then when the next VBI does come, it will update the video RAM from that
+new game state that was computed.
 
 So in some sense, the history of video games has been "how much processing
-can you get done in 1/n'th of a second?"
+can you get done in 1/*n*'th of a second?"
 
 To recap:
 
 *   Wait for the VBI to begin.
 *   Update the video RAM based on the current game state.
-*   Before the VBI has ended, begin updating the game state based
-    on the current game state plus any input devices, etc.
+*   Before the VBI has ended, stop updating video RAM and start putting
+    together the next game state (based on the current game state plus
+    the state of any input devices, etc.)
 *   Wait for the next VBI to begin.
 *   Repeat ad infinitum.
 
@@ -211,11 +219,11 @@ the world, scan lines would instead go right-to-left or up-to-down...
 
 ##### Footnote 2
 
-Modern display devices are slightly different.  They are composed of
-millions of display elements — effectively, tiny lights — so in theory they
-no longer have the restriction of only being able to make one spot glow at
-a time.  However, it it still more energy-efficient to do it that way.  So they
-still work in basically the same way, with frames and scan lines.
+Modern display devices are composed of millions of display elements —
+effectively, tiny lights — so in theory they no longer have the restriction
+of only being able to make one spot glow at a time.  However, it it still
+more energy-efficient to do it that way.  So they still work in basically
+the same way, with frames made up of scan lines.
 
 In fact, devices like the 7-segment LED display on, for example, a microwave,
 work on the same "scan" principle.  Try moving your eyes rapidly back and
