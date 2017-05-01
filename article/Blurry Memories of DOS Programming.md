@@ -1,15 +1,29 @@
-Vague Memories of MS-DOS Programming
-====================================
+Vague Memories of DOS Programming
+=================================
 
 *   status: draft
 
-So you want to program something in MS-DOS for some reason.  I
-totally support this sort of endeavour!  It is a totally worthwhile
-thing to try.  However, there are parts of it that can be a real
-PITA.
+So, for whatever reason, you want to program something in DOS —
+that is to say, MS-DOS or one of its clones.  I totally support
+this sort of endeavour!  It is a totally worthwhile thing to try.
+It can give you a sense of historical perspective, or simply a
+change from the everyday.  And it might even be a reasonable
+platform for building and distributing games, in some sense,
+since you can get a DOS emulator on pretty much any modern device.
 
-This document attempts to collate my vague memories of my scant
+Now, I don't have tons of experience programming for DOS —
+mainly writing [Shelta][] and [ILLGOL][] and [BefOS][], along
+with a few games (all attempts at which were abandoned).
+
+But I do recall, pretty clearly, that there are several parts of
+DOS programming that can be a real PITA.
+
+So this document attempts to collate my blurry memories of my scant
 experience programming things in DOS, to shed light on those parts.
+
+[Shelta]: http://catseye.tc/node/Shelta
+[ILLGOL]: http://catseye.tc/node/ILLGOL
+[BefOS]: http://catseye.tc/node/BefOS
 
 Development Tools
 -----------------
@@ -22,9 +36,19 @@ You don't need to know x86 machine code, but because DOS isn't
 much of an operating system, it helps to be comfortable with
 thinking about low-level behaviour of the machine.
 
+Since you're almost certainly going to be running the resulting
+program in an emulator, you could even consider writing in
+BASIC.  You can crank the emulator up to an unreasonable speed
+on a modern machine to compensate for any performance problems
+that come from BASIC being an interpreted language.
+
+Or if you're doing this for laughs, you could write your code in
+[ILLGOL][].
+
 [DJGPP]: http://www.delorie.com/djgpp/
 [nasm]: http://www.nasm.us/
 [yasm]: http://yasm.tortall.net/
+[ILLGOL]: http://catseye.tc/node/ILLGOL
 
 Interrupts
 ----------
@@ -41,12 +65,13 @@ abstract way via a driver, etc.  But those advantages aren't
 terribly great, especially for games, and especially in the modern
 era, where your code will almost certainly be running on [DOSBox][],
 or [FreeDOS][] under [QEMU][], or [v86][], instead of on a real
-machine where you need to worry about what kind of soundcard the
-user has.
+machine where you need to worry about things like what kind of
+soundcard the user has.
 
 And if you only use the BIOS and never DOS itself, your program
 can run without DOS.  That's right, you can just put your program
 on a boot disk and boot right into it and not worry about DOS at all.
+Some actual "DOS" games did this.
 
 But if you want to do things like load and save files, then using
 DOS will be much easier than e.g. writing your own filesystem routines.
@@ -97,7 +122,7 @@ so it's really only 20 bits of address space.
 There is a reason for this, and I bet it dates back to CP/M days,
 and I bet it's that this allows you to relocate a program in
 memory in a fine-grained(ish) way simply by changing the segment
-pointers.
+pointers (the "high bytes" referred to previously.)
 
 But it's just horrible for normal use, and leads to things like
 the Borland languages supporting `near` and `far` pointers to
@@ -187,3 +212,28 @@ something like `vsync()`.
 
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
 [A Basic Theory of Video Games]: A%20Basic%20Theory%20of%20Video%20Games.md
+
+Keyboard Input
+--------------
+
+TBW.  Mention scancodes.
+
+Sound
+-----
+
+I never played much with sound on the IBM PC architecture.  It's
+probably reasonable to assume that any given emulator supports at
+least the SoundBlaster 16.  It's probably even OK to assume that
+the SB16 lives at a certain interrupt and DMA address, since those
+can be configured on the emulator side now (instead of asking you
+with one of those horrible `SETUP.EXE` menus!)
+
+But I don't actually know anything about talking to an SB16.
+But I would be really surprised if there wasn't information about
+it somewhere on the internet.
+
+Failing the SB16, you could, if your really wanted to, drive the
+internal speaker, and the emulator, if it is worth its salt, should
+support that.  However, I'm not sure there are many listeners who
+would appreciate it greatly.  In fact, many would probably
+appreciate if you *didn't* make the internal speaker make any sounds...

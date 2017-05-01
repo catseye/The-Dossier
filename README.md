@@ -17,6 +17,7 @@ Articles Contained Herein
 
 ### Games
 
+*   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md)
 *   **Games of Note**
     
     These are not necesarily "favourite" or "best" or "recommended" things —
@@ -41,11 +42,10 @@ Articles Contained Herein
 *   [Lost Games](article/Lost%20Games.md)
 *   [Recollected Games](article/Recollected%20Games.md) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
-*   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) *(U)*
 
 ### Retrocomputing
 
-*   [Blurry Memories of MS-DOS Programming](Blurry%20Memories%20of%20MS-DOS%20Programming.md) *(U)*
+*   [Blurry Memories of DOS Programming](Blurry%20Memories%20of%20DOS%20Programming.md) *(U)*
 
 External Articles
 -----------------
