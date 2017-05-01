@@ -3,8 +3,10 @@ A Basic Theory of Video Games
 
 *   status: draft
 
-Modern computers are obscenely powerful, but they weren't always so.  Yet
-we had video games back then.  How did they work?
+Modern computers are extremely powerful.  But they weren't always so, and
+video games were invented back in an age when processing power was still
+rather modest.  But they were still capable of fast and frenetic action,
+demanding of the player's reflexes.  So one might wonder: How did they work?
 
 The operative word is _video_.  Understanding how a television works will
 really help in understanding how a video game works.
@@ -12,21 +14,43 @@ really help in understanding how a video game works.
 Video
 -----
 
-The basic idea is that a video display is composed of a number of horizontal
-_scan lines_.  In an old analog television, there was a beam that could
-cause only one point on the screen at a time to glow, and this beam's point
-would pass left-to-right along the top scan line, then left-to-right on the next
-scan line down, then the next, until finished the last scan line at the bottom
-of the screen.  Then it would go back to the top and repeat the process.  Each
-of these passes down the screen is called a _frame_.  Modern display devices
-are slightly different, but the basic idea still holds.
+How an old-school black-and-white analog television generates its glowing
+screen is not too complicated.  At the back there's a "gun" that shoots a
+beam of electrons forward, and where this beam hits the screen from behind,
+it makes a glowing spot.  The intensity of glow can be varied by changing
+the intensity of the beam.  And there are some magnets along the sides which
+can bend the beam before it hits the screen and thus determine where on the
+screen the spot appears.
 
-In order to display smooth movement in the video, the device must display
-a significant number of frames per second, for instance 30 (note: I'm
-just making up some numbers for convenience in this paragraph).  Therefore each
-frame must be generated quite quickly — say, 1/30 of a second — and therefore
-each scan line must be generated even more quickly — 1/6000 of a second if
-there are 200 scan lines.  And if each scan line contains 200 pixels, then the
+But, there can only be one spot that is being hit like this at any one time,
+so to create the illusion that the whole screen is glowing, the trick it to
+move the spot around very, very quickly.
+
+So what we need is a good method for covering the entire screen in an
+orderly fashion.  And what we have is this: each _frame_ starts at the top,
+and is composed of successive left-to-right _scan lines_, each of which is
+slightly lower down on the screen.  Then when we get to the bottom-right of
+the screen, the beam goes back up to the top-left for the next frame.
+[(Footnote 1)](#footnote-1)
+
+While there are certainly some differences, modern displays work very similary.
+[(Footnote 2)](#footnote-2)
+
+That glowing spot is fairly small, so to get a nice, solid-looking frame, we
+should space the scan lines closely together.  Say that there are 200
+scan lines on our picture tube.  And, remember we're varying the intensity of
+the beam as it goes along the scan line, in order to draw individual pixels;
+say there are 200 pixels on a scan line.  (Note that I'm just making up
+representative numbers in this section; they don't necessarily correspond to
+the specs of any real video equipment.)
+
+As I said, the frame must be drawn quickly to make it look solid, and further,
+if we want the impression of smooth movement in the video, the frames must
+some in quick succession as well.  Say we want to draw 30 frames per second.
+
+Therefore, each frame must be drawn in 1/30 of a second, and each scan
+line must be drawn in 1/6000 of a second.  That's a really short time —
+one-sixth of a millisecond.  And since each scan line contains 200 pixels, the
 beam must change in intensity 1.2 million times a second.
 
 Video display circuitry
@@ -34,34 +58,40 @@ Video display circuitry
 
 1.2 million times per second is a lot of times per second to do anything,
 and while it's not too difficult to pack this many changes into an analog TV
-signal, if you wanted a computer to generate this signal, it would really
-help matters if it had some dedicated hardware for it.  You'd use up a lot of
-cycles if you were to task the CPU with controlling every pixel individually.
+signal, if you wanted a *computer* to generate this signal, it would really
+help matters if it had some dedicated hardware to do that, because you'd use
+up a lot of cycles if you were to task the CPU with controlling every pixel
+individually.
+
+So early computers, or at least the kind inside video arcade games and home
+units that were meant to be hooked up to TVs, often had a significant amount
+of their electronics dedicated to the problem of generating the video display.
 
 In fact, to appreciate how video-oriented the early computers were,
 consider that the Commodore 64's clock speed in North America was
 1.023 MHz.  Why such a weird number, especially when the CPU was capable
 of 2 MHz?  Because the clock was being used to generate the video signal,
 which had to match the NTSC standard, and 1.023 MHz, when divided in the
-right way, does that.  (The following generations of computers used dedicated
+right way, does that.  (Following generations of computers used dedicated
 video clocks in their video circuitry to allow the CPU and the video to
 run at independent rates.)
 
 Either way, we have this dedicated video display circuitry which can generate
 a video signal without taking up any of the CPU's time.  How does it generate
 the display?  There were many possible tricks it could use, but the basic
-idea is that there is a chunk of RAM dedicated to holding a
-representation of the display — the "video RAM" — and this circuitry reads it
-and derives the signal that will modulate the beam which will make the various
-points on the screen either bright or dark (or colour, but we'll just ignore
-such fancy complications for this.)
+idea is that there is a chunk of RAM dedicated to holding a representation of
+the display — the "video RAM" — and this circuitry reads it and derives the
+signal that will modulate the beam which will make the various points on the
+screen either bright or dark (or different colours, but we can ignore that
+complication for our purposes).  [(Footnote 3)](#footnote-3)
 
-The contents of this RAM are relatively persistent — the video circuitry
+The contents of the video RAM are relatively persistent — the video circuitry
 just reads it over and over and generate the frames from it over and over
-and if nothing changes the contents of the RAM, the frames don't change
+and if nothing changes the contents of the video RAM, the frames don't change
 either and the picture looks still.  And a program (running on the CPU)
-only has to write a different value to one of the bytes of RAM, and that
-part of the screen will look different on the next frame.
+only has to write a different value to one of the bytes of RAM, and the
+part(s) of the screen that correspond to that byte will look different when
+the next frame is drawn.
 
 Vertical blanking interval
 --------------------------
@@ -167,3 +197,42 @@ There are two other things to note about the states of a video game:
     the "game screen" is a product of those 12 states.
 
 (a few more things TBW)
+
+Footnotes
+---------
+
+##### Footnote 1
+
+The similarity between this and how words are written on a page should
+not go unnoticed.
+
+Indeed, one wonders if, had television been invented in some other part of
+the world, scan lines would instead go right-to-left or up-to-down...
+
+##### Footnote 2
+
+Modern display devices are slightly different.  They are composed of
+millions of display elements — effectively, tiny lights — so in theory they
+no longer have the restriction of only being able to make one spot glow at
+a time.  However, it it still more energy-efficient to do it that way.  So they
+still work in basically the same way, with frames and scan lines.
+
+In fact, devices like the 7-segment LED display on, for example, a microwave,
+work on the same "scan" principle.  Try moving your eyes rapidly back and
+forth when looking at one of these, and you'll notice the afterimage is not
+a smooth streak.  It's segmented, meaning parts of it are "blinking" — only
+one segment is illuminated at any one time — but it's going too quickly for
+you to notice.
+
+##### Footnote 3
+
+Discussing all the tricks that have been used to make it possible to generate
+a signal for the entire screen in such a short amount of time on a system with
+limited processing power is probably outside the scope of this article, but
+they are an interesting subject in their own right, so here is a sampling of
+them for anyone who wishes to research them further:
+
+*   programmable characters
+*   hardware sprites
+*   double-buffering
+*   scan line and frame offsets ("smooth scrolling")
