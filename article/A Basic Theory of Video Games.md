@@ -1,7 +1,7 @@
 A Basic Theory of Video Games
 =============================
 
-*   status: draft
+*   status: near-final draft
 
 Modern computers are extremely powerful.  But they weren't always so, and
 video games were invented back in an age when processing power was still
@@ -243,9 +243,26 @@ a cassette tape, or whatever,) there is some startup code that sets
 up the initial state (current mode = attract mode, etc.) and jumps
 to this loop.
 
+Conclusion
+----------
+
 And there's really not much to add after this point.
 
 This has been an exposition of a basic theory of video games.
+
+It in itself is not Earth-shattering, of course, and there are dozens
+of little holes that have been glossed over — but knowing about it
+might give you a deeper appreciation of the medium.
+
+For example, have you ever been playing a first-person shooter and you
+trigger some kind of boobytrap and a bunch of antagonists appear and
+everything gets all choppy?  You might know that that's called "frame drop",
+and you probably guessed it's because the computer now has "too much to do".
+But knowing this theory, you can see that it *literally* has too much
+to do — more game state to compute than it can process in 1/*n*th of a
+second, before the next VBI.  So it fails to update the screen on that
+VBI, but it does get it done before the *next* VBI.  So effectively the
+frame rate drops to half, accounting for the choppiness.
 
 Footnotes
 ---------
