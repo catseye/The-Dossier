@@ -174,18 +174,19 @@ state of input devices" is very nice from a sort of mathematical point of
 view, but it's far too abstract to do much with.  Computer science provides
 us with the concept of the _state machine_ which can help us break it down.
 
-However, note that the state machine concept is used primarily as a *concept*,
-and not as programming abstraction.  That is, you don't tend to see anything
-like `class StateMachine { ... }` in a video game's code, at least not until
-the 1990's, because the overhead for such a thing would be prohibitive on
-(e.g.) an 8-bit processor.
+However, note that here the state machine concept is used primarily as a
+*concept*, and not as programming abstraction.  That is, you don't tend to
+see anything like `class StateMachine { ... }` in a video game's code, at
+least not until the 1990's, because the overhead for such a thing would be
+prohibitive on (e.g.) an 8-bit processor.
 
-Instead, the state machine is implemented directly in the code, generally
-in terms of global variables and execution location.  It's probably obvious
-how the former works, but the latter is somewhat more subtle; it basically
-comes down to, if we are inside such-and-such part of the code, we know we
-must be in such-and-such state, so act accordingly.  It's like the state
-has been "compiled into" the code.
+Instead, the state machine is implemented directly in the code, usually
+"hand-written" in terms of global variables and execution location.  It's
+probably obvious how the former works, but the latter is somewhat more
+subtle; it basically comes down to, if we are inside such-and-such part
+of the code, we know we must be in such-and-such state, so act accordingly.
+It's like the information about current state has been "compiled into" the
+code.
 
 There are two other things to note about the states of a video game:
 
@@ -201,10 +202,45 @@ There are two other things to note about the states of a video game:
     are sub-states of the "attract mode" state.  Or, during the game
     itself, there might be 12 spaceships on the screen, each with
     its own state (position and velocity).  You could also call those
-    sub-states, but this time they compose differently — the state of
-    the "game screen" is a product of those 12 states.
+    sub-states, but here they compose differently — the state of
+    the "game screen" is a kind of product of those 12 states.
 
-(a few more things TBW)
+There are really an endless number of ways these states can be combined,
+and even listing the most common patterns would probably be outside the
+scope of this article.  But to try to give a simple example, here are
+how some state updates might appear inside the video-updating loop
+given in the previous section:
+
+*   Wait for the VBI to begin.
+*   Update the video RAM based on the current game state:
+    *   If we are in attract mode, draw the game's logo.
+        (Perhaps the logo is animated, in which case, draw frame _n_
+        of it, where _n_ comes from a counter which is updated each VBI.)
+    *   If we are in game-over mode, draw the text "GAME OVER"
+        (or again, perhaps a single animation frame thereof)
+        on the screen.
+    *   If we are in game-play mode, draw the ships on the screen
+        based on their position.
+*   Start putting together the next game state:
+    *   If we are in attract mode, check if "Start Game" button is
+        being pressed, and if so change to game-play mode.
+    *   If we are in game-over mode, check if a certain amount of
+        time has elapsed, and if so change to attract mode.
+    *   If we are in game-play mode:
+        *   compute the new position of each ship based on its current
+            position and velocty
+        *   compute the new velocity of the player's ship based on
+            the position of the joystick
+        *   compute the new velocity of the enemy ships based on
+            the position of the player's ship and their "AI"
+        *   if the player's ship overlaps with one of the enemy ships,
+            change from game-play mode to game-over mode.
+*   Wait for the next VBI to begin.
+*   Repeat ad infinitum.
+
+And there's really not much to add after this point.
+
+This has been an exposition of a basic theory of video games.
 
 Footnotes
 ---------
