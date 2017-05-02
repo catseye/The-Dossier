@@ -5,11 +5,15 @@ Vague Memories of DOS Programming
 
 So, for whatever reason, you want to program something in DOS —
 that is to say, MS-DOS or one of its clones.  I totally support
-this sort of endeavour!  It is a totally worthwhile thing to try.
-It can give you a sense of historical perspective, or simply a
-change from the everyday.  And it might even be a reasonable
-platform for building and distributing games, in some sense,
-since you can get a DOS emulator on pretty much any modern device.
+this sort of endeavour!  It is a totally worthwhile thing to try
+your hand at.  It can give you a sense of historical perspective,
+or simply be a change from the everyday.
+
+And it might even be a reasonable (in some sense) platform for
+building and distributing certain kinds of software, like games,
+since you lots of options for emulating DOS on all manner of
+modern devices: [DOSBox][], or [FreeDOS][] under [QEMU][], or
+[v86][], just to name three.
 
 Now, I don't have tons of experience programming for DOS —
 mainly writing [Shelta][] and [ILLGOL][] and [BefOS][], along
@@ -43,12 +47,13 @@ on a modern machine to compensate for any performance problems
 that come from BASIC being an interpreted language.
 
 Or if you're doing this for laughs, you could write your code in
-[ILLGOL][].
+[ILLGOL][].  Or if you prefer a minimalist approach, you could
+use [Shelta][].  (Or [colorForth][]!)
 
 [DJGPP]: http://www.delorie.com/djgpp/
 [nasm]: http://www.nasm.us/
 [yasm]: http://yasm.tortall.net/
-[ILLGOL]: http://catseye.tc/node/ILLGOL
+[colorForth]: https://en.wikipedia.org/wiki/ColorForth
 
 Interrupts
 ----------
@@ -63,10 +68,9 @@ things.  You will lose the advantages that DOS gives you, like being
 able to redirect output to a file, talking to hardware in a more
 abstract way via a driver, etc.  But those advantages aren't
 terribly great, especially for games, and especially in the modern
-era, where your code will almost certainly be running on [DOSBox][],
-or [FreeDOS][] under [QEMU][], or [v86][], instead of on a real
-machine where you need to worry about things like what kind of
-soundcard the user has.
+era, where your code will almost certainly be running on an
+emulator instead of on a real machine where you need to worry about
+things like what kind of soundcard the user has.
 
 And if you only use the BIOS and never DOS itself, your program
 can run without DOS.  That's right, you can just put your program
