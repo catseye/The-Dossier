@@ -1,5 +1,5 @@
-Vague Memories of DOS Programming
-=================================
+Blurry Memories of DOS Programming
+==================================
 
 *   status: draft
 
@@ -62,6 +62,9 @@ OK, so when you write a program in DOS, you actually have a choice:
 you can use DOS for what you want to do, or you can totally bypass
 DOS and use the underlying BIOS instead.
 
+(This is what I was getting at when I said "DOS isn't much of an
+operating system", above.)
+
 If you go straight to the BIOS, DOS won't try to stop you; at
 worst, you might leave DOS a little confused about the state of
 things.  You will lose the advantages that DOS gives you, like being
@@ -117,16 +120,17 @@ supported DOS.
 Addressing Memory
 -----------------
 
-The 286 and earlier models support what's called "real mode", which
-is this terrible thing where 32 bits are used to address a byte in
-memory, but it's actually a pair of 16-bit numbers, but all but
-the topmost 4 bits of the high byte overlap bits in the low byte,
-so it's really only 20 bits of address space.
+For addressing memory, the 80286 and earlier models support only
+a mode called "real mode", which is this terrible thing where 32
+bits are used to address a byte location in memory, but it's
+actually a pair of 16-bit numbers call the "segment" and the
+"offset", but all but the topmost 4 bits of the segment overlap
+bits in the offset, so it's really only 20 bits of address space.
 
 There is a reason for this, and I bet it dates back to CP/M days,
 and I bet it's that this allows you to relocate a program in
 memory in a fine-grained(ish) way simply by changing the segment
-pointers (the "high bytes" referred to previously.)
+(but leaving the offsets, hardcoded in the program, the same).
 
 But it's just horrible for normal use, and leads to things like
 the Borland languages supporting `near` and `far` pointers to
@@ -146,9 +150,10 @@ you should look into getting out of "real mode".
 
 The sanest alternative to "real mode" is "protected mode", which
 gives you a nice and simple flat 32-bit address space, at the
-small, small price of having to start a DPMI (DOS Protected Mode
-Interface) driver first.  DJGPP targets this mode and comes with
-a DPMI driver.
+small, small price of having to run on a 80386 or later model,
+and start something called a DPMI ([DOS Protected Mode Interface][])
+driver first.  DJGPP targets this mode and comes with a DPMI driver
+called [CWSDPMI][].
 
 But the sanest alternative isn't necessarily the most entertaining.
 There is also something called "unreal mode" that I've wanted
@@ -157,11 +162,19 @@ between "real" and "protected" modes.  TODO: link to an article
 about it here.
 
 There are also EMS and XMS memory, but those are possibly best
-left to the imagination.
+left to the imagination at this point.  (I tried working with them
+once, in [BefOS][], but I gave up, because IIRC you need to page
+data into and out of them, and for that you need a paging system,
+and memory management systems are often a bit subtle, by which I
+mean annoying, to design and implement.)
 
-By the way, 20 bits of address space is 1024K, which splits into
-640K of main memory plus 384K of graphics memory, and that's
-the same 640K as in "640K ought to be enough for anybody."
+By the way, 20 bits of address space is 1024K, which was split
+up into 640K of main memory plus 384K of graphics memory.  The
+640K there is the same 640K that was made famous by the phrase
+"640K ought to be enough for anybody."
+
+[DOS Protected Mode Interface]: https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface
+[CWSDPMI]: https://en.wikipedia.org/wiki/CWSDPMI
 
 Text and Graphics
 -----------------
