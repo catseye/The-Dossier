@@ -222,7 +222,32 @@ would still be justified in using it, IMO.
 Keyboard Input
 --------------
 
-TBW.  Mention scancodes.
+DOS will let you read text from "standard input", even when that
+input is coming from a console, but that will be line-buffered,
+i.e. the user will need to press Enter before the program sees
+any of it, which is fine for text adventures and the like, but
+not really sufficient for video games.
+
+I don't think DOS has a way to check if input is available and
+only consume it if it is available, but I might be misremembering.
+
+But the BIOS certainly can do this.
+
+To wait for a key to be pressed, set `AH=0h` and `int 16h`.
+To check if a key is pressed or not, set `AH=01h` instead,
+then check the `Z` flag afterward.  For both calls,
+the ASCII value will be available in `AL` afterward, and
+the raw scan code will be available in `AH`.
+
+Here is a really comprehensive list of [Keyboard scancodes][].
+
+If you also want to see if any of the modifier keys (Shift,
+Ctrl, etc,) are being pressed, set `AH=02h` and `int 16h`.
+I'd describe the result but this is getting outside the scope
+of this article; consult Ralf Brown's Interrupt List, or
+simply do a web search for `int 16h`, for more information.
+
+[Keyboard scancodes]: http://www.win.tue.nl/~aeb/linux/kbd/scancodes.html
 
 Sound
 -----
