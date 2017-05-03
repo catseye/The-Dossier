@@ -1,7 +1,7 @@
 Blurry Memories of DOS Programming
 ==================================
 
-*   status: draft
+*   status: near final draft
 
 So, for whatever reason, you want to program something in DOS —
 that is to say, MS-DOS or one of its clones.  I totally support
@@ -11,23 +11,19 @@ or simply be a change from the everyday.
 
 And it might even be a reasonable (in some sense) platform for
 building and distributing certain kinds of software, like games,
-since you lots of options for emulating DOS on all manner of
-modern devices: [DOSBox][], or [FreeDOS][] under [QEMU][], or
-[v86][], just to name three.
+since you have lots of options for emulating DOS on modern
+devices: [DOSBox][], or [FreeDOS][] under [QEMU][], or
+[v86][], to name just three.
 
 Now, I don't have tons of experience programming for DOS —
-mainly writing [Shelta][] and [ILLGOL][] and [BefOS][], along
-with a few games (all attempts at which were abandoned).
+mainly writing a few weird programming languages.  I also tried
+writing a few games (all such attempts abandoned, alas).
 
 But I do recall, pretty clearly, that there are several parts of
 DOS programming that can be a real PITA.
 
 So this document attempts to collate my blurry memories of my scant
 experience programming things in DOS, to shed light on those parts.
-
-[Shelta]: http://catseye.tc/node/Shelta
-[ILLGOL]: http://catseye.tc/node/ILLGOL
-[BefOS]: http://catseye.tc/node/BefOS
 
 Development Tools
 -----------------
@@ -59,6 +55,8 @@ Or if you prefer a minimalist approach, you could use
 [DJGPP]: http://www.delorie.com/djgpp/
 [nasm]: http://www.nasm.us/
 [yasm]: http://yasm.tortall.net/
+[Shelta]: http://catseye.tc/node/Shelta
+[ILLGOL]: http://catseye.tc/node/ILLGOL
 [colorForth]: https://en.wikipedia.org/wiki/ColorForth
 
 Interrupts
@@ -176,12 +174,13 @@ mean annoying, to design and implement.)
 Then there's the [A20 Line][].  We don't talk about the A20 Line.
 
 By the way, 20 bits of address space is 1024K, which was split
-up into 640K of main memory plus 384K for BIOS and I/O and
-video memory.  The 640K there is the same 640K that was made
-famous by the phrase "640K ought to be enough for anybody."
+up into 640K of main memory plus 384K for ROM and I/O (BIOS and
+video memory, basically).  The 640K there is the same 640K that
+was made famous by the phrase "640K ought to be enough for anybody."
 
 [DOS Protected Mode Interface]: https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface
 [CWSDPMI]: https://en.wikipedia.org/wiki/CWSDPMI
+[BefOS]: http://catseye.tc/node/BefOS
 [unreal mode]: http://wiki.osdev.org/Unreal_Mode
 [A20 Line]: http://wiki.osdev.org/A20_Line
 
@@ -247,6 +246,11 @@ would still be justified in using it, IMO.
 
 Keyboard Input
 --------------
+
+If you're writing a game, you could take the player's input from
+a joystick.  But traditionally, PC games would assume that you
+might not own a joystick and would let you use the keyboard for
+control instead.
 
 DOS will let you read text from "standard input", even when that
 input is coming from a console, but that will be line-buffered,
