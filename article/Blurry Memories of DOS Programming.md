@@ -156,16 +156,15 @@ you should look into getting out of "real mode".
 
 The sanest alternative to "real mode" is "protected mode", which
 gives you a nice and simple flat 32-bit address space, at the
-small, small price of having to run on a 80386 or later model,
-and start something called a DPMI ([DOS Protected Mode Interface][])
+small price of having to run on a 80386 or later, and having to
+start something called a DPMI ([DOS Protected Mode Interface][])
 driver first.  DJGPP targets this mode and comes with a DPMI driver
 called [CWSDPMI][].
 
 But the sanest alternative isn't necessarily the most entertaining.
-There is also something called "unreal mode" that I've wanted
-to try for a long time, which is basically a "glitch" mode in
-between "real" and "protected" modes.  TODO: link to an article
-about it here.
+There is also something called "[unreal mode][]" that I've wanted
+to try for a long time, which is sort of a "glitch" mode in
+between "real" and "protected" modes.
 
 There are also EMS and XMS memory, but those are possibly best
 left to the imagination at this point.  (I tried working with them
@@ -174,13 +173,17 @@ data into and out of them, and for that you need a paging system,
 and memory management systems are often a bit subtle, by which I
 mean annoying, to design and implement.)
 
+Then there's the [A20 Line][].  We don't talk about the A20 Line.
+
 By the way, 20 bits of address space is 1024K, which was split
-up into 640K of main memory plus 384K of graphics memory.  The
-640K there is the same 640K that was made famous by the phrase
-"640K ought to be enough for anybody."
+up into 640K of main memory plus 384K for BIOS and I/O and
+video memory.  The 640K there is the same 640K that was made
+famous by the phrase "640K ought to be enough for anybody."
 
 [DOS Protected Mode Interface]: https://en.wikipedia.org/wiki/DOS_Protected_Mode_Interface
 [CWSDPMI]: https://en.wikipedia.org/wiki/CWSDPMI
+[unreal mode]: http://wiki.osdev.org/Unreal_Mode
+[A20 Line]: http://wiki.osdev.org/A20_Line
 
 Text and Graphics
 -----------------
@@ -262,7 +265,7 @@ then check the `Z` flag afterward.  For both calls,
 the ASCII value will be available in `AL` afterward, and
 the raw scan code will be available in `AH`.
 
-Here is a really comprehensive list of [Keyboard scancodes][].
+Here is a really comprehensive list of [keyboard scancodes][].
 
 If you also want to see if any of the modifier keys (Shift,
 Ctrl, etc,) are being pressed, set `AH=02h` and `int 16h`.
@@ -270,7 +273,7 @@ I'd describe the result but this is getting outside the scope
 of this article; consult Ralf Brown's Interrupt List, or
 simply do a web search for `int 16h`, for more information.
 
-[Keyboard scancodes]: http://www.win.tue.nl/~aeb/linux/kbd/scancodes.html
+[keyboard scancodes]: http://www.win.tue.nl/~aeb/linux/kbd/scancodes.html
 
 Sound
 -----
@@ -279,7 +282,7 @@ I never played much with sound on the IBM PC architecture.  It's
 probably reasonable to assume that any given emulator supports at
 least the SoundBlaster 16.  It's probably even OK to assume that
 the SB16 lives at a certain interrupt and DMA address, since those
-can be configured on the emulator side now (instead of asking you
+can be configured on the emulator's side now (instead of asking you
 with one of those horrible `SETUP.EXE` menus!)
 
 But I don't actually know anything about talking to an SB16.
