@@ -32,9 +32,10 @@ experience programming things in DOS, to shed light on those parts.
 Development Tools
 -----------------
 
-Borland tools are highly recommended; Borland C++, Turbo Pascal,
-and Turbo Assembler especially.  [DJGPP][] and [nasm][] (or [yasm][])
-are also highly recommended, and more modern.
+Borland tools are highly recommended; [Borland C++][],
+[Turbo Pascal][], and [Turbo Assembler][] specifically.
+[DJGPP][] and [nasm][] (or [yasm][]) are also highly recommended,
+and more modern.
 
 You don't need to know x86 machine code, but because DOS isn't
 much of an operating system, it helps to be comfortable with
@@ -47,9 +48,14 @@ on a modern machine to compensate for any performance problems
 that come from BASIC being an interpreted language.
 
 Or if you're doing this for laughs, you could write your code in
-[ILLGOL][].  Or if you prefer a minimalist approach, you could
-use [Shelta][].  (Or [colorForth][]!)
+[ILLGOL][].
 
+Or if you prefer a minimalist approach, you could use
+[Shelta][].  (Or [colorForth][]!)
+
+[Borland C++]: https://en.wikipedia.org/wiki/Borland_C%2B%2B
+[Turbo Pascal]: https://en.wikipedia.org/wiki/Turbo_Pascal
+[Turbo Assembler]: https://en.wikipedia.org/wiki/Turbo_Assembler
 [DJGPP]: http://www.delorie.com/djgpp/
 [nasm]: http://www.nasm.us/
 [yasm]: http://yasm.tortall.net/
@@ -83,8 +89,8 @@ Some actual "DOS" games did this.
 But if you want to do things like load and save files, then using
 DOS will be much easier than e.g. writing your own filesystem routines.
 And if you're using a language other than assembler, your compiler
-might insert code which uses DOS anyway and would be a bother to work
-around.
+might insert code which uses DOS anyway, and it might be more painful
+to work around that than to just live with it.
 
 In either case, under the hood, everything you do with the system
 will be done by invoking an interrupt.  This is, if you ask me,
@@ -93,9 +99,9 @@ But this is how they built this architecture, so who am I to complain.
 I think of them as system calls.
 
 `int 21h` is a "system call" to DOS.  The "system calls"
-to the BIOS include `int 10h`, but there are also other numbers.
-(The trailing `h` is convention for "hexadecimal", although you may
-be more used to a preceding `0x`.)
+to the BIOS include `int 10h` and `int 16h`, but there are also other
+numbers.  (The trailing `h` is x86 assembly language convention for
+"hexadecimal", although you may be more used to a preceding `0x`.)
 
 If you want to get serious about this, consult a document called
 [Ralf Brown's Interrupt List][].  It lists probably every interrupt
