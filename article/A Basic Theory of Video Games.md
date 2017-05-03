@@ -70,11 +70,13 @@ of their electronics dedicated to the problem of generating the video signal.
 In fact, to appreciate how video-oriented the early computers were,
 consider that the Commodore 64's clock speed in North America was
 1.023 MHz.  Why such a weird number, especially when the CPU was capable
-of 2 MHz?  Because the clock was also being used to generate the video signal,
-which had to match the NTSC standard, and 1.023 MHz, when divided in the
-right way, does that.  (Later generations of computers used dedicated
-video clocks in their video circuitry to allow the CPU and the video to
-run at independent rates.)
+of 2 MHz?  Because the clock signal that was driving the CPU was obtained
+by scaling down the master clock, whose frequency was 14.31818 MHz,
+which was chosen because it could generate frequencies matching the NTSC
+standard.  ([This StackExchange answer][] has a detailed exposition of
+this design approach.)  Later generations of computers used dedicated video
+clocks in their video circuitry to allow the CPU and the video to run at
+independent rates.
 
 Either way, we have this dedicated video display circuitry which can generate
 a video signal without taking up any of the CPU's time.  How does it generate
@@ -92,6 +94,8 @@ either and the picture looks still.  And a program (running on the CPU)
 only has to write a different value to one of the bytes of RAM, and the
 part(s) of the screen that correspond to that byte will look different when
 the next frame is drawn.
+
+[This StackExchange answer]: https://retrocomputing.stackexchange.com/questions/2146/reason-for-the-amiga-clock-speed
 
 Vertical blanking interval
 --------------------------
@@ -264,6 +268,23 @@ to do — more game state to compute than it can process in 1/*n*th of a
 second, before the next VBI.  So it fails to update the screen on that
 VBI, but it does get it done before the *next* VBI.  So effectively the
 frame rate drops to half, accounting for the choppiness.
+
+Are things really very different in the modern age?  Well, yes and no.
+
+Yes, because the dedicated video hardware is now immensely complex and
+capable of doing all kinds of things completely independently of the
+CPU, and because games often now run under multitasking operating systems
+that try to fairly distribute resources like processing time (and
+the video display!) to multiple programs at once, and that thus require
+their programs to use abstractions that distance them significantly from
+the video hardware.
+
+But also no, because you don't have to look far to see many of the
+same ideas, just in a different guise.  For example, in Javascript in
+a modern web browser you can [request an animation frame][], which is
+an awful lot like waiting for the VBI.
+
+[request an animation frame]: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
 
 Footnotes
 ---------

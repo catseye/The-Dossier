@@ -37,6 +37,7 @@ A good game which I remember liking enough to play through to the end.
 *   available for: Atari 2600 VCS
 *   controls: joystick
 *   entry @ [atariage](https://atariage.com/store/index.php?l=product_detail&p=308)
+*   link: http://www.atariage.com/software_page.html?SoftwareLabelID=2722
 
 A retrogame I discovered in the aughts where two players, starting at the top of
 some multi-floored structure, race to fall down to each next lowest level;
