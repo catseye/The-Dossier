@@ -4,7 +4,7 @@ Blurry Memories of DOS Programming
 *   status: near final draft
 
 So, for whatever reason, you want to program something in DOS —
-that is to say, MS-DOS or one of its clones.  I totally support
+that is to say, [MS-DOS][] or one of its clones.  I totally support
 this sort of endeavour!  It is a totally worthwhile thing to try
 your hand at.  It can give you a sense of historical perspective,
 or simply be a change from the everyday.
@@ -24,6 +24,12 @@ DOS programming that can be a real PITA.
 
 So this document attempts to collate my blurry memories of my scant
 experience programming things in DOS, to shed light on those parts.
+
+[MS-DOS]: https://en.wikipedia.org/wiki/MS-DOS
+[DOSBox]: https://www.dosbox.com/
+[FreeDOS]: http://www.freedos.org/
+[QEMU]: http://www.qemu-project.org/
+[v86]: https://github.com/copy/v86
 
 Development Tools
 -----------------
@@ -106,19 +112,20 @@ If you want to get serious about this, consult a document called
 you will ever care about, and describes each of them briefly
 (although not always in much detail).
 
-Again, this is something that, if you are programming in assembler,
+Interrupts are something that, if you are programming in assembler,
 you will need to know, but if you're using some higher-level programming
 language, chances are there will be standard or 3rd-party libraries
 that will wrap calling these interrupts.
 
-One such 3rd party library is [Allegro][], which, until version 4.2,
+One such library is the [conio.h][] library which came with Borland C++,
+and which has been cloned several times, which exposes functions like
+`clrscr()`.
+
+Another such 3rd party library is [Allegro][], which, until version 4.2,
 supported DOS.
 
-[DOSBox]: https://www.dosbox.com/
-[FreeDOS]: http://www.freedos.org/
-[QEMU]: http://www.qemu-project.org/
-[v86]: https://github.com/copy/v86
 [Ralf Brown's Interrupt List]: http://www.cs.cmu.edu/~ralf/files.html
+[conio.h]: https://en.wikipedia.org/wiki/Conio.h
 [Allegro]: http://liballeg.org/
 
 Addressing Memory
@@ -274,7 +281,7 @@ Here is a really comprehensive list of [keyboard scancodes][].
 If you also want to see if any of the modifier keys (Shift,
 Ctrl, etc,) are being pressed, set `AH=02h` and `int 16h`.
 I'd describe the result but this is getting outside the scope
-of this article; consult Ralf Brown's Interrupt List, or
+of this article; consult [Ralf Brown's Interrupt List][], or
 simply do a web search for `int 16h`, for more information.
 
 [keyboard scancodes]: http://www.win.tue.nl/~aeb/linux/kbd/scancodes.html
