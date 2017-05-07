@@ -17,8 +17,11 @@ on (or were a conversion from) other systems.
 
 ### Starquake
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/starquake_02.gif)
+
 *   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
 *   published by: Bubble Bus Software
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
 Perhaps a C64 classic, but perhaps not well-known enough to be a true classic.
 
@@ -26,13 +29,19 @@ The graphics are really good.
 
 ### Paradroid
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/p/paradroid_02.gif)
+
 *   wikipedia: https://en.wikipedia.org/wiki/Paradroid
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
 Very likely a C64 classic.
 
 ### The Castles of Dr. Creep
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/c/castles_of_dr_creep_03.gif)
+
 *   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
 ### Hovver Bovver
 
@@ -83,17 +92,28 @@ Here is an article about a different IFR simulator: [IFR (Flight Simiulator)](ht
 
 TODO: I should write about IFR simulators here a bit.
 
-### Big Mac
+### Big Mac: The Mad Maintenance Man
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/b/big_mac_02.gif)
 
 *   available for: Commodore 64
-
-Full title is "Big Mac The Maintenance Man", I think.
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
 ### Slinky
 
-*   available for: Commodore 64
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
 
-This one might be of note.
+*   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
+
+This one's pretty memorably weird, and deserves comment.
+
+Once upon a time there was a game called Q*Bert which was quite famous and inspired a number of clones,
+and each of these clones tended to have their own idiosyncratic mechanics.  And Slinky is one such clone.
+
+The 2013-06-14 comment by zaphod77 on the Lemon64 entry linked to above explains those mechanics far
+better than I could.  It does not, however, help them seem less arbitrary.  I don't think anything
+could do that.
 
 ### Everyone's a Wally
 
@@ -144,7 +164,7 @@ Arcade
 
 Here is what is notable about Congo Bongo: the arcade game uses
 [isometric projection][], but the C64 conversion and other
-conversions use [oblique projection][], while the SuperMax
+conversions use [oblique projection][], while the SG-1000
 conversion uses [orthographic projection][], i.e. "side view",
 i.e. it's just plain two-dimensional.
 
