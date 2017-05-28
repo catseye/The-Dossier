@@ -345,35 +345,6 @@ Some students had borrowed a video projector from the lab, and hooked it
 up to their GameCube.  I played this on it, projected on the wall.
 IMAX style.  It was vertigo-inducing.
 
-Role-Playing Games Question Mark
---------------------------------
-
-These might go in the list of role-playing games.
-
-### Wonder Boy in Monster Land
-
-*   available for: Arcade
-*   controls: joystick and 2 buttons
-
-Sequel to Wonder Boy.  It's an arcade game, nominally an action game, but it
-plays far more like an RPG.  The game it's most like that most readers will
-most likely be familiar with is Zelda 2.
-
-### Mazes and Monsters
-
-*   online @ [youtube](https://www.youtube.com/watch?v=awTKqydci_c>)
-*   online @ [archive.org](https://archive.org/details/mazes_and_monsters)
-
-A fictional role-playing game that appears in the made-for-TV movie of the
-same name.
-
-### The Spawn of Fashan
-
-*   review @ [rpg.net](https://www.rpg.net/reviews/archive/classic/rev_6157.phtml)
-
-Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
-review linked above is well worth the read.
-
 Licensed Characters
 -------------------
 
