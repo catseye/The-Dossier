@@ -74,7 +74,10 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 
-Notable because you can shoot out bits of wall.
+Notable because you can shoot out bits of wall, or rather, bits of Futuristic
+Domed City.  A multi-directional scroller, but one in which you have only
+limited influence over which direction it scrolls in.  In some ways it feels
+like an airborne version of Cloak and Dagger, and perhaps it was.
 
 ### Night Flight, an I.F.R. Simulator
 
