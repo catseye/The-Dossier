@@ -4,7 +4,8 @@ The Dossier
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
 May pertain to Cat's Eye Technologies, or may not.  Articles marked *(U)* are
 under construction.  Articles with a published-date are "frozen".  All other
-articles are subject to change.
+articles are subject to change (especially the "Things of note" articles,
+which are "living documents" somewhat.)
 
 Articles Contained Herein
 -------------------------
@@ -14,6 +15,7 @@ Articles Contained Herein
 *   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (July 2010)
 *   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (April 2013)
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (June 2013)
+*   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) *(U)*
 
 ### Games
 
@@ -45,7 +47,7 @@ Articles Contained Herein
 
 ### Retrocomputing
 
-*   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) *(U)*
+*   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
 
 External Articles
 -----------------
