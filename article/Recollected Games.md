@@ -249,6 +249,22 @@ This is probably a classic.
 
 This is probably a classic.
 
+### Superguy
+
+I remember seeing this at the Greyhound station in Winnipeg — back when it
+was located in the downtown, and back when it had a shop with a whole row
+of arcade machines in it.  This is also where I first saw Super Mario
+Brothers, fwiw.
+
+Notable because — well, it was a top-down view, which was truly top-down;
+you saw the top of the protagonist's head, not their rear or side profile.
+On top of that, you could jump.  On top of that, IIRC, you could change
+direction while jumping.  So, while running southest, you could jump over
+an obstacle such as a rock, and then while over the rock, you could move
+northeast, then west, then east, then finally land north of the rock.
+And this seemed more like lax game design and/or programming, than anything
+intentional, but who knows.
+
 Apple II
 --------
 
@@ -311,6 +327,8 @@ was "Warwickshire"?), but I don't remember if I ever successfully jumped to it..
 ### Magic Carpet
 
 *   published by: Bullfrog
+
+### Pinball Fantasies (?)
 
 Console
 -------
