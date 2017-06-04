@@ -66,19 +66,6 @@ Didn't realize "bovver" was "bother" until I was older.
 
 Not to be confused with a different game called Zig Zag, also for the C64.
 
-### Zeppelin
-
-![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
-
-*   wikipedia: N/A
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
-*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
-
-Notable because you can shoot out bits of wall, or rather, bits of Futuristic
-Domed City.  A multi-directional scroller, but one in which you have only
-limited influence over which direction it scrolls in.  In some ways it feels
-like an airborne version of Cloak and Dagger, and perhaps it was.
-
 ### Night Flight, an I.F.R. Simulator
 
 *   written by: Tim Gerchmez
@@ -102,21 +89,6 @@ TODO: I should write about IFR simulators here a bit.
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
-### Slinky
-
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
-
-*   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
-
-This one's pretty memorably weird, and deserves comment.
-
-Once upon a time there was a game called Q*Bert which was quite famous and inspired a number of clones,
-and each of these clones tended to have their own idiosyncratic mechanics.  And Slinky is one such clone.
-
-The 2013-06-14 comment by zaphod77 on the Lemon64 entry linked to above explains those mechanics far
-better than I could.  It does not, however, help them seem less arbitrary.  I don't think anything
-could do that.
 
 ### Everyone's a Wally
 
@@ -407,83 +379,3 @@ Road Runner (arcade game).
 Asterix and the Magic Carpet -- https://en.wikipedia.org/wiki/Asterix_and_the_Magic_Carpet_(Coktel_Vision_video_game)
 
 Doctor Who and the Mines of Terror -- https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror
-
-Games I'd Like to Play
-----------------------
-
-...but which I probably never will, because time.
-
-Some of these are because they come highly recommended, and some
-of them are just because I read a review in a magazine and they
-sound intguining.
-
-### Macbeth
-
-*   available for: Commodore 64
-*   genre: Text Adventure
-
-The review made it sound intruiging.
-
-### Oo-Topos
-
-*   genre: Text Adventure
-
-The review made it sound intruiging.
-
-### Amnesia
-
-*   genre: Text Adventure
-
-There was a review, but I'm not sure how intruiged I am.
-
-### Tass Times in Tone Town
-
-*   genre: Text Adventure
-
-The review made it sound intruiging.
-
-### Mask of the Sun
-
-*   genre: Text Adventure
-
-The review made it sound intruiging.
-
-### A Mind Forever Voyaging
-
-*   genre: Text Adventure
-*   published by: Infocom
-
-Comes highly recommended.
-
-### The Lurking Horror
-
-*   genre: Text Adventure
-*   published by: Infocom
-
-Assorted hearsay has made it sound intruiging.
-
-### Moonmist
-
-*   genre: Text Adventure
-*   published by: Infocom
-
-Assorted hearsay has made it sound intruiging.
-
-### Anchorhead
-
-*   genre: Text Adventure
-*   wikipedia: https://en.wikipedia.org/wiki/Anchorhead
-*   online @ [pr-if.org](http://pr-if.org/play/anchorhead/)
-
-Comes highly recommended.
-
-### Galactic Gladiators
-
-*   available for: Apple II, IBM PC
-*   genre: Tactical Simulation
-
-The review made it sound intruiging.
-
-Written in BASIC, I believe.  And I believe the manual detailed
-all of the calculations, so you could, if you wanted to, play it
-with pen and paper.  (Not certain about that though.)

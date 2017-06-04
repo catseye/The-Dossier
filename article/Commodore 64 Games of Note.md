@@ -93,3 +93,45 @@ explains it better than I can.
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but also a second character indirectly, by influencing
 where they go, by whistling for them.
+
+However, despite this interesting mechanic, I must admit I never really
+got into this game.  Something about it failed to appeal to me — perhaps
+it was that the graphics felt kind of uninspired.
+
+### Zeppelin
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
+
+*   wikipedia: N/A
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
+*   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
+
+Notable because you can shoot out bits of wall, or rather, bits of force field
+and Futuristic Domed City, and in this way it feels a bit like an airborne
+version of [Cloak & Dagger][].  Also notable because it involves flying a
+dirigible in a cave.
+
+Also notable for being a multi-directional scroller, but one in which you have
+only limited influence over which direction it scrolls in.  Once you maneouver
+to a particular point in the cave, the direction will change apropos to that
+point.  You don't seem to be able to get into a dead-end this way, which is
+probably good (much less frustrating than games in which you can,) but you
+do seem to be able to go in circles quite easily.
+
+[Cloak & Dagger]: Recollected%20Games.html#Cloak_&amp;_Dagger
+
+### Slinky
+
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
+
+*   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
+
+This one's pretty memorably weird, and deserves comment.
+
+Once upon a time there was a game called Q*Bert which was quite famous and inspired a number of clones,
+and each of these clones tended to have their own idiosyncratic mechanics.  And Slinky is one such clone.
+
+The 2013-06-14 comment by zaphod77 on the Lemon64 entry linked to above explains those mechanics far
+better than I could.  It does not, however, help them seem less arbitrary.  I don't think anything
+could do that.
