@@ -89,10 +89,12 @@ TODO: I should write about IFR simulators here a bit.
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
 
-
 ### Everyone's a Wally
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/e/everyones_a_wally_02.gif)
+
 *   available for: Commodore 64
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=859)
 
 ### Ultimate Wizard
 
@@ -132,6 +134,16 @@ a bit.
 
 Arcade
 ------
+
+### Super Dodge Ball
+
+![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3a/Nekketsu_koukou_dodgeball_bu.jpg)
+
+*   wikipedia: https://en.wikipedia.org/wiki/Super_Dodge_Ball
+
+Because what dodgeball game is complete without the ability to
+actually *kill* your opponents?  Not to mention some of the
+players are literally giants.
 
 ### Congo Bongo
 
