@@ -4,11 +4,14 @@ The Dossier
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
 May pertain to Cat's Eye Technologies, or may not.  Articles marked *(U)* are
 under construction.  Articles with a published-date are "frozen".  All other
-articles are subject to change (especially the "Things of note" articles,
-which are "living documents" somewhat.)
+articles are subject to change.
 
 Articles Contained Herein
 -------------------------
+
+### Meta
+
+*   [A Note on Items of Note](article/A%20Note%20on%20Items%20of%20Note.md)
 
 ### Programming Languages
 
@@ -22,10 +25,6 @@ Articles Contained Herein
 *   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) (May 2017)
 *   **Games of Note**
     
-    These are not necesarily "favourite" or "best" or "recommended" things —
-    in fact, sometimes quite the opposite.  It's that they've stuck in my mind
-    for one reason or another, and I would hate for them to be forgotten.
-    
     *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
     *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
     *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
@@ -33,10 +32,6 @@ Articles Contained Herein
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 
 *   **Classics**
-    
-    I have much less worry about classics being forgotten, obviously, but I still
-    have things to say about them sometimes, or notable memories of them in some
-    way or another.
     
     *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
     *   [Classic Computer Games](article/Classic%20Computer%20Games.md)
