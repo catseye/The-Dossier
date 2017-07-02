@@ -5,6 +5,9 @@ I originally compiled this list (as a list of my favourite games) because
 I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
 then I could too.  I've also been told that I have good taste in video games.
 
+It has since become somewhat generalized from being a list of favourite games
+to a list of games [of note](article/A%20Note%20on%20Items%20of%20Note.md).
+
 Gameplay generally counts more than the quality of the graphics or sound
 effects or music, but the latter elements sometimes have their part to play
 in making a really notable game.  "Realism" of the game is generally not

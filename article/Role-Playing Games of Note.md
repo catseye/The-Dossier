@@ -6,6 +6,9 @@ used here is, intentionally, rather broad.  It includes things like
 roguelikes, pen-and-paper RPGs, fictional RPGs, and computer games which
 may not be conventionally RPG-ish.
 
+That said, here is my list of role-playing games
+[of note](article/A%20Note%20on%20Items%20of%20Note.md).
+
 ### Alphaman
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/a/alphaman-315/alphaman_1.gif)

@@ -24,7 +24,7 @@ published-on date.
 
 Here are some of the lists of items of note in The Dossier:
 
-*   Video Games of Note:
+*   Games of Note:
     
     *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
     *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)

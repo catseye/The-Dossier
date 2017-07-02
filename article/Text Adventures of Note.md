@@ -1,12 +1,10 @@
 Text Adventures of Note
 =======================
 
-These are my recollections of a number of text adventures.
-
-I've omitted text adventures that I consider "classics", and have put
-them in another list, here: [Text Adventure Classics](Text%20Adventure%20Classics.md).
-That's to retain this list being "items of note" — classics, being
-classics, are unlikely to be forgotten if I neglect to curate them.
+These are my recollections of a number of text adventures
+[of note](article/A%20Note%20on%20Items%20of%20Note.md).
+Here I have omitted text adventures that I consider "classics", though,
+and have put those in another list: [Text Adventure Classics](Text%20Adventure%20Classics.md).
 
 I use the term "text adventure" because that's what they were called
 before they were called "interactive fiction".  It doesn't carry the same
