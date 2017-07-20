@@ -89,7 +89,7 @@ You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_K
 *   genre: Sports
 *   available for: Apple II
 *   published by: Apple Computer, Inc.
-*   release date: 1979
+*   date released: 1979
 *   controls: paddles
 *   video @ [youtube](https://www.youtube.com/watch?v=4h67eM0RAdM)
 

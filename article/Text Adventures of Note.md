@@ -33,7 +33,7 @@ These are presented in roughly the order I encountered them in.
 ### African Adventure: In Search of Dr. Livingston
 
 *   written by: R. Fullerton, B. Fullerton, C. Russell, K. Russell
-*   available on: Commodore PET, Commodore 64, PC-DOS
+*   available for: Commodore PET, Commodore 64, PC-DOS
 *   date released: 1980
 *   written using: BASIC
 *   treasure-oriented: yes
@@ -87,7 +87,7 @@ should read the book in which it appeared!
 ### Cranston Manor
 
 *   published by: On-Line Systems
-*   available on: Apple II
+*   available for: Apple II
 *   with graphics: yes
 *   treasure-oriented: yes
 *   wikipedia: [Cranston Manor](https://en.wikipedia.org/wiki/Cranston_Manor)
@@ -103,7 +103,7 @@ That's all.  Once you've seen that, you can stop.
 ### Creature Venture
 
 *   published by: Highlands Computer Services
-*   available on: Apple II
+*   available for: Apple II
 *   with graphics: yes
 *   treasure-oriented: yes
 *   entry @ [gue](http://gue.cgwmuseum.org/galleries/index.php?pub=5&item=25&id=2&key=0)
@@ -157,7 +157,7 @@ your sanity (at least according to a stat.)
 ### Winter Wonderland
 
 *   published by: Incentive Software
-*   available on: Commodore 64, ZX Spectrum
+*   available for: Commodore 64, ZX Spectrum
 *   written using: Graphic Adventure Creator
 *   with graphics: yes
 *   personally finished: yes
@@ -185,7 +185,7 @@ there's a WOMPA! in it.  Yes, with exclamation point.
 *   written by: Priscilla Langridge
 *   published by: St. Bride's School
 *   date released: 1985
-*   available on: Commodore 64, ZX Spectrum
+*   available for: Commodore 64, ZX Spectrum
 *   written using: The Quill Adventure System
 *   entry @ [ifdb](http://ifdb.tads.org/viewgame?id=0vn91xdqo9yeso8u)
 *   entry @ [world of spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0006951)
