@@ -77,6 +77,7 @@ known mechanisms.
 
 *   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
 *   available for: Commodore 64, Atari 800
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
@@ -125,7 +126,7 @@ do seem to be able to go in circles quite easily.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2351)
 
 This one's pretty memorably weird, and deserves comment.
 

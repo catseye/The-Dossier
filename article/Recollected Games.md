@@ -32,7 +32,7 @@ The graphics are really good.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/paradroid_02.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/Paradroid
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
 
 Very likely a C64 classic.
 
@@ -41,7 +41,7 @@ Very likely a C64 classic.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/castles_of_dr_creep_03.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 
 ### Hovver Bovver
 
@@ -55,7 +55,7 @@ Didn't realize "bovver" was "bother" until I was older.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
 
 ### Zig Zag
 
@@ -87,7 +87,7 @@ TODO: I should write about IFR simulators here a bit.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/b/big_mac_02.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 
 ### Everyone's a Wally
 
@@ -103,7 +103,7 @@ TODO: I should write about IFR simulators here a bit.
 *   available for: Commodore 64
 *   published by: Electronic Arts
 *   date released: 1986
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
 
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
 kit, really.
@@ -167,7 +167,7 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 
 *   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
 *   published by: Namco
-*   release date: 1981
+*   date released: 1981
 *   available for: Arcade
 *   controls: joystick and 1 button
 
