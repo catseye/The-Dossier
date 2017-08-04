@@ -10,7 +10,7 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 
 *   available for: Commodore 64
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D802)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=802)
 
 Beautiful graphics.  Since the antagonists were implemented with "soft sprites"
 (groups of programmable characters), all(?) 8 hardware sprites were free to
@@ -22,7 +22,7 @@ multicolour.  The music is also good.  The game itself is quite hard.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/street_surfer_03.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2505)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2505)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
 
 In the mid-80's, when skateboarding became popular, a rash of such games
@@ -44,7 +44,7 @@ speed.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/pharaohs_curse_05.gif)
 
 *   available for: Commodore 64, VIC 20
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D1923)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 
@@ -88,7 +88,7 @@ explains it better than I can.
 
 *   wikipedia: N/A
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2846)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2846)
 
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but also a second character indirectly, by influencing
@@ -103,7 +103,7 @@ it was that the graphics felt kind of uninspired.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
 
 *   wikipedia: N/A
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2940)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 
 Notable because you can shoot out bits of wall, or rather, bits of force field
@@ -125,7 +125,7 @@ do seem to be able to go in circles quite easily.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/?mainurl=http%3A//www.lemon64.com/games/details.php%3FID%3D2470)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2470)
 
 This one's pretty memorably weird, and deserves comment.
 
