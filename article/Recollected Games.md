@@ -21,7 +21,7 @@ on (or were a conversion from) other systems.
 
 *   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
 *   published by: Bubble Bus Software
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
 Perhaps a C64 classic, but perhaps not well-known enough to be a true classic.
 
@@ -32,7 +32,7 @@ The graphics are really good.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/paradroid_02.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/Paradroid
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
 Very likely a C64 classic.
 
@@ -41,7 +41,7 @@ Very likely a C64 classic.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/castles_of_dr_creep_03.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
 ### Hovver Bovver
 
@@ -55,14 +55,14 @@ Didn't realize "bovver" was "bother" until I was older.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
 
 *   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2943)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
 
 ### Zig Zag
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zig_zag_04.gif)
 
 *   wikipedia: N/A
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2943)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
 
 Not to be confused with a different game called Zig Zag, also for the C64.
 
@@ -87,14 +87,14 @@ TODO: I should write about IFR simulators here a bit.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/b/big_mac_02.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2470)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
 ### Everyone's a Wally
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/e/everyones_a_wally_02.gif)
 
 *   available for: Commodore 64
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=859)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
 
 ### Ultimate Wizard
 
@@ -103,7 +103,7 @@ TODO: I should write about IFR simulators here a bit.
 *   available for: Commodore 64
 *   published by: Electronic Arts
 *   date released: 1986
-*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2940)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 
 Obviously influenced by Jumpman.  Jumpman with spells and a construction
 kit, really.
