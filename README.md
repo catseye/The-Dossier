@@ -54,7 +54,17 @@ External Articles
 Implementation Notes
 --------------------
 
-Will eventually be hosted somewhere like `github.io` or `catseye.tc` with some
-pretty styling, but for now should be readable directly on `github.com`.
+Articles are written in [Feedmark][] format, which is a subset of Markdown
+for embedding curational information.  Just as a Markdown file is still a
+readable text file, which is nice, a Feedmark file is still a readable
+Markdown file, which is still a readable text file, which is nice.
 
-Will eventually have an index to be used when linking to entries.
+There are some scripts for managing these files in the `script` directory.
+
+These articles will probably eventually have prettier HTML versions of them
+hosted somewhere like `github.io` or `catseye.tc` someday, but for now,
+being Markdown, they are readable directly on `github.com`.
+
+There will eventually be a "master index" to be used when linking to entries.
+
+[Feedmark]: https://github.com/catseye/Feedmark
