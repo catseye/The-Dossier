@@ -26,6 +26,7 @@ book on compiler construction.
 *   release-date: 1983
 *   ISBN: 0-8602074-1-2
 *   publisher: Usborne
+*   online @ [drive.google.com](https://drive.google.com/file/d/0Bxv0SsvibDMTYkFJbUswOHFQclE/view)
 
 The *real* Dragon Book.  This one book is probably responsible for setting
 me off in the direction of programming languages (because it describes how

@@ -22,3 +22,19 @@ somewhat dreamlike effect that a narrative-lacking, unmotivated, and slightly
 incoherent world can have.
 
 I could probably write about this at length, and I might someday.
+
+I grew up in the 80's.  I had a Commodore 64.  I really liked video games.
+I wanted to write my own video games, but BASIC was too slow.  So when I
+wrote my own games, they were often text adventures.
+
+I was influenced by [Zork I][] and [African Adventure: In Search of Dr. Livingston][],
+but of particular influence was this book:
+[Write Your Own Adventure Programs for Your Microcomputer][]
+
+This book was probably responsible for setting me off in the direction of
+programming languages, too, because it describes how
+to write a simple one-or-two word parser for an an adventure game.
+
+"Haunted House" was the adventure which appeared in the book
+It was a type-in program, but it wasn't just that, because the bulk of the book
+was dedicated to analyzing it.

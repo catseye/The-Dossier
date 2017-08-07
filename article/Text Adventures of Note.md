@@ -51,30 +51,6 @@ foul-smelling stuff or the wild dog is for...
 **Why you should play it**: Well, it's not a fantastic game, but it's alright.
 It's reminiscent of Scott Adams' adventures a bit.
 
-### Haunted House
-
-*   written by: Jenny Tyler & Les Howarth
-*   published by: Usborne Books
-*   date released: 1983
-*   personally finished: yes
-*   source code @ [Write Your Own Adventure Programs for Your Microcomputer](https://drive.google.com/file/d/0Bxv0SsvibDMTYkFJbUswOHFQclE/view)
-
-Note that this is not the same text adventure as the program with the same name
-for the TRS-80, nor the game of the same name for the Atari VCS.
-
-This was the adventure which appeared in the book
-[Write Your Own Adventure Programs for Your Microcomputer](https://drive.google.com/file/d/0Bxv0SsvibDMTYkFJbUswOHFQclE/view).
-It was a type-in program, but it wasn't just that, because the bulk of the book
-was dedicated to analyzing it.
-
-I grew up in the 80's.  I had a Commodore 64.  I really liked video games.
-I wanted to write my own video games, but BASIC was too slow.  So when I
-wrote my own games, they were often text adventures.  I was influenced by
-the first few games on this list, but especially this book.
-
-**Why you should play it**: Well, you needn't actually play it; instead, you
-should read the book in which it appeared!
-
 ### Cranston Manor
 
 *   published by: On-Line Systems
