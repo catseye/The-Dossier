@@ -54,7 +54,7 @@ young Tom Hanks.
 
 ### The Spawn of Fashan
 
-*   review @ [rpg.net](https://www.rpg.net/reviews/archive/classic/rev_6157.phtml)
+*   review @ [archive.org](https://web.archive.org/web/20141220064347/http://www.rpg.net:80/reviews/archive/classic/rev_6157.phtml)
 
 Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
 review linked above is well worth the read.  I only wish I could say I have seen
