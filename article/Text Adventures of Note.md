@@ -151,8 +151,8 @@ there's a WOMPA! in it.  Yes, with exclamation point.
 
 *   written by: Priscilla Langridge
 *   published by: St. Bride's School
-*   date released: 1985
 *   available for: Commodore 64, ZX Spectrum
+*   date released: 1985
 *   written using: The Quill Adventure System
 *   entry @ [ifdb](http://ifdb.tads.org/viewgame?id=0vn91xdqo9yeso8u)
 *   entry @ [world of spectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0006951)
