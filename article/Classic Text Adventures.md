@@ -7,6 +7,10 @@ about them being forgotten, thus they don't qualify for being included in
 [Text Adventures of Note](Text%20Adventures%20of%20Note.md).  (Which you should
 also read, anyway.)
 
+It also may help to read
+[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures),
+especially if you find yourself having trouble following my perspective on text adventures.
+
 Do I recommend playing these, if you have the opportunity?  Almost always yes,
 because they are classics.  At any rate, I do recommend knowing about them.
 

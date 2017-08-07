@@ -39,6 +39,7 @@ Articles Contained Herein
 *   [Lost Games](article/Lost%20Games.md)
 *   [Recollected Games](article/Recollected%20Games.md) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
+*   [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures) *(U)*
 
 ### Retrocomputing
 

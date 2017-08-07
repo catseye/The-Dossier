@@ -4,20 +4,11 @@ Text Adventures of Note
 These are my recollections of a number of text adventures
 [of note](article/A%20Note%20on%20Items%20of%20Note.md).
 Here I have omitted text adventures that I consider "classics", though,
-and have put those in another list: [Text Adventure Classics](Text%20Adventure%20Classics.md).
+and have put those in another list: [Classic Text Adventures](Classic%20Text%20Adventures.md).
 
-I use the term "text adventure" because that's what they were called
-before they were called "interactive fiction".  It doesn't carry the same
-connotations that "fiction" does.  There isn't an assumption that
-they have any plot beyond perhaps "collect all the treasures", nor any
-character development or other narrative elements.
-
-I would say that interactive fiction is a subset of text adventuredom which
-is assumed to have these elements, to be more like "fiction".  But this
-property doesn't interest me greatly, and in fact can detract from the
-somewhat dreamlike effect that a narrative-lacking, unmotivated, and slightly
-incoherent world can have.  I could probably write about this at length,
-and I might someday, but for the present article, it is outside of scope.
+It also may help to read
+[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures),
+especially if you have trouble following my perspective on text adventures.
 
 You'll note I'm not particularly adept at actually *solving* these things.
 In fact, with only one exception, when I have solved a game, it was with hints
