@@ -7,6 +7,7 @@ I'm writing this in order to reduce the number of tangents I go off on in
 the [Text Adventures of Note](Text%20Adventures%20of%20Note.md) and
 [Text Adventure Classics](Text%20Adventure%20Classics.md).
 This is more of a memoir (or something) than a curational list.
+At any rate, expect it to be a bit rambly.
 
 I grew up in the 80's.  I had a Commodore 64.  I really liked video games.
 I wanted to write my own video games, but BASIC was too slow.  So when I
@@ -46,6 +47,7 @@ This definition also does not exclude text adventures with graphics.
 These are usually still pictures, or with minor animations only loosely
 related to the gameplay.  I still consider these text adventures, since the
 core two-way communication between computer and player is still text-based.
+It's like a book with illustrations.
 
 I don't remember which text adventure I played first.  It was either
 [Zork I][] or [African Adventure: In Search of Dr. Livingston][].
@@ -55,11 +57,17 @@ These were both very influential, but of particular influence was the book
 
 This book was probably responsible for setting me off in the direction of
 programming languages, too, because it describes how
-to write a simple one-or-two word parser for an an adventure game.
+to write a simple one-or-two word parser for an adventure game.
 
 "Haunted House" was the adventure which appeared in the book
 It was a type-in program, but it wasn't just that, because the bulk of the book
 was dedicated to analyzing it.
+
+And (once again on the point of nomenclature) I'd like to note that that was
+a frustratingly difficult book to find again in adulthood, because I was convinced
+that it had the term "text adventure" in its title, when it in fact does not,
+it has the term "adventure program" which is not something anyone, as far as I
+know, ever calls them.
 
 (Note to self: these reference-style links will be rewritten by
 Feedmark at some point.  They're not permalinks yet.)
