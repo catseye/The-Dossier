@@ -15,6 +15,8 @@ you read *every* book on it, obviously.
 *   genre: Programming
 *   release-date: Jan 1986
 *   ISBN: 0-2011008-8-6
+*   publisher: Addison-Wesley
+*   online @ [archive.org](https://archive.org/details/compilersprincip00ahoa)
 
 a.k.a "The Dragon Book".  The classic, borderline-incomprehensible
 book on compiler construction.
@@ -40,6 +42,7 @@ Also, there are cute pictures of ghosts inside.
 *   genre: Mathematics
 *   release-date: 1967
 *   ISBN: 0-1316556-3-9
+*   publisher: Prentice Hall
 
 There are lots of books on computability, but this is one of the earlier
 ones (1967!) and one of the few that treat "Turing tarpits" with any
@@ -51,6 +54,7 @@ seriousness.
 *   genre: Philosophy
 *   release-date: Jan 1987
 *   ISBN: 0-1313961-9-6
+*   publisher: Prentice Hall
 
 Begins with a disclaimer that it contains at least one error — which turns
 out to be a giant understatement.  The book is *riddled* with errors, but
@@ -64,6 +68,8 @@ machines" of [Ramon Llull](http://en.wikipedia.org/wiki/Ramon_Llull).)
 *   genre: Mathematics
 *   release-date: 1978
 *   ISBN: 0-4866873-5-X
+*   publisher: Springer-Verlag
+*   online @ [books.google.com](https://books.google.co.uk/books?id=Uz0rV250nhsC&lpg=PP1&dq=isbn%3A048668735X&pg=PP1#v=onepage&q&f=false)
 
 Don't worry if you don't know topology — it's not the topology that makes
 this a worthwhile read, it's the counterexamples.
@@ -113,6 +119,7 @@ not bad.
 *   genre: Philosophy
 *   release-date: May 1998
 *   ISBN: 0-1951212-3-6
+*   publisher: Oxford University Press
 
 By he of "worse is better" fame.
 
@@ -124,8 +131,9 @@ and for making a case that beauty may not be subjective.
 
 *   authors: Martin Gardner
 *   genre: Mathematics
-*   release-date: 1968
+*   release-date: 1981
 *   ISBN: 0-14-02-2355-X
+*   publisher: Penguin
 
 An edited compilation of Martin Gardner's columns on recreational mathematics.
 
@@ -135,6 +143,7 @@ An edited compilation of Martin Gardner's columns on recreational mathematics.
 *   genre: Mathematics
 *   release-date: 1974
 *   ISBN: 0-4710958-5-0
+*   publisher: Wiley
 
 There are lots of books on computability.  This is one of them.  I don't
 think it's the best one, but it's the one that defines the programming
@@ -148,6 +157,7 @@ to ilasm.
 *   genre: Philosophy
 *   release-date: May 1990
 *   ISBN: 0-6717057-2-5
+*   publisher: Simon & Schuster
 
 Mainly for Zappa's theory of art ("entertainment objects") which describes
 quite nicely how I think of esolangs.  The rest of the book is
@@ -157,9 +167,10 @@ pretty interesting too, though.
 
 *   authors: George Spencer-Brown
 *   genre: Philosophy
-*   release-date: 1969
-*   ISBN: 0-9639899-0-1
-*   wikipedia: Laws_of_Form
+*   release-date: 1972
+*   ISBN: 0-5175277-6-6
+*   wikipedia: [Laws of Form](https://en.wikipedia.org/wiki/Laws_of_Form)
+*   publisher: Julian Press
 
 OMG this BOOK will BLOW your MIND!!!
 
@@ -169,6 +180,8 @@ OMG this BOOK will BLOW your MIND!!!
 *   genre: Philosophy
 *   release-date: 1979
 *   ISBN: 0-4650265-6-7
+*   wikipedia: [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
+*   publisher: Basic Books
 
 OMG did I say Laws of Form will blow your mind? OMFG *this* book will
 TOTALLY BLOW your EVER-LOVIN' MIND!!1!
@@ -179,7 +192,8 @@ TOTALLY BLOW your EVER-LOVIN' MIND!!1!
 *   genre: Philosophy
 *   release-date: May 2002
 *   ISBN: 1-5795500-8-8
-*   wikipedia: A_New_Kind_of_Science
+*   wikipedia: [A New Kind of Science](https://en.wikipedia.org/wiki/A_New_Kind_of_Science)
+*   publisher: Wolfram Media
 
 ZOMG FORGET WHAT I JUST SAID ABOUT THAT BRAID THING
 THIS IS IT THIS IS THE **ONE** THIS IS THE REAL DEAL OMFGGG!!!!!!!!!
