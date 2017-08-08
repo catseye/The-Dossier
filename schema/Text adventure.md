@@ -19,6 +19,8 @@ under the auspices of
 
 ### published by
 
+*    optional: true
+
 The entity which published the text adventure.
 
 ### available for
@@ -27,26 +29,47 @@ The platform or platforms that the text adventure is or was available for.
 
 ### date released
 
+*    optional: true
+
 ### written using
+
+*    optional: true
 
 ### with graphics
 
+*    optional: true
+
 ### treasure-oriented
+
+*    optional: true
 
 ### personally finished
 
+*    optional: true
+
 ### wikipedia
 
-Optional.  If it has an entry on Wikipedia, a link to that.
+*    optional: true
+
+If it has an entry on Wikipedia, a link to that.
 
 ### entry
 
-Multiple may occur.  Gives the link for an entry in a video games database.
+*    optional: true
+*    multiple: true
+
+Gives the link for an entry in a video games database.
 
 ### walkthrough
 
-Multiple may occur.  Gives the link for a walkthrough.
+*    optional: true
+*    multiple: true
+
+Gives the link for a walkthrough.
 
 ### play online
+
+*    optional: true
+*    multiple: true
 
 Multiple may occur.

@@ -53,6 +53,7 @@ It's reminiscent of Scott Adams' adventures a bit.
 
 ### Cranston Manor
 
+*   written by: Ken Williams, Harold DeWitz
 *   published by: On-Line Systems
 *   available for: Apple II
 *   with graphics: yes
@@ -69,6 +70,7 @@ That's all.  Once you've seen that, you can stop.
 
 ### Creature Venture
 
+*   written by: Unknown
 *   published by: Highlands Computer Services
 *   available for: Apple II
 *   with graphics: yes
@@ -85,8 +87,10 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 
 ### Time and Magik (Trilogy)
 
+*   written by: Unknown
 *   published by: Level 9, Mandarin
 *   with graphics: yes
+*   available for: Amiga, MS-DOS
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
 *   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
 
@@ -123,6 +127,7 @@ your sanity (at least according to a stat.)
 
 ### Winter Wonderland
 
+*   written by: Unknown
 *   published by: Incentive Software
 *   available for: Commodore 64, ZX Spectrum
 *   written using: Graphic Adventure Creator
