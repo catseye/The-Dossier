@@ -15,23 +15,23 @@ The author(s) of the book.
 
 genre (TODO: change this)
 
-### ISBN
-
-ISBN
-
 ### release-date
 
 Date the book was published (TODO: change this)
 
-### publisher
+### ISBN
 
-Publisher
+ISBN
 
 ### wikipedia
 
 *   optional: true
 
 Wikipedia
+
+### publisher
+
+Publisher
 
 ### online
 
