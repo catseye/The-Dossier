@@ -89,8 +89,8 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 
 *   written by: Unknown
 *   published by: Level 9, Mandarin
-*   with graphics: yes
 *   available for: Amiga, MS-DOS
+*   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
 *   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
 
