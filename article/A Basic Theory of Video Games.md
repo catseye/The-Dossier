@@ -1,8 +1,6 @@
 A Basic Theory of Video Games
 =============================
 
-*   status: final draft
-
 Modern computers are extremely powerful.  But they weren't always so, and
 video games were invented back in an age when processing power was still
 rather modest.  But they were still capable of fast and frenetic action,
