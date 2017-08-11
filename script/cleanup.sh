@@ -1,5 +1,7 @@
 #!/bin/sh -x
 
+ARTICLES=../The-Dossier/article
+
 feedmark --by-property article/*\ of\ Note.md \
                        article/Recollected\ Games.md \
                        article/Lost\ Games.md \
@@ -15,6 +17,7 @@ feedmark --check-against-schema=schema/Book.md \
          --rewrite-markdown || exit 1
 
 feedmark --check-against-schema=schema/Video\ game.md \
-         ../The-Dossier/article/Some\ Modern\ Retrogames.md \
+         "$ARTICLES/Some Modern Retrogames.md" \
+         "$ARTICLES/Apple II Games of Note.md" \
          --rewrite-markdown || exit 1
 

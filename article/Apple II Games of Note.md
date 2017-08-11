@@ -10,8 +10,9 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 
 *   available for: Apple II
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
+*   genre: Graphic Adventure
 *   date released: 1982
-*   online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
+*   play online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
 
@@ -30,6 +31,7 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 ![screenshot](http://www.mobygames.com/images/shots/s/819976-beer-run-apple-ii-screenshot-elevator-appears.jpg)
 
 *   available for: Apple II
+*   genre: Platformer?
 *   published by: Sirius Software, Inc
 *   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
@@ -59,10 +61,11 @@ I'm not really motivated to.
 ![screenshot](http://www.myabandonware.com/media/screenshots/s/swashbuckler-bkh/thumbs/swashbuckler_2.png)
 
 *   available for: Apple II
+*   genre: Beat-'em-Up
 *   published by: Datamost
 *   date released: 1982
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
-*   online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
+*   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/swashbuckler-7n4)
 
 The weird contrast between the coloured background vs. the black-and-white
@@ -72,8 +75,9 @@ saw it) figures of the characters makes it stand out in my mind.
 ### Sammy Lightfoot
 
 *   available for: Apple II, others
+*   genre: Platformer?
 *   wikipedia: [Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot)
-*   online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
+*   play online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
 
 OK, so this is actually only listed here because there was a demo
 called "Kill Sammy" which used the assets from Sammy Lightfoot, but
@@ -113,6 +117,7 @@ Summer is endless, unlike in the Commodore 64 version.
 
 ### Star Maze
 
+*   available for: Apple II
 *   date released: 1982
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
 
@@ -123,7 +128,10 @@ made it seem very high-concept (to me, at the time.)
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/6/65/Sabotage_computer_game.png)
 
+*   available for: Apple II
 *   date released: 1981
+*   genre: Shoot-'em-Up?
+*   controls: paddle
 *   wikipedia: https://en.wikipedia.org/wiki/Sabotage_(video_game)
 
 Something quite strange about being able to steer your shots.
