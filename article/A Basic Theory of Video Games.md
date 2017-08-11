@@ -11,8 +11,7 @@ demanding of the player's reflexes.  So one might wonder: How did they work?
 The operative word is _video_.  Understanding how a television works will
 really help in understanding how a video game works.
 
-Video
------
+### Video
 
 How an old-school black-and-white analog television generates its glowing
 screen is not too complicated.  At the back there's a "gun" that shoots a
@@ -53,8 +52,7 @@ line must be drawn in 1/6000 of a second.  That's a really short time —
 one-sixth of a millisecond.  And since each scan line contains 200 pixels, the
 beam must be able to change in intensity 1.2 million times a second.
 
-Video display circuitry
------------------------
+### Video display circuitry
 
 1.2 million times per second is a lot of times per second to do anything,
 and while it's not too difficult to pack this many changes into an analog TV
@@ -97,8 +95,7 @@ the next frame is drawn.
 
 [This StackExchange answer]: https://retrocomputing.stackexchange.com/questions/2146/reason-for-the-amiga-clock-speed
 
-Vertical blanking interval
---------------------------
+### Vertical blanking interval
 
 I say "next frame" but of course, since the CPU doesn't have direct
 control over when the video circuitry will turn any given part of video
@@ -162,8 +159,7 @@ To recap:
 *   Wait for the next VBI to begin.
 *   Repeat ad infinitum.
 
-State
------
+### State
 
 Now that we've made it clear, hopefully, how dependent a video game is on
 translating the game state into video updates which can occur in a timely
@@ -248,8 +244,7 @@ a cassette tape, or whatever,) there is some startup code that sets
 up the initial state (current mode = attract mode, etc.) and jumps
 to this loop.
 
-Conclusion
-----------
+### Conclusion
 
 And there's really not much to add after this point.
 
@@ -286,8 +281,7 @@ an awful lot like waiting for the VBI.
 
 [request an animation frame]: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
 
-Footnotes
----------
+### Footnotes
 
 ##### Footnote 1
 

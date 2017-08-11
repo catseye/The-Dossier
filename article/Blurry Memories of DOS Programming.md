@@ -31,8 +31,7 @@ experience programming things in DOS, to shed light on those parts.
 [QEMU]: http://www.qemu-project.org/
 [v86]: https://github.com/copy/v86
 
-Development Tools
------------------
+### Development Tools
 
 Borland tools are highly recommended; [Borland C++][],
 [Turbo Pascal][], and [Turbo Assembler][] specifically.
@@ -65,8 +64,7 @@ Or if you prefer a minimalist approach, you could use
 [ILLGOL]: http://catseye.tc/node/ILLGOL
 [colorForth]: https://en.wikipedia.org/wiki/ColorForth
 
-Interrupts
-----------
+### Interrupts
 
 OK, so when you write a program in DOS, you actually have a choice:
 you can use DOS for what you want to do, or you can totally bypass
@@ -128,8 +126,7 @@ supported DOS.
 [conio.h]: https://en.wikipedia.org/wiki/Conio.h
 [Allegro]: http://liballeg.org/
 
-Addressing Memory
------------------
+### Addressing Memory
 
 For addressing memory, the 80286 and earlier models support only
 a mode called "real mode", which is this terrible thing where 32
@@ -191,8 +188,7 @@ was made famous by the phrase "640K ought to be enough for anybody."
 [unreal mode]: http://wiki.osdev.org/Unreal_Mode
 [A20 Line]: http://wiki.osdev.org/A20_Line
 
-Text and Graphics
------------------
+### Text and Graphics
 
 At this point in history you can safely assume the machine has
 VGA — i.e. that the emulator knows how to support it.  You don't
@@ -251,8 +247,7 @@ would still be justified in using it, IMO.
 [VGA-compatible text mode]: https://en.wikipedia.org/wiki/VGA-compatible_text_mode
 [A Basic Theory of Video Games]: A%20Basic%20Theory%20of%20Video%20Games.md
 
-Keyboard Input
---------------
+### Keyboard Input
 
 If you're writing a game, you could take the player's input from
 a joystick.  But traditionally, PC games would assume that you
@@ -286,8 +281,7 @@ simply do a web search for `int 16h`, for more information.
 
 [keyboard scancodes]: http://www.win.tue.nl/~aeb/linux/kbd/scancodes.html
 
-Sound
------
+### Sound
 
 I never played much with sound on the IBM PC architecture.  It's
 probably reasonable to assume that any given emulator supports at
