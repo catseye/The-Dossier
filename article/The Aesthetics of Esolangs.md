@@ -176,3 +176,4 @@ one work of visual art which was *directly* inspired by an esolang, namely
 [Computation: Finite and Infinite Machines]: http://catseye.tc/node/Computation:_Finite_and_Infinite_Machines
 [Gerson Kurz]: http://esolangs.org/wiki/Gerson%20Kurz
 [zzo38]: http://esolangs.org/wiki/User:Zzo38
+

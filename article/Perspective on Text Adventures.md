@@ -75,3 +75,4 @@ Feedmark at some point.  They're not permalinks yet.)
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
 [African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md
 [Write Your Own Adventure Programs for Your Microcomputer]: An%20Esolang%20Reading%20List.md
+

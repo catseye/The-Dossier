@@ -1,8 +1,9 @@
 Retrospective on Language Design
 ================================
 
-*   publication-date: 15 Jul 2010
 *   original-title: Retrospective: Chris Pressey on Language Design
+*   publication-date: 15 Jul 2010
+
 
 ### Abstract
 
@@ -261,3 +262,4 @@ are simply difficult to fully conceive or implement —
 [Unlikely]: http://catseye.tc/node/Unlikely
 [Xigxag]: http://catseye.tc/node/Xigxag
 [ZOWIE]: http://catseye.tc/node/ZOWIE
+
