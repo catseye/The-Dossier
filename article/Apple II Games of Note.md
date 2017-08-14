@@ -117,9 +117,14 @@ Summer is endless, unlike in the Commodore 64 version.
 
 ### Star Maze
 
+*   written by: Eastman Computing(?)
 *   available for: Apple II
+*   published by: Sir-Tech
 *   date released: 1982
+*   genre: Maze-runner
+*   controls: paddles(?)
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
+*   entry @ [computinghistory](http://www.computinghistory.org.uk/det/31821/Star-Maze/)
 
 Sort of "Asteroids with walls", but moreseo.  The omnidirectional scrolling and physics
 made it seem very high-concept (to me, at the time.)
@@ -128,10 +133,12 @@ made it seem very high-concept (to me, at the time.)
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/6/65/Sabotage_computer_game.png)
 
+*   written by: Mark Allen
 *   available for: Apple II
+*   published by: On-Line Systems
 *   date released: 1981
-*   genre: Shoot-'em-Up?
-*   controls: paddle
+*   genre: Shoot-'em-Up(?)
+*   controls: paddle or keyboard or analogue joystick
 *   wikipedia: https://en.wikipedia.org/wiki/Sabotage_(video_game)
 
 Something quite strange about being able to steer your shots.
