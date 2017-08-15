@@ -33,7 +33,9 @@ been the first text adventure I played, but I'm actually not certain.
 It was a slightly magical experience, anyway, fiddling with the stuff
 in the control room on the dam and being told "What a concept."
 
-For the whole story, see [Dungeon](#Dungeon), below.
+For the whole story, see [Dungeon][].
+
+[Dungeon]: Classic%20Text%20Adventures.md#dungeon
 
 ### Enchanter
 
