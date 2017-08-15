@@ -2,11 +2,13 @@
 
 ARTICLES=../The-Dossier/article
 
-(cd $ARTICLES && feedmark --output-refdex *\ of\ Note.md \
+(cd $ARTICLES && feedmark --output-refdex \
+                          *\ of\ Note.md \
                           Recollected\ Games.md \
                           Some\ Modern\ Retrogames.md \
                           Classic\ Computer\ Games.md \
                           Classic\ Text\ Adventures.md \
+                          "An Esolang Reading List.md" \
                  >../refdex.json)
 
 # non-lists

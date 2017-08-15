@@ -53,7 +53,7 @@ I don't remember which text adventure I played first.  It was either
 [Zork I][] or [African Adventure: In Search of Dr. Livingston][].
 
 These were both very influential, but of particular influence was the book
-[Write Your Own Adventure Programs for Your Microcomputer][].
+[Write your own Adventure Programs for your Microcomputer][].
 
 This book was probably responsible for setting me off in the direction of
 programming languages, too, because it describes how
@@ -69,10 +69,7 @@ that it had the term "text adventure" in its title, when it in fact does not,
 it has the term "adventure program" which is not something anyone, as far as I
 know, ever calls them.
 
-(Note to self: these reference-style links will be rewritten by
-Feedmark at some point.  They're not permalinks yet.)
-
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
-[African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md
-[Write Your Own Adventure Programs for Your Microcomputer]: An%20Esolang%20Reading%20List.md
+[African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
+[Write your own Adventure Programs for your Microcomputer]: An%20Esolang%20Reading%20List.md#write-your-own-adventure-programs-for-your-microcomputer
 

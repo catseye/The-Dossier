@@ -173,7 +173,7 @@ one work of visual art which was *directly* inspired by an esolang, namely
 [Please Porige Hot]: http://catseye.tc/node/Please_Porige_Hot
 [INTERCAL]: http://catseye.tc/node/INTERCAL
 [ILLGOL]: http://catseye.tc/node/ILLGOL
-[Computation: Finite and Infinite Machines]: http://catseye.tc/node/Computation:_Finite_and_Infinite_Machines
+[Computation: Finite and Infinite Machines]: An%20Esolang%20Reading%20List.md#computation-finite-and-infinite-machines
 [Gerson Kurz]: http://esolangs.org/wiki/Gerson%20Kurz
 [zzo38]: http://esolangs.org/wiki/User:Zzo38
 
