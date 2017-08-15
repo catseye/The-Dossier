@@ -8,13 +8,14 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 
 ![screenshot](http://www.platypuscomix.net/applepalooza/russki2.gif)
 
-*   available for: Apple II
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
 *   genre: Graphic Adventure
+*   available for: Apple II
+*   controls: keyboard
 *   date released: 1982
-*   play online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
-*   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
+*   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
+*   play online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
 
 I have no words.  It seemed very high-concept, at the time.  Possibly because
 the enemy agents did things quite independently of what you were doing.
@@ -30,9 +31,11 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 
 ![screenshot](http://www.mobygames.com/images/shots/s/819976-beer-run-apple-ii-screenshot-elevator-appears.jpg)
 
-*   available for: Apple II
-*   genre: Platformer?
+*   written by: Mark Turmell
 *   published by: Sirius Software, Inc
+*   genre: Platformer?
+*   available for: Apple II
+*   controls: keyboard
 *   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
@@ -60,13 +63,15 @@ I'm not really motivated to.
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/s/swashbuckler-bkh/thumbs/swashbuckler_2.png)
 
-*   available for: Apple II
-*   genre: Beat-'em-Up
+*   written by: Paul Stephenson
 *   published by: Datamost
+*   genre: Beat-'em-Up
+*   available for: Apple II
+*   controls: keyboard
 *   date released: 1982
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
-*   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/swashbuckler-7n4)
+*   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 
 The weird contrast between the coloured background vs. the black-and-white
 (or green, as the case may have been, on the monochrome monitor on which I
@@ -74,9 +79,13 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ### Sammy Lightfoot
 
-*   available for: Apple II, others
-*   genre: Platformer?
+*   written by: Warren Schwader
+*   published by: Sierra On-Line
+*   genre: Platformer
+*   available for: Apple II, Commodore 64, Colecovision, IBM PC
+*   controls: keyboard or joystick(?)
 *   wikipedia: [Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2212)
 *   play online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
 
 OK, so this is actually only listed here because there was a demo
@@ -90,11 +99,11 @@ You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_K
 ### Penny Arcade
 
 *   written by: Bill Budge
+*   published by: Apple Computer, Inc.
 *   genre: Sports
 *   available for: Apple II
-*   published by: Apple Computer, Inc.
-*   date released: 1979
 *   controls: paddles
+*   date released: 1979
 *   video @ [youtube](https://www.youtube.com/watch?v=4h67eM0RAdM)
 
 OK, so mainly this is notable because it was written as a machine-language
@@ -105,24 +114,14 @@ the BASIC part.
 
 To a kid like me at the time, that made it seem like an effing *mystery*.
 
-### Lemonade Stand
-
-*   available for: Apple II
-*   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
-*   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
-
-This is probably a classic.
-
-Summer is endless, unlike in the Commodore 64 version.
-
 ### Star Maze
 
 *   written by: Eastman Computing(?)
-*   available for: Apple II
 *   published by: Sir-Tech
-*   date released: 1982
 *   genre: Maze-runner
+*   available for: Apple II
 *   controls: paddles(?)
+*   date released: 1982
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
 *   entry @ [computinghistory](http://www.computinghistory.org.uk/det/31821/Star-Maze/)
 
@@ -134,11 +133,11 @@ made it seem very high-concept (to me, at the time.)
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/6/65/Sabotage_computer_game.png)
 
 *   written by: Mark Allen
-*   available for: Apple II
 *   published by: On-Line Systems
-*   date released: 1981
 *   genre: Shoot-'em-Up(?)
+*   available for: Apple II
 *   controls: paddle or keyboard or analogue joystick
+*   date released: 1981
 *   wikipedia: https://en.wikipedia.org/wiki/Sabotage_(video_game)
 
 Something quite strange about being able to steer your shots.

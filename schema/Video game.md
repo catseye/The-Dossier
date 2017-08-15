@@ -70,6 +70,13 @@ Gives the link for where it can be downloaded from.
 
 Gives the link for an entry in a video games database.
 
+### video
+
+*    optional: true
+*    multiple: true
+
+Gives the link for a video of the game being played.
+
 ### walkthrough
 
 *    optional: true

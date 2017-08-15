@@ -4,8 +4,7 @@ Classic Computer Games
 These are my recollections of a number of computer games, where "computer"
 means roughly "strategy or puzzle", whether real-time or turn-based.
 
-Computer Games I've Played
---------------------------
+You've probably heard of most of these.
 
 ### Civilization II
 
@@ -33,6 +32,8 @@ People sometimes tell me how [RUBE][] reminds them of this game.
 Every so often, in a television commercial or similar, I hear the exact same
 squeaking sound that the trapdoor made in this game, and I have a flashback to
 it. (That sound sample must be in the public domain or something.)
+
+[RUBE]: http://catseye.tc/node/RUBE
 
 ### Dungeon Keeper II
 
@@ -71,4 +72,18 @@ be emulated awkwardly — either by Exult, which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
 
-[RUBE]: http://catseye.tc/node/RUBE
+### Lemonade Stand
+
+*   available for: Apple II
+*   genre: Simulation
+*   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
+*   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
+
+This was going to be on the "Apple II Games of Note" list, but I realized it's
+not a video game, it's a computer game.  And it's probably a classic.  So here it is.
+
+And it wasn't just for the Apple II, although that might be the most classic version.
+
+There was a version for the Commodore 64.
+
+But in the Apple II version, summer is endless, unlike in the Commodore 64 version.
