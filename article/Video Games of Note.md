@@ -166,7 +166,7 @@ beat.
 
 ### Llamatron
 
-![screenshot](http://www.wayoftherodent.com/wilbur/clip_image018_0006.jpg)
+![screenshot](http://www.atarimania.com/st/screens/llamatron_llamasoft_6.gif)
 
 *   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter

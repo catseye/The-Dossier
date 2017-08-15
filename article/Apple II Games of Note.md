@@ -13,7 +13,7 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 *   available for: Apple II
 *   controls: keyboard
 *   date released: 1982
-*   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs)
+*   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs/10379)
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   play online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
 
