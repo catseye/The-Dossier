@@ -36,6 +36,12 @@ to write a simple one-or-two word parser for an an adventure game.)
 
 Also, there are cute pictures of ghosts inside.
 
+The link to the full-text PDF above is endorsed by Usborne, and they have made
+several other of their computing books from the 80's available for download
+as well.  Details and download links can be found on their
+[Computer and Coding Books](https://usborne.com/browse-books/features/computer-and-coding-books/)
+page.
+
 ### Computation: Finite and Infinite Machines
 
 *   authors: Marvin Minsky

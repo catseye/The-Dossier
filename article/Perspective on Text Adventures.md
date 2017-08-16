@@ -28,6 +28,11 @@ then the player giving the computer some text, being a description of
 what the player would like to do in this environment.  With this cycle
 repeating until some end goal is reached.
 
+The word "adventure" also connotes that there is some kind of space
+being explored, that the player _moves around_ in this imagined environment
+(in virtue).  This is not a strong connotation, but the activity in
+most text adventures does span a variety of discrete locations.
+
 The requirement that the player communicates their intentions
 in a textual form disqualifies things like "Choose Your Own Adventure" books
 (or the modern equivalent, vanilla Twine games) from being text adventures,
@@ -86,7 +91,7 @@ and which had one-way routes and up-and-down routes and even "bendy" routes
 I had seen maps of Zork I published in Electronic Games magazine, too,
 and they made this visually obvious.
 
-I realized (through I did not know the term "graph" at
+I realized somehow (through I did not know the term "graph" at
 that point in time, and indeed the term "graph" seems to not have been
 standardized at that point in history, with some authors calling them "plexes"
 or "mazes"; see [Microprocessor Programming for Computer Hobbyists][])
@@ -98,17 +103,33 @@ And so when I went to write my own games, I did not follow the advice of that
 part of the book, and instead I used a 2-dimensional array like `DIM EX(30,6)`
 to store the "exit information" for each room.
 
-But other than that, there is a lot of sound advice in this book.
-For example, "There is no point hiding a key in a dark room and then putting
-the lantern behind a locked door."
+But other than that, there is a lot of sound advice in this book, for instance
+
+> It is no good putting the light behind a locked door and then putting
+> the key in a dark room.
+
+Indeed.
 
 Another piece of advice was to put objects where they would be expected
-to be found - axe near the woodpile, coat in a closet, and so forth.
+to be found - "knife in the kitchen, book in the library, axe near the woodpile".
 
 However, that gets back to why I feel that text adventures are a different
 beast from interactive fiction.  Discovering objects in places they don't
-belong can induce a _frisson_ of Surrealism.  I remember several such instances
+belong can induce a _frisson_ of surrealism.  I remember several such instances
 in Zork I and African Adventure.
+
+Along these lines, I could go even further - although I fear it might not
+make much sense, as I am still developing this theory.  But you could bear with
+me.  A major part of most text adventures involves interactively exploring the
+environment.  They are, in some sense, _conductors of psychogeography_.  In fact,
+even a linear, non-interactive novel, or a first-person graphical video game like
+DOOM or Myst, is a "conductor of psychogeography" in this sense.  But text
+adventures, I don't know why, they seem to be _better_ conductors than these media.
+Giving them a plot and other narrative elements, though, does not seem to improve
+them further in this manner.  It does not improve them as a _mode of exploration_.
+
+As I said, I'm still developing that theory, so I'm not even entirely sure what
+it means yet.  But I thought I'd raise the point.
 
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
 [African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
