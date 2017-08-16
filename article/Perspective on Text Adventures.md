@@ -131,6 +131,11 @@ them further in this manner.  It does not improve them as a _mode of exploration
 As I said, I'm still developing that theory, so I'm not even entirely sure what
 it means yet.  But I thought I'd raise the point.
 
+What I do know is that, long before I had heard of the word "psychogeography",
+I used a term I made up myself, "locationness", to describe something extremely
+similar.  And one of the ways I could try to describe locationness is to say that
+a place has locationness if it would make a good location in a text adventure.
+
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
 [African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
 [Write your own Adventure Programs for your Microcomputer]: An%20Esolang%20Reading%20List.md#write-your-own-adventure-programs-for-your-microcomputer
