@@ -79,17 +79,18 @@ it has the term "adventure program" which is not something anyone, as far as I
 know, ever calls them.
 
 That isn't the only idiosyncratic thing about this book.  It claims
-unequivocally that the map of the territory through which the player
-travels in the game must be a dense two-dimensional array.  "Haunted House"
-(which was the type-in adventure which appeared in the book and which the bulk
-of the book was dedicated to analyzing), for example, had 64 locations in an
+unequivocally that the territory through which the player
+travels in the game must be mapped onto a Cartesian grid.  "Haunted House",
+the type-in adventure which appeared in the book and which the bulk
+of the book was dedicated to analyzing, had 64 locations in an
 8-by-8 grid.  Further, the book claimed that if you wanted to model a
-3-dimensional world, you'd need a 3-dimensional array, and that this takes a
+3-dimensional world, with passages going over and under other passages,
+you'd need a 3-dimensional array, and that this takes a
 lot of memory ("48K is probably the minimum to make it worthwhile").
 
 This was probably an intentional simplification, but it did not jibe with
 my experience, even at the time.  The games I had played had quite irregular
-maps that would not comfortably fit in a grid, and which had one-way routes
+maps that would not comfortably fit in a grid, with one-way routes
 and up-and-down routes and even "bendy" routes (where west and south are
 "opposite directions", for example.)
 
@@ -100,13 +101,12 @@ I realized somehow (through I did not know the term "graph" at that point in
 time, and indeed the term "graph" seems to not have been standardized at that
 point in history, with some authors calling them "plexes" or "mazes"; see
 [Microprocessor Programming for Computer Hobbyists][]) that the map could be
-represented by a graph with degree 4 for the four cardinal directions, or 6
-if you wanted to add up and down, or even 10 if you wanted the 4 diagonal
-directions too.
-
-And so when I went to write my own games, I did not follow the advice of that
-part of the book, and instead I used a 2-dimensional array like `DIM EX(30,6)`
-to store the "exit information" for each room.
+represented by a graph with degree 6 for the four cardinal directions plus
+up and down (or degree 10 if you wanted the 4 diagonal directions too), and
+that such a map could be implemented in BASIC as a 2-dimensional array,
+like `DIM EX(30,6)`, where one of the dimensions is the "location number"
+and the other dimension is the "exit number".  Which is what I did, when I
+went to write my own games. [(Footnote 1)](#footnote-1)
 
 But other than that, there is a lot of sound advice in this book, for instance
 
@@ -152,6 +152,14 @@ I used a term I made up myself, "locationness", to describe something extremely
 closely related.  And one of the ways I could try to describe locationness is to
 say that a place has locationness if it would make a good location in a text
 adventure.
+
+### Footnotes
+
+##### Footnote 1
+
+Compare and contrast Gregory Yob getting fed up with the omnipresence of
+the Cartesian grid in seek-and-locate computer games, and designing
+Hunt the Wumpus to break out of that pattern.
 
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
 [African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
