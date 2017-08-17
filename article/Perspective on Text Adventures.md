@@ -5,7 +5,7 @@ Perspective on Text Adventures
 
 I'm writing this in order to reduce the number of tangents I go off on in
 the [Text Adventures of Note](Text%20Adventures%20of%20Note.md) and
-[Text Adventure Classics](Text%20Adventure%20Classics.md) articles.
+[Classic Text Adventures](Classic%20Text%20Adventures.md) articles.
 This is more of a memoir (or something) than a curational list.
 At any rate, expect it to be a bit rambly.
 
@@ -33,9 +33,10 @@ being explored, that the player _moves around_ in this imagined environment
 (in virtue).  This is not a strong connotation, but the activity in
 most text adventures does span a variety of discrete locations.
 
-I don't even usually call text adventures "games", although this is an
-unrelated habit, not of much consequence here.  One can make
-a very strong argument that a text adventure is a kind of game.
+I don't even usually call text adventures "games", but that's for
+reasons that probably aren't relevant here.  One can make a strong argument
+that a text adventure is a kind of game, but it's also not necessary to
+look at them that way.
 
 The requirement that the player communicates their intentions
 in a textual form disqualifies things like "Choose Your Own Adventure" books
@@ -63,30 +64,29 @@ I don't remember which text adventure I played first.  It was either
 likely the former.  I think I had known about text adventures before playing
 one; possibly I had read about them in a magazine.
 
-These two games were both very influential for me, but of particular influence
+These two games were both very influential on me, but of particular influence
 was the Usborne book [Write your own Adventure Programs for your Microcomputer][].
-(It was probably partly responsible for setting me off in the direction of
-programming languages, too, because it describes how
-to write a simple one-or-two word parser for an adventure game.)
+It was probably also partly responsible for setting me off in the direction of
+programming languages, because it describes how to write a simple one-or-two
+word parser for a text adventure.
 
 And, once again on the point of nomenclature, I'd like to note that this book was
-a frustratingly difficult object to find again in adulthood, because I was convinced
-that it had the term "text adventure" in its title, when it in fact does not,
+frustratingly difficult to find again in adulthood, because I was convinced
+that it had the term "text adventure" in its title, when it in fact does not;
 it has the term "adventure program" which is not something anyone, as far as I
 know, ever calls them.
 
-That wasn't the only idiosyncratic thing about this book.  It claims,
+That isn't the only idiosyncratic thing about this book.  It claims,
 surprisingly strongly, that the map of the territory through which the player
-travels in the game must be a dense two-dimensional array.
-"Haunted House" (which was the type-in adventure which appeared in the book
-and which the bulk of the book was dedicated to analyzing), for example, had
-64 locations in an 8-by-8 grid.
-Further, the book claimed that if you wanted to do a 3-dimensional map,
-you'd need a 3-dimensional array, and that this takes a lot of memory
-("48K is probably the minimum to make it worthwhile").
+travels in the game must be a dense two-dimensional array.  "Haunted House"
+(which was the type-in adventure which appeared in the book and which the bulk
+of the book was dedicated to analyzing), for example, had 64 locations in an
+8-by-8 grid.  Further, the book claimed that if you wanted to model a
+3-dimensional world, you'd need a 3-dimensional array, and that this takes a
+lot of memory ("48K is probably the minimum to make it worthwhile").
 
 This did not jibe with my experience, even at the time.  The games I had
-played had very irregular maps that would not comfortably fit in a grid,
+played had quite irregular maps that would not comfortably fit in a grid,
 and which had one-way routes and up-and-down routes and even "bendy" routes
 (where west and south are "opposite directions", for example.)
 
@@ -132,7 +132,7 @@ adventures seem to be _better_ conductors than these media.
 
 Why this is, is probably because a textual description of the environment engages
 the player's imagination and sensibilities in a way that visuals of it do not; and
-having the player wander across the map, in a largely undirected way, also engage's
+having the player wander across the map, in a largely undirected way, also engages
 the player's imagination and sensibilities.
 
 It is not unlike a kind of virtual _dérive_.
@@ -140,13 +140,15 @@ It is not unlike a kind of virtual _dérive_.
 Giving it a plot and other narrative elements, though, does not improve this
 property; it does does not improve the text adventure as a _mode of exploration_.
 
-But as I said, I'm still developing this theory, so I'm not even entirely sure what
-it means yet.  But I just thought I'd raise the point.
+But as I said, I'm still developing this theory, and I'm not entirely sure what
+I mean by it yet, so take it for whatever it's worth.  I just thought I'd raise
+the point.
 
 What I do know is that, long before I had heard of the word "psychogeography",
 I used a term I made up myself, "locationness", to describe something extremely
-similar.  And one of the ways I could try to describe locationness is to say that
-a place has locationness if it would make a good location in a text adventure.
+closely related.  And one of the ways I could try to describe locationness is to
+say that a place has locationness if it would make a good location in a text
+adventure.
 
 [Zork I]: Classic%20Text%20Adventures.md#zork-i
 [African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
