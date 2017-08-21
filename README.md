@@ -25,20 +25,20 @@ Articles Contained Herein
 *   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) (May 2017)
 *   **Games of Note**
     
-    *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
-    *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
-    *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
-    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
-    *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
+    *   [Video Games of Note](article/Video%20Games%20of%20Note.md) (9)
+    *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (8)
+    *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) (7)
+    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) (9)
+    *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md) (6)
 
 *   **Classics**
     
-    *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md)
-    *   [Classic Computer Games](article/Classic%20Computer%20Games.md)
-    
-*   [Lost Games](article/Lost%20Games.md)
-*   [Recollected Games](article/Recollected%20Games.md) *(U)*
-*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md)
+    *   [Classic Computer Games](article/Classic%20Computer%20Games.md) (6)
+    *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
+
+*   [Lost Games](article/Lost%20Games.md) (9)
+*   [Recollected Games](article/Recollected%20Games.md) (36) *(U)*
+*   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 *   [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures.md) *(U)*
 
 ### Retrocomputing
