@@ -4,7 +4,8 @@ Production Programming Languages
 This is a collection of mini-screeds on commonly-used programming
 languages, written between (let's say) 2007 and (let's say) 2013,
 with varying levels of snark and high-mindedness.  (Which, reading
-over them again today, induce varying levels of self-cringeyness.)
+over them again today, induce varying levels of facepalminess and
+cringeyness.)
 
 They used to be strewn about my website.  I decided to collect them
 in one place.
@@ -312,7 +313,7 @@ But wait, there's more!
 
 ### R
 
-[R IS THE LANGUAGE OF THE FUTURE](http://www.inside-r.org/blogs/2011/03/31/revolutions-chief-scientist-r-language-future).
+[R IS THE LANGUAGE OF THE FUTURE](https://www.r-bloggers.com/revolutions-chief-scientist-r-is-the-language-of-the-future/).
 
 WHY, IT'S SO FUTURE, IT EVEN HAS AN ISBN: 3-900051-07-0
 
