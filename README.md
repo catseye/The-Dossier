@@ -23,6 +23,8 @@ Articles Contained Herein
 ### Games
 
 *   [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) (May 2017)
+*   [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures.md) (Aug 2017)
+
 *   **Games of Note**
     
     *   [Video Games of Note](article/Video%20Games%20of%20Note.md) (9)
@@ -39,7 +41,6 @@ Articles Contained Herein
 *   [Lost Games](article/Lost%20Games.md) (9)
 *   [Recollected Games](article/Recollected%20Games.md) (36) *(U)*
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
-*   [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures.md) *(U)*
 
 ### Retrocomputing
 

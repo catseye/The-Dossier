@@ -1,7 +1,7 @@
 Perspective on Text Adventures
 ==============================
 
-*   status: near final draft
+*   publication-date: 22 Aug 2017
 
 I'm writing this in order to reduce the number of tangents I go off on in
 the [Text Adventures of Note](Text%20Adventures%20of%20Note.md) and

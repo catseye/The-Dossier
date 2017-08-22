@@ -2,6 +2,12 @@
 
 ARTICLES=article
 
+echo "### Games"
+echo ""
+feedmark --output-toc \
+    "$ARTICLES/A Basic Theory of Video Games.md" \
+    "$ARTICLES/Perspective on Text Adventures.md"
+echo ""
 echo "*   **Games of Note**"
 echo "    "
 feedmark --output-toc --include-section-count \
