@@ -15,10 +15,11 @@ Articles Contained Herein
 
 ### Programming Languages
 
-*   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (July 2010)
-*   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (April 2013)
-*   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (June 2013)
-*   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) *(U)*
+*   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (Jul 2010)
+*   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (Apr 2013)
+*   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (Jun 2013)
+*   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) (15) *(U)*
+*   [Production Programming Languages](article/Production%20Programming%20Languages.md) (11)
 
 ### Games
 

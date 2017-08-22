@@ -2,6 +2,16 @@
 
 ARTICLES=article
 
+echo "### Programming Languages"
+echo ""
+feedmark --output-toc \
+    "$ARTICLES/Retrospective on Language Design.md" \
+    "$ARTICLES/Programming Languages as an Artistic Medium.md" \
+    "$ARTICLES/The Aesthetics of Esolangs.md"
+feedmark --output-toc --include-section-count \
+    "$ARTICLES/An Esolang Reading List.md" \
+    "$ARTICLES/Production Programming Languages.md"
+echo ""
 echo "### Games"
 echo ""
 feedmark --output-toc \
