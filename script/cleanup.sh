@@ -4,10 +4,11 @@ ARTICLES=../The-Dossier/article
 
 (cd $ARTICLES && feedmark --output-refdex \
                           *\ of\ Note.md \
-                          Recollected\ Games.md \
-                          Some\ Modern\ Retrogames.md \
-                          Classic\ Computer\ Games.md \
-                          Classic\ Text\ Adventures.md \
+                          "Recollected Games.md" \
+                          "Some Modern Retrogames.md" \
+                          "Classic Computer Games.md" \
+                          "Classic Text Adventures.md" \
+                          "Computer Music Formats.md" \
                           "An Esolang Reading List.md" \
                  >../refdex.json)
 

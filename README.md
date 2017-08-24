@@ -47,6 +47,10 @@ Articles Contained Herein
 
 *   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
 
+### Music
+
+*   [Computer Music Formats](article/Computer%20Music%20Formats.md) *(U)*
+
 External Articles
 -----------------
 
