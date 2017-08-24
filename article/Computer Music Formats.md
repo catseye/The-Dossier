@@ -18,7 +18,8 @@ largely BASIC.)
 
 ### MIDI
 
-*   specification-link: http://www.midi.org/techspecs/smf.php
+*   specification-link: https://www.midi.org/specifications/category/smf-specifications
+*   wikipedia: https://en.wikipedia.org/wiki/MIDI
 
 This one's pretty well standardized, I think.
 
@@ -31,11 +32,15 @@ renderer like [TiMidity++][].
 
 ### DMCS
 
-Was it Electronic Arts?  On the Amiga.  And other platforms.
+*   wikipedia: https://en.wikipedia.org/wiki/Deluxe_Music_Construction_Set
+
+By Electronic Arts.  For the Amiga and the Apple Macintosh.
+
+It could export to MIDI.
 
 ### Noisetracker MOD
 
-*   specification-link: http://www.programmersheaven.com/download/15948/0/ZipView.aspx
+*   specification-link (broken): http://www.programmersheaven.com/download/15948/0/ZipView.aspx
 
 This is what we talk about when we talk about MOD files, I think.
 
@@ -46,9 +51,9 @@ and many other formats.
 
 ### MED
 
-*   specification-link: http://www.programmersheaven.com/download/2173/download.aspx
+*   specification-link (broken): http://www.programmersheaven.com/download/2173/download.aspx
 
-Amiga.  The editor was called MED.  There was a MED Player.
+Amiga.  The editor is called MED.  There was a MED Player.
 
 MED has a "transpose" command, but not all players honour it, and when they don't,
 well, one of the voices is in the wrong key.
