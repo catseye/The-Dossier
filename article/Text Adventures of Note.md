@@ -7,7 +7,7 @@ Here I have omitted text adventures that I consider "classics", though,
 and have put those in another list: [Classic Text Adventures](Classic%20Text%20Adventures.md).
 
 It also may help to read
-[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures),
+[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures.md),
 especially if you have trouble following my perspective on text adventures.
 
 You'll note I'm not particularly adept at actually *solving* these things.

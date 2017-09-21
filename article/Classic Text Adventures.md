@@ -8,7 +8,7 @@ about them being forgotten, thus they don't qualify for being included in
 also read, anyway.)
 
 It also may help to read
-[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures),
+[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures.md),
 especially if you find yourself having trouble following my perspective on text adventures.
 
 Do I recommend playing these, if you have the opportunity?  Almost always yes,
