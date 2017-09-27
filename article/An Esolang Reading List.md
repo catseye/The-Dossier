@@ -87,6 +87,7 @@ this a worthwhile read, it's the counterexamples.
 *   release-date: Dec 1982
 *   ISBN: 0-672-22056-3
 *   publisher: Howard W. Sams & Co.
+*   online @ [www.commodore.ca](http://www.commodore.ca/manuals/c64_programmers_reference/c64-programmers_reference.htm)
 
 Classic.  I urge you to read the "crunching" guide on pages 24-27, how the
 screen editor works on pages 94-97, the vaguely condescending
