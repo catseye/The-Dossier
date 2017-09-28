@@ -46,7 +46,7 @@ their pros and cons.
 
 ### Drawing from Life
 
-![Still Life](https://pbs.twimg.com/media/CLCE94jWsAEShl_.jpg)
+![Still Life](http://static.catseye.tc/images/pictures/Still%20Life%20%28Vessels%29%20-%20small.jpg)
 
 You are drawing something "from life" if that thing is right in front of you, even
 if that thing is dead. [(Footnote 2)](#footnote-2)  I suppose, then, that "life"
@@ -75,7 +75,7 @@ when drawing; it's just one of the more convenient things a pointed stylus can d
 
 ### Drawing from a Reference
 
-![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced.png)
+![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced%20-%20small.png)
 
 Often this is a photograph, although it could also be another drawing.
 
