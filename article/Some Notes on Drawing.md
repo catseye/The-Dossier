@@ -58,13 +58,13 @@ why this is, so I won't.  But it's true.
 
 If you go over such a drawing in, say, ink, after making it, you will "deaden" it.
 
-Of course, you can make it in ink to begin with.  Erasing is overrated.
-
-Drawings made this way are often _sketches_.  I mean this word in its literal sense:
-it comes from an Italian word meaning "to spray", and means, roughly speaking,
-making more than one line, not totally accurately, and hoping the viewer's eye will
-"split the difference".  It would be the opposite of _line drawing_, which is usually
-interpreted to mean that the lines are clear and are the "right" lines.
+Of course, you can make it in ink to begin with.  Drawings made this way are often
+called _sketches_.  I mean this word in a literal sense that it has in the context of
+drawing, where scholars think it came from the Italian word _schizzo_ meaning
+"to spray", and means, roughly speaking, making more than one line, not totally
+accurately, and hoping the viewer's eye will "split the difference".  It would be
+the opposite of _line drawing_, which is usually interpreted to mean that the lines
+are clear and are the "right" lines.
 
 But even this is a bit complicated.  A line, on paper, usually indicates an outline,
 which itself is an abstraction of a "boundary" in reality where one thing
@@ -75,6 +75,7 @@ when drawing; it's just one of the more convenient things a pointed stylus can d
 
 ### Drawing from a Reference
 
+![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
 ![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced%20-%20small.png)
 
 Often this is a photograph, although it could also be another drawing.
@@ -97,6 +98,8 @@ realize that and consciously try to counteract it when tracing, you can, if not
 overcome the effect, then at least mitigate it.
 
 ### Drawing from the Imagination
+
+![Fictional Landscape No. 1](http://static.catseye.tc/images/pictures/Fictional%20Landscape%20No.%201%20-%20small.jpg)
 
 William Blake was big on this.  Piranesi and Tiepolo, too, and Leonardo too, for
 that matter, because _invenzione_ was big in the renaissance.  More on that in a
@@ -123,19 +126,23 @@ Anyway, what I was getting at is, memory is a necessary, but not sufficient, con
 for imagination.  I have to remember what a horse looks like, and what a horn looks
 like, but I have to imagine what a unicorn looks like.
 
-Unicorns!  Don't get me started on unicorns.  They're an aesthetics researchers
-favourite animal to fixate on.  Because a drawing of a unicorn isn't a
-*representation* of a unicorn, you see, because they don't exist, you see, and
-you can't *represent* something that doesn't exist, you see, and I know they
+Unicorns!  Don't get me started on unicorns.  They're a philosophical aesthetician's
+[(Footnote 3)](#footnote-3) absolute favourite animal.  Because a drawing of a
+unicorn isn't a *representation* of a unicorn, you see, because they don't exist,
+you see, and you can't *represent* something that doesn't exist, you see, and
+that is very important in the world of philosophical aesthetics.  And I know they
 don't exist because I've visited every planet in the galaxy and I've never seen
 one on any of them.
 
-The main drawback is, of course, that it's easy to get basic things wrong.  By
-"basic things" I mean, the relative length of limbs of a figure, or the
-foreshortening, or sometimes even the number of digits on a hand, for goodness sake.
-And even if not wrong, for something complex and subtle like the human figure, it's
-almost inevitable that the drawer will miss some of the subtleties.  The result is
-something that "looks made up".
+The main drawback of drawing from the imagination is, of course, that it's easy to
+get basic things wrong.  By "basic things" I mean, the relative length of limbs of
+a figure, or the foreshortening, or sometimes even the number of digits on a hand,
+for goodness sake.  And even if not wrong, for something complex and subtle like the
+human figure, it's almost inevitable that the drawer will miss some of the
+subtleties, like the way the muscles flex when a heavy object is being held versus
+when one's hand is empty.  The result is a picture that looks "made up" somehow —
+it's usually hard to say exactly what is wrong because it is only that the visual
+cues are kind of "off", they don't add up.
 
 For this reason, some would call drawing from the imagination, especially drawing
 the human figure this way, the ultimate test of an artist.  I don't know, but I agree
@@ -156,12 +163,24 @@ really tell sometimes.  Similar, later in his career, Picabia made a lot of
 paintings from photographs, and you can really tell with those, too.
 Photographs are far more unforgiving about lighting than the human eye is.
 
+A word on technique.  A tradeoff that applies to all of these methods is that
+if you make a mark too slowly, it looks "fussy" — too deliberate, somehow.
+But the faster you make a mark, the more likely it will be inaccurate.  The
+only way out of this tradeoff is to make accurate marks quickly.
+
+And, just the same as e.g. handling a bow and arrow, the only way to be both
+fast and accurate is to have a lifetime of practice.
+
+I remember reading something written by students of Mervyn Peake, and they
+were consistently impressed by his _confidence_ of line.  That's probably
+exactly what I'm talking about here.
+
 Books
 -----
 
 I've read a number of "How to Draw X" books, of course, but they don't tend to
 go into much depth.  (Deconstruct the subject into a number of tin-cans.  OK.
-Try different media and grounds until you find what you like.  OK...)
+Try different media and grounds until you find what you like.  OK, OK...)
 
 It wasn't until I encountered these two books that I felt I had really found
 studies of drawing _per se_:
@@ -198,3 +217,10 @@ market value, and let's face it, the art market rules the artworld.  Sorry.
 
 Indeed, the French translation of "still life" is _nature morte_, which
 literally translates to "dead nature".  Go figure.
+
+##### Footnote 3
+
+I have to say "philosophical aesthetician" because a just plain "aesthetician"
+is someone who does your nails, which is not what I mean, while an "aestheticist"
+is an adherent of Aestheticism, which is also not what I mean.  Even though some
+of these people may in fact like unicorns a lot too.
