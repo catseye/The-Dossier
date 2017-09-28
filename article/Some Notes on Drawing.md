@@ -49,8 +49,8 @@ their pros and cons.
 ![Still Life](https://pbs.twimg.com/media/CLCE94jWsAEShl_.jpg)
 
 You are drawing something "from life" if that thing is right in front of you, even
-if that thing is dead.  I gather, then, that "life" probably refers to your own life,
-in this context.
+if that thing is dead. [(Footnote 2)](#footnote-2)  I suppose, then, that "life"
+possibly refers to the drawer's own life in this context.
 
 Drawn this way, the result will itself usually have more "life" in it.  Critics use
 fancy art-words like _brio_ or _élan_ to describe this.  I cannot begin to explain
@@ -72,6 +72,8 @@ _texture_ to the eye.  And anyway, there's nothing saying you need to make lines
 when drawing; it's just one of the more convenient things a pointed stylus can do.
 
 ### Drawing from a Reference
+
+![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced.png)
 
 Often this is a photograph, although it could also be another drawing.
 
@@ -110,8 +112,14 @@ the imagination still seems more accurate.  It's not like those prisons were
 things that Piranesi actually *remembered*.  Well — unless he dreamed them.
 I don't know that he didn't.
 
-What I'm getting at is, memory is a necessary, but not sufficient, condition for
-imagination.  I have to remember what a horse looks like, and what a horn looks
+Also, I don't remember where I picked this up, but someone pointed out that if
+you look down at your drawing while you are drawing it, as most drawers do, *all*
+drawing, even drawing from life, is technically drawing from memory.  That's maybe
+a pedantic point, but it's worth thinking about: having a good short-term memory is
+helpful.  There are probably exercises for developing this, I don't know.
+
+Anyway, what I was getting at is, memory is a necessary, but not sufficient, condition
+for imagination.  I have to remember what a horse looks like, and what a horn looks
 like, but I have to imagine what a unicorn looks like.
 
 Unicorns!  Don't get me started on unicorns.  They're an aesthetics researchers
@@ -120,6 +128,7 @@ favourite animal to fixate on.  Because a drawing of a unicorn isn't a
 you can't *represent* something that doesn't exist, you see, and I know they
 don't exist because I've visited every planet in the galaxy and I've never seen
 one on any of them.
+
 
 ...
 
@@ -160,3 +169,8 @@ still basically regarded as "the" art form.  The reasons for this are beyond
 the scope of this essay, since this is an essay about drawing, not painting.
 But since you asked: prestige, portability, and durability contribute to
 market value, and let's face it, the art market rules the artworld.  Sorry.
+
+##### Footnote 2
+
+Indeed, the French translation of "still life" is _nature morte_, which
+literally translates to "dead nature".  Go figure.
