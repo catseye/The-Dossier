@@ -1,5 +1,7 @@
-20th-century Visual Artists of Note
+20th-Century Visual Artists of Note
 ===================================
+
+*   status: under construction
 
 Since this is a list "of note" these are not the most well-known artists.
 Instead, they are the best artists.  Well, that's subjective, obviously.
