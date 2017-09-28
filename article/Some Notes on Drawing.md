@@ -58,7 +58,8 @@ why this is, so I won't.  But it's true.
 
 If you go over such a drawing in, say, ink, after making it, you will "deaden" it.
 
-Of course, you can make it in ink to begin with.  Drawings made this way are often
+Of course, you can make it in ink to begin with, if you can live with the idea of
+having a significant challenge erasing any of it.  Drawings made this way are often
 called _sketches_.  I mean this word in a literal sense that it has in the context of
 drawing, where scholars think it came from the Italian word _schizzo_ meaning
 "to spray", and means, roughly speaking, making more than one line, not totally
@@ -66,17 +67,26 @@ accurately, and hoping the viewer's eye will "split the difference".  It would b
 the opposite of _line drawing_, which is usually interpreted to mean that the lines
 are clear and are the "right" lines.
 
-But even this is a bit complicated.  A line, on paper, usually indicates an outline,
+But even this is a bit oversimplified.  A line, on paper, usually indicates an outline,
 which itself is an abstraction of a "boundary" in reality where one thing
-(e.g., an apple) stops and another (e.g. a bowl) begins.  But it need not.  Lines,
-especially when put together closely and at consistently angles, can represent a
-_texture_ to the eye.  And anyway, there's nothing saying you need to make lines
-when drawing; it's just one of the more convenient things a pointed stylus can do.
+(e.g., an apple) stops and another (e.g. a bowl) begins.  But it need not be that, in
+two ways.  First, lines, especially when closely spaced and at consistent angles,
+can represent a _texture_ to the eye.  Second, a "misplaced" line may very well
+harmonize with the overall composition and go virtually unnoticed by the viewer —
+at least until they begin examining the picture more closely.  Such "mistakes"
+are rarely as bad as a beginning drawer thinks they are; the eye can actually tolerate
+quite a lot of chaos in lines, so long as there is an overall composition.
+
+And anyway, there's nothing saying you need to make lines when drawing; it's just
+one of the more convenient things a pointed stylus can do.  You may have also noticed
+that the edge of the pencil can shade an area.  And various media can be "washed" by
+adding some water to them.  There is even washable graphite, and I like the idea of
+washable graphite a lot, because it makes it difficult to say whether it's drawing or
+painting.
 
 ### Drawing from a Reference
 
 ![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
-![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced%20-%20small.png)
 
 Often this is a photograph, although it could also be another drawing.
 
@@ -130,9 +140,9 @@ Unicorns!  Don't get me started on unicorns.  They're a philosophical aesthetici
 [(Footnote 3)](#footnote-3) absolute favourite animal.  Because a drawing of a
 unicorn isn't a *representation* of a unicorn, you see, because they don't exist,
 you see, and you can't *represent* something that doesn't exist, you see, and
-that is very important in the world of philosophical aesthetics.  And I know they
-don't exist because I've visited every planet in the galaxy and I've never seen
-one on any of them.
+determining what a picture *represents* is very important in the world of
+philosophical aesthetics.  And I know they don't exist because I've visited every
+planet in the galaxy and I've never seen one on any of them.
 
 The main drawback of drawing from the imagination is, of course, that it's easy to
 get basic things wrong.  By "basic things" I mean, the relative length of limbs of
