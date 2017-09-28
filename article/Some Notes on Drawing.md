@@ -88,24 +88,31 @@ painting.
 
 ![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
 
-Often this is a photograph, although it could also be another drawing.
+Often the reference is a photograph, although it could also be another drawing.
 
 The trick here is avoid slavishly copying the reference.
 
-Taking this to the extreme is _tracing_, where you place a piece of paper on top
-of another picture and, if the paper is thin enough, you can see the original
-picture underneath, and you make lines on top of its lines.
+Taking this idea to the extreme is _tracing_, where you place a piece of paper on
+top of another picture and, if the paper is thin enough, you can see the original
+picture underneath, and you make lines on top of its lines.  Having a strong
+light shining through from the bottom, say from a light table (or, in a pinch, a
+window during the daytime) can make this easier.  Or a projector can cast the
+image onto a wall, etc., etc.
 
 Some people will call this "cheating".  This, too, is a lie, because in order
-to cheat there need to be a rule that can be broken.  It would be more accurate
-to say that this results in a very dead and lifeless and "traced-looking" drawing.
+to cheat there first needs to be a rule that can be broken.  It would be more accurate
+to say that this usually results in a dead and lifeless and "traced-looking" drawing.
 
 But even so, that's mainly because when you make a tracing, you are slavishly
-finding an outline, an visual boundary between things, and making a line out
-of it.  The problem is that when someone else sees that line, they don't necessarily
-recover the same outline you (thought you) saw when you traced it.  *If* you
-realize that and consciously try to counteract it when tracing, you can, if not
-overcome the effect, then at least mitigate it.
+finding an outline, a visual boundary between things in the picture, and making a
+line out of it.  There are two problems here.  One is that when someone else sees
+that line, they don't necessarily recover the same outline you (thought you) saw
+when you traced it.  In fact they usually don't.  The other is that not all boundaries
+between things reduce well to lines.  The human nose, for example, is notorious for
+this — it's quite difficult to depict it well with only lines and no tone.
+
+*If* you realize these things and consciously try to counteract them when tracing,
+you can, if not overcome these effects, then at least mitigate them.
 
 ### Drawing from the Imagination
 
