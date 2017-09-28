@@ -58,6 +58,8 @@ why this is, so I won't.  But it's true.
 
 If you go over such a drawing in, say, ink, after making it, you will "deaden" it.
 
+Of course, you can make it in ink to begin with.  Erasing is overrated.
+
 Drawings made this way are often _sketches_.  I mean this word in its literal sense:
 it comes from an Italian word meaning "to spray", and means, roughly speaking,
 making more than one line, not totally accurately, and hoping the viewer's eye will
@@ -96,10 +98,9 @@ overcome the effect, then at least mitigate it.
 
 ### Drawing from the Imagination
 
-William Blake was big on this.  (Cézanne too, but he was a painter, not a drawer.)
-
-Piranesi and Tiepolo, too, and Leonardo too, for that matter, because _invenzione_
-was big in the renaissance.
+William Blake was big on this.  Piranesi and Tiepolo, too, and Leonardo too, for
+that matter, because _invenzione_ was big in the renaissance.  More on that in a
+second.
 
 People will sometimes say "drawing from memory" instead of "from the imagination",
 especially academics.  Probably because the latter sounds fanciful and thus
@@ -129,8 +130,31 @@ you can't *represent* something that doesn't exist, you see, and I know they
 don't exist because I've visited every planet in the galaxy and I've never seen
 one on any of them.
 
+The main drawback is, of course, that it's easy to get basic things wrong.  By
+"basic things" I mean, the relative length of limbs of a figure, or the
+foreshortening, or sometimes even the number of digits on a hand, for goodness sake.
+And even if not wrong, for something complex and subtle like the human figure, it's
+almost inevitable that the drawer will miss some of the subtleties.  The result is
+something that "looks made up".
 
-...
+For this reason, some would call drawing from the imagination, especially drawing
+the human figure this way, the ultimate test of an artist.  I don't know, but I agree
+that it certainly is difficult.
+
+### Discussion
+
+These three methods aren't intended to be perfectly hermetic.  Drawing from one
+of those little artist's mannequins that IKEA now sells as furnishings will be
+a combination of drawing from a reference and drawing from the imagination.
+But I do think it is a very useful division.
+
+And obviously, the division applies to painting, too.
+
+And actually, once you know about the division, you start to notice it.
+For example, Cézanne was big on painting from the imagination, and you can
+really tell sometimes.  Similar, later in his career, Picabia made a lot of
+paintings from photographs, and you can really tell with those, too.
+Photographs are far more unforgiving about lighting than the human eye is.
 
 Books
 -----
