@@ -1,6 +1,8 @@
 Classic Computer Games
 ======================
 
+*   status: permanently under construction
+
 These are my recollections of a number of computer games, where "computer"
 means roughly "strategy or puzzle", whether real-time or turn-based.
 

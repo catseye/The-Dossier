@@ -1,6 +1,8 @@
 Lost Games
 ==========
 
+*   status: permanently under construction
+
 These are games that I've encountered in the past, and which I haven't been
 able to find any information about on the Internet, in part because I may
 not remember their exact names.  (City Connection was in this category for

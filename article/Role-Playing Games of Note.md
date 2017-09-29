@@ -1,6 +1,8 @@
 Role-Playing Games of Note
 ==========================
 
+*   status: permanently under construction
+
 First off, I should note that the definition of "Role-Playing Game" being
 used here is, intentionally, rather broad.  It includes things like
 roguelikes, pen-and-paper RPGs, fictional RPGs, and computer games which
@@ -55,6 +57,7 @@ young Tom Hanks.
 ### The Spawn of Fashan
 
 *   review @ [archive.org](https://web.archive.org/web/20141220064347/http://www.rpg.net:80/reviews/archive/classic/rev_6157.phtml)
+*   tweet: https://twitter.com/catseye_tc/status/894470565939073024
 
 Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
 review linked above is well worth the read.  I only wish I could say I have seen

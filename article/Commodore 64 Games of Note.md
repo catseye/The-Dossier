@@ -2,6 +2,7 @@ Commodore 64 Games of Note
 ==========================
 
 *   status: permanently under construction
+*   common available for: Commodore 64
 
 This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Commodore 64.
@@ -10,7 +11,6 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/d/dynamite_dan_01.gif)
 
-*   available for: Commodore 64
 *   written by: Rod Bowkett
 *   published by: Mirrorsoft
 *   release date: 1985
@@ -26,7 +26,6 @@ multicolour.  The music is also good.  The game itself is quite hard.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/street_surfer_03.gif)
 
-*   available for: Commodore 64
 *   written by: David Barbour
 *   published by: Mastertronic
 *   release date: 1986
@@ -58,6 +57,7 @@ speed.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
+*   tweet: https://twitter.com/catseye_tc/status/913761495464456193
 
 It's difficult to say what contributes to this game's overall charm.
 
@@ -72,7 +72,6 @@ Also: the bird!
 
 ![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
 
-*   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
 *   controls: joystick
@@ -89,6 +88,7 @@ known mechanisms.
 *   available for: Commodore 64, Atari 800
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
+*   tweet: https://twitter.com/catseye_tc/status/832528510430363648
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
@@ -100,6 +100,7 @@ explains it better than I can.
 
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   tweet: yes, but I cannot find it
 
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but also a second character indirectly, by influencing
@@ -134,7 +135,8 @@ do seem to be able to go in circles quite easily.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
 
-*   available for: Commodore 64
+*   published by: Cosmi
+*   release date: 1984
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2351)
 
 This one's pretty memorably weird, and deserves comment.

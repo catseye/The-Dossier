@@ -1,6 +1,8 @@
 Video Games of Note
 ===================
 
+*   status: permanently under construction
+
 I originally compiled this list (as a list of my favourite games) because
 I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
 then I could too.  I've also been told that I have good taste in video games.
@@ -32,6 +34,7 @@ been offloaded to articles dedicated to the particular system:
 *   genre: Shoot-'em'-Up (nominally)
 *   available for: Amiga 500, Atari ST
 *   controls: mouse
+*   tweet: https://twitter.com/catseye_tc/status/832346170508845057
 
 Quite possibly the cutest game ever.
 

@@ -1,7 +1,7 @@
 Recollected Games
 =================
 
-*   status: under construction
+*   status: permanently under construction
 
 These are games which are possibly not remarkable enough nor classic enough
 to be put in one of the other lists, but which I have memories of playing
@@ -150,6 +150,7 @@ players are literally giants.
 ### Congo Bongo
 
 *   wikipedia: https://en.wikipedia.org/wiki/Congo_Bongo
+*   tweet: https://twitter.com/catseye_tc/status/861323930073788416
 
 Here is what is notable about Congo Bongo: the arcade game uses
 [isometric projection][], but the C64 conversion and other
