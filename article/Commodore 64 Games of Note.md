@@ -1,6 +1,8 @@
 Commodore 64 Games of Note
 ==========================
 
+*   status: permanently under construction
+
 This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Commodore 64.
 
@@ -9,6 +11,9 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/d/dynamite_dan_01.gif)
 
 *   available for: Commodore 64
+*   written by: Rod Bowkett
+*   published by: Mirrorsoft
+*   release date: 1985
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=802)
 
@@ -22,6 +27,9 @@ multicolour.  The music is also good.  The game itself is quite hard.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/street_surfer_03.gif)
 
 *   available for: Commodore 64
+*   written by: David Barbour
+*   published by: Mastertronic
+*   release date: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2505)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
 
@@ -43,7 +51,10 @@ speed.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/pharaohs_curse_05.gif)
 
-*   available for: Commodore 64, VIC 20
+*   available for: Commodore 64, VIC 20, Atari 8-bit
+*   written by: Steve Coleman
+*   published by: Synapse Software
+*   release date: 1983
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
@@ -53,9 +64,9 @@ It's difficult to say what contributes to this game's overall charm.
 You can shoot the mummy, but the mummy can shoot back.
 
 The triggers trigger traps on a delay which is perfectly predictable, so it
-adds an element of timing to the game.
+adds a nice element of timing to the game.
 
-Also: the bird.
+Also: the bird!
 
 ### Fire Ant
 
@@ -75,9 +86,9 @@ known mechanisms.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Necromancer_(video_game)
 *   available for: Commodore 64, Atari 800
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
@@ -87,7 +98,6 @@ explains it better than I can.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/w/whistlers_brother_02.gif)
 
-*   wikipedia: N/A
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 
@@ -103,7 +113,6 @@ it was that the graphics felt kind of uninspired.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
 
-*   wikipedia: N/A
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 
