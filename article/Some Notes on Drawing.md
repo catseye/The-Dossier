@@ -34,8 +34,8 @@ I would like drawing to be held in higher regard than it is.  Mathematics has be
 called "the queen and the servant of the sciences", because it is both fantastically
 useful to each branch of science individually, and grandly unifying to the sciences.
 Perhaps we could say something similar for drawing, that drawing is the queen and
-servant of the arts.  Not just practice and preparatory sketches for paintings, but
-also architectural drawings, dance diagrams, set designs, fashion drawings...
+servant of the arts.  Not just thumbnail sketches and underdrawings for paintings,
+but also architectural drawings, dance diagrams, set designs, fashion drawings...
 
 Methods of Drawing
 ------------------
@@ -46,7 +46,8 @@ their pros and cons.
 
 ### Drawing from Life
 
-![Still Life](http://static.catseye.tc/images/pictures/Still%20Life%20%28Vessels%29%20-%20small.jpg)
+![Still Life (Vessels)](http://static.catseye.tc/images/pictures/Still%20Life%20%28Vessels%29%20-%20small.jpg)
+![Reader, Parc George Brassens](http://static.catseye.tc/images/pictures/Reader,%20Parc%20George%20Brassens%20-%20small.jpg)
 
 You are drawing something "from life" if that thing is right in front of you, even
 if that thing is dead. [(Footnote 2)](#footnote-2)  I suppose, then, that in this
@@ -58,11 +59,11 @@ why this is, so I won't.  But it's true.  If you go over such a drawing in, say,
 after making it, you will almost certainly "deaden" it.
 
 Of course, you can make it in ink to begin with, if you can live with the idea of
-not being able to erase it.  Such a drawing can be a _sketch_ in a specific sense
-that this word has in the context of drawing, where scholars think it came from
-the Italian word _schizzo_ meaning "to spray", and means, roughly speaking, making
-multiple not-necessarily-accurate lines and relying on the viewer's eye to "split
-the difference".  It would be the opposite of _line drawing_, which is usually
+not being able to erase it.  Such a drawing can be called a _sketch_, in a specific
+sense of this word that it has in the context of drawing, where scholars think it
+came from the Italian word _schizzo_ meaning "to spray".  It means, roughly speaking,
+making multiple not-necessarily-accurate lines and relying on the viewer's eye to
+"split the difference".  It would be the opposite of _line drawing_, which is usually
 interpreted to mean that the lines are clear and are the "right" lines.
 
 But even this is a bit oversimplified.  A line, on paper, usually indicates an outline,
@@ -72,15 +73,16 @@ two ways.  First, lines, especially when closely spaced and at consistent angles
 can represent a _texture_ to the eye.  Second, a "misplaced" line may very well
 harmonize with the overall composition and go virtually unnoticed by the viewer —
 at least until they begin examining the picture more closely.  Such "mistakes"
-are rarely as bad as a beginning drawer thinks they are; the eye can actually tolerate
-quite a lot of chaos in lines, so long as there is an overall composition.
+are rarely as bad as a beginning drawer assumes they are.  The eye can actually
+tolerate quite a lot of "error" in lines, so long as there is an overall composition
+holding them together.
 
-And anyway, there's nothing saying you need to make lines when drawing; it's just
+And anyway, there's nothing saying you need to make _lines_ when drawing; it's just
 one of the more convenient things a pointed stylus can do.  You may have also noticed
 that the edge of the pencil can shade an area.  And various media can be "washed" by
 adding some water to them.  There is even washable graphite, and I like the idea of
-washable graphite a lot, because it makes it difficult to say whether it's drawing or
-painting.
+washable graphite a lot, because it makes it difficult to say for certain whether I'm
+drawing or painting.
 
 Because it captures "life" so well, there are some that consider drawing from life
 to be the only "real" kind of drawing.  The disadvantage, of course, is that if
@@ -91,16 +93,22 @@ you draw it.
 ### Drawing from a Reference
 
 ![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
+![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced%20-%20small.png)
 
 Often the reference is a photograph, although it could also be another drawing.
 
-This solves the problem of the subject moving quite well.  Although, there are
-portraitists who will tell you that a drawn or painted portrait captures a
-superior likeness of the sitter, since it "integrates over" different positions
-and views, while a photograph only freezes a single instant in time.
+This solves the problem of the subject moving quite well.  Many portraitists
+will tell you, though, that a portrait from life captures a superior likeness of
+of the sitter exactly _because_ they move: the portraitist "integrates over"
+their angles and expressions, while a photograph only freezes a single instant
+in time from a single perspective.
 
-The trick, though, is to avoid slavishly copying the reference.  This is harder
-than it might sound.
+But going without that that might be worth it if it means one less person is
+asked to sit still for a half-hour.  Because, have you ever tried it?  It's
+actually pretty torturous.  Artist's models deserve more respect.
+
+Anyway, when drawing from a reference the trick is to avoid slavishly copying
+the reference.  This is harder than it might sound.
 
 Taking this idea to the extreme is _tracing_, where you place a piece of paper on
 top of another picture and, if the paper is thin enough, you can see the original
@@ -111,13 +119,13 @@ image onto a wall, etc., etc.
 
 Some people will call this "cheating".  This, too, is a lie, because in order
 to cheat there first needs to be a rule that can be broken.  It would be more accurate
-to say that this usually results in a dead and lifeless and "traced-looking" drawing.
+to say that this usually results in a stilted, dead-looking drawing.
 
-But even so, that's mainly because when you make a tracing, you are slavishly
-finding an outline, a visual boundary between things in the picture, and making a
-line out of it.  There are two problems here.  One is that when someone else sees
-that line, they don't necessarily recover the same outline you (thought you) saw
-when you traced it.  In fact they usually don't.  The other is that not all boundaries
+But even so, that's mainly because when you make a tracing, you usually hunt for
+what you think is an outline in the picture, and make a drawn line out of it.
+There are two problems with this.  One is that when someone else sees that line,
+they don't necessarily recover the same outline you (thought you) saw when you
+traced it.  In fact they usually don't.  The other is that not all boundaries
 between things reduce well to lines.  The human nose, for example, is notorious for
 this — it's quite difficult to depict it well with only lines and no tone.
 
@@ -127,6 +135,7 @@ you can, if not overcome these effects, then at least mitigate them.
 ### Drawing from the Imagination
 
 ![Fictional Landscape No. 1](http://static.catseye.tc/images/pictures/Fictional%20Landscape%20No.%201%20-%20small.jpg)
+![Nude Invenzione](http://static.catseye.tc/images/pictures/Nude%20Invenzione%20-%20small.jpg)
 
 William Blake was big on this.  Piranesi and Tiepolo, too, and Leonardo too, for
 that matter, because _invenzione_ was big in the renaissance.  More on that in a
@@ -154,7 +163,7 @@ for imagination.  I have to remember what a horse looks like, and what a horn lo
 like, but I have to imagine what a unicorn looks like.
 
 Unicorns!  Don't get me started on unicorns.  They're a philosophical aesthetician's
-[(Footnote 3)](#footnote-3) absolute favourite animal.  Because a drawing of a
+absolute favourite animal. [(Footnote 3)](#footnote-3)  Because a drawing of a
 unicorn isn't a *representation* of a unicorn, you see, because they don't exist,
 you see, and you can't *represent* something that doesn't exist, you see, and
 determining what a picture *represents* is very important in the world of
@@ -173,16 +182,23 @@ cues are kind of "off", they don't add up.
 
 For this reason, some would call drawing from the imagination, especially drawing
 the human figure this way, the ultimate test of an artist.  I don't know, but I agree
-that it certainly is difficult.
+that it certainly is difficult.  As I said, _invenzione_ — making *up* your drawing
+instead of drawing something that already exists — was big in the renaissance.
+Tiepolo's _capricci_, for instance, are arrangements of figures and scenery which
+seem essentially random; he might as well have been rolling dice to determine their
+composition.
 
 ### Discussion
 
-These three methods aren't intended to be perfectly hermetic.  Drawing from one
-of those little artist's mannequins that IKEA now sells as furnishings will be
-a combination of drawing from a reference and drawing from the imagination.
-But I do think it is a very useful division.
+These three methods aren't intended to be perfectly hermetic.  Drawing from a
+sculpture (a traditional part of academic art instruction, before moving on to
+a living model) could be either drawing from life or drawing from a reference,
+depending on how the drawer treats it, while drawing from one of those little
+artist's mannequins that IKEA now sells as furnishings would most likely be a
+combination of drawing from a reference and drawing from the imagination.
 
-And obviously, the division applies to painting, too.
+But I do think it is a very useful division.  And obviously, it applies to
+painting, too.
 
 And actually, once you know about the division, you start to notice it.
 For example, Cézanne was big on painting from the imagination, and you can
@@ -201,6 +217,10 @@ fast and accurate is to have a lifetime of practice.
 I remember reading something written by students of Mervyn Peake, and they
 were consistently impressed by his _confidence_ of line.  That's probably
 exactly what I'm talking about here.
+
+Of course, even here there is an exception.  If _all_ the marks look very
+deliberate, and enough care is taken with them, the drawing can then look
+"worked" — almost like a painting.
 
 Books
 -----
