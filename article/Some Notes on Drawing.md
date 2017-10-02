@@ -27,8 +27,8 @@ I think it would be more accurate still to say that a lot of people simply do no
 like *how* they draw.
 
 The artworld does not hold drawing in high regard.  It's not like that most-favoured
-child of the artworld, oil painting, oh no. [(Footnote 1)](#footnote-1)
-Let us now recoil in horror in unison over the fact that *mere children* do it.
+child of the artworld, oil painting, oh no.  Let us now recoil in horror in unison
+over the fact that *mere children* do it.
 
 I would like drawing to be held in higher regard than it is.  Mathematics has been
 called "the queen and the servant of the sciences", because it is both fantastically
@@ -50,7 +50,7 @@ their pros and cons.
 ![Reader, Parc George Brassens](http://static.catseye.tc/images/pictures/Reader,%20Parc%20George%20Brassens%20-%20small.jpg)
 
 You are drawing something "from life" if that thing is right in front of you, even
-if that thing is dead. [(Footnote 2)](#footnote-2)  I suppose, then, that in this
+if that thing is dead. [(Footnote 1)](#footnote-1)  I suppose, then, that in this
 context, "life" refers to the drawer's own life.
 
 Drawn this way, the result will itself usually have more "life" in it.  Critics use
@@ -93,7 +93,7 @@ you draw it.
 ### Drawing from a Reference
 
 ![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
-![Profile of Young Woman, Traced](http://static.catseye.tc/images/pictures/Profile%20of%20Young%20Woman,%20Traced%20-%20small.png)
+![Portrait of a Cretan](http://static.catseye.tc/images/pictures/Portrait%20of%20a%20Cretan%20-%20small.png)
 
 Often the reference is a photograph, although it could also be another drawing.
 
@@ -163,7 +163,7 @@ for imagination.  I have to remember what a horse looks like, and what a horn lo
 like, but I have to imagine what a unicorn looks like.
 
 Unicorns!  Don't get me started on unicorns.  They're a philosophical aesthetician's
-absolute favourite animal. [(Footnote 3)](#footnote-3)  Because a drawing of a
+absolute favourite animal. [(Footnote 2)](#footnote-2)  Because a drawing of a
 unicorn isn't a *representation* of a unicorn, you see, because they don't exist,
 you see, and you can't *represent* something that doesn't exist, you see, and
 determining what a picture *represents* is very important in the world of
@@ -253,19 +253,10 @@ Footnotes
 
 ##### Footnote 1
 
-Yes, even still now in the contemporary age, despite what the Stuckists will
-try to make you believe in order to curry sympathy from you, oil painting is
-still basically regarded as "the" art form.  The reasons for this are beyond
-the scope of this essay, since this is an essay about drawing, not painting.
-But since you asked: prestige, portability, and durability contribute to
-market value, and let's face it, the art market rules the artworld.  Sorry.
-
-##### Footnote 2
-
 Indeed, the French translation of "still life" is _nature morte_, which
 literally translates to "dead nature".  Go figure.
 
-##### Footnote 3
+##### Footnote 2
 
 I have to say "philosophical aesthetician" because a just plain "aesthetician"
 is someone who does your nails, which is not what I mean, while an "aestheticist"
