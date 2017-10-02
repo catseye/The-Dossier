@@ -86,14 +86,13 @@ drawing or painting.
 
 Because it captures "life" so well, there are some that consider drawing from life
 to be the only "real" kind of drawing.  The disadvantage, of course, is that if
-what you're drawing is moving, you have to be quick, or have good short-term
-memory (see below), or, if it is sentient, convince it to try not to move while
-you draw it.
+what you're drawing is moving, you have to be quick (or have good short-term
+memory) or, if it is sentient, convince it to try not to move while you draw it.
 
 ### Drawing from a Reference
 
-![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
 ![Portrait of a Cretan](http://static.catseye.tc/images/pictures/Portrait%20of%20a%20Cretan%20-%20small.jpg)
+![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
 
 Often the reference is a photograph, although it could also be another drawing.
 
@@ -103,23 +102,19 @@ of the sitter exactly _because_ they move: the portraitist "integrates over"
 their angles and expressions, while a photograph only freezes a single instant
 in time from a single perspective.
 
-But going without that that might be worth it if it means one less person is
+But going without that might be worth it, if it means one less person is
 asked to sit still for a half-hour.  Because, have you ever tried it?  It's
-actually pretty torturous.  Artist's models deserve more respect.
+actually pretty torturous.  Artists' models deserve more respect.
 
 Anyway, when drawing from a reference the trick is to avoid slavishly copying
 the reference.  This is harder than it might sound.
 
-Taking this idea to the extreme is _tracing_, where you place a piece of paper on
-top of another picture and, if the paper is thin enough, you can see the original
-picture underneath, and you make lines on top of its lines.  Having a strong
-light shining through from the bottom, say from a light table (or, in a pinch, a
-window during the daytime) can make this easier.  Or a projector can cast the
-image onto a wall, etc., etc.
-
-Some people will call this "cheating".  This, too, is a lie, because in order
-to cheat there first needs to be a rule that can be broken.  It would be more accurate
-to say that this usually results in a stilted, dead-looking drawing.
+Taking this idea to the extreme is _tracing_, where the reference is below the
+(thin) paper you are drawing on, or projected onto a surface by a projector, etc.
+Some people will call this sort of drawing from a reference "cheating".
+This, too, is a lie, because in order to cheat there first needs to be a rule
+that can be broken.  It would be more accurate to say that this usually results
+in a stilted, dead-looking drawing.
 
 But even so, that's mainly because when you make a tracing, you usually hunt for
 what you think is an outline in the picture, and make a drawn line out of it.
@@ -130,7 +125,9 @@ between things reduce well to lines.  The human nose, for example, is notorious 
 this — it's quite difficult to depict it well with only lines and no tone.
 
 *If* you realize these things and consciously try to counteract them when tracing,
-you can, if not overcome these effects, then at least mitigate them.
+you can possibly mitigate them.  But this is still very difficult, and might not
+be worth it; developing a good sense of "eyeball measuring" is not much more
+difficult, and more useful.
 
 ### Drawing from the Imagination
 
@@ -148,8 +145,8 @@ vaguely unprofessional somehow.  (I refer you again to the horrifying fact that
 
 And I mean, technically I can see what they're getting at — you can't draw a
 horse unless you've seen a horse sometime in the past, right? — but referring to
-the imagination still seems more accurate.  It's not like those prisons were
-things that Piranesi actually *remembered*.  Well — unless he dreamed them.
+the imagination still seems more accurate.  It's not like those [Imaginary Prisons][]
+are things that Piranesi actually *remembered*.  Well — unless he dreamed them.
 I don't know that he didn't.
 
 Also, I don't remember where I picked this up, but someone pointed out that if
@@ -173,8 +170,8 @@ planet in the galaxy and I've never seen one on any of them.
 The main drawback of drawing from the imagination is, of course, that it's easy to
 get basic things wrong.  By "basic things" I mean, the relative length of limbs of
 a figure, or the foreshortening, or sometimes even the number of digits on a hand,
-for goodness sake.  And even if not wrong, for something complex and subtle like the
-human figure, it's almost inevitable that the drawer will miss some of the
+for goodness sake.  And even if not outright _wrong_, for something as complex and
+subtle as the human figure, it's almost inevitable that the drawer will miss some of the
 subtleties, like the way the muscles flex when a heavy object is being held versus
 when one's hand is empty.  The result is a picture that looks "made up" somehow —
 it's usually hard to say exactly what is wrong because it is only that the visual
@@ -183,10 +180,13 @@ cues are kind of "off", they don't add up.
 For this reason, some would call drawing from the imagination, especially drawing
 the human figure this way, the ultimate test of an artist.  I don't know, but I agree
 that it certainly is difficult.  As I said, _invenzione_ — making *up* your drawing
-instead of drawing something that already exists — was big in the renaissance.
-Tiepolo's _capricci_, for instance, are arrangements of figures and scenery which
-seem essentially random; he might as well have been rolling dice to determine their
-composition.
+instead of representing something that already exists — was big in the Renaissance.
+Tiepolo's [Capricci and Scherzi di fantasia][], for instance, are arrangements of
+figures and scenery which seem essentially random; he might as well have been
+rolling dice to determine their composition.
+
+[Capricci and Scherzi di fantasia]: https://en.wikipedia.org/wiki/Giovanni_Battista_Tiepolo#Etchings
+[Imaginary Prisons]: http://artmuseum.princeton.edu/object-package/giovanni-battista-piranesi-imaginary-prisons/3640
 
 ### Discussion
 
@@ -194,15 +194,16 @@ These three methods aren't intended to be perfectly hermetic.  Drawing from a
 sculpture (a traditional part of academic art instruction, before moving on to
 a living model) could be either drawing from life or drawing from a reference,
 depending on how the drawer treats it, while drawing from one of those little
-artist's mannequins that IKEA now sells as furnishings would most likely be a
+artist's mannequins that IKEA now sells as furnishings would probably be a
 combination of drawing from a reference and drawing from the imagination.
 
 But I do think it is a very useful division.  And obviously, it applies to
 painting, too.
 
 And actually, once you know about the division, you start to notice it.
-For example, Cézanne was big on painting from the imagination, and you can
-really tell sometimes.  Similar, later in his career, Picabia made a lot of
+For example, Cézanne was big on painting from the imagination, and
+[you can really tell sometimes](http://www.paulcezanne.org/the-judgement-of-paris.jsp).
+Similarly, later in his career, Picabia made a lot of
 paintings from photographs, and you can really tell with those, too.
 Photographs are far more unforgiving about lighting than the human eye is.
 
@@ -220,7 +221,8 @@ exactly what I'm talking about here.
 
 Of course, even here there is an exception.  If _all_ the marks look very
 deliberate, and enough care is taken with them, the drawing can then look
-"worked" — almost like a painting.
+"worked" — almost like a painting.  Whether this is a good thing or a bad
+thing seems to be largely a matter of taste.
 
 Books
 -----
