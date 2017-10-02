@@ -1,7 +1,7 @@
 Some Notes on Drawing
 =====================
 
-*   status: draft
+*   status: near-final draft
 
 When I was very young, I asked my parents what you called someone who draws.  Their
 answer was "a drawer".  I was deeply upset, not to say offended, because to me, a
@@ -173,9 +173,9 @@ a figure, or the foreshortening, or sometimes even the number of digits on a han
 for goodness sake.  And even if not outright _wrong_, for something as complex and
 subtle as the human figure, it's almost inevitable that the drawer will miss some of the
 subtleties, like the way the muscles flex when a heavy object is being held versus
-when one's hand is empty.  The result is a picture that looks "made up" somehow —
+when one's hand is empty.  The result is a picture that looks "off" somehow — and
 it's usually hard to say exactly what is wrong because it is only that the visual
-cues are kind of "off", they don't add up.
+cues don't add up.
 
 For this reason, some would call drawing from the imagination, especially drawing
 the human figure this way, the ultimate test of an artist.  I don't know, but I agree
@@ -203,8 +203,8 @@ painting, too.
 And actually, once you know about the division, you start to notice it.
 For example, Cézanne was big on painting from the imagination, and
 [you can really tell sometimes](http://www.paulcezanne.org/the-judgement-of-paris.jsp).
-Similarly, later in his career, Picabia made a lot of
-paintings from photographs, and you can really tell with those, too.
+Similarly, later in his career, Picabia made a lot of paintings from photographs, and
+[you can really tell with those, too](http://www.artnet.com/galleries/michael-werner-gallery/francis-picabia-late-paintings/).
 Photographs are far more unforgiving about lighting than the human eye is.
 
 A word on technique.  A tradeoff that applies to all of these methods is that
