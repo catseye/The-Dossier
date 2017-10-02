@@ -93,7 +93,7 @@ you draw it.
 ### Drawing from a Reference
 
 ![Bob Study](http://static.catseye.tc/images/pictures/Bob%20Study%20-%20small.jpg)
-![Portrait of a Cretan](http://static.catseye.tc/images/pictures/Portrait%20of%20a%20Cretan%20-%20small.png)
+![Portrait of a Cretan](http://static.catseye.tc/images/pictures/Portrait%20of%20a%20Cretan%20-%20small.jpg)
 
 Often the reference is a photograph, although it could also be another drawing.
 
