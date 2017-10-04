@@ -32,6 +32,6 @@ Here are some of the lists of items of note in The Dossier:
     *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
     *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
 
+*   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md)
 *   Books of Note (TK)
 *   Animated Films of Note (TK)
-*   20th Century Artists of Note (TK)

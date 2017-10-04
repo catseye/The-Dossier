@@ -47,14 +47,11 @@ Articles Contained Herein
 
 *   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
 
-### Music
-
-*   [Computer Music Formats](article/Computer%20Music%20Formats.md) *(U)*
-
 ### Art
 
 *   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) *(U)*
 *   [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md) *(U)*
+*   [Computer Music Formats](article/Computer%20Music%20Formats.md) *(U)*
 
 External Articles
 -----------------
