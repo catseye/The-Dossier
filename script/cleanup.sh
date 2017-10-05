@@ -37,4 +37,5 @@ feedmark --input-refdex=refdex.json \
          --check-against-schema=schema/Video\ game.md \
          "$ARTICLES/Some Modern Retrogames.md" \
          "$ARTICLES/Apple II Games of Note.md" \
+         "$ARTICLES/Atari 2600 Games of Note.md" \
          --rewrite-markdown || exit 1

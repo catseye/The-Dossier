@@ -97,3 +97,9 @@ Gives the link for a review.
 *    multiple: true
 
 Multiple may occur.
+
+### tweet
+
+*    optional: true
+
+May be tweeted.

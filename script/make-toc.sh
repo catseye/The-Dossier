@@ -24,6 +24,7 @@ feedmark --output-toc --include-section-count \
     "$ARTICLES/Video Games of Note.md" \
     "$ARTICLES/Commodore 64 Games of Note.md" \
     "$ARTICLES/Apple II Games of Note.md" \
+    "$ARTICLES/Atari 2600 Games of Note.md" \
     "$ARTICLES/Role-Playing Games of Note.md" \
     "$ARTICLES/Text Adventures of Note.md" \
     | sed -e 's/^/    /'
