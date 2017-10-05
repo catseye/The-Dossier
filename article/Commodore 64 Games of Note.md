@@ -1,8 +1,8 @@
 Commodore 64 Games of Note
 ==========================
 
-*   status: permanently under construction
 *   common available for: Commodore 64
+*   status: permanently under construction
 
 This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Commodore 64.
@@ -13,7 +13,10 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 
 *   written by: Rod Bowkett
 *   published by: Mirrorsoft
-*   release date: 1985
+*   genre: Platformer, Graphic Adventure
+*   available for: Commodore 64
+*   controls: joystick and 1 button
+*   date released: 1985
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=802)
 
@@ -28,7 +31,10 @@ multicolour.  The music is also good.  The game itself is quite hard.
 
 *   written by: David Barbour
 *   published by: Mastertronic
-*   release date: 1986
+*   genre: Racing
+*   available for: Commodore 64
+*   controls: joystick and 1 button
+*   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2505)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
 
@@ -50,13 +56,15 @@ speed.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/pharaohs_curse_05.gif)
 
-*   available for: Commodore 64, VIC 20, Atari 8-bit
 *   written by: Steve Coleman
 *   published by: Synapse Software
-*   release date: 1983
+*   genre: Graphic Adventure(?)
+*   available for: Commodore 64, VIC 20, Atari 8-bit
+*   controls: joystick and 1 button
+*   date released: 1983
+*   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
-*   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 *   tweet: https://twitter.com/catseye_tc/status/913761495464456193
 
 It's difficult to say what contributes to this game's overall charm.
@@ -72,9 +80,12 @@ Also: the bird!
 
 ![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
 
+*   written by: Unknown
+*   genre: Graphic Adventure(?)
+*   available for: Commodore 64
+*   controls: joystick and 1 button
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
-*   controls: joystick
 
 Once I got used to the "tight handling" of the protagonist with the joystick,
 I liked this game a lot.  The premise is cute.  Each level introduces new
@@ -85,9 +96,12 @@ known mechanisms.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
 
+*   written by: Unknown
+*   genre: Action
 *   available for: Commodore 64, Atari 800
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   controls: joystick and 1 button
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 *   tweet: https://twitter.com/catseye_tc/status/832528510430363648
 
 It's a good example of a game which combines fast-pacing with variety
@@ -98,9 +112,12 @@ explains it better than I can.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/w/whistlers_brother_02.gif)
 
+*   written by: Unknown
+*   genre: Platformer(?)
+*   available for: Commodore 64
+*   controls: joystick and 1 button
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
-*   tweet: yes, but I cannot find it
 
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but also a second character indirectly, by influencing
@@ -114,6 +131,10 @@ it was that the graphics felt kind of uninspired.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
 
+*   written by: Unknown
+*   genre: Maze-runner
+*   available for: Commodore 64
+*   controls: joystick and 1 button
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 
@@ -129,14 +150,18 @@ point.  You don't seem to be able to get into a dead-end this way, which is
 probably good (much less frustrating than games in which you can,) but you
 do seem to be able to go in circles quite easily.
 
-[Cloak & Dagger]: Recollected%20Games.html#Cloak_&amp;_Dagger
+[Cloak & Dagger]: Recollected%20Games.md#cloak-%26-dagger
 
 ### Slinky
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
 
+*   written by: Unknown
 *   published by: Cosmi
-*   release date: 1984
+*   genre: Q*Bert
+*   available for: Commodore 64
+*   controls: joystick and 1 button
+*   date released: 1984
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2351)
 
 This one's pretty memorably weird, and deserves comment.
