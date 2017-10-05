@@ -70,7 +70,7 @@ That's all.  Once you've seen that, you can stop.
 
 ### Creature Venture
 
-*   written by: Unknown
+*   written by: Highlands Computer Services
 *   published by: Highlands Computer Services
 *   available for: Apple II
 *   with graphics: yes
@@ -87,8 +87,8 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 
 ### Time and Magik (Trilogy)
 
-*   written by: Unknown
-*   published by: Level 9, Mandarin
+*   written by: Sue Gazzard, others, Level 9
+*   published by: Mandarin
 *   available for: Amiga, MS-DOS
 *   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
@@ -127,7 +127,7 @@ your sanity (at least according to a stat.)
 
 ### Winter Wonderland
 
-*   written by: Unknown
+*   written by: Tim Walsha, Simon Lipscomb
 *   published by: Incentive Software
 *   available for: Commodore 64, ZX Spectrum
 *   written using: Graphic Adventure Creator
