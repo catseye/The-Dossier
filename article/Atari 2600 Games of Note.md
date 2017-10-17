@@ -15,6 +15,7 @@ which is dedicated to games for that 6502-based home system, the Atari 2600 VCS.
 *   genre: Graphic Adventure
 *   available for: Atari 2600
 *   controls: joystick and 1 button
+*   date released: 1981
 *   wikipedia: [Haunted House (video game)](https://en.wikipedia.org/wiki/Haunted_House_(video_game))
 
 Good use of invisibility.
@@ -27,9 +28,13 @@ Good use of invisibility.
 *   genre: Graphic Adventure
 *   available for: Atari 2600
 *   controls: joystick and 1 button
+*   date released: 1980
 *   wikipedia: [Adventure (Atari 2600)](https://en.wikipedia.org/wiki/Adventure_(Atari_2600))
 
-Was an attempt to "graphicalize" a text adventure.
+Notable for at least two things: one, it was an attempt to "graphicalize" a text adventure;
+that is, the author wanted to translate Colossal Cave to a graphical interface.  And two,
+apparently it is the first game containing an Easter Egg (or at least, the first to popularize
+this notion.)
 
 ### Yars' Revenge
 
@@ -40,6 +45,7 @@ Was an attempt to "graphicalize" a text adventure.
 *   available for: Atari 2600
 *   controls: joystick and 1 button
 *   wikipedia: [Yars' Revenge](https://en.wikipedia.org/wiki/Yars%27_Revenge)
+*   date released: 1982
 *   tweet: https://twitter.com/catseye_tc/status/832322286527057925
 
 Balanced gameplay.

@@ -23,6 +23,8 @@ These are presented in roughly the order I encountered them in.
 
 ### African Adventure: In Search of Dr. Livingston
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/a/african_adventure_01.gif)
+
 *   written by: R. Fullerton, B. Fullerton, C. Russell, K. Russell
 *   available for: Commodore PET, Commodore 64, PC-DOS
 *   date released: 1980
@@ -53,6 +55,8 @@ It's reminiscent of Scott Adams' adventures a bit.
 
 ### Cranston Manor
 
+![screenshot](https://ia902504.us.archive.org/22/items/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag/screenshot_03.jpg)
+
 *   written by: Ken Williams, Harold DeWitz
 *   published by: On-Line Systems
 *   available for: Apple II
@@ -69,6 +73,8 @@ found the time to go back to it.
 That's all.  Once you've seen that, you can stop.
 
 ### Creature Venture
+
+![screenshot](http://gue.cgwmuseum.org/galleries/screenshots/thumbs/creature_venture2s.gif)
 
 *   written by: Highlands Computer Services
 *   published by: Highlands Computer Services
@@ -87,11 +93,14 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 
 ### Time and Magik (Trilogy)
 
+![screenshot](http://www.mobygames.com/images/shots/l/242826-time-and-magik-the-trilogy-dos-screenshot-price-of-magik-corridor.png)
+
 *   written by: Sue Gazzard, others, Level 9
 *   published by: Mandarin
 *   available for: Amiga, MS-DOS
 *   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
+*   entry @ [mobygames](http://www.mobygames.com/game/dos/time-and-magik-the-trilogy)    
 *   play online @ [archive.org](https://archive.org/details/msdos_Time_and_Magik_Trilogy_1983)
 
 I first encountered this on the Amiga 500.
@@ -127,6 +136,8 @@ your sanity (at least according to a stat.)
 
 ### Winter Wonderland
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/w/winter_wonderland_01.gif)
+
 *   written by: Tim Walsha, Simon Lipscomb
 *   published by: Incentive Software
 *   available for: Commodore 64, ZX Spectrum
@@ -135,7 +146,7 @@ your sanity (at least according to a stat.)
 *   personally finished: yes
 *   entry @ [mobygames](http://www.mobygames.com/game/winter-wonderland)
 *   entry @ [gamebase64](http://www.gb64.com/game.php?id=8624&d=18)
-*   entry @ [lemon64](http://www.lemon64.com/?game_id=4076)
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=2866)
 *   play online @ [archive.org](https://archive.org/details/zx_Winter_Wonderland_1986_Incentive_Software_a)
 
 This was apparently a demo for The Graphic Adventure Creator,
@@ -153,6 +164,8 @@ of the game over the radio at the very beginning is kind of eerie.  Also,
 there's a WOMPA! in it.  Yes, with exclamation point.
 
 ### The Secret of St. Bride's
+
+![screenshot](http://www.worldofspectrum.org/pub/sinclair/screens/in-game/s/SecretOfSt.BridesThe.gif)
 
 *   written by: Priscilla Langridge
 *   published by: St. Bride's School
