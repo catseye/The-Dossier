@@ -6,6 +6,8 @@ those computers and consoles were current.
 
 ### Racked Off
 
+![screenshot](http://tnd64.unikat.sk/games/racked_off_game.png)
+
 *   written by: Richard Bayliss
 *   genre: Collect-the-Dots
 *   available for: Commodore 64
@@ -16,6 +18,8 @@ A very fun game, and notable that there is (as far as I can tell) no
 random element — the baddies' movements are completely determined by your own.
 
 ### Joe Gunn
+
+![screenshot](http://www.mobygames.com/images/shots/l/442005-joe-gunn-commodore-64-screenshot-this-is-where-we-start-out.png)
 
 *   written by: Georg Rottensteiner, Paul Pridham, Howard Kistler, Thomas Egeskov Petersen
 *   genre: Platformer
@@ -30,6 +34,8 @@ A good game which I remember liking, but not having a chance to play much.
 
 ### Fairy Well
 
+![screenshot](http://csdb.dk/gfx/releases/103000/103151.png)
+
 *   written by: Mix256, TDM of Triad
 *   genre: Graphic Adventure?
 *   available for: Commodore 64
@@ -40,6 +46,8 @@ A good game which I remember liking, but not having a chance to play much.
 A good game which I remember liking enough to play through to the end.
 
 ### Fall Down
+
+![screenshot](http://atariage.com/2600/screenshots/s_FallDown_SP_3.png)
 
 *   written by: Aaron Curtis
 *   genre: Platformer?

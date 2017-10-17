@@ -8,7 +8,7 @@ over them again today, induce varying levels of facepalminess and
 cringeyness.)
 
 They used to be strewn about my website.  I decided to collect them
-in one place.
+in one place.  So, without further ado,
 
 ### C++
 
@@ -109,7 +109,7 @@ which are specified reasonably formally.  It's purely functional
 closer to being like mathematics than other languages.
 Additionally, Haskell programs are lazily evaluated (expressions
 are only evaluated if they are needed), so, basically, Haskell is
-denotational semantics.  Except it's also a program, so you can
+[denotational semantics][].  Except it's also a program, so you can
 run it.  It's executable denotational semantics.
 
 Pretty sweet, right?  Well... yes, except for the small fact that
@@ -139,6 +139,8 @@ maintaining such a beast, so I wouldn't recommend it for most
 Maybe functional reactive programming, or other techniques, will
 change this.  Or maybe Haskell will simply continue to be the academic
 playground for type theory research.  Or maybe both.
+
+[denotational semantics]: https://en.wikipedia.org/wiki/Denotational_semantics
 
 ### Java
 
