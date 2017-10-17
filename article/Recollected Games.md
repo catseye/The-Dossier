@@ -45,13 +45,6 @@ Very likely a C64 classic.
 *   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 
-### Hovver Bovver
-
-*   written by: Jeff Minter
-*   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
-
-Didn't realize "bovver" was "bother" until I was older.
-
 ### Spindizzy
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
@@ -112,6 +105,13 @@ kit, really.
 
 ### Cauldron II
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/c/cauldron_ii_04.gif)
+
+*   available for: Commodore 64
+*   published by: Palace Software
+*   date released: 1986
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
+
 The graphics are really good.
 
 Commodore 64 type-ins
@@ -119,7 +119,12 @@ Commodore 64 type-ins
 
 ### Crossroads
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/c/crossroads_01.gif)
+
 *   available for: Commodore 64
+*   published by: COMPUTE! Publications Inc.
+*   date released: 1987
+*   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
 
 One of the best type-in games.
 
@@ -133,6 +138,16 @@ a bit.
 ### Sam & Ed Basketball
 
 *   available for: Commodore 64
+
+Other
+-----
+
+### Hovver Bovver
+
+*   written by: Jeff Minter
+*   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
+
+Didn't realize "bovver" was "bother" until I was older.
 
 Arcade
 ------
