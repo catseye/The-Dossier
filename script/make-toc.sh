@@ -10,7 +10,7 @@ feedmark --output-toc \
     "$ARTICLES/The Aesthetics of Esolangs.md"
 feedmark --output-toc --include-section-count \
     "$ARTICLES/An Esolang Reading List.md" \
-    "$ARTICLES/Production Programming Languages.md"
+    "$ARTICLES/Some Production Programming Languages.md"
 echo ""
 echo "### Games"
 echo ""
