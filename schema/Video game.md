@@ -21,7 +21,7 @@ under the auspices of
 
 *    optional: true
 
-The entity which published the text adventure.
+The entity which published the video game.
 
 ### genre
 
@@ -29,7 +29,7 @@ Genre.
 
 ### available for
 
-The platform or platforms that the text adventure is or was available for.
+The platform or platforms that the video game is or was available for.
 
 ### controls
 
