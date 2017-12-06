@@ -9,18 +9,18 @@ thing — in fact, sometimes it is quite the opposite case.  It's more that it i
 that has stuck in my mind for one reason or another, and I would hate for them to be
 forgotten.  Thus I feel I should not leave them go unmentioned.
 
-Whether this should include classics — i.e., things that are unlikely to ever be forgotten
-anyway — is a matter of some debate.  But the fact is that I still have something to say
-about them sometimes, or notable memories of them in some way or another.  There is also
-the not-inconsiderable question about when something is a classic or not, as even classics
-in a limited domain might not be very well-known outside that domain.
+Whether this should include _classics_ — i.e., things that are unlikely to ever be forgotten
+anyway — is a matter of some debate.  But the fact is that sometimes I still have something
+to say about these, or notable memories of these in some way or another.  There is also the
+not-inconsiderable question of when something even *is* a classic or not, as a thing which
+is a classic in its own domain still might not be very well-known outside that domain.
 
 So, classics often do end up being included in lists of items "of note", but they tend to
 rank lower than items that I think not as many people have heard of, and that I would like
 more people to be exposed to.
 
-Lists of items of note also tend to be "living documents" rather than having a fixed
-published-on date.
+Lists of items of note also tend to be "permanently under construction" rather than having
+a fixed date of publication.
 
 Here are some of the lists of items of note in The Dossier:
 
