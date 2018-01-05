@@ -25,6 +25,7 @@ These are presented in roughly the order I encountered them in.
 *   written by: Marc Blank & Dave Lebling
 *   published by: Infocom
 *   available for: Z-Machine
+*   date released: 1980
 *   treasure-oriented: yes
 *   wikipedia: [Zork](https://en.wikipedia.org/wiki/Zork)
 
@@ -42,6 +43,7 @@ For the whole story, see [Dungeon][].
 *   written by: Marc Blank & Dave Lebling
 *   published by: Infocom
 *   available for: Z-Machine
+*   date released: 1983
 *   personally finished: yes
 *   wikipedia: [Enchanter](https://en.wikipedia.org/wiki/Enchanter_(video_game))
 *   play online @ archive.org: [Enchanter](https://archive.org/details/a2_Enchanter_1983_Infocom)
@@ -59,6 +61,7 @@ off very differently from the other two.
 *   written by: Douglas Adams
 *   published by: Infocom
 *   available for: Z-Machine
+*   date released: 1984
 *   personally finished: yes
 *   wikipedia: [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(video_game))
 *   play online @ bbc: [The Hitchhiker's Guide to the Galaxy Game - 30th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/)
@@ -80,7 +83,8 @@ text adventure as well.
 
 *   written by: Marc Blank & Dave Lebling
 *   under the auspices of: MIT
-*   available for: Mainframe
+*   available for: PDP-10
+*   date released: 1977
 *   written using: MDL
 *   treasure-oriented: yes
 *   wikipedia: [Zork](https://en.wikipedia.org/wiki/Zork)
@@ -116,7 +120,8 @@ Spellbreaker too.
 ### Colossal Cave
 
 *   written by: Crowther & Woods
-*   available for: Mainframe
+*   available for: PDP-10
+*   date released: 1976
 *   treasure-oriented: yes
 *   wikipedia: [Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure)
 

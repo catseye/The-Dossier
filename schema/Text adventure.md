@@ -29,7 +29,7 @@ The platform or platforms that the text adventure is or was available for.
 
 ### date released
 
-*    optional: true
+Date that the text adventure was first released.
 
 ### written using
 

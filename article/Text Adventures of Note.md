@@ -60,6 +60,7 @@ It's reminiscent of Scott Adams' adventures a bit.
 *   written by: Ken Williams, Harold DeWitz
 *   published by: On-Line Systems
 *   available for: Apple II
+*   date released: 1981
 *   with graphics: yes
 *   treasure-oriented: yes
 *   wikipedia: [Cranston Manor](https://en.wikipedia.org/wiki/Cranston_Manor)
@@ -79,6 +80,7 @@ That's all.  Once you've seen that, you can stop.
 *   written by: Highlands Computer Services
 *   published by: Highlands Computer Services
 *   available for: Apple II
+*   date released: 1981
 *   with graphics: yes
 *   treasure-oriented: yes
 *   entry @ [gue](http://gue.cgwmuseum.org/galleries/index.php?pub=5&item=25&id=2&key=0)
@@ -98,6 +100,7 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 *   written by: Sue Gazzard, others, Level 9
 *   published by: Mandarin
 *   available for: Amiga, MS-DOS
+*   date released: 1988
 *   with graphics: yes
 *   wikipedia: [Time and Magik](https://en.wikipedia.org/wiki/Time_and_Magik)
 *   entry @ [mobygames](http://www.mobygames.com/game/dos/time-and-magik-the-trilogy)
@@ -141,6 +144,7 @@ your sanity (at least according to a stat.)
 *   written by: Tim Walsha, Simon Lipscomb
 *   published by: Incentive Software
 *   available for: Commodore 64, ZX Spectrum
+*   date released: 1986
 *   written using: Graphic Adventure Creator
 *   with graphics: yes
 *   personally finished: yes
