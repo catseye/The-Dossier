@@ -57,6 +57,7 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 *   published by: Exidy
 *   genre: Maze-Runner
 *   available for: Arcade
+*   date published: 1982
 *   controls: joystick
 
 To the untrained eye, it's a ripoff of Pac-Man: fill in all the regions
@@ -73,6 +74,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 *   published by: Jaleco
 *   genre: Platformer (nominally)
 *   available for: Arcade
+*   date published: 1985
 *   controls: joystick and 1 button
 
 A jumping minivan? Yes, a jumping minivan. And European paddywagons. And a
@@ -130,6 +132,7 @@ when they get in your way, and in fact you have to in some places.
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
+*   date released: 1990
 *   controls: joystick and 2 buttons
 
 Very cute. Quite possibly a sequel or pseudo-sequel to The New Zealand Story,
