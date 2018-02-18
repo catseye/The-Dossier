@@ -65,7 +65,6 @@ speed.
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
-*   tweet: https://twitter.com/catseye_tc/status/913761495464456193
 
 It's difficult to say what contributes to this game's overall charm.
 
@@ -102,7 +101,6 @@ known mechanisms.
 *   controls: joystick and 1 button
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
-*   tweet: https://twitter.com/catseye_tc/status/832528510430363648
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
