@@ -47,6 +47,8 @@ Greek alphabet soup anyway isn't it.
 
 ### Mazes and Monsters
 
+![montage](https://archive.org/download/mazes_and_monsters/mazes_and_monsters.gif)
+
 *   online @ [youtube](https://www.youtube.com/watch?v=awTKqydci_c>)
 *   online @ [archive.org](https://archive.org/details/mazes_and_monsters)
 
