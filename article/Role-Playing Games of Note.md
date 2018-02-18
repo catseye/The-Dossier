@@ -15,12 +15,15 @@ That said, here is my list of role-playing games
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/a/alphaman-315/alphaman_1.gif)
 
+*   written by: Jeff Olson
 *   genre: Roguelike
 *   available for: MS-DOS
 *   date released: 1995
+*   license: Shareware
 *   controls: keyboard
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
+*   download @ [myabandonware](https://www.myabandonware.com/download/312-alphaman)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
