@@ -46,6 +46,5 @@ this notion.)
 *   controls: joystick and 1 button
 *   date released: 1982
 *   wikipedia: [Yars' Revenge](https://en.wikipedia.org/wiki/Yars%27_Revenge)
-*   tweet: https://twitter.com/catseye_tc/status/832322286527057925
 
 Balanced gameplay.
