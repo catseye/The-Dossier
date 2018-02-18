@@ -56,8 +56,13 @@ young Tom Hanks.
 
 ### The Spawn of Fashan
 
-*   review @ [archive.org](https://web.archive.org/web/20141220064347/http://www.rpg.net:80/reviews/archive/classic/rev_6157.phtml)
-*   tweet: https://twitter.com/catseye_tc/status/894470565939073024
+![cover](https://www.rpg.net/pictures/cache/picthumb28836-medium.jpg)
+
+*   written by: Kirby Lee Davis
+*   published by: The Games of Fashan
+*   date released: 1981
+*   wikipedia: [The Spawn of Fashan](https://en.wikipedia.org/wiki/The_Spawn_of_Fashan)
+*   review @ [rpg.net](https://www.rpg.net/reviews/archive/classic/rev_6157.phtml)
 
 Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
 review linked above is well worth the read.  I only wish I could say I have seen
