@@ -33,8 +33,8 @@ been offloaded to articles dedicated to the particular system:
 *   published by: Brøderbund
 *   genre: Shoot-'em'-Up (nominally)
 *   available for: Amiga 500, Atari ST
-*   controls: mouse
-*   tweet: https://twitter.com/catseye_tc/status/832346170508845057
+*   date released: 1988
+*   controls: mouse and keyboard
 
 Quite possibly the cutest game ever.
 
@@ -87,6 +87,7 @@ Not sure if it's truly a platformer, though.
 
 *   genre: Shoot-'em'-Up
 *   available for: Arcade
+*   date released: 1982
 *   controls: dual joystick
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8456)
 
@@ -103,11 +104,14 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 
 ### Looping
 
-![screenshot](http://www.consoleclassix.com/info_img/Looping_COL_ScreenShot3.gif)
+![screenshot](https://www.arcade-museum.com/images/118/11812421277.png)
 
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8452)
 *   entry @ [mobygames](http://www.mobygames.com/game/looping)
 *   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
+*   publisher: Venture Line
 *   available for: Arcade, Colecovision
+*   date released: 1982
 *   controls: joystick
 *   genre: Maze-runner
 
@@ -116,9 +120,6 @@ and then through a field of obstacles — inside a maze, essentially.
 This is made more complicated by the fact that you can only change
 direction in an arc.  You can also shoot out some bits of the world
 when they get in your way, and in fact you have to in some places.
-
-Note, the screenshot above is from the Colecovision version, which I have
-never actually played.  I've only played the arcade coin-op version.
 
 ### Liquid Kids
 
