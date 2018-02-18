@@ -165,7 +165,9 @@ players are literally giants.
 ### Congo Bongo
 
 *   wikipedia: https://en.wikipedia.org/wiki/Congo_Bongo
-*   tweet: https://twitter.com/catseye_tc/status/861323930073788416
+*   published by: Sega
+*   available for: Arcade
+*   date released: 1983
 
 Here is what is notable about Congo Bongo: the arcade game uses
 [isometric projection][], but the C64 conversion and other
