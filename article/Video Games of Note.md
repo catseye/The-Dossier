@@ -57,7 +57,7 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 *   published by: Exidy
 *   genre: Maze-Runner
 *   available for: Arcade
-*   date published: 1982
+*   date released: 1982
 *   controls: joystick
 
 To the untrained eye, it's a ripoff of Pac-Man: fill in all the regions
@@ -74,7 +74,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 *   published by: Jaleco
 *   genre: Platformer (nominally)
 *   available for: Arcade
-*   date published: 1985
+*   date released: 1985
 *   controls: joystick and 1 button
 
 A jumping minivan? Yes, a jumping minivan. And European paddywagons. And a
@@ -111,7 +111,7 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8452)
 *   entry @ [mobygames](http://www.mobygames.com/game/looping)
 *   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
-*   publisher: Venture Line
+*   published by: Venture Line
 *   available for: Arcade, Colecovision
 *   date released: 1982
 *   controls: joystick
