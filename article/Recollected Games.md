@@ -65,6 +65,8 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 
 *   written by: Tim Gerchmez
 *   available for: Commodore 64
+*   license: Freely Redistributable
+*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
 
 Notable for the fact that it was a flight simulator with no graphics.
 Well, only the control panel.  Given that you were supposed to be

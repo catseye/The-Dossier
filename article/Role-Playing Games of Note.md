@@ -23,7 +23,7 @@ That said, here is my list of role-playing games
 *   controls: keyboard
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
-*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/msdos/alphaman.zip)
+*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/msdos/Alphaman.zip)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
