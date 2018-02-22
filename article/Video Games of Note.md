@@ -26,7 +26,7 @@ been offloaded to articles dedicated to the particular system:
 
 ### Typhoon Thompson
 
-![screenshot](https://pbs.twimg.com/media/C40WJmJWIAA-QBK.jpg)
+![screenshot](http://www.atarimagazines.com/st-log/issue29/35-3.jpg)
 
 *   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 *   written by: Dan Gorlin
