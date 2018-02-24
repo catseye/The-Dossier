@@ -73,23 +73,6 @@ Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
 review linked above is well worth the read.  I only wish I could say I have seen
 it first-hand, but alas I have not.
 
-### Rock Star Ate My Hamster
-
-![screenshot](http://tacgr.emuunlim.com/downloads/gamescr/r/rockstaratemyhamster2.png)
-
-*   published by: Codemasters
-*   date released: 1988
-*   wikipedia: [Rock Star Ate My Hamster](https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster)
-*   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
-*   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
-*   play online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
-*   review @ [emuunlim](http://tacgr.emuunlim.com/downloads/filedetail.php?recid=755)
-
-OK, so it's a management simulation game, not a role-playing game — but could
-you not argue that you're playing the *role* of a record label manager?
-
-Anyway, this is great game.
-
 ### Below the Root
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
