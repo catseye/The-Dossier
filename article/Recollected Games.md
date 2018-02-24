@@ -318,6 +318,9 @@ TODO: research
 
 ### Where in Hell is Carmen Santiago
 
+https://witches.town/@BadWrongFun/99137055385980762
+https://archive.org/details/a2_where_in_hell_is_carmen_santiago
+
 TODO: research
 
 Console
