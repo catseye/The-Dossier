@@ -226,6 +226,24 @@ I remember it from a café in a small farming community in Manitoba.
 
 I remember it from a café in a small farming community in Manitoba.
 
+#### To Research
+
+* Bubble Sink thing game
+* Spider eat grubsteak game
+
+Arcade - Less obscure, possibly classic, games
+----------------------------------------------
+
+### Burgertime
+
+### Reactor
+
+
+### Scramble
+
+*   published by: Konami
+*   date released: 1981
+
 ### Cloak & Dagger
 
 *   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
@@ -293,6 +311,14 @@ was "Warwickshire"?), but I don't remember if I ever successfully jumped to it..
 *   published by: Bullfrog
 
 ### Pinball Fantasies (?)
+
+### 1D Tetris
+
+TODO: research
+
+### Where in Hell is Carmen Santiago
+
+TODO: research
 
 Console
 -------
