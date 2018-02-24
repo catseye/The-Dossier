@@ -27,5 +27,12 @@ TODO: research
 
 ### Where in Hell is Carmen Santiago
 
+![screenshot](https://ia801209.us.archive.org/18/items/a2_where_in_hell_is_carmen_santiago/screenshot_20_thumb.jpg)
+
+*   written by: St. John M. Morrison
+*   date released: 1990
+*   available for: Apple iiGS
 *   play online @ [archive.org](https://archive.org/details/a2_where_in_hell_is_carmen_santiago)
 *   hat tip: [@BadWrongFun@witches.town](https://witches.town/@BadWrongFun/99137055385980762)
+
+Use your knowledge of Dante's Inferno to locate Carmen Santiago.
