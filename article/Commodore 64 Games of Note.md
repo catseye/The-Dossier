@@ -95,7 +95,8 @@ known mechanisms.
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
 
-*   written by: Unknown
+*   written by: Bill Williams
+*   published by: Synapse Software
 *   genre: Action
 *   available for: Commodore 64, Atari 800
 *   controls: joystick and 1 button
