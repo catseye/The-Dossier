@@ -101,6 +101,7 @@ on page 148, and tell me that the Commodore 64 isn't an esoteric architecture.
 *   release-date: Sep 1984
 *   ISBN: 0-8306183-6-8
 *   publisher: TAB
+*   online @ [archive.org](https://archive.org/details/1001_Things_to_do_with_your_Commodore_64_1984_TAB_Books)
 
 Basically a font of mathematical/engineering/physical trivia and
 random ideas for what could be done with a computer.  Although, I'm pretty
