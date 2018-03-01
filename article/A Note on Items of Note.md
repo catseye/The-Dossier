@@ -26,12 +26,14 @@ Here are some of the lists of items of note in The Dossier:
 
 *   Games of Note:
     
-    *   [Video Games of Note](article/Video%20Games%20of%20Note.md)
-    *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md)
-    *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md)
-    *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md)
-    *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md)
+    *   [Video Games of Note](Video%20Games%20of%20Note.md)
+    *   [Computer Games of Note](Computer%20Games%20of%20Note.md)
+    *   [Commodore 64 Games of Note](Commodore%2064%20Games%20of%20Note.md)
+    *   [Apple II Games of Note](Apple%20II%20Games%20of%20Note.md)
+    *   [Atari 2600 Games of Note](Atari%202600%20Games%20of%20Note.md)
+    *   [Role-Playing Games of Note](Role-Playing%20Games%20of%20Note.md)
+    *   [Text Adventures of Note](Text%20Adventures%20of%20Note.md)
 
-*   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md)
+*   [20th-Century Visual Artists of Note](20th-Century%20Visual%20Artists%20of%20Note.md)
 *   Books of Note (TK)
 *   Animated Films of Note (TK)
