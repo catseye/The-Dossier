@@ -113,8 +113,14 @@ Even though those are otherwise unrelated.
 
 ### Wonder Boy in Monster Land
 
+![screenshot](https://upload.wikimedia.org/wikipedia/en/5/5e/Wonder_Boy_in_Monsterland.png)
+
+*   written by: Ryuichi Nishizawa
+*   published by: Sega
 *   available for: Arcade
+*   date released: 1987
 *   controls: joystick and 2 buttons
+*   wikipedia: [Wonder Boy in Monster Land](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_Land)
 
 Sequel to Wonder Boy.  It's an arcade game, nominally an action game, but it
 plays far more like an RPG.  The game it's most like that most readers will
