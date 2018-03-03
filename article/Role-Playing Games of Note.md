@@ -73,6 +73,19 @@ Solid contender for the title of "Most incoherent pen-and-paper RPG ever".  The
 review linked above is well worth the read.  I only wish I could say I have seen
 it first-hand, but alas I have not.
 
+### The Prisoner
+
+![screenshot](https://www.filfre.net/wp-content/uploads/2011/11/Prisoner-The-_000000007.png)
+
+*   written by: David Mullich
+*   published by: Edu-Ware
+*   available for: Apple II
+*   date released: 1980
+*   wikipedia: [The Prisoner (video game)](https://en.wikipedia.org/wiki/The_Prisoner_(video_game))
+*   entry @ [mobygames](https://www.mobygames.com/game/prisoner)
+
+Based on the television show of the same name, yet diverging significantly from it.
+
 ### Below the Root
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
