@@ -254,11 +254,18 @@ Arcade - Less obscure, possibly classic, games
 
 ### Reactor
 
-
 ### Scramble
+
+![screenshot](https://upload.wikimedia.org/wikipedia/en/b/bc/Scramble.gif)
 
 *   published by: Konami
 *   date released: 1981
+*   wikipedia: [Scramble (video game)](https://en.wikipedia.org/wiki/Scramble_(video_game))
+*   entry @ [arcade-museum.com](https://www.arcade-museum.com/game_detail.php?game_id=9447)
+
+in which bombing the enemy's fuel tanks somehow results in you having *more* fuel.
+This game mechanic would certainly be ridiculed as a "lack of realism" if this game
+were written today. But the fact is that it keeps the game moving.
 
 ### Cloak & Dagger
 
