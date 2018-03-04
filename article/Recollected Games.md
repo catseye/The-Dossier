@@ -256,7 +256,7 @@ Arcade - Less obscure, possibly classic, games
 
 ### Scramble
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/b/bc/Scramble.gif)
+![screenshot](https://www.arcade-museum.com/images/118/1181242158130.png)
 
 *   published by: Konami
 *   date released: 1981
@@ -265,7 +265,8 @@ Arcade - Less obscure, possibly classic, games
 
 in which bombing the enemy's fuel tanks somehow results in you having *more* fuel.
 This game mechanic would certainly be ridiculed as a "lack of realism" if this game
-were written today. But the fact is that it keeps the game moving.
+were written today. But the fact is, suspension of disbelief is suspension of disbelief,
+and it keeps the game moving.
 
 ### Cloak & Dagger
 
