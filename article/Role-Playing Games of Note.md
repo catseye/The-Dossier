@@ -155,6 +155,7 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/s/sword-of-fargoal-65p/thumbs/sword-of-fargoal_2.png)
 
+*   written by: Jeff McCord
 *   genre: Roguelike
 *   available for: Commodore VIC-20, Commodore 64
 *   published by: Epyx
@@ -162,6 +163,7 @@ trigger all the objects when the player walks over it, or bumps into it.
 *   controls: joystick and keyboard
 *   wikipedia: [Sword of Fargoal](https://en.wikipedia.org/wiki/Sword_of_Fargoal)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/sword-of-fargoal-5df)
+*   entry @ [mobygames](https://www.mobygames.com/game/sword-of-fargoal)
 
 An early roguelike for the VIC-20 and C64 which I keep confusing with the Temple of
 Apshai trilogy, which it isn't.  I believe it was written in BASIC.
