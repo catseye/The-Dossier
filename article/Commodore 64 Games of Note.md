@@ -102,6 +102,7 @@ known mechanisms.
 *   controls: joystick and 1 button
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   entry @ [myabandonware](https://www.myabandonware.com/game/necromancer-5l2)
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
