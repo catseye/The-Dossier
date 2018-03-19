@@ -63,6 +63,8 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 
 ### Night Flight, an I.F.R. Simulator
 
+![screenshot](http://static.catseye.tc/redistfiles/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
+
 *   written by: Tim Gerchmez
 *   date released: 1986
 *   available for: Commodore 64
