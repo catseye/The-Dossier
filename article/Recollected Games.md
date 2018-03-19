@@ -21,7 +21,7 @@ on (or were a conversion from) other systems.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/starquake_02.gif)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Starquake_(video_game)
+*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
 *   published by: Bubble Bus Software
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
@@ -33,7 +33,7 @@ The graphics are really good.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/p/paradroid_02.gif)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Paradroid
+*   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
 
 Very likely a C64 classic.
@@ -42,14 +42,14 @@ Very likely a C64 classic.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/castles_of_dr_creep_03.gif)
 
-*   wikipedia: https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep
+*   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 
 ### Spindizzy
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Spindizzy_(video_game)
+*   wikipedia: [Spindizzy (video game)](https://en.wikipedia.org/wiki/Spindizzy_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
 
 ### Zig Zag
@@ -64,6 +64,7 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 ### Night Flight, an I.F.R. Simulator
 
 *   written by: Tim Gerchmez
+*   date released: 1986
 *   available for: Commodore 64
 *   license: Freely Redistributable
 *   download @ [catseye.tc](http://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
@@ -75,7 +76,7 @@ flying at night over a lightless plain, that's essentially reasonable.
 In fact IFR simulators were "a thing" and there are more than one for
 the Commodore 64, but this one is for the C64 only and is freeware.
 
-Here is an article about a different IFR simulator: [IFR (Flight Simiulator)](http://www.wanttaja.com/ifr.html).
+Here is an article about a different IFR simulator: [IFR (Flight Simulator)](http://www.wanttaja.com/ifr.html).
 
 TODO: I should write about IFR simulators here a bit.
 
@@ -92,6 +93,10 @@ TODO: I should write about IFR simulators here a bit.
 
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
+
+If there was an award for Best Representation of a British High Street in an 8-bit Video Game,
+this would be a contender.  It's worth noting that "being a wally" is British slang for
+"being a fool" (approximately speaking).
 
 ### Ultimate Wizard
 
