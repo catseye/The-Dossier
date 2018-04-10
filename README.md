@@ -48,7 +48,6 @@ Articles Contained Herein
 
 *   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) *(U)*
 *   [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md) *(U)*
-*   [Computer Music Formats](article/Computer%20Music%20Formats.md) *(U)*
 
 External Articles
 -----------------
