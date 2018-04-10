@@ -1,7 +1,7 @@
 Some Notes on Drawing
 =====================
 
-*   status: near-final draft
+*   publication-date: Oct 2017
 
 When I was very young, I asked my parents what you called someone who draws.  Their
 answer was "a drawer".  I was deeply upset, not to say offended, because to me, a

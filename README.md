@@ -49,8 +49,8 @@ Articles Contained Herein
 
 ### Art
 
-*   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) *(U)*
-*   [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md) *(U)*
+*   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) (7) *(U)*
+*   [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md) (Oct 2017)
 
 External Articles
 -----------------

@@ -24,6 +24,7 @@ def generate_toc_line(document):
         "A Basic Theory of Video Games",
         "Perspective on Text Adventures",
         "Blurry Memories of DOS Programming",
+        "Some Notes on Drawing",
     ):
         signs.append('({})'.format(section_count))
 
@@ -75,4 +76,8 @@ if __name__ == '__main__':
         "Lost Games.md",
         "Recollected Games.md",
         "Some Modern Retrogames.md",
+    ])
+    output_toc('### Art', [
+        "20th-Century Visual Artists of Note.md",
+        "Some Notes on Drawing.md",
     ])
