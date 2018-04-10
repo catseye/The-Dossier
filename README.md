@@ -2,9 +2,15 @@ The Dossier
 ===========
 
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
-May pertain to Cat's Eye Technologies, or may not.  Articles marked *(U)* are
-under construction.  Articles with a published-date are "frozen".  All other
-articles are subject to change.
+May pertain to Cat's Eye Technologies, or may not.  They are written in [Feedmark][]
+format, so in a pinch they can be read directly on GitHub, but they are canonically
+hosted at [http://catseye.tc/view/The-Dossier/README.md](http://catseye.tc/view/The-Dossier/README.md).
+
+Articles with a published-date are "frozen" and are not expected to be changed
+(edits will be noted).  All other articles are subject to change.  In particular,
+articles marked *(U)* are considered "under construction".
+
+[Feedmark]: https://github.com/catseye/Feedmark
 
 Articles Contained Herein
 -------------------------
@@ -13,13 +19,14 @@ Articles Contained Herein
 
 *   [A Note on Items of Note](article/A%20Note%20on%20Items%20of%20Note.md)
 
-### Programming Languages
+### Programming Languages and Programming
 
 *   [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (Jul 2010)
 *   [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (Apr 2013)
 *   [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (Jun 2013)
 *   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) (15) *(U)*
 *   [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md) (11)
+*   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
 
 ### Games
 
@@ -40,10 +47,6 @@ Articles Contained Herein
 *   [Recollected Games](article/Recollected%20Games.md) (36)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
-### Retrocomputing
-
-*   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
-
 ### Art
 
 *   [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) *(U)*
@@ -55,21 +58,3 @@ External Articles
 *   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) (May 2015)
 *   [Bootstrap Zero](https://github.com/catseye/SITU-SOL/tree/master/doc/bootstrap-zero) (RetroChallenge 2015/07)
 *   [Overview of a Story Compiler](https://gist.github.com/cpressey/6324fff6ef0dfdf69b96) (NaNoGenMo 2015)
-
-Implementation Notes
---------------------
-
-Articles are written in [Feedmark][] format, which is a subset of Markdown
-for embedding curational information.  Just as a Markdown file is still a
-readable text file, which is nice, a Feedmark file is still a readable
-Markdown file, which is still a readable text file, which is nice.
-
-There are some scripts for managing these files in the `script` directory.
-
-These articles will probably eventually have prettier HTML versions of them
-hosted somewhere like `github.io` or `catseye.tc` someday, but for now,
-being Markdown, they are readable directly on `github.com`.
-
-There will eventually be a "master index" to be used when linking to entries.
-
-[Feedmark]: https://github.com/catseye/Feedmark

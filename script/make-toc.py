@@ -23,6 +23,7 @@ def generate_toc_line(document):
         "The Aesthetics of Esolangs",
         "A Basic Theory of Video Games",
         "Perspective on Text Adventures",
+        "Blurry Memories of DOS Programming",
     ):
         signs.append('({})'.format(section_count))
 
@@ -50,12 +51,13 @@ def output_toc(heading, filenames):
 
 
 if __name__ == '__main__':
-    output_toc('### Programming Languages', [
+    output_toc('### Programming Languages and Programming', [
         "Retrospective on Language Design.md",
         "Programming Languages as an Artistic Medium.md",
         "The Aesthetics of Esolangs.md",
         "An Esolang Reading List.md",
         "Some Production Programming Languages.md",
+        "Blurry Memories of DOS Programming.md",
     ])
     output_toc('### Games', [
         "A Basic Theory of Video Games.md",
