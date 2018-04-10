@@ -1,6 +1,8 @@
 Blurry Memories of DOS Programming
 ==================================
 
+*   publication-date: May 2017
+
 So, for whatever reason, you want to program something in DOS —
 that is to say, [MS-DOS][] or one of its clones.  I totally support
 this sort of endeavour!  It is a totally worthwhile thing to try

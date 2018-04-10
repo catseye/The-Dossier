@@ -44,7 +44,7 @@ Articles Contained Herein
 *   [Classic Computer Games](article/Classic%20Computer%20Games.md) (6)
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
 *   [Lost Games](article/Lost%20Games.md) (9)
-*   [Recollected Games](article/Recollected%20Games.md) (36)
+*   [Recollected Games](article/Recollected%20Games.md) (39)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### Art
