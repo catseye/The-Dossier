@@ -18,6 +18,7 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Perspective on Text Adventures.md" \
          "$ARTICLES/The Aesthetics of Esolangs.md" \
          "$ARTICLES/Retrospective on Language Design.md" \
+         "$ARTICLES/Befunge Silver Jubilee Retrospective.md" \
          --rewrite-markdown || exit 1
 
 #lists

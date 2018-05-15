@@ -27,6 +27,7 @@ Articles Contained Herein
 *   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) (15) *(U)*
 *   [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md) (11)
 *   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
+*   [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md) *(U)*
 
 ### Games
 

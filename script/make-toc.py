@@ -24,6 +24,7 @@ def generate_toc_line(document):
         "A Basic Theory of Video Games",
         "Perspective on Text Adventures",
         "Blurry Memories of DOS Programming",
+        "Befunge Silver Jubilee Retrospective",
         "Some Notes on Drawing",
     ):
         signs.append('({})'.format(section_count))
@@ -59,6 +60,7 @@ if __name__ == '__main__':
         "An Esolang Reading List.md",
         "Some Production Programming Languages.md",
         "Blurry Memories of DOS Programming.md",
+        "Befunge Silver Jubilee Retrospective.md",
     ])
     output_toc('### Games', [
         "A Basic Theory of Video Games.md",
