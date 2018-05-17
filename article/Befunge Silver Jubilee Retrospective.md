@@ -1,7 +1,7 @@
 Befunge Silver Jubilee Retrospective
 ====================================
 
-*   status: under construction
+*   publication-date: 17 May 2018
 
 The [Befunge](http://esolangs.org/wiki/Befunge) programming language was created in 1993,
 meaning 2018 is its 25th anniversary!
@@ -215,7 +215,7 @@ by a committee of amateurs (which is exactly what it is.)  And the consequences 
 standardized are minimal.  That a program runs on one Befunge-98 interpreter but not on another is hardly
 the end of the world.  Heck, the mindset that leads to looking at programming in Befunge-98 as being an
 interesting problem instead of an annoyance, can also lead to looking at making the program run on two
-slightly incomparible interpreters an interesting problem instead of an annoyance.
+slightly incompatible interpreters an interesting problem instead of an annoyance.
 
 To put it another way, the entertainment value of the specification being written the way it is
 generally outweighs, in my mind, whatever value there would be in the specification being written more
