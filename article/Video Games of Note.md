@@ -68,7 +68,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 ### City Connection
 
-![screenshot](http://www.vizzed.com/videogames/mame/screenshot/City%20Connection%20(set%201)-2.png)
+![screenshot](http://www.vizzed.com/videogames/mame/screenshot/City%20Connection%20%28set%201%29-2.png)
 
 *   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
 *   published by: Jaleco
