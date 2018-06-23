@@ -6,7 +6,76 @@ Classic Computer Games
 These are my recollections of a number of computer games, where "computer"
 means roughly "strategy or puzzle", whether real-time or turn-based.
 
-You've probably heard of most of these.
+You may have heard of many of these games.
+
+### Animals
+
+*   genre: Guessing
+*   authors: Unknown
+*   auspices: Unknown
+
+_Animals_ is a classic "expert system" game.  The computer asks you to think of an
+animal, and then asks you a series of yes/no questions in an attempt to
+discover what animal you chose.  If it comes to the wrong conclusion, it
+asks you for a question that would distinguish the animal that you chose,
+and adds it to its database.  In this way it "learns" about more animals
+as more games are played.
+
+### Flip
+
+*   genre: Guessing
+*   inception-date: 1977
+*   authors: John S. James
+*   auspices: Unknown
+*   specification-link: [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=61)
+
+_Flip_ is a very simple computer game by John S. James which first appeared
+in the March/April 1977 edition of _Creative Computing_.
+In the game, the computer flips a virtual coin 50 times, and the object is
+for you to guess whether the coin will come up heads or tails each time.
+What makes it interesting is that the coin is not fair.  The computer tries
+to find patterns in your guesses, and exploit them by biasing the coin toss
+away from what it thinks you are likely to guess next.
+    
+### Hunt the Wumpus
+
+*   genre: Logic
+*   authors: Gregory Yob
+*   auspices: Unknown
+*   wikipedia: [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)
+*   specification-link: [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=178)
+
+_Hunt the Wumpus_ is a classic topological mythical-beast-hunting game
+from the era of teletypes.  Gregory Yob was disappointed by the
+number of games based on "find an objective hidden on a
+2-dimensional grid", and decided to design one that was based on
+a world less orthogonal.
+    
+### Sokoban
+
+*   genre: Puzzle
+*   authors: Hiroyuki Imabayashi
+*   auspices: Unknown
+*   wikipedia: [Sokoban](https://en.wikipedia.org/wiki/Sokoban)
+
+_Sokoban_ is the classic Japanese game about lean manufacturing (well, sort of).
+
+### Lemonade Stand
+
+*   available for: Apple II
+*   genre: Simulation
+*   date: ca 1979
+*   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
+*   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
+
+This was going to be on the "Apple II Games of Note" list, but I realized it's
+not a video game, it's a computer game.  And it's probably a classic.  So here it is.
+
+And it wasn't just for the Apple II, although that might be the most classic version.
+
+There was a version for the Commodore 64.
+
+But in the Apple II version, summer is endless, unlike in the Commodore 64 version.
 
 ### Civilization II
 
@@ -73,19 +142,3 @@ after the hardware that it made so many demands on was obsolete, and could only
 be emulated awkwardly — either by Exult, which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
-
-### Lemonade Stand
-
-*   available for: Apple II
-*   genre: Simulation
-*   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
-*   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
-
-This was going to be on the "Apple II Games of Note" list, but I realized it's
-not a video game, it's a computer game.  And it's probably a classic.  So here it is.
-
-And it wasn't just for the Apple II, although that might be the most classic version.
-
-There was a version for the Commodore 64.
-
-But in the Apple II version, summer is endless, unlike in the Commodore 64 version.
