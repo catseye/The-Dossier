@@ -8,19 +8,6 @@ means roughly "strategy or puzzle", whether real-time or turn-based.
 
 You may have heard of many of these games.
 
-### Animals
-
-*   authors: Unknown
-*   genre: Guessing
-*   date released: ca 1975
-
-_Animals_ is a classic "expert system" game.  The computer asks you to think of an
-animal, and then asks you a series of yes/no questions in an attempt to
-discover what animal you chose.  If it comes to the wrong conclusion, it
-asks you for a question that would distinguish the animal that you chose,
-and adds it to its database.  In this way it "learns" about more animals
-as more games are played.
-
 ### Flip
 
 *   authors: John S. James
@@ -54,9 +41,10 @@ a world less orthogonal.
 
 ### Lemonade Stand
 
+*   authors: Bob Jamison, Charlie Kellner
 *   genre: Simulation
 *   available for: Apple II
-*   date released: ca 1979
+*   date released: 1973
 *   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
 *   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
 
@@ -68,6 +56,28 @@ And it wasn't just for the Apple II, although that might be the most classic ver
 There was a version for the Commodore 64.
 
 But in the Apple II version, summer is endless, unlike in the Commodore 64 version.
+
+### Animals
+
+*   authors: Unknown
+*   genre: Guessing
+*   available for: Apple II
+*   date released: ca 1982
+
+_Animals_ is a classic "expert system" game.  The computer asks you to think of an
+animal, and then asks you a series of yes/no questions in an attempt to
+discover what animal you chose.  If it comes to the wrong conclusion, it
+asks you for a question that would distinguish the animal that you chose,
+and adds it to its database.  In this way it "learns" about more animals
+as more games are played.
+
+According to [this page](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_17.html)
+a LISP version of this program appears in Chapter 6 of
+"LISP" by Patrick Henry Winston and Berthold Horn (1982)
+(ISBN [0201083299 9780201083293](http://www.worldcat.org/title/lisp/oclc/256188963)).
+
+I'm sure I played a Applesoft BASIC version of the game as well, on an Apple II,
+probably around 1982 as well.
 
 ### Sokoban
 
@@ -81,6 +91,7 @@ _Sokoban_ is the classic Japanese game about lean manufacturing (well, sort of).
 
 ### Civilization II
 
+*   authors: Sid Meier
 *   wikipedia: https://en.wikipedia.org/wiki/Civilization_II
 
 I like that it's not just a war game; you feel like you're a steward of the
@@ -91,8 +102,10 @@ sure, but something is better than nothing. I mean, did I ever really think
 about how sewer systems and refrigeration changed life as we know it before
 playing this game? Probably not.
 
-### The Incredible Machine 2
+### The Incredible Machine
 
+*   authors: Kevin Ryan
+*   date released: 1993
 *   wikipedia: https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)
 
 A classic. I like how it manages to unify, to an extent, using the
@@ -100,16 +113,18 @@ A classic. I like how it manages to unify, to an extent, using the
 playing a level essentially means to complete its construction satisfactorily.)
 I also like how it naturally accomodates multiple solutions.
 
+It is an entire series.  I think the only one I played extensively was
+_The Incredible Machine 2_.
+
 People sometimes tell me how [RUBE][] reminds them of this game.
 
 Every so often, in a television commercial or similar, I hear the exact same
 squeaking sound that the trapdoor made in this game, and I have a flashback to
 it. (That sound sample must be in the public domain or something.)
 
-[RUBE]: http://catseye.tc/node/RUBE
-
 ### Dungeon Keeper II
 
+*   authors: Sean Cooper et al.
 *   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Keeper_2
 
 It deserves mention if for no other reason than you get to carve your own
@@ -117,6 +132,7 @@ dungeon out of the rock as part of the game.
 
 ### King's Quest V
 
+*   authors: Roberta Williams et al.
 *   wikipedia: https://en.wikipedia.org/wiki/King%27s_Quest_V
 
 Alexander takes a mint.
@@ -132,6 +148,7 @@ But don't even try playing the endgame without a walkthrough.
 
 ### Ultima VII Part 2: The Serpent Isle
 
+*   authors: Richard Garriott et al.
 *   genre: Role-playing
 *   available for: MS-DOS
 *   controls: mouse
@@ -144,3 +161,6 @@ after the hardware that it made so many demands on was obsolete, and could only
 be emulated awkwardly — either by Exult, which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
+
+[RUBE]: http://catseye.tc/node/RUBE
+

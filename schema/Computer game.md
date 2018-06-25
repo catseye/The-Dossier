@@ -9,8 +9,6 @@ should appear on each entry.
 
 ### authors
 
-*    optional: true
-
 The author(s) of the game.
 
 ### under the auspices of
