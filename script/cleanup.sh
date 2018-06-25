@@ -40,3 +40,8 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Apple II Games of Note.md" \
          "$ARTICLES/Atari 2600 Games of Note.md" \
          --rewrite-markdown || exit 1
+
+feedmark --input-refdex=refdex.json \
+         --check-against-schema=schema/Computer\ game.md \
+         "$ARTICLES/Classic Computer Games.md" \
+         --rewrite-markdown || exit 1

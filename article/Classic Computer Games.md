@@ -10,9 +10,9 @@ You may have heard of many of these games.
 
 ### Animals
 
-*   genre: Guessing
 *   authors: Unknown
-*   auspices: Unknown
+*   genre: Guessing
+*   date released: ca 1975
 
 _Animals_ is a classic "expert system" game.  The computer asks you to think of an
 animal, and then asks you a series of yes/no questions in an attempt to
@@ -23,11 +23,11 @@ as more games are played.
 
 ### Flip
 
-*   genre: Guessing
-*   inception-date: 1977
 *   authors: John S. James
-*   auspices: Unknown
-*   specification-link: [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=61)
+*   published by: Creative Computing
+*   genre: Guessing
+*   date released: 1977
+*   entry @ [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=61)
 
 _Flip_ is a very simple computer game by John S. James which first appeared
 in the March/April 1977 edition of _Creative Computing_.
@@ -39,32 +39,24 @@ away from what it thinks you are likely to guess next.
     
 ### Hunt the Wumpus
 
-*   genre: Logic
 *   authors: Gregory Yob
-*   auspices: Unknown
+*   published by: Creative Computing
+*   genre: Logic
+*   date released: circa 1977
 *   wikipedia: [Hunt the Wumpus](https://en.wikipedia.org/wiki/Hunt_the_Wumpus)
-*   specification-link: [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=178)
+*   entry @ [www.atariarchives.org](http://www.atariarchives.org/morebasicgames/showpage.php?page=178)
 
 _Hunt the Wumpus_ is a classic topological mythical-beast-hunting game
 from the era of teletypes.  Gregory Yob was disappointed by the
 number of games based on "find an objective hidden on a
 2-dimensional grid", and decided to design one that was based on
 a world less orthogonal.
-    
-### Sokoban
-
-*   genre: Puzzle
-*   authors: Hiroyuki Imabayashi
-*   auspices: Unknown
-*   wikipedia: [Sokoban](https://en.wikipedia.org/wiki/Sokoban)
-
-_Sokoban_ is the classic Japanese game about lean manufacturing (well, sort of).
 
 ### Lemonade Stand
 
-*   available for: Apple II
 *   genre: Simulation
-*   date: ca 1979
+*   available for: Apple II
+*   date released: ca 1979
 *   wikipedia: https://en.wikipedia.org/wiki/Lemonade_Stand
 *   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
 
@@ -76,6 +68,16 @@ And it wasn't just for the Apple II, although that might be the most classic ver
 There was a version for the Commodore 64.
 
 But in the Apple II version, summer is endless, unlike in the Commodore 64 version.
+
+### Sokoban
+
+*   authors: Hiroyuki Imabayashi
+*   published by: Thinking Rabbit
+*   genre: Puzzle
+*   date released: 1982
+*   wikipedia: [Sokoban](https://en.wikipedia.org/wiki/Sokoban)
+
+_Sokoban_ is the classic Japanese game about lean manufacturing (well, sort of).
 
 ### Civilization II
 
