@@ -7,6 +7,12 @@ what properties Computer Game entries in The Dossier should have.
 The order in which they are listed here induces an order in which they
 should appear on each entry.
 
+### subtitle
+
+*   optional: true
+
+subtitle
+
 ### authors
 
 The author(s) of the game.
@@ -25,8 +31,6 @@ The entity which published the video game.
 
 ### genre
 
-*    optional: true
-
 Genre.
 
 ### available for
@@ -42,8 +46,6 @@ The platform or platforms that the video game is or was available for.
 What the game is controlled with.
 
 ### date released
-
-*    optional: true
 
 Date released.
 

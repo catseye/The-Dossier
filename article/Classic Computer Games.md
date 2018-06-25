@@ -89,9 +89,31 @@ probably around 1982 as well.
 
 _Sokoban_ is the classic Japanese game about lean manufacturing (well, sort of).
 
-### Civilization II
+### King's Quest V
 
-*   authors: Sid Meier
+*   subtitle: Absence Makes the Heart Go Yonder!
+*   authors: Roberta Williams et al.
+*   genre: Point-and-click adventure
+*   date released: 1990
+*   wikipedia: https://en.wikipedia.org/wiki/King%27s_Quest_V
+
+Alexander takes a mint.
+
+This game is fairly well written, which is in stark contrast to the other games
+in the King's Quest series, which are simply painful.
+
+If, however, you like things that are so bad that they are absurdly bad (and
+considering what website you're visiting, that's not unlikely,) King's Quest IV
+has moments of morbidity that may make it worthwhile: Graham's scream as he
+falls off the icy cliffs, and the narrator's jesting about "dying for a drink."
+But don't even try playing the endgame without a walkthrough.
+
+### Civilization
+
+*   authors: Sid Meier et al.
+*   published by: MicroProse
+*   genre: Turn-based strategy
+*   date released: 1991
 *   wikipedia: https://en.wikipedia.org/wiki/Civilization_II
 
 I like that it's not just a war game; you feel like you're a steward of the
@@ -102,9 +124,13 @@ sure, but something is better than nothing. I mean, did I ever really think
 about how sewer systems and refrigeration changed life as we know it before
 playing this game? Probably not.
 
+It is an entire series.  The only one I played extensively was
+_Civilization II_.
+
 ### The Incredible Machine
 
 *   authors: Kevin Ryan
+*   genre: Puzzle
 *   date released: 1993
 *   wikipedia: https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)
 
@@ -122,36 +148,13 @@ Every so often, in a television commercial or similar, I hear the exact same
 squeaking sound that the trapdoor made in this game, and I have a flashback to
 it. (That sound sample must be in the public domain or something.)
 
-### Dungeon Keeper II
-
-*   authors: Sean Cooper et al.
-*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Keeper_2
-
-It deserves mention if for no other reason than you get to carve your own
-dungeon out of the rock as part of the game.
-
-### King's Quest V
-
-*   authors: Roberta Williams et al.
-*   wikipedia: https://en.wikipedia.org/wiki/King%27s_Quest_V
-
-Alexander takes a mint.
-
-This game is fairly well written, which is in stark contrast to the other games
-in the King's Quest series, which are simply painful.
-
-If, however, you like things that are so bad that they are absurdly bad (and
-considering what website you're visiting, that's not unlikely,) King's Quest IV
-has moments of morbidity that may make it worthwhile: Graham's scream as he
-falls off the icy cliffs, and the narrator's jesting about "dying for a drink."
-But don't even try playing the endgame without a walkthrough.
-
 ### Ultima VII Part 2: The Serpent Isle
 
 *   authors: Richard Garriott et al.
 *   genre: Role-playing
 *   available for: MS-DOS
 *   controls: mouse
+*   date released: 1993
 *   wikipedia: https://en.wikipedia.org/wiki/Ultima_VII_Part_Two:_Serpent_Isle
 
 Classic, and would be on a list of classic RPGs, but I don't have one yet.
@@ -161,6 +164,16 @@ after the hardware that it made so many demands on was obsolete, and could only
 be emulated awkwardly — either by Exult, which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
+
+### Dungeon Keeper II
+
+*   authors: Sean Cooper et al.
+*   genre: Real-time strategy
+*   date released: 1999
+*   wikipedia: https://en.wikipedia.org/wiki/Dungeon_Keeper_2
+
+It deserves mention if for no other reason than you get to carve your own
+dungeon out of the rock as part of the game.
 
 [RUBE]: http://catseye.tc/node/RUBE
 
