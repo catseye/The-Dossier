@@ -3,9 +3,15 @@ Computer Games of Note
 
 This is a list of computer games of note.
 
-"Computer game" is not well-defined here, but excludes video games and text adventure games (both of which have their own lists.)  As a result of this exclusion, it mainly includes puzzles, turn-based strategy, and simulations, but is not limited to those.
+"Computer game" is not well-defined here, but excludes
+[video games](Video%20Games%20of%20Note.md) and
+[text adventures](%20Text%20Adventures%20of%20Note.md).
+As a result of this exclusion, it mainly includes puzzles,
+turn-based strategy, and simulations, but is not limited to those.
 
-This does not include [classics](Classic%20Computer%20Games.md); these games are strictly "[of note](article/A%20Note%20on%20Items%20of%20Note.md)", and are probably too strange or too obscure to be considered classics.
+This does not include [classics](Classic%20Computer%20Games.md); the games
+listed here are strictly "[of note](A%20Note%20on%20Items%20of%20Note.md)",
+and are probably too strange or too obscure to be considered classics.
 
 ### Rock Star Ate My Hamster
 

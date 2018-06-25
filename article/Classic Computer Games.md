@@ -4,7 +4,10 @@ Classic Computer Games
 *   status: permanently under construction
 
 These are my recollections of a number of computer games, where "computer"
-means roughly "strategy or puzzle", whether real-time or turn-based.
+means "runs on a computer but is not a [video game](Video%20Games%20of%20Note.md)
+nor a [text adventure](Classic%20Text%20Adventures.md)".
+In practice, this means roughly "strategy or puzzle game", whether
+real-time or turn-based.
 
 You may have heard of many of these games.
 

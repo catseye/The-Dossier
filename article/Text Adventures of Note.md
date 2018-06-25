@@ -2,7 +2,7 @@ Text Adventures of Note
 =======================
 
 These are my recollections of a number of text adventures
-[of note](article/A%20Note%20on%20Items%20of%20Note.md).
+[of note](A%20Note%20on%20Items%20of%20Note.md).
 Here I have omitted text adventures that I consider "classics", though,
 and have put those in another list: [Classic Text Adventures](Classic%20Text%20Adventures.md).
 

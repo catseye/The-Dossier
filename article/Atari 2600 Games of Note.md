@@ -4,7 +4,7 @@ Atari 2600 Games of Note
 *   common available for: Atari 2600
 *   status: permanently under construction
 
-This list is an offshoot of [Video Games of Note](article/Video%20Games%20of%20Note.md)
+This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Atari 2600 VCS.
 
 ### Haunted House
