@@ -8,7 +8,7 @@ I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_ga
 then I could too.  I've also been told that I have good taste in video games.
 
 It has since become somewhat generalized from being a list of favourite games
-to a list of games [of note](article/A%20Note%20on%20Items%20of%20Note.md).
+to a list of games [of note](A%20Note%20on%20Items%20of%20Note.md).
 
 Gameplay generally counts more than the quality of the graphics or sound
 effects or music, but the latter elements sometimes have their part to play

@@ -161,7 +161,7 @@ Classic, and would be on a list of classic RPGs, but I don't have one yet.
 
 I wasn't fortunate enough to play this until 2003. This was, of course, long
 after the hardware that it made so many demands on was obsolete, and could only
-be emulated awkwardly — either by Exult, which (when I tried it) was kind of
+be emulated awkwardly — either by [Exult][], which (when I tried it) was kind of
 hard to set up, or by switching between real mode and protected mode thousands
 of times a second, which is just about as happy as it sounds.
 
@@ -176,4 +176,5 @@ It deserves mention if for no other reason than you get to carve your own
 dungeon out of the rock as part of the game.
 
 [RUBE]: http://catseye.tc/node/RUBE
+[Exult]: https://github.com/exult/exult
 
