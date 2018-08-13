@@ -118,6 +118,7 @@ explains it better than I can.
 *   controls: joystick and 1 button
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
+*   video @ [youtube](https://www.youtube.com/watch?v=lT32TokTYqc)
 
 Notable for gameplay mechanic: the player controls one character directly
 with a joystick, but also a second character indirectly, by influencing

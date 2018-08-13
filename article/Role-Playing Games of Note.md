@@ -49,7 +49,6 @@ Greek alphabet soup anyway isn't it.
 
 ![montage](https://archive.org/download/mazes_and_monsters/mazes_and_monsters.gif)
 
-*   online @ [youtube](https://www.youtube.com/watch?v=awTKqydci_c>)
 *   online @ [archive.org](https://archive.org/details/mazes_and_monsters)
 
 A fictional role-playing game that appears in the made-for-TV movie of the

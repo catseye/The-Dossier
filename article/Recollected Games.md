@@ -165,7 +165,7 @@ Arcade
 
 ![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3a/Nekketsu_koukou_dodgeball_bu.jpg)
 
-*   wikipedia: https://en.wikipedia.org/wiki/Super_Dodge_Ball
+*   wikipedia: [Super Dodge Ball](https://en.wikipedia.org/wiki/Super_Dodge_Ball)
 
 Because what dodgeball game is complete without the ability to
 actually *kill* your opponents?  Not to mention some of the
@@ -173,10 +173,11 @@ players are literally giants.
 
 ### Congo Bongo
 
-*   wikipedia: https://en.wikipedia.org/wiki/Congo_Bongo
+*   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   published by: Sega
 *   available for: Arcade
 *   date released: 1983
+*   entry @ [atarimania](http://www.atarimania.com/game-atari-5200-congo-bongo_s11727.html)
 
 Here is what is notable about Congo Bongo: the arcade game uses
 [isometric projection][], but the C64 conversion and other
