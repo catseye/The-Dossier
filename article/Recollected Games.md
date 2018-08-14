@@ -120,15 +120,13 @@ One of the best type-in games.
 *   available for: Commodore 64
 *   published by: COMPUTE! Publications Inc.
 *   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
+*   entry @ [issuu](https://issuu.com/zetmoon/docs/compute_gazette_issue_63_1988_sep/41)
 
 This was a type-in game that appeared in
-[Compute! Gazette](https://archive.org/details/compute-gazette)
-(vol 3 no 2?).
+[Compute! Gazette Issue 63](https://archive.org/details/1988-09-computegazette),
+September 1988.
 
 It's interesting because the lava works like a cellular automaton, a bit.
-
-Other
------
 
 ### Hovver Bovver
 
