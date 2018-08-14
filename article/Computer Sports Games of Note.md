@@ -46,6 +46,7 @@ players are literally giants.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/sam_and_ed_basketball_01.gif)
 
 *   written by: unknown
+*   published by: COMPUTE! Publications Inc.
 *   genre: Sports
 *   available for: Commodore 64
 *   controls: joystick and 1 button
@@ -53,3 +54,7 @@ players are literally giants.
 
 The basketball game where you are the basketball and you bounce off
 the other player, who is also a basketball.
+
+This was a type-in game that appeared in
+[Compute! Gazette Issue 49](https://archive.org/details/1987-07-computegazette),
+July 1987.

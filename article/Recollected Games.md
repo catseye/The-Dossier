@@ -104,9 +104,6 @@ kit, really.
 
 The graphics are really good.
 
-Commodore 64 type-ins
----------------------
-
 ### Crossroads
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/crossroads_01.gif)
@@ -121,10 +118,14 @@ One of the best type-in games.
 ### Lava Flow
 
 *   available for: Commodore 64
+*   published by: COMPUTE! Publications Inc.
+*   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
 
-An interesting type-in game.  The lava works like a cellular automaton,
-a bit.
+This was a type-in game that appeared in
+[Compute! Gazette](https://archive.org/details/compute-gazette)
+(vol 3 no 2?).
 
+It's interesting because the lava works like a cellular automaton, a bit.
 
 Other
 -----
