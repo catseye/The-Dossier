@@ -27,7 +27,7 @@ Articles Contained Herein
 *   [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) (15) *(U)*
 *   [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md) (11)
 *   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
-*   [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md) *(U)*
+*   [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md) (May 2018)
 
 ### Games
 
@@ -36,16 +36,18 @@ Articles Contained Herein
 
 #### Games of Note
 
-*   [Video Games of Note](article/Video%20Games%20of%20Note.md) (9)
+*   [Video Games of Note](article/Video%20Games%20of%20Note.md) (8)
 *   [Commodore 64 Games of Note](article/Commodore%2064%20Games%20of%20Note.md) (8)
 *   [Apple II Games of Note](article/Apple%20II%20Games%20of%20Note.md) (7)
 *   [Atari 2600 Games of Note](article/Atari%202600%20Games%20of%20Note.md) (3)
+*   [Computer Sports Games of Note](article/Computer%20Sports%20Games%20of%20Note.md) (3)
+*   [Computer Games of Note](article/Computer%20Games%20of%20Note.md) (4)
 *   [Role-Playing Games of Note](article/Role-Playing%20Games%20of%20Note.md) (9)
 *   [Text Adventures of Note](article/Text%20Adventures%20of%20Note.md) (6)
-*   [Classic Computer Games](article/Classic%20Computer%20Games.md) (6)
+*   [Classic Computer Games](article/Classic%20Computer%20Games.md) (10)
 *   [Classic Text Adventures](article/Classic%20Text%20Adventures.md) (5)
 *   [Lost Games](article/Lost%20Games.md) (9)
-*   [Recollected Games](article/Recollected%20Games.md) (39)
+*   [Recollected Games](article/Recollected%20Games.md) (36)
 *   [Some Modern Retrogames](article/Some%20Modern%20Retrogames.md) (4)
 
 ### Art

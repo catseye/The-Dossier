@@ -125,9 +125,6 @@ One of the best type-in games.
 An interesting type-in game.  The lava works like a cellular automaton,
 a bit.
 
-### Sam & Ed Basketball
-
-*   available for: Commodore 64
 
 Other
 -----
@@ -141,16 +138,6 @@ Didn't realize "bovver" was "bother" until I was older.
 
 Arcade
 ------
-
-### Super Dodge Ball
-
-![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3a/Nekketsu_koukou_dodgeball_bu.jpg)
-
-*   wikipedia: [Super Dodge Ball](https://en.wikipedia.org/wiki/Super_Dodge_Ball)
-
-Because what dodgeball game is complete without the ability to
-actually *kill* your opponents?  Not to mention some of the
-players are literally giants.
 
 ### Congo Bongo
 

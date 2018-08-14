@@ -155,22 +155,6 @@ shape of the kiwi.)
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
 pistols, magical fireball-belching staffs, and the like.
 
-### Cool Boarders 2
-
-![screenshot](http://www.vizzed.com/videogames/psx/screenshot/Cool%20Boarders%202-2.jpg)
-
-*   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
-*   genre: Sports
-*   available for: Sony PlayStation
-*   controls: D-pad and 6 buttons
-
-The only sports game on my list, but that's probably because it doesn't
-really feel anything like sport. It's only barely realistic — for example,
-there is clearly no limit to the amount of spin you can impart to your
-jump. The longer you keep holding X and right, the more rotational velocity
-you'll have when you catch air. Whee! And it has a soundtrack that can't be
-beat.
-
 ### Llamatron
 
 ![screenshot](http://www.atarimania.com/st/screens/llamatron_llamasoft_6.gif)

@@ -71,6 +71,8 @@ if __name__ == '__main__':
         "Commodore 64 Games of Note.md",
         "Apple II Games of Note.md",
         "Atari 2600 Games of Note.md",
+        "Computer Sports Games of Note.md",
+        "Computer Games of Note.md",
         "Role-Playing Games of Note.md",
         "Text Adventures of Note.md",
         "Classic Computer Games.md",
