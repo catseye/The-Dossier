@@ -43,10 +43,13 @@ players are literally giants.
 
 ### Sam & Ed Basketball
 
+![screenshot](http://www.lemon64.com/games/screenshots/full/s/sam_and_ed_basketball_01.gif)
+
 *   written by: unknown
 *   genre: Sports
 *   available for: Commodore 64
 *   controls: joystick and 1 button
+*   review @ [lemon64](http://www.lemon64.com/reviews/view.php?id=1109)
 
 The basketball game where you are the basketball and you bounce off
 the other player, who is also a basketball.
