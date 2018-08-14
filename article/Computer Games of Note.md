@@ -27,6 +27,25 @@ and are probably too strange or too obscure to be considered classics.
 
 It's a music industry management simulation game.
 
+### Night Flight, an I.F.R. Simulator
+
+![screenshot](http://static.catseye.tc/redistfiles/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
+
+*   written by: Tim Gerchmez
+*   date released: 1986
+*   available for: Commodore 64
+*   license: Freely Redistributable
+*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
+
+In aviation, IFR (Instrument Flight Rules) refers to piloting an aircraft without looking out the window.
+This is useful in pitch darkness, in thick fog, or when writing a flight simulator where you don't want
+to mess with complex graphics code for displaying scenery.
+
+So IFR simulators were "a thing" and there are more than one for
+the Commodore 64, but this one is for the C64 only and is freeware.
+
+Here is an article about a different IFR simulator: [IFR (Flight Simulator)](http://www.wanttaja.com/ifr.html).
+
 ### 1D Tetris
 
 TODO: research

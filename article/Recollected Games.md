@@ -45,6 +45,8 @@ Very likely a C64 classic.
 *   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
 
+This is more of a puzzle game than a video game.
+
 ### Spindizzy
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
@@ -60,27 +62,6 @@ Very likely a C64 classic.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
 
 Not to be confused with a different game called Zig Zag, also for the C64.
-
-### Night Flight, an I.F.R. Simulator
-
-![screenshot](http://static.catseye.tc/redistfiles/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
-
-*   written by: Tim Gerchmez
-*   date released: 1986
-*   available for: Commodore 64
-*   license: Freely Redistributable
-*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
-
-Notable for the fact that it was a flight simulator with no graphics.
-Well, only the control panel.  Given that you were supposed to be
-flying at night over a lightless plain, that's essentially reasonable.
-
-In fact IFR simulators were "a thing" and there are more than one for
-the Commodore 64, but this one is for the C64 only and is freeware.
-
-Here is an article about a different IFR simulator: [IFR (Flight Simulator)](http://www.wanttaja.com/ifr.html).
-
-TODO: I should write about IFR simulators here a bit.
 
 ### Big Mac: The Mad Maintenance Man
 
