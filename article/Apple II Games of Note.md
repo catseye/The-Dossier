@@ -19,6 +19,7 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 *   walkthrough @ [gamefaqs](https://www.gamefaqs.com/appleii/580574-russki-duck/faqs/10379)
 *   review @ [applepalooza](http://www.platypuscomix.net/applepalooza/russkiduck.html)
 *   play online @ [archive.org](https://archive.org/details/a2_Russki_Duck_1982_Gebelli_Software_cr_Mr._Xerox)
+*   video @ [youtube](https://www.youtube.com/watch?v=GjH2dmleaZY)
 
 I have no words.  It seemed very high-concept, at the time.  Possibly because
 the enemy agents did things quite independently of what you were doing.
@@ -92,6 +93,7 @@ saw it) figures of the characters makes it stand out in my mind.
 *   date released: 1982
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
 *   entry @ [computinghistory](http://www.computinghistory.org.uk/det/31821/Star-Maze/)
+*   video @ [youtube](https://www.youtube.com/watch?v=dJQ-hnM_Gtw)
 
 Sort of "Asteroids with walls", but moreseo.  The omnidirectional scrolling and physics
 made it seem very high-concept (to me, at the time.)
@@ -154,4 +156,5 @@ instead of being the game, let you select from a menu the way in
 which Sammy should meet his demise (laser, being squished by something,
 etc.)
 
-You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_Kill_Sammy_19xx_Grue_The).
+You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_Kill_Sammy_19xx_Grue_The)
+or watch a video "walkthrough" @ [youtube](https://www.youtube.com/watch?v=GfTJD8tvxi4).
