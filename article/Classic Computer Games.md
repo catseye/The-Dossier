@@ -82,6 +82,12 @@ a LISP version of this program appears in Chapter 6 of
 I'm sure I played a Applesoft BASIC version of the game as well, on an Apple II,
 probably around 1982 as well.
 
+It is mentioned in [Transactor Magazine](http://csbruce.com/cbm/transactor/)
+Volume 7, Issue 02 (September 1986) ([PDF](http://csbruce.com/cbm/transactor/pdfs/trans_v7_i02.pdf))
+in which there is an article on it, listing "What to do after you press RETURN"
+by People's Computing and "101 BASIC Games" by David Ahl as sources,
+speculating also that "it may have been around on mainframes long before that".
+
 ### Sokoban
 
 *   authors: Hiroyuki Imabayashi

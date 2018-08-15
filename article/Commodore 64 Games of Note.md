@@ -112,7 +112,8 @@ explains it better than I can.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/w/whistlers_brother_02.gif)
 
-*   written by: Unknown
+*   written by: Louis Ewens
+*   published by: Brøderbund
 *   genre: Platformer(?)
 *   available for: Commodore 64
 *   controls: joystick and 1 button
@@ -132,7 +133,8 @@ it was that the graphics felt kind of uninspired.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
 
-*   written by: Unknown
+*   written by: William Mataga, David Barbour
+*   published by: Synapse Software
 *   genre: Maze-runner
 *   available for: Commodore 64
 *   controls: joystick and 1 button

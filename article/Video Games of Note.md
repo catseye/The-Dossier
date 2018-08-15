@@ -76,6 +76,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 *   available for: Arcade
 *   date released: 1985
 *   controls: joystick and 1 button
+*   review @ [videochums](https://videochums.com/review/arcade-archives-city-connection)
 
 A jumping minivan? Yes, a jumping minivan. And European paddywagons. And a
 devil-cat-thing with a checkered flag. And a balloon that warps you to

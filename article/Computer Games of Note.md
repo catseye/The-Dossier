@@ -24,7 +24,7 @@ and are probably too strange or too obscure to be considered classics.
 *   wikipedia: [Rock Star Ate My Hamster](https://en.wikipedia.org/wiki/Rock_Star_Ate_My_Hamster)
 *   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
 *   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
-*   review @ [emuunlim](http://tacgr.emuunlim.com/downloads/filedetail.php?recid=755)
+*   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2167)
 *   online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
 
 It's a music industry management simulation game.
