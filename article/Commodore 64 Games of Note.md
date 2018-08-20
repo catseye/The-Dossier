@@ -19,6 +19,7 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 *   date released: 1985
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=802)
+*   video @ [youtube](https://www.youtube.com/watch?v=7aj7W6yjuPE)
 
 Beautiful graphics.  Since the antagonists were implemented with "soft sprites"
 (groups of programmable characters), all(?) 8 hardware sprites were free to
@@ -65,6 +66,7 @@ speed.
 *   wikipedia: [Pharaoh's Curse](https://en.wikipedia.org/wiki/Pharaoh%27s_Curse_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1923)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
+*   video @ [youtube](https://www.youtube.com/watch?v=rBSW6r9-lQo)
 
 It's difficult to say what contributes to this game's overall charm.
 
@@ -85,6 +87,7 @@ Also: the bird!
 *   controls: joystick and 1 button
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
+*   video @ [youtube](https://www.youtube.com/watch?v=L7msIkgpZEY)
 
 Once I got used to the "tight handling" of the protagonist with the joystick,
 I liked this game a lot.  The premise is cute.  Each level introduces new
@@ -140,7 +143,8 @@ it was that the graphics felt kind of uninspired.
 *   controls: joystick and 1 button
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
-
+*   video @ [youtube](https://www.youtube.com/watch?v=PVFVQ85uB-E)
+    
 Notable because you can shoot out bits of wall, or rather, bits of force field
 and Futuristic Domed City, and in this way it feels a bit like an airborne
 version of [Cloak & Dagger][].  Also notable because it involves flying a

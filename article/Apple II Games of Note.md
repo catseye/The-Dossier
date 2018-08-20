@@ -43,6 +43,7 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 *   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
+*   video @ [youtube](https://www.youtube.com/watch?v=EQfEpGas9Dc)
 
 I didn't know quite what to make of this game at the time, and I still don't.
 Knowing now that it was a tie-in with Olympia beer (which was apparently a
@@ -76,6 +77,7 @@ I'm not really motivated to.
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
 *   entry @ [myabandonware](http://www.myabandonware.com/game/swashbuckler-7n4)
 *   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
+*   video @ [youtube](https://www.youtube.com/watch?v=jnER7vX7yn0)
 
 The weird contrast between the coloured background vs. the black-and-white
 (or green, as the case may have been, on the monochrome monitor on which I
@@ -109,6 +111,7 @@ made it seem very high-concept (to me, at the time.)
 *   controls: paddle or keyboard or analogue joystick
 *   date released: 1981
 *   wikipedia: https://en.wikipedia.org/wiki/Sabotage_(video_game)
+*   video @ [youtube](https://www.youtube.com/watch?v=fbHW66AbzHA)
 
 Something quite strange about being able to steer your shots.
 
