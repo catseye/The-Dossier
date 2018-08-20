@@ -76,8 +76,8 @@ I'm not really motivated to.
 *   date released: 1982
 *   wikipedia: [Swashbuckler](https://en.wikipedia.org/wiki/Swashbuckler_(video_game))
 *   entry @ [myabandonware](http://www.myabandonware.com/game/swashbuckler-7n4)
-*   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 *   video @ [youtube](https://www.youtube.com/watch?v=jnER7vX7yn0)
+*   play online @ [archive.org](https://archive.org/details/a2_Swashbuckler_1982_Datamost)
 
 The weird contrast between the coloured background vs. the black-and-white
 (or green, as the case may have been, on the monochrome monitor on which I

@@ -144,7 +144,7 @@ it was that the graphics felt kind of uninspired.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 *   video @ [youtube](https://www.youtube.com/watch?v=PVFVQ85uB-E)
-    
+
 Notable because you can shoot out bits of wall, or rather, bits of force field
 and Futuristic Domed City, and in this way it feels a bit like an airborne
 version of [Cloak & Dagger][].  Also notable because it involves flying a
