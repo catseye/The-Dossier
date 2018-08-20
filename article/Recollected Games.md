@@ -189,19 +189,28 @@ You can jump really, really high!
 
 I remember seeing it in an airport in Mexico.
 
-### Kickman
+### Kick-Man
 
 *   available for: Arcade
+*   wikipedia: [Kick (video game)](https://en.wikipedia.org/wiki/Kick_(video_game))
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8298)
 
 I remember it from a café in a small farming community in Manitoba.
 
 ### Crazy Climber
 
 *   available for: Arcade
+*   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7426)
 
 I remember it from a café in a small farming community in Manitoba.
 
-### Superguy
+### Mighty Guy
+
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
+*   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
+
+I thought this was called "Superguy".
 
 I remember seeing this at the Greyhound station in Winnipeg — back when it
 was located in the downtown, and back when it had a shop with a whole row

@@ -117,12 +117,18 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 *   date released: 1982
 *   controls: joystick
 *   genre: Maze-runner
+*   rom @ [mamedev](http://mamedev.org/roms/looping/)
 
 In this game, your goal is to pilot an airplane over some terrain
 and then through a field of obstacles — inside a maze, essentially.
 This is made more complicated by the fact that you can only change
 direction in an arc.  You can also shoot out some bits of the world
 when they get in your way, and in fact you have to in some places.
+
+Oh, and also, if you fly too high up, you bounce off the sky.
+
+The original ROM images for Looping have been made available for
+free, non-commercial use.
 
 ### Liquid Kids
 
