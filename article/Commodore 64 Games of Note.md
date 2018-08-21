@@ -38,6 +38,7 @@ multicolour.  The music is also good.  The game itself is quite hard.
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2505)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Street_Surfer)
+*   video @ [youtube](https://www.youtube.com/watch?v=em553coKuqA)
 
 In the mid-80's, when skateboarding became popular, a rash of such games
 appeared: Skate or Die, Skate Rock, and so forth.  But this one made all
@@ -106,6 +107,8 @@ known mechanisms.
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 *   entry @ [myabandonware](https://www.myabandonware.com/game/necromancer-5l2)
+*   video @ [youtube](https://www.youtube.com/watch?v=hg-XP-4LbVo)
+*   video @ [archive.org](https://archive.org/details/C64Gamevideoarchive81-Necromancer)
 
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
@@ -170,6 +173,8 @@ do seem to be able to go in circles quite easily.
 *   controls: joystick and 1 button
 *   date released: 1984
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2351)
+*   entry @ [mobygames](https://www.mobygames.com/game/c64/slinky)
+*   video @ [youtube](https://www.youtube.com/watch?v=n-c_xppTg6Q)
 
 This one's pretty memorably weird, and deserves comment.
 

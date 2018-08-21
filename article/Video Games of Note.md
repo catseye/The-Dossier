@@ -117,7 +117,7 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 *   date released: 1982
 *   controls: joystick
 *   genre: Maze-runner
-*   rom @ [mamedev](http://mamedev.org/roms/looping/)
+*   download @ [mamedev](http://mamedev.org/roms/looping/)
 
 In this game, your goal is to pilot an airplane over some terrain
 and then through a field of obstacles — inside a maze, essentially.
