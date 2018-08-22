@@ -54,6 +54,9 @@ This is more of a puzzle game than a video game.
 *   wikipedia: [Spindizzy (video game)](https://en.wikipedia.org/wiki/Spindizzy_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
 
+According to Wikipedia, the game was originally released for the Commodore 64 and Amstrad CPC,
+then later ported to other systems.
+
 ### Zig Zag
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/z/zig_zag_04.gif)
@@ -75,11 +78,15 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 ![screenshot](http://www.lemon64.com/games/screenshots/full/e/everyones_a_wally_02.gif)
 
 *   available for: Commodore 64
+*   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_A_Wally)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=859)
 
 If there was an award for Best Representation of a British High Street in an 8-bit Video Game,
 this would be a contender.  It's worth noting that "being a wally" is British slang for
 "being a fool" (approximately speaking).
+
+There were also versions for the ZX Spectrum and Amstrad CPC but it's not clear to me
+if the Commodore 64 version was a later port or if they were developed simultaneously.
 
 ### Ultimate Wizard
 
@@ -97,6 +104,7 @@ kit, really.
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/cauldron_ii_04.gif)
 
+*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
 *   available for: Commodore 64
 *   published by: Palace Software
 *   date released: 1986
@@ -120,6 +128,8 @@ December 1987.
 This is possibly one of the best type-in games to ever have appeared in a magazine.
 
 ### Lava Flow
+
+![screenshot](http://www.gb64.com/Screenshots/L/Lava_Flow.png)
 
 *   available for: Commodore 64
 *   published by: COMPUTE! Publications Inc.
