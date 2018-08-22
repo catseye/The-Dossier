@@ -154,6 +154,10 @@ Arcade
 
 ### Congo Bongo
 
+![screenshot: coin-op](http://images.webmagic.com/klov.com/screens/C/wCongo_Bongo.png)
+![screenshot: Commodore 64](http://www.cbmitapages.it/c64/games/Congo_Bongo.gif)
+![screenshot: SG-1000](https://www.retrogames.cz/games/176/SG1000_01.gif)
+
 *   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   published by: Sega
 *   available for: Arcade
@@ -221,6 +225,8 @@ I remember it from a café in a small farming community in Manitoba.
 
 ### Mighty Guy
 
+![screenshot](http://www.gameclassification.com/files/games/Mighty-Guy.png)
+
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
 *   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
 
@@ -240,9 +246,14 @@ northeast, then west, then east, then finally land north of the rock.
 And this seemed more like lax game design and/or programming, than anything
 intentional, but who knows.
 
+### Bubbles
+
+*   wikipedia: [Bubbles (video game)](https://en.wikipedia.org/wiki/Bubbles_(video_game))
+
+I thought it was cute when I saw it.
+
 #### To Research
 
-* Bubble Sink thing game
 * Spider eat grubsteak game
 
 Arcade - Less obscure, possibly classic, games
