@@ -135,6 +135,20 @@ It's interesting because the lava works like a cellular automaton, a bit.
 
 Didn't realize "bovver" was "bother" until I was older.
 
+TRS-80
+------
+
+### Ninja Warrior
+
+![screenshot](http://www.mobygames.com/images/shots/l/221258-ninja-warrior-trs-80-coco-screenshot-white-belt-kick-or-jump.gif)
+
+*   written by: Programmer's Guild Inc.
+*   published by: Programmer's Guild Inc.
+*   date released: 1983
+*   entry @ [mobygames](https://www.mobygames.com/game/trs-80-coco/ninja-warrior)
+
+Holy cow.  I remember this game!
+
 Arcade
 ------
 

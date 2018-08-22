@@ -20,10 +20,13 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 *   wikipedia: [Dynamite Dan](https://en.wikipedia.org/wiki/Dynamite_Dan)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=802)
 *   video @ [youtube](https://www.youtube.com/watch?v=7aj7W6yjuPE)
+*   video @ [archive.org](https://archive.org/details/C64GVA226-DynamiteDan)
 
-Beautiful graphics.  Since the antagonists were implemented with "soft sprites"
-(groups of programmable characters), all(?) 8 hardware sprites were free to
-be used for the protagonist in a composite fashion that was both hi-res and
+_This game was originally developed for the ZX Spectrum; this entry is about its C64 port._
+
+Beautiful graphics.  I believe the antagonists were implemented with "soft sprites"
+(groups of programmable characters), so that all(?) 8 hardware sprites were free to
+be used for the protagonist in a composite fashion that is both hi-res and
 multicolour.  The music is also good.  The game itself is quite hard.
 
 ### Street Surfer
@@ -69,6 +72,8 @@ speed.
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Pharaoh%27s_Curse)
 *   video @ [youtube](https://www.youtube.com/watch?v=rBSW6r9-lQo)
 
+_This game was originally developed for the Atari 400/800; this entry is about its C64 port._
+
 It's difficult to say what contributes to this game's overall charm.
 
 You can shoot the mummy, but the mummy can shoot back.
@@ -110,6 +115,8 @@ known mechanisms.
 *   video @ [youtube](https://www.youtube.com/watch?v=hg-XP-4LbVo)
 *   video @ [archive.org](https://archive.org/details/C64Gamevideoarchive81-Necromancer)
 
+_This game was originally developed for the Atari 400/800; this entry is about its C64 port._
+
 It's a good example of a game which combines fast-pacing with variety
 while maintaining coherence across the variety.  The Wikipedia article
 explains it better than I can.
@@ -147,6 +154,8 @@ it was that the graphics felt kind of uninspired.
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 *   video @ [youtube](https://www.youtube.com/watch?v=PVFVQ85uB-E)
+
+_This game was originally developed for the Atari 400/800; this entry is about its C64 port._
 
 Notable because you can shoot out bits of wall, or rather, bits of force field
 and Futuristic Domed City, and in this way it feels a bit like an airborne
