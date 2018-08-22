@@ -113,7 +113,11 @@ The graphics are really good.
 *   date released: 1987
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
 
-One of the best type-in games.
+This was a type-in game that appeared in
+[Compute! Gazette Issue 54](https://archive.org/details/1987-12-computegazette),
+December 1987.
+
+This is possibly one of the best type-in games to ever have appeared in a magazine.
 
 ### Lava Flow
 
