@@ -169,7 +169,7 @@ point.  You don't seem to be able to get into a dead-end this way, which is
 probably good (much less frustrating than games in which you can,) but you
 do seem to be able to go in circles quite easily.
 
-[Cloak & Dagger]: Recollected%20Games.md#cloak-%26-dagger
+[Cloak & Dagger]: Recollected%20Games.md#cloak-dagger
 
 ### Slinky
 

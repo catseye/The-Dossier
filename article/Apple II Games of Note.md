@@ -43,7 +43,7 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 *   date released: 1981
 *   entry @ [mobygames](http://www.mobygames.com/game/beer-run)
 *   entry @ [virtualapple](http://www.virtualapple.org/beerrundisk.html)
-*   video @ [youtube](https://www.youtube.com/watch?v=EQfEpGas9Dc)
+*   video @ [youtube](https://www.youtube.com/watch?v=m0oU9ZfRnpw)
 
 I didn't know quite what to make of this game at the time, and I still don't.
 Knowing now that it was a tie-in with Olympia beer (which was apparently a

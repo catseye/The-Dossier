@@ -199,8 +199,12 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 *   date released: 1981
 *   available for: Arcade
 *   controls: joystick and 1 button
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7196)
+*   video @ [youtube](https://www.youtube.com/watch?v=_nP5xKoObu4)
 
-You got to shoot out the spherical pods on those hexagonal space stations.
+An omnidirectional scroller in space where you get to
+shoot out the spherical pods of those [Benzene](https://en.wikipedia.org/wiki/Benzene)-shaped
+space stations.
 
 The first arcade game to offer a "continue?" option, apparently.
 
