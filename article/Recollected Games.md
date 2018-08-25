@@ -225,19 +225,32 @@ You can jump really, really high!
 
 I remember seeing it in an airport in Mexico.
 
+### Lasso
+
+*   available for: Arcade
+
+I remember seeing it in an airport in Mexico.
+
 ### Kick-Man
+
+![screenshot](https://static.tvtropes.org/pmwiki/pub/images/kickmanarcadegame.jpg)
 
 *   available for: Arcade
 *   wikipedia: [Kick (video game)](https://en.wikipedia.org/wiki/Kick_(video_game))
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8298)
+*   entry @ [tvtropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KickMan)
+*   video @ [youtube](https://www.youtube.com/watch?v=uBbIRGcQXOc)
 
 I remember it from a café in a small farming community in Manitoba.
 
 ### Crazy Climber
 
+![screenshot](https://upload.wikimedia.org/wikipedia/en/0/06/Crazy_Climber_by_Nihon_Bussan_Co._Ltd.JPG)
+
 *   available for: Arcade
 *   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7426)
+*   video @ [youtube](https://www.youtube.com/watch?v=QJAEmOtLZHg)
 
 I remember it from a café in a small farming community in Manitoba.
 
