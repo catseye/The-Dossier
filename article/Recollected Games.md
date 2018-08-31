@@ -314,6 +314,7 @@ and it keeps the game moving.
 *   genre: Shoot-'em-Up
 *   available for: Arcade
 *   controls: dual joystick
+*   video @ [youtube](https://www.youtube.com/watch?v=8OryQRZ6Ez8)
 
 There's something that's always attracted me about being able to shoot out
 bits of wall. The boxes and conveyor belts hold a similar draw. Not sure if

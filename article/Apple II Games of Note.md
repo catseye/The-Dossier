@@ -91,7 +91,7 @@ saw it) figures of the characters makes it stand out in my mind.
 *   published by: Sir-Tech
 *   genre: Maze-runner
 *   available for: Apple II
-*   controls: paddles(?)
+*   controls: keyboard
 *   date released: 1982
 *   entry @ [video-games-museum](https://www.video-games-museum.com/en/game/Star-Maze/37/3/13056)
 *   entry @ [computinghistory](http://www.computinghistory.org.uk/det/31821/Star-Maze/)
@@ -110,7 +110,7 @@ made it seem very high-concept (to me, at the time.)
 *   available for: Apple II
 *   controls: paddle or keyboard or analogue joystick
 *   date released: 1981
-*   wikipedia: https://en.wikipedia.org/wiki/Sabotage_(video_game)
+*   wikipedia: [Sabotage (video game)](https://en.wikipedia.org/wiki/Sabotage_(video_game))
 *   video @ [youtube](https://www.youtube.com/watch?v=fbHW66AbzHA)
 
 Something quite strange about being able to steer your shots.
