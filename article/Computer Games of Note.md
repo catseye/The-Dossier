@@ -29,6 +29,19 @@ and are probably too strange or too obscure to be considered classics.
 
 It's a music industry management simulation game.
 
+### The Prisoner
+
+![screenshot](https://www.filfre.net/wp-content/uploads/2011/11/Prisoner-The-_000000007.png)
+
+*   written by: David Mullich
+*   published by: Edu-Ware
+*   available for: Apple II
+*   date released: 1980
+*   wikipedia: [The Prisoner (video game)](https://en.wikipedia.org/wiki/The_Prisoner_(video_game))
+*   entry @ [mobygames](https://www.mobygames.com/game/prisoner)
+
+Based on the television show of the same name, yet diverging significantly from it.
+
 ### Night Flight, an I.F.R. Simulator
 
 ![screenshot](http://static.catseye.tc/redistfiles/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
