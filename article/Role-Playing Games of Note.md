@@ -99,18 +99,22 @@ Even though those are otherwise unrelated.
 
 ### Galactic Gladiators
 
-*   written by: ?
+![screenshot](http://www.mobygames.com/images/shots/l/34565-galactic-gladiators-pc-booter-screenshot-the-game-board.gif)
+
+*   written by: Tom Reamy
 *   published by: Strategic Simulations, Inc.
 *   available for: Apple II, MS-DOS
 *   date released: 1983
 *   controls: keyboard
 *   entry @ [myabandonware](https://www.myabandonware.com/game/galactic-gladiators-u)
+*   entry @ [mobygames](http://www.mobygames.com/game/pc-booter/galactic-gladiators)
+*   video @ [youtube](https://www.youtube.com/watch?v=VwBSBldXSVo)
+*   play online @ [archive.org](https://archive.org/details/msdos_Galactic_Gladiators_198)
 
 You know those "tactics" games?  This is an early example of a "tactics" game.
 
-It was written in BASIC, and from what I understand, the full rules were spelled out in
-the manual (so if you really wanted to, you could probably play it on paper.)
-
+It was written in [BASIC][], and from what I understand, the full rules were spelled out in
+the manual (so if you really wanted to, you could probably play it by hand, on paper.)
 But finding a scan of the manual to confirm that would be lovely.
 
 ### Wonder Boy in Monster Land
