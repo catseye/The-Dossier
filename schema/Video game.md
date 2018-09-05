@@ -37,7 +37,7 @@ What the game is controlled with.
 
 ### date released
 
-*    optional: true
+The date that the game was released.
 
 ### written using
 

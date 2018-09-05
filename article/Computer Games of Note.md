@@ -33,8 +33,9 @@ It's a music industry management simulation game.
 
 ![screenshot](https://www.filfre.net/wp-content/uploads/2011/11/Prisoner-The-_000000007.png)
 
-*   written by: David Mullich
+*   authors: David Mullich
 *   published by: Edu-Ware
+*   genre: Simulation(...?)
 *   available for: Apple II
 *   date released: 1980
 *   wikipedia: [The Prisoner (video game)](https://en.wikipedia.org/wiki/The_Prisoner_(video_game))

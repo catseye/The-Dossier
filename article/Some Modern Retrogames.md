@@ -20,8 +20,8 @@ and/or obtain them on physical media.
 *   written by: Richard Bayliss
 *   genre: Collect-the-Dots
 *   available for: Commodore 64
-*   date released: ???
 *   controls: joystick
+*   date released: ca 2007
 *   download @ [tnd](http://tnd64.unikat.sk/r.html)
 
 A very fun game, and notable that there is (as far as I can tell) no
@@ -32,10 +32,10 @@ random element — the baddies' movements are completely determined by your own.
 ![screenshot](http://www.mobygames.com/images/shots/l/442005-joe-gunn-commodore-64-screenshot-this-is-where-we-start-out.png)
 
 *   written by: Georg Rottensteiner, Paul Pridham, Howard Kistler, Thomas Egeskov Petersen
-*   genre: Graphical Adventure
+*   genre: Graphic Adventure
 *   available for: Commodore 64
-*   date released: ???
 *   controls: joystick
+*   date released: 2007
 *   order @ [psytronik](http://www.psytronik.net/newsite/index.php/c64/27-joe-gunn)
 *   entry @ [csdb](http://csdb.dk/release/?id=52121)
 *   entry @ [mobygames](http://www.mobygames.com/game/c64/joe-gunn)
@@ -53,8 +53,8 @@ and button+up to use an object in your inventory.
 *   written by: Mix256, TDM of Triad
 *   genre: Graphic Adventure?
 *   available for: Commodore 64
-*   date released: ???
 *   controls: joystick
+*   date released: 2011
 *   entry @ [csdb](http://csdb.dk/release/?id=103151)
 *   review @ [rgcd](http://www.rgcd.co.uk/2012/05/fairy-well-c64.html)
 
@@ -67,8 +67,8 @@ A good game which I remember liking enough to play through to the end.
 *   written by: Aaron Curtis
 *   genre: Platformer?
 *   available for: Atari 2600 VCS
-*   date released: ???
 *   controls: joystick
+*   date released: 2005
 *   order @ [atariage](https://atariage.com/store/index.php?l=product_detail&p=308)
 *   download @ [atariage](http://www.atariage.com/software_page.html?SoftwareLabelID=2722)
 

@@ -19,6 +19,7 @@ but note that in this instance it does include
 *   genre: Sports
 *   available for: Sony PlayStation
 *   controls: D-pad and 6 buttons
+*   date released: 1997
 *   wikipedia: [Cool Boarders 2](https://en.wikipedia.org/wiki/Cool_Boarders_2)
 
 It's only barely realistic — for example,
@@ -35,6 +36,7 @@ beat.
 *   genre: Sports
 *   available for: Arcade
 *   controls: joystick and 1 or 2 buttons
+*   date released: 1987
 *   wikipedia: [Super Dodge Ball](https://en.wikipedia.org/wiki/Super_Dodge_Ball)
 
 Because what dodgeball game is complete without the ability to
@@ -50,6 +52,7 @@ players are literally giants.
 *   genre: Sports
 *   available for: Commodore 64
 *   controls: joystick and 1 button
+*   date released: 1987
 *   review @ [lemon64](http://www.lemon64.com/reviews/view.php?id=1109)
 
 The basketball game where you are the basketball and you bounce off
