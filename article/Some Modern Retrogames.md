@@ -4,6 +4,15 @@ Some Modern Retrogames
 Some games written for computers and consoles of old, far past the time
 those computers and consoles were current.
 
+Sometimes such games are called "homebrew".  I don't think that's a
+very good term.  (I don't like the term "retrogame" much either, though.
+A painting by Jan van Eyck, would you call that a "retropainting"?
+No, you wouldn't.  Still, this is the terminology we're stuck with.)
+
+All the games here are ones you can download and play for no charge.
+In many cases you can also purchase them to support the authors
+and/or obtain them on physical media.
+
 ### Racked Off
 
 ![screenshot](http://tnd64.unikat.sk/games/racked_off_game.png)
@@ -11,6 +20,7 @@ those computers and consoles were current.
 *   written by: Richard Bayliss
 *   genre: Collect-the-Dots
 *   available for: Commodore 64
+*   date released: ???
 *   controls: joystick
 *   download @ [tnd](http://tnd64.unikat.sk/r.html)
 
@@ -22,15 +32,19 @@ random element — the baddies' movements are completely determined by your own.
 ![screenshot](http://www.mobygames.com/images/shots/l/442005-joe-gunn-commodore-64-screenshot-this-is-where-we-start-out.png)
 
 *   written by: Georg Rottensteiner, Paul Pridham, Howard Kistler, Thomas Egeskov Petersen
-*   genre: Platformer
+*   genre: Graphical Adventure
 *   available for: Commodore 64
+*   date released: ???
 *   controls: joystick
 *   order @ [psytronik](http://www.psytronik.net/newsite/index.php/c64/27-joe-gunn)
 *   entry @ [csdb](http://csdb.dk/release/?id=52121)
 *   entry @ [mobygames](http://www.mobygames.com/game/c64/joe-gunn)
 *   walkthrough @ [c64-wiki](https://www.c64-wiki.com/wiki/Joe_Gunn_-_Gold_Edition)
 
-A good game which I remember liking, but not having a chance to play much.
+I rather liked this when I first encountered it, but have never had
+the time to play it much.  It plays somewhat like a platformer but
+far more like a puzzle game, with button+down to examine objects
+and button+up to use an object in your inventory.
 
 ### Fairy Well
 
@@ -39,6 +53,7 @@ A good game which I remember liking, but not having a chance to play much.
 *   written by: Mix256, TDM of Triad
 *   genre: Graphic Adventure?
 *   available for: Commodore 64
+*   date released: ???
 *   controls: joystick
 *   entry @ [csdb](http://csdb.dk/release/?id=103151)
 *   review @ [rgcd](http://www.rgcd.co.uk/2012/05/fairy-well-c64.html)
@@ -52,6 +67,7 @@ A good game which I remember liking enough to play through to the end.
 *   written by: Aaron Curtis
 *   genre: Platformer?
 *   available for: Atari 2600 VCS
+*   date released: ???
 *   controls: joystick
 *   order @ [atariage](https://atariage.com/store/index.php?l=product_detail&p=308)
 *   download @ [atariage](http://www.atariage.com/software_page.html?SoftwareLabelID=2722)
