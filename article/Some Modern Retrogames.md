@@ -23,6 +23,7 @@ and/or obtain them on physical media.
 *   controls: joystick
 *   date released: ca 2007
 *   download @ [tnd](http://tnd64.unikat.sk/r.html)
+*   entry @ [csdb](https://csdb.dk/release/?id=51616)
 
 A very fun game, and notable that there is (as far as I can tell) no
 random element — the baddies' movements are completely determined by your own.

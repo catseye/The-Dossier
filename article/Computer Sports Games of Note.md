@@ -61,3 +61,23 @@ the other player, who is also a basketball.
 This was a type-in game that appeared in
 [Compute! Gazette Issue 49](https://archive.org/details/1987-07-computegazette),
 July 1987.
+
+### Dart Room
+
+*   written by: [Chris Oberth](https://en.wikipedia.org/wiki/Chris_Oberth)
+*   published by: Programma International
+*   genre: Sports
+*   available for: Apple II
+*   controls: paddle and 1 button
+*   date released: 1979
+*   play online @ [archive.org](https://archive.org/details/a2_cple_Apple_Bowl_Budge_Trilogy_Dart_Room_Star_Wars_William_Tell)
+
+It took me a long time to locate this game again.
+
+Basically it was a darts game.  Your player stand on the right, the
+dartboard is on the left, and you threw the dart in an arc and hoped
+to hit the dartboard.
+
+It was meant to be played with a paddle, but it was also playable
+with an analog joystick, which leads to the "smash your thumb" technique
+for a perfect dart launch, which I will describe here at some point.

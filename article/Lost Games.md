@@ -8,18 +8,6 @@ able to find any information about on the Internet, in part because I may
 not remember their exact names.  (City Connection was in this category for
 a long time until somehow I remembered its (non-obvious) name.)
 
-### Darts game
-
-*   seen-on: Apple II
-*   released: 1979
-
-Publisher might have been Apple Computer, Inc.  I remember the copyright
-year was 1979.
-
-Basically it was a darts game.  Your player stood on the left, the
-dartboard was on the right, and you threw the dart in an arc and hoped
-to hit the dartboard.
-
 ### Canadian politics simulator
 
 *   seen-on: Apple II
