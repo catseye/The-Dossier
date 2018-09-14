@@ -422,16 +422,20 @@ This one might be of note too.
 
 Has some redeeming characteristics.
 
+### Doctor Who and the Mines of Terror
+
+*   wikipedia: [Doctor Who and the Mines of Terror](https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror)
+
+### Asterix and Obelix
+
+There were actually a [huge number of Asterix and Obelix video games](https://en.wikipedia.org/wiki/List_of_Asterix_games#Video_games).
+
 ### Other Licensed Character Games
 
 for NES: Spot (7-Up) (also Fido??); the Noid (Domino's Pizza).
 
-Garfield.
-
-BC's Quest for Tires.
+Garfield (NES.  Apparently it was awful.)
 
 Road Runner (arcade game).
 
-Asterix and the Magic Carpet -- https://en.wikipedia.org/wiki/Asterix_and_the_Magic_Carpet_(Coktel_Vision_video_game)
-
-Doctor Who and the Mines of Terror -- https://en.wikipedia.org/wiki/Doctor_Who_and_the_Mines_of_Terror
+Kool-Aid game for Atari 2600.

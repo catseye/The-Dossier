@@ -47,6 +47,12 @@ tell the truth" or "Sometimes I tell the truth".
 
 Might have been written in Integer BASIC.
 
+It was *not* [Maze Game by Silas Warner](https://www.mobygames.com/game/apple2/maze-game/)
+but, obviously, it was similar in many respects.  It did not have
+paddle control.  It did not have tracks.  It had other people in
+the maze.  It was low-res, first person, like that.
+It did display a map like that.
+
 ### Galactic conquest
 
 *   seen-on: Apple II
