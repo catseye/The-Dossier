@@ -259,10 +259,11 @@ I would have to say the single greatest software engineering
 achievement of PHP is how it taught us all that
 programming should never be done without having constantly within arm's
 reach a book with a photo of the author's face on it. Preferably on the
-cover, and preferably amidst the [photos of his or her 8
-co-authors](https://www.amazon.com/dp/0470055200/). Even more preferably
-described as a ["Cookbook"](https://www.amazon.com/dp/0672323257/), or a
-collection of ["Hacks"](https://www.amazon.com/dp/0596101392/) — hey, if
+cover, and preferably amidst the
+[photos of his or her 8 co-authors](http://static.catseye.tc/archive/curated/book-covers/Professional_PHP_Apache_MySQL.jpg).
+Even more preferably described as a
+["Cookbook"](http://static.catseye.tc/archive/curated/book-covers/PHP_Developers_Cookbook.jpg), or a collection of
+["Hacks"](http://static.catseye.tc/archive/curated/book-covers/PHP_Hacks.jpg) — hey, if
 it didn't save me from having to understand what I'm doing, I wouldn't
 have spent the \$30 on it.
 
