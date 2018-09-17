@@ -84,4 +84,4 @@ TODO: I must research this.
 
 Use your knowledge of Dante's Inferno to locate Carmen Santiago.
 
-Hat tip: [@BadWrongFun@witches.town](https://witches.town/@BadWrongFun/99137055385980762).
+Hat tip: @BadWrongFun @ witches.town.

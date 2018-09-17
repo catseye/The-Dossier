@@ -188,7 +188,7 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 
 [isometric projection]: https://en.wikipedia.org/wiki/Isometric_projection
 [oblique projection]: https://en.wikipedia.org/wiki/Oblique_projection
-[orthographic projection]: https://en.wikipedia.org/wiki/Ortographic_projection
+[orthographic projection]: https://en.wikipedia.org/wiki/Orthographic_projection
 
 ### Bosconian
 

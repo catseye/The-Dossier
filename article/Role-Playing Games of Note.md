@@ -109,7 +109,7 @@ Even though those are otherwise unrelated.
 *   entry @ [myabandonware](https://www.myabandonware.com/game/galactic-gladiators-u)
 *   entry @ [mobygames](http://www.mobygames.com/game/pc-booter/galactic-gladiators)
 *   video @ [youtube](https://www.youtube.com/watch?v=VwBSBldXSVo)
-*   play online @ [archive.org](https://archive.org/details/msdos_Galactic_Gladiators_198)
+*   play online @ [archive.org](https://archive.org/details/msdos_Galactic_Gladiators_1983)
 
 You know those "tactics" games?  This is an early example of a "tactics" game.
 
