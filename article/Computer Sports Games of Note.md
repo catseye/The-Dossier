@@ -64,7 +64,7 @@ July 1987.
 
 ### Dart Room
 
-![screenshot](http://static.catseye.tc/archive/curated/screenshots/Dart%20Room%20%28Chris%20Oberth%2C%201979%29.png)
+![screenshot](http://static.catseye.tc/images/curated/screenshots/Dart%20Room%20%28Chris%20Oberth%2C%201979%29.png)
 
 *   written by: [Chris Oberth](https://en.wikipedia.org/wiki/Chris_Oberth)
 *   published by: Programma International

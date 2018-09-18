@@ -45,7 +45,7 @@ Based on the television show of the same name, yet diverging significantly from 
 
 ### Night Flight, an I.F.R. Simulator
 
-![screenshot](http://static.catseye.tc/redistfiles/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
+![screenshot](http://static.catseye.tc/images/curated/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
 
 *   authors: Tim Gerchmez
 *   genre: Flight Simulator
