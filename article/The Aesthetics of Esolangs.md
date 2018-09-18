@@ -158,8 +158,8 @@ handful of pieces of *visual* art that feel very "esolang-y" to me even
 though their creators have quite possibly never even heard of esolang.
 
 *   [The Railway Crossing](http://en.wikipedia.org/wiki/File:Leger_railway_crossing.jpg) by Fernand Léger
-*   [Untitled (Street Fighter tableau)](http://static.catseye.tc/archive/min.us/ibmS7uAFLGOZ0n.jpg) by an unknown artist
-*   [Untitled (Large Graffiti Slogan)](http://static.catseye.tc/archive/min.us/ibohvPpSWwWuzd.jpg) by Banksy
+*   [Untitled (Street Fighter tableau)](http://static.catseye.tc/images/curated/pictures/ibmS7uAFLGOZ0n.jpg) by an unknown artist
+*   [Untitled (Large Graffiti Slogan)](http://static.catseye.tc/images/curated/pictures/ibohvPpSWwWuzd.jpg) by Banksy
 
 (And I would be remiss in neglecting to also mention that there is at least
 one work of visual art which was *directly* inspired by an esolang, namely
