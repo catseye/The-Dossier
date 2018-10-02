@@ -142,12 +142,32 @@ September 1988.
 
 It's interesting because the lava works like a cellular automaton, a bit.
 
+### Equinox
+
+![screenshot](https://www.mobygames.com/images/shots/l/694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
+
+*   available for: Commodore 64, ZX Spectrum
+*   published by: Mikro-Gen, Ltd
+*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
+*   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
+
+The internet thinks the [theme music for this game](https://www.youtube.com/watch?v=2Of28GGPUIY) was written
+by Nick Jones, the main(?) developer of the C64 version of this game.  This is entirely possible.
+
+However, I swear I've also heard this song on radio/muzak while I was in Paris, twice.  French synthpop?
+
+It's entirely possible it was merely a similar tune, or that they are the same song but which came first?
+
+Game-wise, it's an okay game.
+
 ### Hovver Bovver
 
 *   written by: Jeff Minter
 *   wikipedia: https://en.wikipedia.org/wiki/Hover_Bovver
 
 Didn't realize "bovver" was "bother" until I was older.
+
+Need a Llamasoft section.
 
 TRS-80
 ------
