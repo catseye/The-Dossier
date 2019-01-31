@@ -112,6 +112,46 @@ kit, really.
 
 The graphics are really good.
 
+### Bubble Burst
+
+*   available for: Commodore 64
+*   published by: Spinnaker Software
+*   date released: 1984
+*   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
+
+Well, it's got a dinosaur in a bathtub, that's for sure.
+
+### Atomic Handball
+
+*   available for: Commodore 64
+*   written by: Frank Lindsey
+*   published by: Green Valley Publishing, Inc.
+*   date released: 1985
+
+Certainly a contender for Best Premise: it's the year 2040 and
+all major sports have been replaced by the exciting _Atomic Handball!_
+
+### Equinox
+
+![screenshot](https://www.mobygames.com/images/shots/l/694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
+
+*   available for: Commodore 64, ZX Spectrum
+*   published by: Mikro-Gen, Ltd
+*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
+*   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
+
+The internet thinks the [theme music for this game](https://www.youtube.com/watch?v=2Of28GGPUIY) was written
+by Nick Jones, the main(?) developer of the C64 version of this game.  This is entirely possible.
+
+However, I swear I've also heard this song on radio/muzak while I was in Paris, twice.  French synthpop?
+
+It's entirely possible it was merely a similar tune, or that they are the same song but which came first?
+
+Game-wise, it's an okay game.
+
+Commodore 64 Type-Ins
+---------------------
+
 ### Crossroads
 
 ![screenshot](http://www.lemon64.com/games/screenshots/full/c/crossroads_01.gif)
@@ -141,24 +181,6 @@ This was a type-in game that appeared in
 September 1988.
 
 It's interesting because the lava works like a cellular automaton, a bit.
-
-### Equinox
-
-![screenshot](https://www.mobygames.com/images/shots/l/694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
-
-*   available for: Commodore 64, ZX Spectrum
-*   published by: Mikro-Gen, Ltd
-*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
-*   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
-
-The internet thinks the [theme music for this game](https://www.youtube.com/watch?v=2Of28GGPUIY) was written
-by Nick Jones, the main(?) developer of the C64 version of this game.  This is entirely possible.
-
-However, I swear I've also heard this song on radio/muzak while I was in Paris, twice.  French synthpop?
-
-It's entirely possible it was merely a similar tune, or that they are the same song but which came first?
-
-Game-wise, it's an okay game.
 
 ### Hovver Bovver
 

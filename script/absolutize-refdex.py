@@ -11,7 +11,7 @@ n = {}
 for key, value in data.items():
     assert 'anchor' in value and 'filename' in value
     n[key] = {
-        "url": "http://catseye.tc/view/The-Dossier/article/{}#{}".format(quote(value['filename']), value['anchor'])
+        "url": "https://catseye.tc/view/The-Dossier/article/{}#{}".format(quote(value['filename']), value['anchor'])
     }
 
 sys.stdout.write(json.dumps(n, indent=4, sort_keys=True))
