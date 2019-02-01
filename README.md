@@ -2,15 +2,17 @@ The Dossier
 ===========
 
 Writings by Chris Pressey.  May be curational in nature (whatever that means.)
-May pertain to Cat's Eye Technologies, or may not.  They are written in [Feedmark][]
-format, so in a pinch they can be read directly on GitHub, but they are canonically
-hosted at [http://catseye.tc/view/The-Dossier/README.md](http://catseye.tc/view/The-Dossier/README.md).
+May pertain to Cat's Eye Technologies, or may not.  They are written in
+[Feedmark][] format, so in a pinch they can be read directly in a Markdown
+viewer such as [git.catseye.tc](https://git.catseye.tc/), but they are
+canonically hosted at
+[https://catseye.tc/view/The-Dossier/README.md](https://catseye.tc/view/The-Dossier/README.md).
 
 Articles with a published-date are "frozen" and are not expected to be changed
-(edits will be noted).  All other articles are subject to change.  In particular,
-articles marked *(U)* are considered "under construction".
+(edits will be noted).  All other articles are subject to change.  In
+particular, articles marked *(U)* are considered "under construction".
 
-[Feedmark]: https://github.com/catseye/Feedmark
+[Feedmark]: https://catseye.tc/node/Feedmark
 
 Articles Contained Herein
 -------------------------
