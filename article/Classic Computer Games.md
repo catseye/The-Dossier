@@ -2,6 +2,7 @@ Classic Computer Games
 ======================
 
 *   status: permanently under construction
+*   schema: Computer game
 
 These are my recollections of a number of computer games, where "computer"
 means "runs on a computer but is not a [video game](Video%20Games%20of%20Note.md)

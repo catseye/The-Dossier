@@ -1,6 +1,8 @@
 Licensed-Character Video Games of Note
 ======================================
 
+*   schema: Video game
+
 This is a list of video games [of note](A%20Note%20on%20Items%20of%20Note.md),
 specifically ones which are based on a licensed character or other licensed content.
 

@@ -1,6 +1,8 @@
 Text Adventures of Note
 =======================
 
+*   schema: Text adventure
+
 These are my recollections of a number of text adventures
 [of note](A%20Note%20on%20Items%20of%20Note.md).
 Here I have omitted text adventures that I consider "classics", though,

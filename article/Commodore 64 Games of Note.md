@@ -3,6 +3,7 @@ Commodore 64 Games of Note
 
 *   common available for: Commodore 64
 *   status: permanently under construction
+*   schema: Video game
 
 This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Commodore 64.

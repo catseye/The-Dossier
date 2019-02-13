@@ -1,6 +1,8 @@
 Computer Sports Games of Note
 =============================
 
+*   schema: Video game
+
 This is a list of computer sports games of note.
 
 I'm not generally a huge fan of sports games.

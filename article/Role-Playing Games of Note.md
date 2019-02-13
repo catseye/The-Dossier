@@ -2,6 +2,8 @@ Role-Playing Games of Note
 ==========================
 
 *   status: permanently under construction
+*   schema: Role-playing game
+
 
 First off, I should note that the definition of "Role-Playing Game" being
 used here is, intentionally, rather broad.  It includes things like

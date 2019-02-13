@@ -1,6 +1,8 @@
 Computer Games of Note
 ======================
 
+*   schema: Computer game
+
 This is a list of computer games of note.
 
 "Computer game" is not well-defined here, but excludes

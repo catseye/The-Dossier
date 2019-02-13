@@ -2,6 +2,7 @@ An Esolang Reading List
 =======================
 
 *   status: under construction
+*   schema: Book
 
 This list has been hanging about in one form or another, on my website
 and on the esolangs.org wiki, for a while now.

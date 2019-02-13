@@ -2,6 +2,7 @@ Video Games of Note
 ===================
 
 *   status: permanently under construction
+*   schema: Video game
 
 I originally compiled this list (as a list of my favourite games) because
 I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),

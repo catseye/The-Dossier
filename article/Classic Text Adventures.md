@@ -1,6 +1,8 @@
 Classic Text Adventures
 =======================
 
+*   schema: Text adventure
+
 This is a list of text adventures which I've played, and which I have something
 to say about, but which were popular enough that I don't think I'll worry much
 about them being forgotten, thus they don't qualify for being included in
