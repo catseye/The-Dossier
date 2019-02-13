@@ -50,7 +50,7 @@ a world less orthogonal.
 *   available for: Apple II
 *   date released: 1973
 *   wikipedia: [Lemonade Stand](https://en.wikipedia.org/wiki/Lemonade_Stand)
-*   online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
+*   play online @ [archive.org](https://archive.org/details/a2_Lemonade_Stand_1979_Apple)
 
 This was going to be on the "Apple II Games of Note" list, but I realized it's
 not a video game, it's a computer game.  And it's probably a classic.  So here it is.

@@ -101,9 +101,9 @@ Gives the link for a walkthrough.
 
 Gives the link for a review.
 
-### online
+### play online
 
 *    optional: true
 *    multiple: true
 
-Multiple may occur.
+Gives the link where it can be played online.

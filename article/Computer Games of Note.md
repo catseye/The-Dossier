@@ -27,7 +27,7 @@ and are probably too strange or too obscure to be considered classics.
 *   entry @ [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RockStarAteMyHamster)
 *   entry @ [worldofspectrum](http://www.worldofspectrum.org/infoseekid.cgi?id=0009407)
 *   entry @ [lemon64](http://www.lemon64.com/games/details.php?ID=2167)
-*   online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
+*   play online @ [archive.org](https://archive.org/details/zx_Rock_Star_Ate_my_Hamster_1989_Codemasters_t_128K)
 
 It's a music industry management simulation game.
 
@@ -47,13 +47,13 @@ Based on the television show of the same name, yet diverging significantly from 
 
 ### Night Flight, an I.F.R. Simulator
 
-![screenshot](http://static.catseye.tc/images/curated/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
+![screenshot](https://static.catseye.tc/images/curated/screenshots/Night%20Flight%2C%20an%20IFR%20Simulator%20%28Tim%20Gerchmez%2C%201986%29.png)
 
 *   authors: Tim Gerchmez
 *   genre: Flight Simulator
 *   available for: Commodore 64
 *   date released: 1986
-*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
+*   download @ [catseye.tc](https://static.catseye.tc/redistfiles/c64/Night%20Flight%20%281985%29%28Tim%20Gerchmez%29%28PD%29.t64)
 
 In aviation, IFR (Instrument Flight Rules) refers to piloting an aircraft without looking out the window.
 This is useful in pitch darkness, in thick fog, or when writing a flight simulator where you don't want
@@ -82,7 +82,7 @@ TODO: I must research this.
 *   genre: Trivia
 *   available for: Apple iiGS
 *   date released: 1990
-*   online @ [archive.org](https://archive.org/details/a2_where_in_hell_is_carmen_santiago)
+*   play online @ [archive.org](https://archive.org/details/a2_where_in_hell_is_carmen_santiago)
 
 Use your knowledge of Dante's Inferno to locate Carmen Santiago.
 

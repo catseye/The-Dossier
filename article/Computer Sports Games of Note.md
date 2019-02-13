@@ -3,7 +3,8 @@ Computer Sports Games of Note
 
 *   schema: Video game
 
-This is a list of computer sports games of note.
+This is a list of computer sports games
+[of note](A%20Note%20on%20Items%20of%20Note.md).
 
 I'm not generally a huge fan of sports games.
 These are recognizably about a sport, but
