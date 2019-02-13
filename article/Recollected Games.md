@@ -1,6 +1,7 @@
 Recollected Games
 =================
 
+*   schema: Recollected game
 *   status: permanently under construction
 
 These are games which are possibly not remarkable enough nor classic enough
@@ -19,10 +20,10 @@ on (or were a conversion from) other systems.
 
 ### Starquake
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/starquake_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fstarquake_02.gif)
 
-*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
 *   published by: Bubble Bus Software
+*   wikipedia: [Starquake (video game)](https://en.wikipedia.org/wiki/Starquake_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2470)
 
 Perhaps a C64 classic, but perhaps not well-known enough to be a true classic.
@@ -31,7 +32,7 @@ The graphics are really good.
 
 ### Paradroid
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/p/paradroid_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fparadroid_02.gif)
 
 *   wikipedia: [Paradroid](https://en.wikipedia.org/wiki/Paradroid)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=1888)
@@ -40,7 +41,7 @@ Very likely a C64 classic.
 
 ### The Castles of Dr. Creep
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/c/castles_of_dr_creep_03.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcastles_of_dr_creep_03.gif)
 
 *   wikipedia: [The Castles of Dr. Creep](https://en.wikipedia.org/wiki/The_Castles_of_Dr._Creep)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=428)
@@ -49,7 +50,7 @@ This is more of a puzzle game than a video game.
 
 ### Spindizzy
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/spindizzy_03.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fspindizzy_03.gif)
 
 *   wikipedia: [Spindizzy (video game)](https://en.wikipedia.org/wiki/Spindizzy_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2419)
@@ -59,7 +60,7 @@ then later ported to other systems.
 
 ### Zig Zag
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/z/zig_zag_04.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzig_zag_04.gif)
 
 *   wikipedia: N/A
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2943)
@@ -68,14 +69,15 @@ Not to be confused with a different game called Zig Zag, also for the C64.
 
 ### Big Mac: The Mad Maintenance Man
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/b/big_mac_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fb%252Fbig_mac_02.gif)
 
 *   available for: Commodore 64
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=269)
 
+
 ### Everyone's a Wally
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/e/everyones_a_wally_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fe%252Feveryones_a_wally_02.gif)
 
 *   available for: Commodore 64
 *   wikipedia: [Everyone's a Wally](https://en.wikipedia.org/wiki/Everyone%27s_A_Wally)
@@ -90,10 +92,10 @@ if the Commodore 64 version was a later port or if they were developed simultane
 
 ### Ultimate Wizard
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/u/ultimate_wizard_04.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fu%252Fultimate_wizard_04.gif)
 
-*   available for: Commodore 64
 *   published by: Electronic Arts
+*   available for: Commodore 64
 *   date released: 1986
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2753)
 
@@ -102,20 +104,20 @@ kit, really.
 
 ### Cauldron II
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/c/cauldron_ii_04.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcauldron_ii_04.gif)
 
-*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
-*   available for: Commodore 64
 *   published by: Palace Software
+*   available for: Commodore 64
 *   date released: 1986
+*   wikipedia: [Cauldron II: The Pumpkin Strikes Back](https://en.wikipedia.org/wiki/Cauldron_II:_The_Pumpkin_Strikes_Back)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=434)
 
 The graphics are really good.
 
 ### Bubble Burst
 
-*   available for: Commodore 64
 *   published by: Spinnaker Software
+*   available for: Commodore 64
 *   date released: 1984
 *   video @ [youtube](https://www.youtube.com/watch?v=FzVB8841H6U)
 
@@ -123,9 +125,9 @@ Well, it's got a dinosaur in a bathtub, that's for sure.
 
 ### Atomic Handball
 
-*   available for: Commodore 64
 *   written by: Frank Lindsey
 *   published by: Green Valley Publishing, Inc.
+*   available for: Commodore 64
 *   date released: 1985
 
 Certainly a contender for Best Premise: it's the year 2040 and
@@ -133,12 +135,12 @@ all major sports have been replaced by the exciting _Atomic Handball!_
 
 ### Equinox
 
-![screenshot](https://www.mobygames.com/images/shots/l/694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
 
-*   available for: Commodore 64, ZX Spectrum
 *   published by: Mikro-Gen, Ltd
-*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
+*   available for: Commodore 64, ZX Spectrum
 *   entry @ [mobygames](https://www.mobygames.com/game/equinox_)
+*   video @ [youtube](https://www.youtube.com/watch?v=uDcYKV_dXUU)
 
 The internet thinks the [theme music for this game](https://www.youtube.com/watch?v=2Of28GGPUIY) was written
 by Nick Jones, the main(?) developer of the C64 version of this game.  This is entirely possible.
@@ -154,10 +156,10 @@ Commodore 64 Type-Ins
 
 ### Crossroads
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/c/crossroads_01.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fc%252Fcrossroads_01.gif)
 
-*   available for: Commodore 64
 *   published by: COMPUTE! Publications Inc.
+*   available for: Commodore 64
 *   date released: 1987
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=4094)
 
@@ -169,12 +171,12 @@ This is possibly one of the best type-in games to ever have appeared in a magazi
 
 ### Lava Flow
 
-![screenshot](http://www.gb64.com/Screenshots/L/Lava_Flow.png)
+![screenshot](https://static.catseye.tc/archive/www.gb64.com/Screenshots%252FL%252FLava_Flow.png)
 
-*   available for: Commodore 64
 *   published by: COMPUTE! Publications Inc.
-*   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
+*   available for: Commodore 64
 *   entry @ [issuu](https://issuu.com/zetmoon/docs/compute_gazette_issue_63_1988_sep/41)
+*   video @ [youtube](https://www.youtube.com/watch?v=jINbX-RH2Yk)
 
 This was a type-in game that appeared in
 [Compute! Gazette Issue 63](https://archive.org/details/1988-09-computegazette),
@@ -196,7 +198,7 @@ TRS-80
 
 ### Ninja Warrior
 
-![screenshot](http://www.mobygames.com/images/shots/l/221258-ninja-warrior-trs-80-coco-screenshot-white-belt-kick-or-jump.gif)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F221258-ninja-warrior-trs-80-coco-screenshot-white-belt-kick-or-jump.gif)
 
 *   written by: Programmer's Guild Inc.
 *   published by: Programmer's Guild Inc.
@@ -210,14 +212,14 @@ Arcade
 
 ### Congo Bongo
 
-![screenshot: coin-op](http://images.webmagic.com/klov.com/screens/C/wCongo_Bongo.png)
-![screenshot: Commodore 64](http://www.cbmitapages.it/c64/games/Congo_Bongo.gif)
-![screenshot: SG-1000](https://www.retrogames.cz/games/176/SG1000_01.gif)
+![screenshot: coin-op](https://static.catseye.tc/archive/images.webmagic.com/klov.com%252Fscreens%252FC%252FwCongo_Bongo.png)
+![screenshot: Commodore 64](https://static.catseye.tc/archive/www.cbmitapages.it/c64%252Fgames%252FCongo_Bongo.gif)
+![screenshot: SG-1000](https://static.catseye.tc/archive/www.retrogames.cz/games%252F176%252FSG1000_01.gif)
 
-*   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   published by: Sega
 *   available for: Arcade
 *   date released: 1983
+*   wikipedia: [Congo Bongo](https://en.wikipedia.org/wiki/Congo_Bongo)
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-5200-congo-bongo_s11727.html)
 
 Here is what is notable about Congo Bongo: the arcade game uses
@@ -234,13 +236,13 @@ Which raises the aesthetic question: at what point does the game stop being Cong
 
 ### Bosconian
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Bosconian_1.jpg/200px-Bosconian_1.jpg)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252Fthumb%252Fd%252Fd4%252FBosconian_1.jpg%252F200px-Bosconian_1.jpg)
 
-*   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
 *   published by: Namco
-*   date released: 1981
 *   available for: Arcade
 *   controls: joystick and 1 button
+*   date released: 1981
+*   wikipedia: [Bosconian](https://en.wikipedia.org/wiki/Bosconian)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=7196)
 *   video @ [youtube](https://www.youtube.com/watch?v=_nP5xKoObu4)
 
@@ -252,10 +254,10 @@ The first arcade game to offer a "continue?" option, apparently.
 
 ### Bomb Jack
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/1/1a/Bombjackarc.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F1%252F1a%252FBombjackarc.png)
 
-*   wikipedia: [Bomb Jack](https://en.wikipedia.org/wiki/Bomb_Jack)
 *   available for: Arcade
+*   wikipedia: [Bomb Jack](https://en.wikipedia.org/wiki/Bomb_Jack)
 
 I remember seeing it in Portugal.
 
@@ -275,7 +277,7 @@ I remember seeing it in an airport in Mexico.
 
 ### Kick-Man
 
-![screenshot](https://static.tvtropes.org/pmwiki/pub/images/kickmanarcadegame.jpg)
+![screenshot](https://static.catseye.tc/archive/static.tvtropes.org/pmwiki%252Fpub%252Fimages%252Fkickmanarcadegame.jpg)
 
 *   available for: Arcade
 *   wikipedia: [Kick (video game)](https://en.wikipedia.org/wiki/Kick_(video_game))
@@ -287,7 +289,7 @@ I remember it from a café in a small farming community in Manitoba.
 
 ### Crazy Climber
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/0/06/Crazy_Climber_by_Nihon_Bussan_Co._Ltd.JPG)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F0%252F06%252FCrazy_Climber_by_Nihon_Bussan_Co._Ltd.JPG)
 
 *   available for: Arcade
 *   wikipedia: [Crazy Climber](https://en.wikipedia.org/wiki/Crazy_Climber)
@@ -298,7 +300,7 @@ I remember it from a café in a small farming community in Manitoba.
 
 ### Mighty Guy
 
-![screenshot](http://www.gameclassification.com/files/games/Mighty-Guy.png)
+![screenshot](https://static.catseye.tc/archive/www.gameclassification.com/files%252Fgames%252FMighty-Guy.png)
 
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8691)
 *   video @ [youtube](https://www.youtube.com/watch?v=iTrGwWBKWrY)
@@ -334,11 +336,13 @@ Arcade - Less obscure, possibly classic, games
 
 ### Burgertime
 
+
 ### Reactor
+
 
 ### Scramble
 
-![screenshot](https://www.arcade-museum.com/images/118/1181242158130.png)
+![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F1181242158130.png)
 
 *   published by: Konami
 *   date released: 1981
@@ -352,10 +356,10 @@ and it keeps the game moving.
 
 ### Cloak & Dagger
 
-*   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
 *   genre: Shoot-'em-Up
 *   available for: Arcade
 *   controls: dual joystick
+*   wikipedia: [Cloak & Dagger](https://en.wikipedia.org/wiki/Cloak_%26_Dagger_(video_game))
 *   video @ [youtube](https://www.youtube.com/watch?v=8OryQRZ6Ez8)
 
 There's something that's always attracted me about being able to shoot out
@@ -388,7 +392,7 @@ MS-DOS
 
 ### Cyberbykes
 
-![screenshot](https://static.giantbomb.com/uploads/original/0/5318/614639-cyberb6.jpg)
+![screenshot](https://static.catseye.tc/archive/static.giantbomb.com/uploads%252Foriginal%252F0%252F5318%252F614639-cyberb6.jpg)
 
 *   wikipedia: https://en.wikipedia.org/wiki/Cyberbykes
 
@@ -397,9 +401,11 @@ was "Warwickshire"?), but I don't remember if I ever successfully jumped to it..
 
 ### Stunts
 
+
 ### Magic Carpet
 
 *   published by: Bullfrog
+
 
 ### Pinball Fantasies (?)
 
@@ -408,11 +414,11 @@ Console
 
 ### Katamari Damacy
 
-*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
 *   published by: Namco
 *   genre: Maze-Runner (nominally)
 *   available for: Sony PlayStation
 *   controls: dual analog joystick
+*   wikipedia: [Katamari Damacy](https://en.wikipedia.org/wiki/Katamari_Damacy)
 
 An extremely original game — sort of a four-dimensional maze game where the
 fourth dimension is scale. Rolling things up is also surprisingly satisfying
@@ -420,10 +426,10 @@ and disturbingly addictive. To top it all off, the soundtrack can't be beat.
 
 ### Super Monkey Ball 2
 
-*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
 *   genre: Maze-Runner
 *   available for: Nintendo GameCube
 *   controls: analog joystick
+*   wikipedia: [Super Monkey Ball 2](https://en.wikipedia.org/wiki/Super_Monkey_Ball_2)
 
 I didn't think I'd like this one, since I really don't like those wooden
 mazes that you tilt with the two dials — which is essentially what this
