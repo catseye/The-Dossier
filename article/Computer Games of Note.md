@@ -17,7 +17,7 @@ and are probably too strange or too obscure to be considered classics.
 
 ### Rock Star Ate My Hamster
 
-![screenshot](http://tacgr.emuunlim.com/downloads/gamescr/r/rockstaratemyhamster2.png)
+![screenshot](https://static.catseye.tc/archive/tacgr.emuunlim.com/downloads%252Fgamescr%252Fr%252Frockstaratemyhamster2.png)
 
 *   authors: unknown
 *   published by: Codemasters
@@ -33,7 +33,7 @@ It's a music industry management simulation game.
 
 ### The Prisoner
 
-![screenshot](https://www.filfre.net/wp-content/uploads/2011/11/Prisoner-The-_000000007.png)
+![screenshot](https://static.catseye.tc/archive/www.filfre.net/wp-content%252Fuploads%252F2011%252F11%252FPrisoner-The-_000000007.png)
 
 *   authors: David Mullich
 *   published by: Edu-Ware
@@ -76,7 +76,7 @@ TODO: I must research this.
 
 ### Where in Hell is Carmen Santiago
 
-![screenshot](https://ia801209.us.archive.org/18/items/a2_where_in_hell_is_carmen_santiago/screenshot_20_thumb.jpg)
+![screenshot](https://static.catseye.tc/archive/ia801209.us.archive.org/18%252Fitems%252Fa2_where_in_hell_is_carmen_santiago%252Fscreenshot_20_thumb.jpg)
 
 *   authors: St. John M. Morrison
 *   genre: Trivia

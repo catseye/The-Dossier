@@ -25,7 +25,7 @@ These are presented in roughly the order I encountered them in.
 
 ### African Adventure: In Search of Dr. Livingston
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/a/african_adventure_01.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fa%252Fafrican_adventure_01.gif)
 
 *   written by: R. Fullerton, B. Fullerton, C. Russell, K. Russell
 *   available for: Commodore PET, Commodore 64, PC-DOS
@@ -57,7 +57,7 @@ It's reminiscent of Scott Adams' adventures a bit.
 
 ### Cranston Manor
 
-![screenshot](https://ia902504.us.archive.org/22/items/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag/screenshot_03.jpg)
+![screenshot](https://static.catseye.tc/archive/ia902504.us.archive.org/22%252Fitems%252Fa2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag%252Fscreenshot_03.jpg)
 
 *   written by: Ken Williams, Harold DeWitz
 *   published by: On-Line Systems
@@ -77,7 +77,7 @@ That's all.  Once you've seen that, you can stop.
 
 ### Creature Venture
 
-![screenshot](http://gue.cgwmuseum.org/galleries/screenshots/thumbs/creature_venture2s.gif)
+![screenshot](https://static.catseye.tc/archive/gue.cgwmuseum.org/galleries%252Fscreenshots%252Fthumbs%252Fcreature_venture2s.gif)
 
 *   written by: Highlands Computer Services
 *   published by: Highlands Computer Services
@@ -97,7 +97,7 @@ programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_M
 
 ### Time and Magik (Trilogy)
 
-![screenshot](http://www.mobygames.com/images/shots/l/242826-time-and-magik-the-trilogy-dos-screenshot-price-of-magik-corridor.png)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F242826-time-and-magik-the-trilogy-dos-screenshot-price-of-magik-corridor.png)
 
 *   written by: Sue Gazzard, others, Level 9
 *   published by: Mandarin
@@ -141,7 +141,7 @@ your sanity (at least according to a stat.)
 
 ### Winter Wonderland
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/w/winter_wonderland_01.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fw%252Fwinter_wonderland_01.gif)
 
 *   written by: Tim Walsha, Simon Lipscomb
 *   published by: Incentive Software
@@ -171,7 +171,7 @@ there's a WOMPA! in it.  Yes, with exclamation point.
 
 ### The Secret of St. Bride's
 
-![screenshot](http://www.worldofspectrum.org/pub/sinclair/screens/in-game/s/SecretOfSt.BridesThe.gif)
+![screenshot](https://static.catseye.tc/archive/www.worldofspectrum.org/pub%252Fsinclair%252Fscreens%252Fin-game%252Fs%252FSecretOfSt.BridesThe.gif)
 
 *   written by: Priscilla Langridge
 *   published by: St. Bride's School

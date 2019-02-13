@@ -27,7 +27,7 @@ been offloaded to articles dedicated to the particular system:
 
 ### Typhoon Thompson
 
-![screenshot](http://www.atarimagazines.com/st-log/issue29/35-3.jpg)
+![screenshot](https://static.catseye.tc/archive/www.atarimagazines.com/st-log%252Fissue29%252F35-3.jpg)
 
 *   written by: Dan Gorlin
 *   published by: Brøderbund
@@ -52,7 +52,7 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 
 ### Pepper II
 
-![screenshot](http://www.vizzed.com/videogames/mame/screenshot/Pepper%20II-2.png)
+![screenshot](https://static.catseye.tc/archive/www.vizzed.com/videogames%252Fmame%252Fscreenshot%252FPepper%252520II-2.png)
 
 *   published by: Exidy
 *   genre: Maze-Runner
@@ -69,7 +69,7 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 ### City Connection
 
-![screenshot](http://www.vizzed.com/videogames/mame/screenshot/City%20Connection%20%28set%201%29-2.png)
+![screenshot](https://static.catseye.tc/archive/www.vizzed.com/videogames%252Fmame%252Fscreenshot%252FCity%252520Connection%252520%252528set%2525201%252529-2.png)
 
 *   published by: Jaleco
 *   genre: Platformer (nominally)
@@ -87,7 +87,7 @@ Not sure if it's truly a platformer, though.
 
 ### Lost Tomb
 
-![screenshot](https://www.arcade-museum.com/images/118/118124212725.png)
+![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F118124212725.png)
 
 *   genre: Shoot-'em'-Up
 *   available for: Arcade
@@ -108,7 +108,7 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 
 ### Looping
 
-![screenshot](https://www.arcade-museum.com/images/118/11812421277.png)
+![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F11812421277.png)
 
 *   published by: Venture Line
 *   genre: Maze-runner
@@ -133,7 +133,7 @@ free, non-commercial use.
 
 ### Liquid Kids
 
-![screenshot](https://www.arcade-museum.com/images/118/1181242126249.png)
+![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F1181242126249.png)
 
 *   published by: Taito
 *   genre: Platformer
@@ -150,7 +150,7 @@ shape of the kiwi.)
 
 ### The New Zealand Story
 
-![screenshot](https://www.arcade-museum.com/images/118/118124214176.png)
+![screenshot](https://static.catseye.tc/archive/www.arcade-museum.com/images%252F118%252F118124214176.png)
 
 *   published by: Taito
 *   genre: Platformer
@@ -166,7 +166,7 @@ pistols, magical fireball-belching staffs, and the like.
 
 ### Llamatron
 
-![screenshot](http://www.atarimania.com/st/screens/llamatron_llamasoft_6.gif)
+![screenshot](https://static.catseye.tc/archive/www.atarimania.com/st%252Fscreens%252Fllamatron_llamasoft_6.gif)
 
 *   written by: Jeff Minter
 *   genre: Shoot-'em'-Up

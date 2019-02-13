@@ -15,7 +15,7 @@ but note that in this instance it does include
 
 ### Cool Boarders 2
 
-![screenshot](http://www.vizzed.com/videogames/psx/screenshot/Cool%20Boarders%202-2.jpg)
+![screenshot](https://static.catseye.tc/archive/www.vizzed.com/videogames%252Fpsx%252Fscreenshot%252FCool%252520Boarders%2525202-2.jpg)
 
 *   written by: unknown
 *   genre: Sports
@@ -32,7 +32,7 @@ beat.
 
 ### Super Dodge Ball
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3a/Nekketsu_koukou_dodgeball_bu.jpg)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F3%252F3a%252FNekketsu_koukou_dodgeball_bu.jpg)
 
 *   written by: unknown
 *   genre: Sports
@@ -47,7 +47,7 @@ players are literally giants.
 
 ### Sam & Ed Basketball
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/sam_and_ed_basketball_01.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fsam_and_ed_basketball_01.gif)
 
 *   written by: unknown
 *   published by: COMPUTE! Publications Inc.

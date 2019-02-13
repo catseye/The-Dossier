@@ -10,7 +10,7 @@ which is dedicated to games for that 6502-based home system, the Atari 2600 VCS.
 
 ### Haunted House
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/f/f3/Haunted_House_Atari_2600_screenshot1a.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252Ff%252Ff3%252FHaunted_House_Atari_2600_screenshot1a.png)
 
 *   written by: James Andreasen
 *   genre: Graphic Adventure
@@ -23,7 +23,7 @@ Good use of invisibility.
 
 ### Adventure
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/f/f3/Atariadventure.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252Ff%252Ff3%252FAtariadventure.png)
 
 *   written by: Warren Robinett
 *   genre: Graphic Adventure
@@ -39,7 +39,7 @@ this notion.)
 
 ### Yars' Revenge
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/8/85/A2600_Yars_Revenge.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F8%252F85%252FA2600_Yars_Revenge.png)
 
 *   written by: Howard Scott Warshaw
 *   genre: Shoot-'em-Up

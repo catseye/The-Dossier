@@ -14,7 +14,7 @@ That said, here is my list of role-playing games
 
 ### Alphaman
 
-![screenshot](http://www.myabandonware.com/media/screenshots/a/alphaman-315/alphaman_1.gif)
+![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fa%252Falphaman-315%252Falphaman_1.gif)
 
 *   written by: Jeff Olson
 *   available for: MS-DOS
@@ -47,7 +47,7 @@ Greek alphabet soup anyway isn't it.
 
 ### Mazes and Monsters
 
-![montage](https://archive.org/download/mazes_and_monsters/mazes_and_monsters.gif)
+![montage](https://static.catseye.tc/archive/archive.org/download%252Fmazes_and_monsters%252Fmazes_and_monsters.gif)
 
 *   date released: 1982
 *   wikipedia: [Mazes and Monsters](https://en.wikipedia.org/wiki/Mazes_and_Monsters)
@@ -62,7 +62,7 @@ young Tom Hanks.
 
 ### The Spawn of Fashan
 
-![cover](https://www.rpg.net/pictures/cache/picthumb28836-medium.jpg)
+![cover](https://static.catseye.tc/archive/www.rpg.net/pictures%252Fcache%252Fpicthumb28836-medium.jpg)
 
 *   written by: Kirby Lee Davis
 *   published by: The Games of Fashan
@@ -76,7 +76,7 @@ it first-hand, but alas I have not.
 
 ### Below the Root
 
-![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
+![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fb%252Fbelow-the-root-4v0%252Fthumbs%252Fbelow-the-root_4.png)
 
 *   published by: Windham Classics
 *   available for: Commodore 64, Apple II, MS-DOS
@@ -101,7 +101,7 @@ Even though those are otherwise unrelated.
 
 ### Galactic Gladiators
 
-![screenshot](http://www.mobygames.com/images/shots/l/34565-galactic-gladiators-pc-booter-screenshot-the-game-board.gif)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F34565-galactic-gladiators-pc-booter-screenshot-the-game-board.gif)
 
 *   written by: Tom Reamy
 *   published by: Strategic Simulations, Inc.
@@ -121,7 +121,7 @@ But finding a scan of the manual to confirm that would be lovely.
 
 ### Wonder Boy in Monster Land
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/5/5e/Wonder_Boy_in_Monsterland.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F5%252F5e%252FWonder_Boy_in_Monsterland.png)
 
 *   written by: Ryuichi Nishizawa
 *   published by: Sega
@@ -143,7 +143,7 @@ most likely be familiar with is Zelda 2.
 
 ### Adventure Construction Set
 
-![screenshot](http://www.gamebase64.com/oldsite/gameofweek/adventures/adventureconstrset/Land_of_Aventuria.gif)
+![screenshot](https://static.catseye.tc/archive/www.gamebase64.com/oldsite%252Fgameofweek%252Fadventures%252Fadventureconstrset%252FLand_of_Aventuria.gif)
 
 *   available for: Commodore 64, others
 *   controls: joystick and one button
@@ -167,7 +167,7 @@ trigger all the objects when the player walks over it, or bumps into it.
 
 ### Sword of Fargoal
 
-![screenshot](http://www.myabandonware.com/media/screenshots/s/sword-of-fargoal-65p/thumbs/sword-of-fargoal_2.png)
+![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fs%252Fsword-of-fargoal-65p%252Fthumbs%252Fsword-of-fargoal_2.png)
 
 *   written by: Jeff McCord
 *   published by: Epyx
@@ -183,7 +183,7 @@ Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 
 ### Dungeon Master
 
-![screenshot](http://img2.game-oldies.com/sites/default/files/styles/large/public/snaps/commodore-amiga/dungeonmaster-v1-1-0833.png)
+![screenshot](https://static.catseye.tc/archive/img2.game-oldies.com/sites%252Fdefault%252Ffiles%252Fstyles%252Flarge%252Fpublic%252Fsnaps%252Fcommodore-amiga%252Fdungeonmaster-v1-1-0833.png)
 
 *   published by: FTL Games
 *   available for: Atari ST, Amiga

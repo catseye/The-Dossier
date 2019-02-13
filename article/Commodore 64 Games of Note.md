@@ -10,7 +10,7 @@ which is dedicated to games for that 6502-based home system, the Commodore 64.
 
 ### Dynamite Dan
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/d/dynamite_dan_01.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fd%252Fdynamite_dan_01.gif)
 
 *   written by: Rod Bowkett
 *   published by: Mirrorsoft
@@ -32,7 +32,7 @@ multicolour.  The music is also good.  The game itself is quite hard.
 
 ### Street Surfer
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/street_surfer_03.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fstreet_surfer_03.gif)
 
 *   written by: David Barbour
 *   published by: Mastertronic
@@ -60,7 +60,7 @@ speed.
 
 ### Pharaoh's Curse
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/p/pharaohs_curse_05.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fp%252Fpharaohs_curse_05.gif)
 
 *   written by: Steve Coleman
 *   published by: Synapse Software
@@ -86,7 +86,7 @@ Also: the bird!
 
 ### Fire Ant
 
-![screenshot](https://www.c64-wiki.com/images/1/18/FireantLevel1.png)
+![screenshot](https://static.catseye.tc/archive/www.c64-wiki.com/images%252F1%252F18%252FFireantLevel1.png)
 
 *   written by: Unknown
 *   genre: Graphic Adventure(?)
@@ -104,7 +104,7 @@ known mechanisms.
 
 ### Necromancer
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/3/3f/Necromancer_screen_snap.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F3%252F3f%252FNecromancer_screen_snap.png)
 
 *   written by: Bill Williams
 *   published by: Synapse Software
@@ -126,7 +126,7 @@ explains it better than I can.
 
 ### Whistler's Brother
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/w/whistlers_brother_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fw%252Fwhistlers_brother_02.gif)
 
 *   written by: Louis Ewens
 *   published by: Brøderbund
@@ -148,7 +148,7 @@ it was that the graphics felt kind of uninspired.
 
 ### Zeppelin
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/z/zeppelin_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fz%252Fzeppelin_02.gif)
 
 *   written by: William Mataga, David Barbour
 *   published by: Synapse Software
@@ -178,7 +178,7 @@ do seem to be able to go in circles quite easily.
 
 ### Slinky
 
-![screenshot](http://www.lemon64.com/games/screenshots/full/s/slinky_02.gif)
+![screenshot](https://static.catseye.tc/archive/www.lemon64.com/games%252Fscreenshots%252Ffull%252Fs%252Fslinky_02.gif)
 
 *   written by: Unknown
 *   published by: Cosmi

@@ -17,7 +17,7 @@ and/or obtain them on physical media.
 
 ### Racked Off
 
-![screenshot](http://tnd64.unikat.sk/games/racked_off_game.png)
+![screenshot](https://static.catseye.tc/archive/tnd64.unikat.sk/games%252Fracked_off_game.png)
 
 *   written by: Richard Bayliss
 *   genre: Collect-the-Dots
@@ -32,7 +32,7 @@ random element — the baddies' movements are completely determined by your own.
 
 ### Joe Gunn
 
-![screenshot](http://www.mobygames.com/images/shots/l/442005-joe-gunn-commodore-64-screenshot-this-is-where-we-start-out.png)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F442005-joe-gunn-commodore-64-screenshot-this-is-where-we-start-out.png)
 
 *   written by: Georg Rottensteiner, Paul Pridham, Howard Kistler, Thomas Egeskov Petersen
 *   genre: Graphic Adventure
@@ -51,7 +51,7 @@ and button+up to use an object in your inventory.
 
 ### Fairy Well
 
-![screenshot](http://csdb.dk/gfx/releases/103000/103151.png)
+![screenshot](https://static.catseye.tc/archive/csdb.dk/gfx%252Freleases%252F103000%252F103151.png)
 
 *   written by: Mix256, TDM of Triad
 *   genre: Graphic Adventure?
@@ -65,7 +65,7 @@ A good game which I remember liking enough to play through to the end.
 
 ### Fall Down
 
-![screenshot](http://atariage.com/2600/screenshots/s_FallDown_SP_3.png)
+![screenshot](https://static.catseye.tc/archive/atariage.com/2600%252Fscreenshots%252Fs_FallDown_SP_3.png)
 
 *   written by: Aaron Curtis
 *   genre: Platformer?

@@ -10,7 +10,7 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 
 ### Russki Duck
 
-![screenshot](http://www.platypuscomix.net/applepalooza/russki2.gif)
+![screenshot](https://static.catseye.tc/archive/www.platypuscomix.net/applepalooza%252Frusski2.gif)
 
 *   written by: [Nasir Gebelli](https://en.wikipedia.org/wiki/Nasir_Gebelli)
 *   genre: Graphic Adventure
@@ -34,7 +34,7 @@ I like how the signs on the streets helpfully tell you that they are ONE WAY.
 
 ### Beer Run
 
-![screenshot](http://www.mobygames.com/images/shots/s/819976-beer-run-apple-ii-screenshot-elevator-appears.jpg)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fs%252F819976-beer-run-apple-ii-screenshot-elevator-appears.jpg)
 
 *   written by: Mark Turmell
 *   published by: Sirius Software, Inc
@@ -67,7 +67,7 @@ I'm not really motivated to.
 
 ### Swashbuckler
 
-![screenshot](http://www.myabandonware.com/media/screenshots/s/swashbuckler-bkh/thumbs/swashbuckler_2.png)
+![screenshot](https://static.catseye.tc/archive/www.myabandonware.com/media%252Fscreenshots%252Fs%252Fswashbuckler-bkh%252Fthumbs%252Fswashbuckler_2.png)
 
 *   written by: Paul Stephenson
 *   published by: Datamost
@@ -86,7 +86,7 @@ saw it) figures of the characters makes it stand out in my mind.
 
 ### Star Maze
 
-![screenshot](https://www.video-games-museum.com/en/screenshots/Apple%20II/3/13056-ingame-Star-Maze.png)
+![screenshot](https://static.catseye.tc/archive/www.video-games-museum.com/en%252Fscreenshots%252FApple%252520II%252F3%252F13056-ingame-Star-Maze.png)
 
 *   written by: Eastman Computing(?)
 *   published by: Sir-Tech
@@ -103,7 +103,7 @@ made it seem very high-concept (to me, at the time.)
 
 ### Sabotage
 
-![screenshot](https://upload.wikimedia.org/wikipedia/en/6/65/Sabotage_computer_game.png)
+![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F6%252F65%252FSabotage_computer_game.png)
 
 *   written by: Mark Allen
 *   published by: On-Line Systems
@@ -121,7 +121,7 @@ Paratrooper, which was a clone of this game.
 
 ### Penny Arcade
 
-![screenshot](https://archive.org/services/img/a2_Penny_Arcade_1979_Apple)
+![screenshot](https://static.catseye.tc/archive/archive.org/services%252Fimg%252Fa2_Penny_Arcade_1979_Apple)
 
 *   written by: Bill Budge
 *   published by: Apple Computer, Inc.
@@ -143,7 +143,7 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 
 ### Sammy Lightfoot
 
-![screenshot](http://www.mobygames.com/images/shots/l/88587-sammy-lightfoot-apple-ii-screenshot-using-the-trampoline.gif)
+![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F88587-sammy-lightfoot-apple-ii-screenshot-using-the-trampoline.gif)
 
 *   written by: Warren Schwader
 *   published by: Sierra On-Line
