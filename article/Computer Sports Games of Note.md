@@ -78,10 +78,22 @@ July 1987.
 
 It took me a long time to locate this game again.
 
-Basically it was a darts game.  Your player stand on the right, the
+Basically it was a darts game.  Your player stands on the right, the
 dartboard is on the left, and you threw the dart in an arc and hoped
 to hit the dartboard.
 
 It was meant to be played with a paddle, but it was also playable
 with an analog joystick, which leads to the "smash your thumb" technique
 for a perfect dart launch, which I will describe here at some point.
+
+### Atomic Handball
+
+*   written by: Frank Lindsey
+*   published by: Green Valley Publishing, Inc.
+*   genre: Sports
+*   available for: Commodore 64
+*   controls: joystick and 1 button
+*   date released: 1985
+
+Certainly a contender for Best Premise: it's the year 2040 and
+all major sports have been replaced by the exciting _Atomic Handball!_

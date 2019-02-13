@@ -123,16 +123,6 @@ The graphics are really good.
 
 Well, it's got a dinosaur in a bathtub, that's for sure.
 
-### Atomic Handball
-
-*   written by: Frank Lindsey
-*   published by: Green Valley Publishing, Inc.
-*   available for: Commodore 64
-*   date released: 1985
-
-Certainly a contender for Best Premise: it's the year 2040 and
-all major sports have been replaced by the exciting _Atomic Handball!_
-
 ### Equinox
 
 ![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F694778-equinox-commodore-64-screenshot-that-teleporter-is-no-use.png)
