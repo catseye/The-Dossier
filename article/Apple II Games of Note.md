@@ -6,7 +6,8 @@ Apple II Games of Note
 *   status: permanently under construction
 
 This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
-which is dedicated to games for that 6502-based home system, the Apple ][+.  Or Apple //e.
+which is dedicated to games for that 6502-based home computer system, the
+Apple II.  Or Apple ][.  Or Apple ][+.  Or Apple //e.
 
 ### Russki Duck
 
@@ -24,7 +25,8 @@ which is dedicated to games for that 6502-based home system, the Apple ][+.  Or 
 
 I have no words.  It seemed very high-concept, at the time.  Possibly because
 the enemy agents did things quite independently of what you were doing.
-Possibly because you have a crude inventory.  Possibly because the different
+Possibly because you have a crude inventory — when you pick up an item, you
+literally carry it along with you.  Or possibly because the different
 locations were shown at different scale.
 
 The epithet "Russki" seems pretty dated, not to say obsolete, now, but there
@@ -101,6 +103,11 @@ saw it) figures of the characters makes it stand out in my mind.
 Sort of "Asteroids with walls", but moreseo.  The omnidirectional scrolling and physics
 made it seem very high-concept (to me, at the time.)
 
+And considering that the Apple II did not have any sophisticated graphics hardware
+to support the omnidirectional scrolling, the software to implement it is probably
+pretty impressive.  I imagine it computes what parts of the screen need to be updated
+(but I haven't researched it so this is just a guess, I don't really know).
+
 ### Sabotage
 
 ![screenshot](https://static.catseye.tc/archive/upload.wikimedia.org/wikipedia%252Fen%252F6%252F65%252FSabotage_computer_game.png)
@@ -141,6 +148,9 @@ the BASIC part.
 
 To a kid like me at the time, that made it seem like an effing *mystery*.
 
+But Penny Arcade is also notable for being one of the few games I remember having
+a copyright date in the 1970's — the other being [Dart Room][].
+
 ### Sammy Lightfoot
 
 ![screenshot](https://static.catseye.tc/archive/www.mobygames.com/images%252Fshots%252Fl%252F88587-sammy-lightfoot-apple-ii-screenshot-using-the-trampoline.gif)
@@ -163,3 +173,6 @@ etc.)
 
 You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_Kill_Sammy_19xx_Grue_The)
 or watch a video "walkthrough" @ [youtube](https://www.youtube.com/watch?v=GfTJD8tvxi4).
+
+[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
+
