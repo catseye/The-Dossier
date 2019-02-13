@@ -186,5 +186,5 @@ It deserves mention if for no other reason than you get to carve your own
 dungeon out of the rock as part of the game.
 
 [RUBE]: http://catseye.tc/node/RUBE
-[Exult]: https://github.com/exult/exult
+[Exult]: http://exult.sourceforge.net/docs.php
 

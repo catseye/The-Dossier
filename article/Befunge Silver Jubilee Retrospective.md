@@ -61,7 +61,7 @@ So, as I said, it comes down to what you will accept as one.
 
 Befunge-93 is not Turing-complete.  (Heck, it's not even PDA-complete!)
 But you know what?  That never stopped Wim Rijnders from
-[writing Hunt the Wumpus in it](https://github.com/catseye/Befunge-93/blob/master/eg/wumpus.bf).
+[writing Hunt the Wumpus in it](https://git.catseye.tc/Befunge-93/blob/master/eg/wumpus.bf).
 What I'm saying is, I get the impression that a lot of programmers have a rather fuzzy,
 not to say off-kilter, notion of
 what it means for a language to be Turing-complete.  Well, I was in that boat too, once,
@@ -82,7 +82,7 @@ three-dimensional member is called Trefunge. (You can probably see the naming co
 there.)
 
 Unefunge, Befunge, and Trefunge are defined by the
-[Funge-98 spec](https://github.com/catseye/Funge-98/).  The spec alludes to
+[Funge-98 spec](https://git.catseye.tc/Funge-98/).  The spec alludes to
 the existence of Funges of yet higher dimensionalities, and even of different
 topologies, but does not actually specify them.  (It should be noted that the
 word "spec" can be short for both "specification" and "speculative".)

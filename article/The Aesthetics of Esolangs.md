@@ -53,7 +53,7 @@ be primarily a parody of the programming languages of its time,
 as just one example, would seem to go well beyond that.  Likewise, [ILLGOL][]
 may have started purely as a send-up of compiler-based languages, but it
 soon turned into
-[a bizarre experiment in mixed media](https://github.com/catseye/Illgol-Grand-Mal/blob/master/3.%20Illberon/doc/irl-may.jpg)
+[a bizarre experiment in mixed media](https://git.catseye.tc/Illgol-Grand-Mal/blob/master/3.%20Illberon/doc/irl-may.jpg)
 which defies easy classification.  And I can't look at any of
 [Gerson Kurz][]' languages without feeling very strongly that satire is *not*
 the only thing going on there.  It's not just piss-taking, it's actually

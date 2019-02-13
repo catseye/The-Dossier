@@ -29,7 +29,7 @@ experience programming things in DOS, to shed light on those parts.
 [DOSBox]: https://www.dosbox.com/
 [FreeDOS]: http://www.freedos.org/
 [QEMU]: http://www.qemu-project.org/
-[v86]: https://github.com/copy/v86
+[v86]: https://copy.sh/v86/
 
 ### Development Tools
 
