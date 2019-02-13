@@ -3,6 +3,7 @@
 # Invoke like the following, rewrites the file in-place:
 # PYTHONPATH=../Feedmark/src ./script/rewrite-images.py article/Some\ Modern\ Retrogames.md
 
+import json
 import sys
 
 from argparse import ArgumentParser

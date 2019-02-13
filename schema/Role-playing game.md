@@ -1,11 +1,8 @@
-Video game (schema)
-===================
+Role-playing game (schema)
+==========================
 
 This is a schema which defines, for now, a few rudimentary things about
-what properties Video Game entries in The Dossier should have.
-
-The order in which they are listed here induces an order in which they
-should appear on each entry.
+what properties Role-playing game entries in The Dossier should have.
 
 ### written by
 
@@ -13,33 +10,33 @@ should appear on each entry.
 
 The author(s) of the game.
 
-### under the auspices of
-
-*   optional: true
-
-under the auspices of
-
 ### published by
 
 *    optional: true
 
-The entity which published the video game.
-
-### genre
-
-Genre.
+The entity which published the game.
 
 ### available for
+
+*    optional: true
 
 The platform or platforms that the video game is or was available for.
 
 ### controls
+
+*    optional: true
 
 What the game is controlled with.
 
 ### date released
 
 The date that the game was released.
+
+### license
+
+*    optional: true
+
+The license under which it was released.
 
 ### written using
 

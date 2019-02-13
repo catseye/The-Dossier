@@ -1,8 +1,8 @@
 Video Games of Note
 ===================
 
-*   status: permanently under construction
 *   schema: Video game
+*   status: permanently under construction
 
 I originally compiled this list (as a list of my favourite games) because
 I figured that if [Wouter could have such a page](http://strlen.com/rants/fav_games.html),
@@ -29,13 +29,13 @@ been offloaded to articles dedicated to the particular system:
 
 ![screenshot](http://www.atarimagazines.com/st-log/issue29/35-3.jpg)
 
-*   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 *   written by: Dan Gorlin
 *   published by: Brøderbund
 *   genre: Shoot-'em'-Up (nominally)
 *   available for: Amiga 500, Atari ST
-*   date released: 1988
 *   controls: mouse and keyboard
+*   date released: 1988
+*   wikipedia: [Typhoon Thompson](https://en.wikipedia.org/wiki/Typhoon_Thompson)
 
 Quite possibly the cutest game ever.
 
@@ -54,12 +54,12 @@ Not actually a shoot-'em-up, as the author pointed out in his interview for
 
 ![screenshot](http://www.vizzed.com/videogames/mame/screenshot/Pepper%20II-2.png)
 
-*   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
 *   published by: Exidy
 *   genre: Maze-Runner
 *   available for: Arcade
-*   date released: 1982
 *   controls: joystick
+*   date released: 1982
+*   wikipedia: [Pepper II](https://en.wikipedia.org/wiki/Pepper_II)
 
 To the untrained eye, it's a ripoff of Pac-Man: fill in all the regions
 instead of eat all the dots. But there's something about it that sets it
@@ -71,12 +71,12 @@ apart — maybe it's that the action is more frenetic and somehow smoother
 
 ![screenshot](http://www.vizzed.com/videogames/mame/screenshot/City%20Connection%20%28set%201%29-2.png)
 
-*   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
 *   published by: Jaleco
 *   genre: Platformer (nominally)
 *   available for: Arcade
-*   date released: 1985
 *   controls: joystick and 1 button
+*   date released: 1985
+*   wikipedia: [City Connection](https://en.wikipedia.org/wiki/City_Connection)
 *   review @ [videochums](https://videochums.com/review/arcade-archives-city-connection)
 
 A jumping minivan? Yes, a jumping minivan. And European paddywagons. And a
@@ -91,8 +91,8 @@ Not sure if it's truly a platformer, though.
 
 *   genre: Shoot-'em'-Up
 *   available for: Arcade
-*   date released: 1982
 *   controls: dual joystick
+*   date released: 1982
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8456)
 
 Gnarly game, but very hard. I especially liked the 3D effect on the
@@ -110,15 +110,15 @@ Well, maybe I'm overstating it a bit, but you get the idea.
 
 ![screenshot](https://www.arcade-museum.com/images/118/11812421277.png)
 
+*   published by: Venture Line
+*   genre: Maze-runner
+*   available for: Arcade, Colecovision
+*   controls: joystick
+*   date released: 1982
+*   download @ [mamedev](http://mamedev.org/roms/looping/)
 *   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8452)
 *   entry @ [mobygames](http://www.mobygames.com/game/looping)
 *   entry @ [consoleclassix](http://www.consoleclassix.com/colecovision/looping.html)
-*   published by: Venture Line
-*   available for: Arcade, Colecovision
-*   date released: 1982
-*   controls: joystick
-*   genre: Maze-runner
-*   download @ [mamedev](http://mamedev.org/roms/looping/)
 
 In this game, your goal is to pilot an airplane over some terrain
 and then through a field of obstacles — inside a maze, essentially.
@@ -135,13 +135,13 @@ free, non-commercial use.
 
 ![screenshot](https://www.arcade-museum.com/images/118/1181242126249.png)
 
-*   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
-*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8433)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
-*   date released: 1990
 *   controls: joystick and 2 buttons
+*   date released: 1990
+*   wikipedia: [Liquid Kids](https://en.wikipedia.org/wiki/Liquid_Kids)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8433)
 
 Very cute. Quite possibly a sequel or pseudo-sequel to The New Zealand Story,
 since you play what appears to be a platypus, and there are oblique references
@@ -152,12 +152,13 @@ shape of the kiwi.)
 
 ![screenshot](https://www.arcade-museum.com/images/118/118124214176.png)
 
-*   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
-*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8859)
 *   published by: Taito
 *   genre: Platformer
 *   available for: Arcade
 *   controls: joystick and 2 buttons
+*   date released: 1988
+*   wikipedia: [The New Zealand Story](https://en.wikipedia.org/wiki/The_New_Zealand_Story)
+*   entry @ [arcade-museum](https://www.arcade-museum.com/game_detail.php?game_id=8859)
 
 "This game is dedicated to all maze fans." However, that should not deter
 fans of: kiwis, archery, flying machines shaped like bears' heads, laser
@@ -167,11 +168,12 @@ pistols, magical fireball-belching staffs, and the like.
 
 ![screenshot](http://www.atarimania.com/st/screens/llamatron_llamasoft_6.gif)
 
-*   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 *   written by: Jeff Minter
 *   genre: Shoot-'em'-Up
 *   available for: Atari ST, Amiga, MS-DOS
 *   controls: joystick and 1 button
+*   date released: 1991
+*   wikipedia: [Llamatron](https://en.wikipedia.org/wiki/Llamatron)
 
 Fast-paced, psychedaelic, mindless fun, like most Jeff Minter games.
 Basically a clone of the arcade game Robotron, but with shaggy, smelly

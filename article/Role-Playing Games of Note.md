@@ -1,9 +1,8 @@
 Role-Playing Games of Note
 ==========================
 
-*   status: permanently under construction
 *   schema: Role-playing game
-
+*   status: permanently under construction
 
 First off, I should note that the definition of "Role-Playing Game" being
 used here is, intentionally, rather broad.  It includes things like
@@ -18,14 +17,13 @@ That said, here is my list of role-playing games
 ![screenshot](http://www.myabandonware.com/media/screenshots/a/alphaman-315/alphaman_1.gif)
 
 *   written by: Jeff Olson
-*   genre: Roguelike
 *   available for: MS-DOS
+*   controls: keyboard
 *   date released: 1995
 *   license: Shareware
-*   controls: keyboard
+*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/msdos/Alphaman.zip)
 *   entry @ [roguebasin](http://www.roguebasin.com/index.php?title=Alphaman)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/alphaman-315)
-*   download @ [catseye.tc](http://static.catseye.tc/redistfiles/msdos/Alphaman.zip)
 
 A post-apocalyptic roguelike which is alternately realistic (I'm thinking
 particularly of the weather patterns) and silly (you can be attacked by
@@ -51,7 +49,9 @@ Greek alphabet soup anyway isn't it.
 
 ![montage](https://archive.org/download/mazes_and_monsters/mazes_and_monsters.gif)
 
-*   online @ [archive.org](https://archive.org/details/mazes_and_monsters)
+*   date released: 1982
+*   wikipedia: [Mazes and Monsters](https://en.wikipedia.org/wiki/Mazes_and_Monsters)
+*   video @ [archive.org](https://archive.org/details/mazes_and_monsters)
 
 A fictional role-playing game that appears in the made-for-TV movie of the
 same name.
@@ -78,10 +78,10 @@ it first-hand, but alas I have not.
 
 ![screenshot](http://www.myabandonware.com/media/screenshots/b/below-the-root-4v0/thumbs/below-the-root_4.png)
 
-*   wikipedia: [Below the Root](https://en.wikipedia.org/wiki/Below_the_Root_(video_game))
 *   published by: Windham Classics
-*   date released: 1984
 *   available for: Commodore 64, Apple II, MS-DOS
+*   date released: 1984
+*   wikipedia: [Below the Root](https://en.wikipedia.org/wiki/Below_the_Root_(video_game))
 *   entry @ [myabandonware](http://www.myabandonware.com/game/below-the-root-3e)
 
 I never played this much myself, but I knew two people who did; one on a Commodore 128
@@ -106,8 +106,8 @@ Even though those are otherwise unrelated.
 *   written by: Tom Reamy
 *   published by: Strategic Simulations, Inc.
 *   available for: Apple II, MS-DOS
-*   date released: 1983
 *   controls: keyboard
+*   date released: 1983
 *   entry @ [myabandonware](https://www.myabandonware.com/game/galactic-gladiators-u)
 *   entry @ [mobygames](http://www.mobygames.com/game/pc-booter/galactic-gladiators)
 *   video @ [youtube](https://www.youtube.com/watch?v=VwBSBldXSVo)
@@ -126,8 +126,8 @@ But finding a scan of the manual to confirm that would be lovely.
 *   written by: Ryuichi Nishizawa
 *   published by: Sega
 *   available for: Arcade
-*   date released: 1987
 *   controls: joystick and 2 buttons
+*   date released: 1987
 *   wikipedia: [Wonder Boy in Monster Land](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_Land)
 
 Sequel to [Wonder Boy][] (a platformer where the protagonist due to a
@@ -145,10 +145,9 @@ most likely be familiar with is Zelda 2.
 
 ![screenshot](http://www.gamebase64.com/oldsite/gameofweek/adventures/adventureconstrset/Land_of_Aventuria.gif)
 
-*   genre: Role-playing
-*   date released: 1984
 *   available for: Commodore 64, others
 *   controls: joystick and one button
+*   date released: 1984
 *   wikipedia: [Adventure Construction Set](https://en.wikipedia.org/wiki/Adventure_Construction_Set)
 *   review @ [gamebase64](http://www.gamebase64.com/oldsite/gameofweek/7/gotw_adventureconstrset.htm)
 
@@ -171,11 +170,10 @@ trigger all the objects when the player walks over it, or bumps into it.
 ![screenshot](http://www.myabandonware.com/media/screenshots/s/sword-of-fargoal-65p/thumbs/sword-of-fargoal_2.png)
 
 *   written by: Jeff McCord
-*   genre: Roguelike
-*   available for: Commodore VIC-20, Commodore 64
 *   published by: Epyx
-*   date released: 1982
+*   available for: Commodore VIC-20, Commodore 64
 *   controls: joystick and keyboard
+*   date released: 1982
 *   wikipedia: [Sword of Fargoal](https://en.wikipedia.org/wiki/Sword_of_Fargoal)
 *   entry @ [myabandonware](http://www.myabandonware.com/game/sword-of-fargoal-5df)
 *   entry @ [mobygames](https://www.mobygames.com/game/sword-of-fargoal)
@@ -187,11 +185,10 @@ Apshai trilogy, which it isn't.  I believe it was written in BASIC.
 
 ![screenshot](http://img2.game-oldies.com/sites/default/files/styles/large/public/snaps/commodore-amiga/dungeonmaster-v1-1-0833.png)
 
-*   genre: Role-playing
-*   available for: Atari ST, Amiga
 *   published by: FTL Games
-*   date released: 1987
+*   available for: Atari ST, Amiga
 *   controls: mouse and keyboard
+*   date released: 1987
 *   wikipedia: [Dungeon Master](https://en.wikipedia.org/wiki/Dungeon_Master_(video_game))
 *   entry @ [game-oldies](http://game-oldies.com/play-online/dungeon-master-commodore-amiga)
 

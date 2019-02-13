@@ -2,8 +2,8 @@ Commodore 64 Games of Note
 ==========================
 
 *   common available for: Commodore 64
-*   status: permanently under construction
 *   schema: Video game
+*   status: permanently under construction
 
 This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Commodore 64.
@@ -92,6 +92,7 @@ Also: the bird!
 *   genre: Graphic Adventure(?)
 *   available for: Commodore 64
 *   controls: joystick and 1 button
+*   date released: 1983
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=916)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Fire_Ant)
 *   video @ [youtube](https://www.youtube.com/watch?v=L7msIkgpZEY)
@@ -110,6 +111,7 @@ known mechanisms.
 *   genre: Action
 *   available for: Commodore 64, Atari 800
 *   controls: joystick and 1 button
+*   date released: 1982
 *   wikipedia: [Necromancer](https://en.wikipedia.org/wiki/Necromancer_(video_game))
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 *   entry @ [myabandonware](https://www.myabandonware.com/game/necromancer-5l2)
@@ -131,6 +133,7 @@ explains it better than I can.
 *   genre: Platformer(?)
 *   available for: Commodore 64
 *   controls: joystick and 1 button
+*   date released: 1984
 *   entry @ [atarimania](http://www.atarimania.com/game-atari-400-800-xl-xe-whistler-s-brother_5760.html)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2846)
 *   video @ [youtube](https://www.youtube.com/watch?v=lT32TokTYqc)
@@ -152,6 +155,7 @@ it was that the graphics felt kind of uninspired.
 *   genre: Maze-runner
 *   available for: Commodore 64
 *   controls: joystick and 1 button
+*   date released: 1984
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2940)
 *   entry @ [c64-wiki](https://www.c64-wiki.com/wiki/Zeppelin)
 *   video @ [youtube](https://www.youtube.com/watch?v=PVFVQ85uB-E)

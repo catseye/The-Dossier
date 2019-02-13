@@ -2,8 +2,8 @@ Apple II Games of Note
 ======================
 
 *   common available for: Apple II
-*   status: permanently under construction
 *   schema: Video game
+*   status: permanently under construction
 
 This list is an offshoot of [Video Games of Note](Video%20Games%20of%20Note.md)
 which is dedicated to games for that 6502-based home system, the Apple ][+.  Or Apple //e.
@@ -150,6 +150,7 @@ To a kid like me at the time, that made it seem like an effing *mystery*.
 *   genre: Platformer
 *   available for: Apple II, Commodore 64, Colecovision, IBM PC
 *   controls: keyboard or joystick(?)
+*   date released: 1983
 *   wikipedia: [Sammy Lightfoot](https://en.wikipedia.org/wiki/Sammy_Lightfoot)
 *   entry @ [mobygames](http://www.mobygames.com/game/apple2/sammy-lightfoot)
 *   play online @ [archive.org](https://archive.org/details/a2_Sammy_Lightfoot_1983_Sierra_cr_Mr._Krac_Man_o)
