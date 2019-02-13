@@ -89,9 +89,9 @@ for a perfect dart launch, which I will describe here at some point.
 
 ### Atomic Handball
 
-![screenshot - title](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20title%20%28Frank%20Lindsey%2C%201985%29.png)
-![screenshot - instructions](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20instructions%20%28Frank%20Lindsey%2C%201985%29.png)
-![screenshot - gameplay](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20gameplay%20%28Frank%20Lindsey%2C%201985%29.png)
+![screenshot: title](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20title%20%28Frank%20Lindsey%2C%201985%29.png)
+![screenshot: instructions](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20instructions%20%28Frank%20Lindsey%2C%201985%29.png)
+![screenshot: gameplay](http://static.catseye.tc/images/curated/screenshots/Atomic%20Handball%20-%20gameplay%20%28Frank%20Lindsey%2C%201985%29.png)
 
 *   written by: Frank Lindsey
 *   published by: Green Valley Publishing, Inc.

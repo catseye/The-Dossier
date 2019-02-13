@@ -68,11 +68,23 @@ Here is an article about a different IFR simulator: [IFR (Flight Simulator)](htt
 
 ### 1D Tetris
 
+![screenshot: title](http://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20title%20%28CSSCGC%201998%29.png)
+![screenshot: gameplay](http://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20gameplay%20%28CSSCGC%201998%29.png)
+
 *   authors: unknown
 *   genre: Puzzle
-*   date released: unknown
+*   available for: ZX Spectrum
+*   date released: 1998
+*   play online @ [archive.org](https://archive.org/details/zx_1D_Tetris_1998_CSSCGC)
 
-TODO: I must research this.
+It looks like it was an entry to a compo called "CSSCGC 1998".
+
+You could take it as a joke, but you could also take it as a profound
+statement in Dimensionalism.  This is not so strange.  People have
+[serious mathematical questions about 1-dimensional Minesweeper](https://math.stackexchange.com/questions/699864/),
+after all.
+
+Hat tip: @ArcOnInternet at twitter.com.
 
 ### Where in Hell is Carmen Santiago
 
@@ -86,4 +98,4 @@ TODO: I must research this.
 
 Use your knowledge of Dante's Inferno to locate Carmen Santiago.
 
-Hat tip: @BadWrongFun @ witches.town.
+Hat tip: @BadWrongFun at (the now defunct) witches.town.
