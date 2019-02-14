@@ -1,12 +1,15 @@
 Lost Games
 ==========
 
+*   schema: Lost game
 *   status: permanently under construction
 
 These are games that I've encountered in the past, and which I haven't been
 able to find any information about on the Internet, in part because I may
-not remember their exact names.  (City Connection was in this category for
-a long time until somehow I remembered its (non-obvious) name.)
+not remember their exact names.  [City Connection][] was in this category for
+a long time until somehow I remembered its (non-obvious) name.  Other
+games that have been found since this page was written are
+[Dart Room][] and [Ninja Warrior][].
 
 ### Canadian politics simulator
 
@@ -85,17 +88,6 @@ There might have also been spellcasting in this, with the protagonist
 being some kind of wizard, but I might be conflating it with other
 games I saw at that time.
 
-### Ninja game
-
-*   available for: TRS-80
-
-Side-scroller.  You play a ninja, with a sai.  You travel rightward
-(you cannot stop.)  Hazards include ninjas travelling leftward,
-rocks on ground, rocks falling from sky(?).  You can dispatch all(?)
-of these hazards with your sai.  I cannot remember if you can jump.
-Istr mountains in the background.  Or a sort of temple that you
-eventually reach?  I may be confabulating that.
-
 ### Would you two like you join me on a fantasia?
 
 *   seen-on: Arcade
@@ -162,3 +154,8 @@ as an icon inside a small glass container, like an hourglass.
 And one of them was a hallucinogenic mushroom which, when
 you grabbed it, caused your view of the maze to wobble and
 swim.
+
+[City Connection]: Video%20Games%20of%20Note.md#city-connection
+[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Ninja Warrior]: Recollected%20Games.md#ninja-warrior
+

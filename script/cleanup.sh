@@ -47,3 +47,8 @@ feedmark --input-refdex=refdex.json \
          "$ARTICLES/Classic Computer Games.md" \
          "$ARTICLES/Computer Games of Note.md" \
          --rewrite-markdown || exit 1
+
+feedmark --input-refdex=refdex.json \
+         --check-against-schema=schema/Lost\ game.md \
+         "$ARTICLES/Lost Games.md" \
+         --rewrite-markdown || exit 1
