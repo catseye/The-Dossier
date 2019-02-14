@@ -61,5 +61,5 @@ External Articles
 -----------------
 
 *   [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) (May 2015)
-*   [Bootstrap Zero](https://github.com/catseye/SITU-SOL/tree/master/doc/bootstrap-zero) (RetroChallenge 2015/07)
+*   [Bootstrap Zero](https://catseye.tc/view/SITU-SOL/doc/bootstrap-zero/README.md) (RetroChallenge 2015/07)
 *   [Overview of a Story Compiler](https://gist.github.com/cpressey/6324fff6ef0dfdf69b96) (NaNoGenMo 2015)
