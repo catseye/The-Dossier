@@ -115,9 +115,9 @@ Even though those are otherwise unrelated.
 
 You know those "tactics" games?  This is an early example of a "tactics" game.
 
-It was written in [BASIC][], and from what I understand, the full rules were spelled out in
-the manual (so if you really wanted to, you could probably play it by hand, on paper.)
-But finding a scan of the manual to confirm that would be lovely.
+It was written in BASIC, and from what I understand, the full rules were spelled out in
+the manual — so if you really wanted to, you could (with some effort) play it with
+paper and pencil.  But finding a scan of the manual to confirm that would be lovely.
 
 ### Wonder Boy in Monster Land
 
@@ -130,8 +130,8 @@ But finding a scan of the manual to confirm that would be lovely.
 *   date released: 1987
 *   wikipedia: [Wonder Boy in Monster Land](https://en.wikipedia.org/wiki/Wonder_Boy_in_Monster_Land)
 
-Sequel to [Wonder Boy][] (a platformer where the protagonist due to a
-strange metabolic condition must eat fruit continuously).
+Sequel to [Wonder Boy][] (a platformer where the protagonist, due to a
+strange metabolic condition, must eat fruit continuously).
 
 It's an arcade game, nominally an action game, but it
 plays far more like an RPG.  Thus, it is an "action RPG".
