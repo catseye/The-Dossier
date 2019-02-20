@@ -68,8 +68,8 @@ Here is an article about a different IFR simulator: [IFR (Flight Simulator)](htt
 
 ### 1D Tetris
 
-![screenshot: title](http://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20title%20%28CSSCGC%201998%29.png)
-![screenshot: gameplay](http://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20gameplay%20%28CSSCGC%201998%29.png)
+![screenshot: title](https://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20title%20%28CSSCGC%201998%29.png)
+![screenshot: gameplay](https://static.catseye.tc/images/curated/screenshots/1D%20Tetris%20-%20gameplay%20%28CSSCGC%201998%29.png)
 
 *   authors: unknown
 *   genre: Puzzle
