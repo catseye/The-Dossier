@@ -30,6 +30,7 @@ Articles Contained Herein
 *   [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md) (11)
 *   [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
 *   [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md) (May 2018)
+*   [Some Notes on Proving Programs Correct](article/Some%20Notes%20on%20Proving%20Programs%20Correct.md) *(U)*
 
 ### Games
 
