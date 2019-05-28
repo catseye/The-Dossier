@@ -75,6 +75,13 @@ compute the same thing.  And that can be very unsatisfying
 if you were expecting it to tell you something about the
 result or what it means.
 
+To conclude, let's revisit the bucket metaphor above, but
+instead of programs, consider the following objects: pairs
+consisting of a program and a set of requirements.  Call these
+objects _specified programs_.  Now, you _can_, in principle, divide
+these objects into two buckets: the specified programs that meet
+their specification, and the specified programs that don't.
+
 Footnotes
 ---------
 
