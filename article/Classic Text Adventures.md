@@ -46,7 +46,6 @@ For the whole story, see [Dungeon][].
 *   published by: Infocom
 *   available for: Z-Machine
 *   date released: 1983
-*   personally finished: yes
 *   wikipedia: [Enchanter](https://en.wikipedia.org/wiki/Enchanter_(video_game))
 *   play online @ archive.org: [Enchanter](https://archive.org/details/a2_Enchanter_1983_Infocom)
 
@@ -64,7 +63,6 @@ off very differently from the other two.
 *   published by: Infocom
 *   available for: Z-Machine
 *   date released: 1984
-*   personally finished: yes
 *   wikipedia: [The Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy_(video_game))
 *   play online @ bbc: [The Hitchhiker's Guide to the Galaxy Game - 30th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/)
 

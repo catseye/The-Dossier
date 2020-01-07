@@ -5,21 +5,19 @@ Text Adventures of Note
 
 These are my recollections of a number of text adventures
 [of note](A%20Note%20on%20Items%20of%20Note.md).
-Here I have omitted text adventures that I consider "classics", though,
+
+I have omitted text adventures that I consider "classics",
 and have put those in another list: [Classic Text Adventures](Classic%20Text%20Adventures.md).
 
 It also may help to read
-[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures.md),
+[Perspective on Text Adventures](Perspective%20on%20Text%20Adventures.md) first,
 especially if you have trouble following my perspective on text adventures.
 
 You'll note I'm not particularly adept at actually *solving* these things.
-In fact, with only one exception, when I have solved a game, it was with hints
-from friends, or an clues booklet, or a walkthrough.  I don't feel bad about
-this because when I've been stuck I've usually been stuck for an awfully long
-time — and, in the end, text adventures are meant to be *played*!
-
-Text Adventures I've Played
----------------------------
+In fact, with only [one exception](#winter-wonderland), when I have gotten to the end of a game,
+it was with the help of hints from friends, or a clues booklet, or a walkthrough.
+I don't feel bad about this, because when I've been stuck, I've usually been stuck
+for an awfully long time — and, in the end, text adventures are meant to be *played*!
 
 These are presented in roughly the order I encountered them in.
 
@@ -46,14 +44,14 @@ conversion to C64?  I'm not sure.
 
 An interesting game, although parts are probably borderline
 politically incorrect at this point in history (but really, the same can be
-said for the original *Get Smart*.)  So far, I've gotten about half the possible
+said for the original *Get Smart*.)  As text adventures go, it's not fantastic,
+but it's alright.  It's reminiscent of Scott Adams' adventures a bit.
+
+To date, I've gotten about half the possible
 points.  I either can't remember, or never figured out, how to get the wood
 without getting bitten by the spider.  I can deal with the viper and the
 alligator, but am not clear on the purpose behind either.  No idea what the
 foul-smelling stuff or the wild dog is for...
-
-**Why you should play it**: Well, it's not a fantastic game, but it's alright.
-It's reminiscent of Scott Adams' adventures a bit.
 
 ### Cranston Manor
 
@@ -69,10 +67,12 @@ It's reminiscent of Scott Adams' adventures a bit.
 *   play online @ [archive.org](https://archive.org/details/a2_Cranston_Manor_1981_On_Line_Systems_cr_Black_Bag)
 
 Not the best adventure game, certainly, but memorable for some reason.
-Never solved it, but pretty sure I could without too much help, if I ever
+
+I never got to the end, but pretty sure I could without too much help, if I ever
 found the time to go back to it.
 
-**Why you should play it**: That suit of armor that follows you around.
+The main thing that makes it worth playing at all, is
+that suit of armor that follows you around.
 That's all.  Once you've seen that, you can stop.
 
 ### Creature Venture
@@ -92,8 +92,6 @@ Whatever other merits this game may or may not have, the main feature
 is the Oozlybub, a creature which has popped up in a few other places
 in artistic endeavours in my life, such as being part of the name of my
 programming language [Oozlybub and Murphy](http://catseye.tc/node/Oozlybub_and_Murphy).
-
-**Why you should play it**: For the Oozlybub, obviously.
 
 ### Time and Magik (Trilogy)
 
@@ -135,8 +133,8 @@ actually, the graphics.  Individual locations don't have individual
 pictures, but they do have representative pictures, which generally
 match the mood (though not always.)
 
-**Why you should play it**: The multitude of locations.  The graphics
-(at least in the Amiga version.)  Watching yourself incrementally losing
+Highlights of these games, for me, were the multitude of locations, the graphics
+(at least in the Amiga version,) and watching yourself incrementally losing
 your sanity (at least according to a stat.)
 
 ### Winter Wonderland
@@ -149,7 +147,6 @@ your sanity (at least according to a stat.)
 *   date released: 1986
 *   written using: Graphic Adventure Creator
 *   with graphics: yes
-*   personally finished: yes
 *   entry @ [mobygames](http://www.mobygames.com/game/winter-wonderland)
 *   entry @ [gamebase64](http://www.gb64.com/game.php?id=8624&d=18)
 *   entry @ [lemon64](http://www.lemon64.com/?game_id=2866)
@@ -164,10 +161,10 @@ I should add, it's not a particularly difficult game.
 Note that this is *not* the same game as the 1999 game by Laura Knauth
 with the same name.
 
-**Why you should play it**: Well, maybe you shouldn't waste your time on
+If you're considering playing this one, well, maybe you shouldn't waste your time on
 it, but it has its moments.  The 4th-wall-breaking announcement of the name
 of the game over the radio at the very beginning is kind of eerie.  Also,
-there's a WOMPA! in it.  Yes, with exclamation point.
+there's a WOMPA! in it.  Yes, including the exclamation point.
 
 ### The Secret of St. Bride's
 
@@ -195,13 +192,13 @@ for one reporter's report.
 It was written in, and reflects, an actual environment where grown women
 play-acted being schoolchildren in an intentionally anachronistic setting.
 
-In fact, doing a little research — the School of St. Bride's is apparently
-[linked to the Aristasians](http://www.aristasia.net/history.html).
-Which makes total sense, if you know anything about the Aristasians;
+In fact, I did a little research and found that the School of St. Bride's is
+apparently [linked to the Aristasians](http://www.aristasia.net/history.html),
+which makes total sense, if you know something about the Aristasians;
 I just didn't make the connection until reading that history.
 
-**Why you should play it**: Mainly if you want to play the first,
-and possibly only, Aristasian (or proto-Aristasian) text adventure?
+So you could try playing this one if you want to play the first,
+and possibly only, Aristasian text adventure.
 I mean it's not a *terrible* game (although the parser is pretty bad and
 some of the puzzles involve guessing at the parser) but the main draw
-would seem to be historical.
+for anyone who's not an Aristasian themself would seem to be historical.

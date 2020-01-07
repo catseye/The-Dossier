@@ -2,7 +2,7 @@
 
 ARTICLES=../The-Dossier/article
 
-(cd $ARTICLES && feedmark --output-refdex \
+(cd $ARTICLES && feedmark --output-refdex --output-refdex-single-filename \
                           *\ of\ Note.md \
                           "Recollected Games.md" \
                           "Some Modern Retrogames.md" \

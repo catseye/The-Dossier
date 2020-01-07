@@ -43,10 +43,6 @@ Date that the text adventure was first released.
 
 *    optional: true
 
-### personally finished
-
-*    optional: true
-
 ### wikipedia
 
 *    optional: true
