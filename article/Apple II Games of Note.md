@@ -174,5 +174,5 @@ etc.)
 You can see "Kill Sammy" online @ [archive.org](https://archive.org/details/a2_Kill_Sammy_19xx_Grue_The)
 or watch a video "walkthrough" @ [youtube](https://www.youtube.com/watch?v=GfTJD8tvxi4).
 
-[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Dart Room]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Computer%20Sports%20Games%20of%20Note.md#dart-room
 

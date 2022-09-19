@@ -38,7 +38,7 @@ in the control room on the dam and being told "What a concept."
 
 For the whole story, see [Dungeon][].
 
-[Dungeon]: Classic%20Text%20Adventures.md#dungeon
+[Dungeon]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Classic%20Text%20Adventures.md#dungeon
 
 ### Enchanter
 

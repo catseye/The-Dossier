@@ -161,8 +161,8 @@ Compare and contrast Gregory Yob getting fed up with the omnipresence of
 the Cartesian grid in seek-and-locate computer games, and designing
 Hunt the Wumpus to break out of that pattern.
 
-[Zork I]: Classic%20Text%20Adventures.md#zork-i
-[African Adventure: In Search of Dr. Livingston]: Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
+[Zork I]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Classic%20Text%20Adventures.md#zork-i
+[African Adventure: In Search of Dr. Livingston]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Text%20Adventures%20of%20Note.md#african-adventure-in-search-of-dr-livingston
 [Write your own Adventure Programs for your Microcomputer]: An%20Esolang%20Reading%20List.md#write-your-own-adventure-programs-for-your-microcomputer
 [Microprocessor Programming for Computer Hobbyists]: An%20Esolang%20Reading%20List.md#microprocessor-programming-for-computer-hobbyists
 

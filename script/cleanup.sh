@@ -16,14 +16,15 @@ ARTICLES=../The-Dossier/article
                           "Some Modern Retrogames.md" \
                           "Classic Computer Games.md" \
                           "Classic Text Adventures.md" \
-                 >../dossier-games-refdex.json) || exit 1
+                 >../old-dossier-games-refdex.json) || exit 1
 
 (cd $ARTICLES && feedmark --output-refdex --output-refdex-single-filename \
                           "20th-Century Visual Artists of Note.md" \
                           "An Esolang Reading List.md" \
                  >../dossier-refdex.json) || exit 1
 
-REFDEXES=dossier-refdex.json,dossier-games-refdex.json
+# Obtain sgon-refdex from Some-Games-of-Note
+REFDEXES=dossier-refdex.json,sgon-refdex.json
 
 # non-lists
 feedmark --input-refdexes=$REFDEXES \

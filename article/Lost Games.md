@@ -155,7 +155,7 @@ And one of them was a hallucinogenic mushroom which, when
 you grabbed it, caused your view of the maze to wobble and
 swim.
 
-[City Connection]: Video%20Games%20of%20Note.md#city-connection
-[Dart Room]: Computer%20Sports%20Games%20of%20Note.md#dart-room
-[Ninja Warrior]: Recollected%20Games.md#ninja-warrior
+[City Connection]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Arcade%20Games%20of%20Note.md#city-connection
+[Dart Room]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Ninja Warrior]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Recollected%20Games.md#ninja-warrior
 

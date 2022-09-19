@@ -67,5 +67,5 @@ It's also notable for the early use of a "glitch art"-like effect: the neutral
 zone is indicated with visual noise which is actually the 6502 machine code of the
 game itself, being displayed on the screen as if it were a bitmap.
 
-[Colossal Cave]: Classic%20Text%20Adventures.md#colossal-cave
+[Colossal Cave]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Classic%20Text%20Adventures.md#colossal-cave
 
