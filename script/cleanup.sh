@@ -23,8 +23,7 @@ ARTICLES=../The-Dossier/article
                           "An Esolang Reading List.md" \
                  >../dossier-refdex.json) || exit 1
 
-# Obtain sgon-refdex from Some-Games-of-Note
-REFDEXES=dossier-refdex.json,sgon-refdex.json
+REFDEXES=dossier-refdex.json,../Chrysoberyl/misc-refdex/sgon-refdex.json
 
 # non-lists
 feedmark --input-refdexes=$REFDEXES \
