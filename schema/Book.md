@@ -23,20 +23,26 @@ Date the book was published (TODO: change this)
 
 ISBN
 
+### publisher
+
+Publisher
+
 ### wikipedia
 
 *   optional: true
 
 Wikipedia
 
-### publisher
-
-Publisher
-
 ### online
 
 *   optional: true
 *   multiple: true
 
-Body
+A URL where the book can be read online.
 
+### borrow
+
+*   optional: true
+*   multiple: true
+
+A URL where the book can be borrowed online.
