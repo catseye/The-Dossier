@@ -156,6 +156,6 @@ you grabbed it, caused your view of the maze to wobble and
 swim.
 
 [City Connection]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Arcade%20Games%20of%20Note.md#city-connection
-[Dart Room]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Computer%20Sports%20Games%20of%20Note.md#dart-room
+[Dart Room]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Sports%20Video%20Games%20of%20Note.md#dart-room
 [Ninja Warrior]: https://github.com/cpressey/Some-Games-of-Note/blob/master/article/Recollected%20Games.md#ninja-warrior
 
