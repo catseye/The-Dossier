@@ -78,7 +78,7 @@ Writing about code, where the writing is primary and the code is generally merel
 
 ### Bootstrap Zero
 
-*   link: [Bootstrap Zero](https://catseye.tc/view/SITU-SOL/doc/bootstrap-zero/README.md) ()
+*   link: [Bootstrap Zero](https://catseye.tc/view/SITU-SOL/doc/bootstrap-zero/README.md)
 *   publish-date: Jul 2015
 *   written-during: RetroChallenge 2015/07
 *   external: true
@@ -99,10 +99,13 @@ Writing about code, where the writing is primary and the code is generally merel
 ### Information Hiding in Scheme
 
 *   link: [Information Hiding in Scheme](https://github.com/cpressey/Information-Hiding-in-Scheme#readme)
+*   publish-date: May 2021
 *   external: true
 
 ### Destructorizers
 
+*   link: [Destructorizers](https://github.com/cpressey/Destructorizers#readme)
+*   publish-date: May 2022
 *   external: true
 
 Lists
