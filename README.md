@@ -6,84 +6,128 @@ writings are contained in this repository, or exist elsewhere (and
 are merely linked to from here).  For more information,
 [see below](#further-information).
 
-Programming Languages and Programming
--------------------------------------
+Articles
+--------
 
 ### Retrospective on Language Design
 
-*   link: [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md) (Jul 2010)
+*   link: [Retrospective on Language Design](article/Retrospective%20on%20Language%20Design.md)
+*   publish-date: Jul 2010
+*   subjects: programming languages, esolang
 
 ### Programming Languages as an Artistic Medium
 
-*   link: [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md) (Apr 2013)
+*   link: [Programming Languages as an Artistic Medium](article/Programming%20Languages%20as%20an%20Artistic%20Medium.md)
+*   publish-date: Apr 2013
+*   subjects: programming languages, art
 
 ### The Aesthetics of Esolangs
 
-*   link: [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md) (Jun 2013)
+*   link: [The Aesthetics of Esolangs](article/The%20Aesthetics%20of%20Esolangs.md)
+*   publish-date: Jun 2013
+*   subjects: programming languages, aesthetics
 
-### An Esolang Reading List
+### A Basic Theory of Video Games
 
-*   link: [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md) (15) *(U)*
-
-### Some Production Programming Languages
-
-*   link: [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md) (11)
-
-### Interview with Daniel Temkin
-
-*   link: [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey) (May 2015)
-*   external: true
-
-### Bootstrap Zero
-
-*   link: [Bootstrap Zero](https://catseye.tc/view/SITU-SOL/doc/bootstrap-zero/README.md) (RetroChallenge 2015/07)
-*   external: true
+*   link: [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md)
+*   publish-date: May 2017
+*   subjects: video games, formal theory
 
 ### Blurry Memories of DOS Programming
 
-*   link: [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md) (May 2017)
+*   link: [Blurry Memories of DOS Programming](article/Blurry%20Memories%20of%20DOS%20Programming.md)
+*   publish-date: May 2017
+*   subjects: programming, DOS
+
+### Perspective on Text Adventures
+
+*   link: [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures.md)
+*   publish-date: Aug 2017
+*   subjects: text adventures, aesthetics
+
+### Some Notes on Drawing
+
+*   link: [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md)
+*   publish-date: Oct 2017
+*   subjects: drawing
 
 ### Befunge Silver Jubilee Retrospective
 
-*   link: [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md) (May 2018)
+*   link: [Befunge Silver Jubilee Retrospective](article/Befunge%20Silver%20Jubilee%20Retrospective.md)
+*   publish-date: May 2018
+*   subjects: Befunge (esolang)
 
 ### Some Notes on Proving Programs Correct
 
 *   link: [Some Notes on Proving Programs Correct](article/Some%20Notes%20on%20Proving%20Programs%20Correct.md)
-*   under-construction: true
+*   subjects: program proving
 
-Games
+Interviews
+----------
+
+### Interview with Daniel Temkin
+
+*   link: [Interview with Daniel Temkin](http://esoteric.codes/post/118780138572/interview-with-chris-pressey)
+*   publish-date: May 2015
+*   external: true
+
+Expositions
+-----------
+
+Writing about code, where the writing is primary and the code is generally merely illustrative.
+
+### Bootstrap Zero
+
+*   link: [Bootstrap Zero](https://catseye.tc/view/SITU-SOL/doc/bootstrap-zero/README.md) ()
+*   publish-date: Jul 2015
+*   written-during: RetroChallenge 2015/07
+*   external: true
+
+### Overview of a Story Compiler
+
+*   link: [Overview of a Story Compiler](https://git.catseye.tc/MARYSUE/blob/master/doc/Overview%20of%20a%20Story%20Compiler.md)
+*   publish-date: Nov 2015
+*   written-during: NaNoGenMo 2015
+*   external: true
+
+### Nested Modal Transducers
+
+*   link: [Nested Modal Transducers](https://github.com/cpressey/Nested-Modal-Transducers#readme)
+*   publish-date: Sep 2019
+*   external: true
+
+### Information Hiding in Scheme
+
+*   link: [Information Hiding in Scheme](https://github.com/cpressey/Information-Hiding-in-Scheme#readme)
+*   external: true
+
+### Destructorizers
+
+*   external: true
+
+Lists
 -----
+
+### An Esolang Reading List
+
+*   link: [An Esolang Reading List](article/An%20Esolang%20Reading%20List.md)
+*   item-count: 15
+
+### Some Production Programming Languages
+
+*   link: [Some Production Programming Languages](article/Some%20Production%20Programming%20Languages.md)
+*   item-count: 11
 
 ### Some Games of Note
 
 *   link: [Some Games of Note](https://github.com/cpressey/Some-Games-of-Note)
+*   item-count: many
 *   external: true
-
-### A Basic Theory of Video Games
-
-*   link: [A Basic Theory of Video Games](article/A%20Basic%20Theory%20of%20Video%20Games.md) (May 2017)
-
-### Perspective on Text Adventures
-
-*   link: [Perspective on Text Adventures](article/Perspective%20on%20Text%20Adventures.md) (Aug 2017)
-
-Art
----
-
-### Overview of a Story Compiler
-
-*   link: [Overview of a Story Compiler](https://git.catseye.tc/MARYSUE/blob/master/doc/Overview%20of%20a%20Story%20Compiler.md) (NaNoGenMo 2015)
-*   external: true
-
-### Some Notes on Drawing
-
-*   link: [Some Notes on Drawing](article/Some%20Notes%20on%20Drawing.md) (Oct 2017)
 
 ### 20th-Century Visual Artists of Note
 
-*   link: [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md) (7)
-*   under-construction: true
+*   link: [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md)
+*   item-count: 7
 
 Further Information
 -------------------
