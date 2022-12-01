@@ -108,6 +108,12 @@ Writing about code, where the writing is primary and the code is generally merel
 *   publish-date: May 2022
 *   external: true
 
+### LCF-style Natural Deduction
+
+*   link: [LCF-style Natural Deduction](https://github.com/cpressey/LCF-style-ND#readme)
+*   publish-date: Jun 2022
+*   external: true
+
 Lists
 -----
 
@@ -132,12 +138,19 @@ Lists
 *   link: [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md)
 *   item-count: 7
 
+### Some Papers I Really Liked
+
+*   link: [Some Papers I Really Liked](https://github.com/cpressey/Some-Papers-I-Really-Liked)
+*   item-count: many
+*   external: true
+
 Further Information
 -------------------
 
-This is complicated by the fact that said writings may be writings
-per se, such as articles, or may be writings in support of some
-other thing, such as programming language specifications.
+The collection of these writings is complicated by the fact
+that some may be writings per se, such as articles, while others
+may be writings in support of some other thing, such as
+programming language specifications.
 
 These entries are written in
 [Feedmark][] format, so in a pinch they can be read directly in a Markdown
@@ -150,8 +163,8 @@ Articles with a published-date are "frozen" and are not expected to be changed
 
 ### A Note on Items "of Note"
 
-Many of the articles in The Dossier are lists of items "of note".  This short note
-attempts to define what that means.
+Some of the articles in The Dossier are lists of items "of note".  This section
+attempts to give some guidance on what that means.
 
 An item "of note" is not necesarily considered a "favourite" or "best" or "recommended"
 thing — in fact, sometimes it is quite the opposite case.  It's more that it is something
