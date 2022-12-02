@@ -74,7 +74,7 @@ Interviews
 Expositions
 -----------
 
-Writing about code, where the writing is primary and the code is generally merely illustrative.
+_Writing about code, where the writing is primary and the code is generally merely illustrative._
 
 ### Bootstrap Zero
 
@@ -131,6 +131,24 @@ Lists
 
 *   link: [20th-Century Visual Artists of Note](article/20th-Century%20Visual%20Artists%20of%20Note.md)
 *   item-count: 7
+
+Documentation
+-------------
+
+_Writing about code, where the code is arguably the main thing and the writing is in support of it;_
+_but for those cases when the writing is nonetheless playing a significant part or could stand alone._
+
+### The Quylthulg Programming Language
+
+*   link: [The Quylthulg Programming Language](https://github.com/catseye/Quylthulg#readme)
+
+### The Larabee Programming Language
+
+*   link: [The Larabee Programming Language](https://github.com/catseye/Larabee#readme)
+
+### Specs on Spec
+
+*   link: [Specs on Spec](https://github.com/catseye/Specs-on-Spec#readme)
 
 Further Information
 -------------------
