@@ -1,16 +1,11 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 
 import json
-import os
 import re
 import subprocess
 import sys
-try:
-    from urllib import quote
-except ImportError:
-    from urllib.parse import quote
-assert quote
+from urllib.parse import quote
 
 
 def generate_toc_line(document):
@@ -50,7 +45,9 @@ def generate_toc_line(document):
 def output_toc(heading, filenames):
     sys.stdout.write('{}\n\n'.format(heading))
     filenames = ['article/' + filename for filename in filenames]
-    data = json.loads(subprocess.check_output(["feedmark", "--output-json"] + filenames))
+    data = json.loads(
+        subprocess.check_output(["feedmark", "--output-json"] + filenames)
+    )
     for document in data['documents']:
         line = generate_toc_line(document)
         sys.stdout.write(line)

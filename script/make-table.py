@@ -1,26 +1,14 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 
-import json
-import os
-import re
-import subprocess
 import sys
-try:
-    from urllib import quote
-except ImportError:
-    from urllib.parse import quote
-assert quote
 
-from feedmark.checkers import Schema
-from feedmark.formats.markdown import feedmark_markdownize
-from feedmark.loader import read_document_from, read_refdex_from
+from feedmark.loader import read_document_from
 
 
 def main(args):
     articles_doc = read_document_from('README.md')
-    articles_data = articles_doc.to_json_data()
-    # print(json.dumps(articles_data, indent=4))
+    # print(json.dumps(articles_doc.to_json_data(), indent=4))
 
     print("Link | Published on | Subjects |")
     print("-----|--------------|----------|")
@@ -36,6 +24,7 @@ def main(args):
                 properties.get("subjects", ""),
             )
         )
+
 
 if __name__ == '__main__':
     main(sys.argv)

@@ -1,20 +1,23 @@
 #!/usr/bin/env python3
 
 # Invoke like the following, rewrites the file in-place:
-# PYTHONPATH=../Feedmark/src ./script/rewrite-images.py article/Some\ Modern\ Retrogames.md
+# PYTHONPATH=../Feedmark/src \
+#   ./script/rewrite-images.py article/Some\ Modern\ Retrogames.md
 
 from argparse import ArgumentParser
 import json
 import sys
-try:
-    from urllib import unquote, quote_plus
-except ImportError:
-    from urllib.parse import unquote, quote_plus
-assert unquote and quote_plus
+from urllib.parse import quote_plus
 
 from feedmark.checkers import Schema
 from feedmark.loader import read_document_from
 from feedmark.formats.markdown import feedmark_markdownize
+
+
+CATSEYE_SITES = (
+    'http://catseye.tc', 'https://catseye.tc',
+    'http://static.catseye.tc', 'https://static.catseye.tc',
+)
 
 
 def url_to_dirname_and_filename(url):
@@ -56,11 +59,14 @@ def main(args):
         for section in document.sections:
             new_images = []
             for alt_text, url in section.images:
-                if url.startswith(('http://catseye.tc', 'https://catseye.tc', 'http://static.catseye.tc', 'https://static.catseye.tc',)):
+                if url.startswith(CATSEYE_SITES):
                     rewritten_url = url
                 else:
                     dirname, filename = url_to_dirname_and_filename(url)
-                    rewritten_url = 'https://static.catseye.tc/archive/{}/{}'.format(dirname, quote_plus(filename))
+                    rewritten_url = 'https://{}/archive/{}/{}'.format(
+                        "static.catseye.tc",
+                        dirname, quote_plus(filename)
+                    )
                 new_images.append((alt_text, rewritten_url))
             section.images = new_images
         s = feedmark_markdownize(document, schema=schema)
