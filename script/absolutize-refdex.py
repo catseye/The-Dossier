@@ -2,7 +2,11 @@
 
 import json
 import sys
-from urllib.parse import quote
+try:
+    from urllib import quote
+except ImportError:
+    from urllib.parse import quote
+assert quote
 
 with open(sys.argv[1], 'r') as f:
     data = json.loads(f.read())

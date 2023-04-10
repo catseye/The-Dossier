@@ -6,12 +6,16 @@ import os
 import re
 import subprocess
 import sys
-import urllib
+try:
+    from urllib import quote
+except ImportError:
+    from urllib.parse import quote
+assert quote
 
 
 def generate_toc_line(document):
     title = document['title']
-    filename = urllib.quote(document['filename'])
+    filename = quote(document['filename'])
     sections = document.get('sections', [])
     properties = document.get('properties', {})
 
