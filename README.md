@@ -125,7 +125,7 @@ Lists
 
 ### Some Games of Note
 
-*   link: [Some Games of Note](https://github.com/cpressey/Some-Games-of-Note)
+*   link: [Some Games of Note](https://codeberg.org/cpressey/Some-Games-of-Note#some-games-of-note)
 *   item-count: many
 *   external: true
 
@@ -148,15 +148,15 @@ _but for those cases when the writing is nonetheless playing a significant part 
 
 ### The Quylthulg Programming Language
 
-*   link: [The Quylthulg Programming Language](https://github.com/catseye/Quylthulg#readme)
+*   link: [The Quylthulg Programming Language](https://codeberg.org/catseye/Quylthulg#the-quylthulg-programming-language)
 
 ### The Larabee Programming Language
 
-*   link: [The Larabee Programming Language](https://github.com/catseye/Larabee#readme)
+*   link: [The Larabee Programming Language](https://codeberg.org/catseye/Larabee#the-larabee-programming-language)
 
 ### Specs on Spec
 
-*   link: [Specs on Spec](https://github.com/catseye/Specs-on-Spec#readme)
+*   link: [Specs on Spec](https://codeberg.org/catseye/Specs-on-Spec#specs-on-spec)
 
 Further Information
 -------------------

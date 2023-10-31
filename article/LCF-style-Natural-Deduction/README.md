@@ -1,9 +1,9 @@
-LCF-style ND
-============
+LCF-style Natural Deduction
+===========================
 
 _See also:_ [Philomath](https://github.com/catseye/Philomath#readme)
-∘ [Destructorizers](https://github.com/cpressey/Destructorizers#readme)
-∘ [Nested Modal Transducers](https://github.com/cpressey/Nested-Modal-Transducers#readme)
+∘ [Destructorizers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Destructorizers/README.md)
+∘ [Nested Modal Transducers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Nested-Modal-Transducers/README.md)
 
 - - - -
 
