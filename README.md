@@ -102,9 +102,8 @@ _Writing about code, where the writing is primary and the code is generally mere
 
 ### Destructorizers
 
-*   link: [Destructorizers](https://github.com/cpressey/Destructorizers#readme)
+*   link: [Destructorizers](article/Destructorizers/README.md)
 *   publish-date: May 2022
-*   external: true
 
 ### LCF-style Natural Deduction
 
