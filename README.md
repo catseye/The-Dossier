@@ -107,9 +107,8 @@ _Writing about code, where the writing is primary and the code is generally mere
 
 ### LCF-style Natural Deduction
 
-*   link: [LCF-style Natural Deduction](https://github.com/cpressey/LCF-style-ND#readme)
+*   link: [LCF-style Natural Deduction](article/LCF-style-Natural-Deduction/README.md)
 *   publish-date: Jun 2022
-*   external: true
 
 Lists
 -----
