@@ -92,9 +92,8 @@ _Writing about code, where the writing is primary and the code is generally mere
 
 ### Nested Modal Transducers
 
-*   link: [Nested Modal Transducers](https://github.com/cpressey/Nested-Modal-Transducers#readme)
+*   link: [Nested Modal Transducers](article/Nested-Modal-Transducers/README.md)
 *   publish-date: Sep 2019
-*   external: true
 
 ### Information Hiding in Scheme
 
