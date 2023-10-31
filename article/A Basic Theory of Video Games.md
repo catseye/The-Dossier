@@ -243,9 +243,9 @@ states can be combined and implemented, and even listing the most common
 patterns would probably be outside the scope of this article.
 
 But as a concrete example, here is the diagram of a nested state machine describing
-the _Asteroids_-like game [Cosmos Boulders](https://github.com/catseye/Cosmos-Boulders):
+the _Asteroids_-like game [Cosmos Boulders](https://codeberg.org/catseye/Cosmos-Boulders):
 
-![State machine diagram for the game "Cosmos Boulders"](https://raw.githubusercontent.com/catseye/Cosmos-Boulders/master/images/state-machine-diagram.png)
+![State machine diagram for the game "Cosmos Boulders"](https://codeberg.org/catseye/Cosmos-Boulders/media/branch/master/images/state-machine-diagram.png?raw=true)
 
 And here's a rough description of how the state logic in the above
 diagram might be coded inside the video-updating loop we talked about in
