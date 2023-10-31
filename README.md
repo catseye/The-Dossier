@@ -97,9 +97,8 @@ _Writing about code, where the writing is primary and the code is generally mere
 
 ### Information Hiding in Scheme
 
-*   link: [Information Hiding in Scheme](https://github.com/cpressey/Information-Hiding-in-Scheme#readme)
+*   link: [Information Hiding in Scheme](article/Information-Hiding-in-Scheme/README.md)
 *   publish-date: May 2021
-*   external: true
 
 ### Destructorizers
 
