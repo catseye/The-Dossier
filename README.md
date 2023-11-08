@@ -110,6 +110,11 @@ _Writing about code, where the writing is primary and the code is generally mere
 *   link: [LCF-style Natural Deduction](article/LCF-style-Natural-Deduction/README.md)
 *   publish-date: Jun 2022
 
+### Ahead-of-Time `eval`
+
+*   link: [Ahead-of-Time `eval`](article/Ahead-of-Time-eval/README.md)
+*   publish-date: Aug 2023
+
 Lists
 -----
 
