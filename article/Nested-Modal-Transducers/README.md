@@ -1,9 +1,9 @@
 Nested Modal Transducers
 ========================
 
-_See also:_ [Cosmos Boulders](https://github.com/catseye/Cosmos-Boulders#readme)
-∘ [Rux Rolli](https://github.com/catseye/Rux-Rolli#readme)
-∘ [Destructorizers](https://github.com/cpressey/Destructorizers#readme)
+_See also:_ [Cosmos Boulders](https://codeberg.org/catseye/Cosmos-Boulders#cosmos-boulders)
+∘ [Rux Rolli](https://codeberg.org/catseye/Rux-Rolli#rux-rolli)
+∘ [Destructorizers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Destructorizers/)
 
 - - - -
 

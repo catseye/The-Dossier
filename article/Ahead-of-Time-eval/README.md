@@ -442,4 +442,4 @@ See, for example, the answers to the question
 [What are staged functions (conceptually)?](https://cs.stackexchange.com/questions/2869)
 on the Computer Science StackExchange.
 
-[Durito]: https://github.com/cpressey/Durito
+[Durito]: https://codeberg.org/cpressey/Durito

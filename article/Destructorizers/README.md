@@ -1,9 +1,9 @@
 Destructorizers
 ===============
 
-_See also:_ [Lariat](https://github.com/catseye/Lariat#readme)
-∘ [LCF-style-ND](https://github.com/cpressey/LCF-style-ND#readme)
-∘ [Nested Modal Transducers](https://github.com/cpressey/Nested-Modal-Transducers#readme)
+_See also:_ [Lariat](https://codeberg.org/catseye/Lariat#lariat)
+∘ [LCF-style-Natural-Deduction](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/LCF-style-Natural-Deduction/)
+∘ [Nested Modal Transducers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Nested-Modal-Transducers/)
 
 - - - -
 

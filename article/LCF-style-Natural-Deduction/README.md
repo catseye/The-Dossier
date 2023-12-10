@@ -1,7 +1,7 @@
 LCF-style Natural Deduction
 ===========================
 
-_See also:_ [Philomath](https://github.com/catseye/Philomath#readme)
+_See also:_ [Philomath](https://codeberg.org/catseye/Philomath#philomath)
 ∘ [Destructorizers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Destructorizers/README.md)
 ∘ [Nested Modal Transducers](https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Nested-Modal-Transducers/README.md)
 
@@ -18,7 +18,7 @@ pseudo-code, and concludes with a handful of further observations.
 
 This article contains only pseudo-code; for implementations of these
 ideas in real programming languages, have a look at projects
-such as [**Philomath**](https://github.com/catseye/philomath) (in ANSI C).
+such as [**Philomath**](https://codeberg.org/catseye/Philomath) (in ANSI C).
 
 ### Table of Contents
 
@@ -600,7 +600,7 @@ tactics) in the host language.
 [The IEP article on Natural Deduction]: https://iep.utm.edu/nat-ded/
 [Parse, don't Validate]: https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
 [Logic in Computer Science]: https://archive.org/details/logicincomputers0000huth
-[Information Hiding in Scheme]: https://github.com/cpressey/Information-Hiding-in-Scheme
-[employ some contortions to achieve encapsulation]: https://github.com/cpressey/Information-Hiding-in-Scheme
+[Information Hiding in Scheme]: https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Information-Hiding-in-Scheme/
+[employ some contortions to achieve encapsulation]: https://codeberg.org/catseye/The-Dossier/src/branch/master/article/Information-Hiding-in-Scheme/
 [The LCF Approach to Theorem Proving]: https://www.cl.cam.ac.uk/~jrh13/slides/manchester-12sep01/slides.pdf
 [defunctionalization]: https://en.wikipedia.org/wiki/Defunctionalization
