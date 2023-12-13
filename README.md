@@ -141,9 +141,8 @@ Lists
 
 ### Some Papers I Really Liked
 
-*   link: [Some Papers I Really Liked](https://github.com/cpressey/Some-Papers-I-Really-Liked)
+*   link: [Some Papers I Really Liked](article/Some-Papers-I-Really-Liked/README.md)
 *   item-count: many
-*   external: true
 
 Documentation
 -------------
